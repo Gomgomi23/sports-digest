@@ -17,6 +17,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install dependencies
+        run: pip install requests
+
       - name: Collect news and update dashboard
         run: python scripts/update_news.py
 
