@@ -45,6 +45,10 @@ def fetch_google_news(query, category, max_items=4):
             title_raw = item.findtext("title", "").strip()
             link      = item.findtext("link", "").strip()
             pub_date  = item.findtext("pubDate", "")
+            # RSS description 텍스트 추출 (HTML 태그 제거)
+            desc_raw  = item.findtext("description", "")
+            desc_text = re.sub(r"<[^>]+>", "", desc_raw).strip()
+            desc_text = html_lib.unescape(desc_text)
 
             if " - " in title_raw:
                 title, source = title_raw.rsplit(" - ", 1)
@@ -62,7 +66,7 @@ def fetch_google_news(query, category, max_items=4):
                     "title":    title,
                     "url":      link,
                     "source":   source,
-                    "summary":  "",
+                    "summary":  desc_text if len(desc_text) > 20 else "",
                     "category": category,
                     "date":     date_str,
                 })
@@ -71,32 +75,48 @@ def fetch_google_news(query, category, max_items=4):
     return articles
 
 
-def extract_meta(html, *names):
-    """property 또는 name 기준으로 <meta> content 값을 추출."""
-    for name in names:
-        for pattern in [
-            rf'<meta\b[^>]*\bproperty\s*=\s*["\']{re.escape(name)}["\'][^>]*\bcontent\s*=\s*"([^"]*)"',
-            rf'<meta\b[^>]*\bcontent\s*=\s*"([^"]*)"\s[^>]*\bproperty\s*=\s*["\']{re.escape(name)}["\']',
-            rf'<meta\b[^>]*\bproperty\s*=\s*["\']{re.escape(name)}["\'][^>]*\bcontent\s*=\s*\'([^\']*)\'',
-            rf'<meta\b[^>]*\bname\s*=\s*["\']{re.escape(name)}["\'][^>]*\bcontent\s*=\s*"([^"]*)"',
-            rf'<meta\b[^>]*\bcontent\s*=\s*"([^"]*)"\s[^>]*\bname\s*=\s*["\']{re.escape(name)}["\']',
-        ]:
-            m = re.search(pattern, html, re.IGNORECASE)
-            if m:
-                text = html_lib.unescape(m.group(1)).strip()
-                if len(text) > 20:
-                    return text[:300]
-    return ""
-
-
-def fetch_summary(url):
-    """기사 URL에서 og:description 또는 meta description 추출."""
+def fetch_summary_from_url(url):
+    """기사 URL에서 og:description / meta description 추출."""
     try:
         resp = SESSION.get(url, timeout=8, allow_redirects=True)
+        final_url = resp.url
         html = resp.text[:65536]
-        return extract_meta(html, "og:description", "description", "twitter:description")
-    except Exception:
-        return ""
+
+        # 최초 3건만 디버그 출력
+        if getattr(fetch_summary_from_url, "_debug_count", 0) < 3:
+            fetch_summary_from_url._debug_count = getattr(fetch_summary_from_url, "_debug_count", 0) + 1
+            print(f"    [DEBUG] final_url: {final_url[:80]}")
+            og = re.search(r'property=["\']og:description["\']', html, re.IGNORECASE)
+            print(f"    [DEBUG] og:description tag found: {bool(og)}")
+
+        patterns = [
+            r'<meta\b[^>]*\bproperty\s*=\s*"og:description"\s*[^>]*\bcontent\s*=\s*"([^"]{20,})"',
+            r'<meta\b[^>]*\bcontent\s*=\s*"([^"]{20,})"\s*[^>]*\bproperty\s*=\s*"og:description"',
+            r"<meta\b[^>]*\bproperty\s*=\s*'og:description'\s*[^>]*\bcontent\s*=\s*'([^']{20,})'",
+            r'<meta\b[^>]*\bname\s*=\s*"description"\s*[^>]*\bcontent\s*=\s*"([^"]{20,})"',
+            r'<meta\b[^>]*\bcontent\s*=\s*"([^"]{20,})"\s*[^>]*\bname\s*=\s*"description"',
+            r'<meta\b[^>]*\bname\s*=\s*"twitter:description"\s*[^>]*\bcontent\s*=\s*"([^"]{20,})"',
+        ]
+        for pattern in patterns:
+            m = re.search(pattern, html, re.IGNORECASE)
+            if m:
+                return html_lib.unescape(m.group(1)).strip()[:300]
+
+        # JSON-LD fallback
+        ld = re.search(r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>', html, re.DOTALL | re.IGNORECASE)
+        if ld:
+            try:
+                data = json.loads(ld.group(1))
+                if isinstance(data, list):
+                    data = data[0]
+                desc = data.get("description", "")
+                if desc and len(desc) > 20:
+                    return desc[:300]
+            except Exception:
+                pass
+    except Exception as e:
+        pass
+    return ""
 
 
 # ── 뉴스 수집 ──────────────────────────────────────────────
@@ -111,12 +131,13 @@ for query, category in KEYWORDS:
 
 all_articles.sort(key=lambda x: x["date"], reverse=True)
 
-# ── 요약 추출 ──────────────────────────────────────────────
-print(f"기사 {len(all_articles)}건 수집 완료. 요약 추출 중...")
+# ── 요약 보강 (RSS desc가 없는 기사만 URL fetch) ────────────
+print(f"기사 {len(all_articles)}건 수집 완료. 요약 보강 중...")
 for i, article in enumerate(all_articles):
-    summary = fetch_summary(article["url"])
-    article["summary"] = summary
-    print(f"  [{i+1:02d}/{len(all_articles)}] {'OK  ' if summary else '없음'} — {article['title'][:40]}")
+    if not article["summary"]:
+        article["summary"] = fetch_summary_from_url(article["url"])
+    status = "OK  " if article["summary"] else "없음"
+    print(f"  [{i+1:02d}/{len(all_articles)}] {status} — {article['title'][:40]}")
 
 # ── 저장 ──────────────────────────────────────────────────
 news_data = {
@@ -128,4 +149,4 @@ with open("data/news.json", "w", encoding="utf-8") as f:
     json.dump(news_data, f, ensure_ascii=False, indent=2)
 
 filled = sum(1 for a in all_articles if a["summary"])
-print(f"\n완료: {len(all_articles)}건 저장 (요약 {filled}건)")
+print(f"\n완료: {len(all_articles)}건 저장 (요약 {filled}/{len(all_articles)}건)")
