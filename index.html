@@ -15,7 +15,16 @@
           <h1 class="text-xl font-bold text-gray-900">스포츠 산업 뉴스 브리핑</h1>
           <p id="updated-at" class="text-xs text-gray-400 mt-0.5"></p>
         </div>
-        <span id="article-count" class="text-sm text-gray-400"></span>
+        <div class="flex items-center gap-3">
+          <span id="article-count" class="text-sm text-gray-400"></span>
+          <span id="sync-status" class="hidden text-xs text-blue-500 flex items-center gap-1">
+            <svg class="w-3 h-3 animate-spin" fill="none" viewBox="0 0 24 24">
+              <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"/>
+              <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z"/>
+            </svg>
+            업데이트 중
+          </span>
+        </div>
       </div>
       <div class="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1">
         <button onclick="filterCategory('전체')" data-cat="전체"
@@ -73,22 +82,40 @@
     };
 
     let allArticles = [];
+    let lastUpdatedAt = '';
+    let currentCategory = '전체';
+    const POLL_INTERVAL = 5 * 60 * 1000; // 5분
 
-    async function loadNews() {
+    async function loadNews(silent = false) {
+      if (!silent) {
+        const status = document.getElementById('sync-status');
+        status.classList.remove('hidden');
+      }
       try {
         const res = await fetch('data/news.json?t=' + Date.now());
         if (!res.ok) throw new Error();
         const data = await res.json();
-        allArticles = data.articles || [];
-        const updatedAt = document.getElementById('updated-at');
-        if (data.updated_at) updatedAt.textContent = '마지막 업데이트: ' + data.updated_at;
-        render(allArticles);
+
+        const isNew = data.updated_at && data.updated_at !== lastUpdatedAt;
+        if (isNew || !silent) {
+          lastUpdatedAt = data.updated_at || '';
+          allArticles = data.articles || [];
+          const updatedAt = document.getElementById('updated-at');
+          if (data.updated_at) updatedAt.textContent = '마지막 업데이트: ' + data.updated_at;
+          render(currentCategory === '전체' ? allArticles : allArticles.filter(a => a.category === currentCategory));
+        }
       } catch {
-        showEmpty();
+        if (!silent) showEmpty();
+      } finally {
+        document.getElementById('sync-status').classList.add('hidden');
       }
     }
 
+    // 5분마다 조용히 폴링 — 새 데이터 있으면 자동 반영
+    setInterval(() => loadNews(true), POLL_INTERVAL);
+
     function filterCategory(cat) {
+      currentCategory = cat;
       document.querySelectorAll('.tab').forEach(btn => {
         const isActive = btn.dataset.cat === cat;
         btn.classList.toggle('bg-blue-600', isActive);
