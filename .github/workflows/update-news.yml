@@ -1,0 +1,29 @@
+name: Update News Dashboard
+
+on:
+  schedule:
+    - cron: '0 23 * * *'  # 매일 오전 8시 KST
+  workflow_dispatch:       # 수동 실행 허용
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Collect news and update dashboard
+        run: python scripts/update_news.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          git diff --staged --quiet || git commit -m "Update news $(date +%Y-%m-%d)"
+          git push
