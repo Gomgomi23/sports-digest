@@ -1,1 +1,53 @@
-{"updated_at":"PAT test","articles":[]}
+{
+  "updated_at": "2026-06-29 13:50 (KST)",
+  "articles": [
+    {
+      "title": "쿠팡플레이, K리그 중계권 3년 연장 계약 체결",
+      "url": "https://example.com/article1",
+      "source": "스포츠조선",
+      "summary": "쿠팡플레이가 한국프로축구연맹과 K리그 온라인 독점 중계권 계약을 3년 추가 연장했다. 계약 규모는 연간 150억원 수준으로 알려졌다.",
+      "category": "스포츠 중계권",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "DAZN, 아시아 시장 공략 위해 한국 법인 설립 검토",
+      "url": "https://example.com/article2",
+      "source": "매일경제",
+      "summary": "글로벌 스포츠 OTT DAZN이 한국 시장 직접 진출을 위해 법인 설립을 검토 중이다. 국내 스포츠 콘텐츠 수요 증가에 대응하기 위한 전략으로 풀이된다.",
+      "category": "스포츠 OTT",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "스포츠 데이터 분석 스타트업 '스탯케이', 시리즈A 50억 유치",
+      "url": "https://example.com/article3",
+      "source": "벤처스퀘어",
+      "summary": "국내 스포츠 데이터 분석 스타트업 스탯케이가 시리즈A 투자 라운드에서 50억원을 유치했다. KBO·K리그 구단 대상 선수 퍼포먼스 분석 솔루션을 제공한다.",
+      "category": "스포츠 스타트업",
+      "date": "2026-06-28"
+    },
+    {
+      "title": "NBA, AI 기반 실시간 심판 보조 시스템 2027시즌 도입 확정",
+      "url": "https://example.com/article4",
+      "source": "ESPN",
+      "summary": "NBA가 AI 기반 심판 보조 시스템을 2027-28시즌부터 전 경기에 도입하기로 확정했다. 파울·아웃 판정 정확도를 높이는 데 초점을 맞추고 있다.",
+      "category": "스포츠 기술",
+      "date": "2026-06-28"
+    },
+    {
+      "title": "FIFA, 월드컵 선수 부상 예측 데이터 플랫폼 파트너십 발표",
+      "url": "https://example.com/article5",
+      "source": "Reuters",
+      "summary": "FIFA가 선수 부상 예측 AI 플랫폼 업체와 공식 파트너십을 체결했다. 2026 월드컵에서 전 팀 대상으로 실시간 부상 위험도 데이터를 제공할 예정이다.",
+      "category": "스포츠 데이터",
+      "date": "2026-06-27"
+    },
+    {
+      "title": "메타, VR 스포츠 관람 서비스 'Horizon Sports' 베타 출시",
+      "url": "https://example.com/article6",
+      "source": "The Verge",
+      "summary": "메타가 Quest 헤드셋용 VR 스포츠 관람 서비스 Horizon Sports를 미국에서 베타 출시했다. NFL·NBA 경기를 가상 스타디움에서 친구들과 함께 시청할 수 있다.",
+      "category": "스포츠 VR/AR",
+      "date": "2026-06-27"
+    }
+  ]
+}
