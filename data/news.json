@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30 19:44 (KST)",
+  "updated_at": "2026-07-01 02:31 (KST)",
   "articles": [
     {
       "title": "경과원, '경기 스타트업 서밋'서 60건 투자매칭 성사",
@@ -7,14 +7,6 @@
       "source": "네이트",
       "summary": "경과원, '경기 스타트업 서밋'서 60건 투자매칭 성사  네이트",
       "category": "스포츠 스타트업",
-      "date": "2026-06-30"
-    },
-    {
-      "title": "[인터뷰] 품애 김영준 대표 “나만의 수영 데이터로, 수영 효율 개선에 도움\"",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11dnJVVnZwbjVGRW5lMkptV3FHZEZLVVRhZ2FBclZxb0hMUDVucnFyU1ZkV2YtU1JDSEplTkJOU3VhRWEzX3l0TUY4LVVCT3ZlckMzQ3gwRXExdlZqcXB2ZnhKeDFpelZpeUEtTw?oc=5",
-      "source": "바이오타임즈",
-      "summary": "[인터뷰] 품애 김영준 대표 “나만의 수영 데이터로, 수영 효율 개선에 도움\"  바이오타임즈",
-      "category": "스포츠 데이터",
       "date": "2026-06-30"
     },
     {
@@ -64,14 +56,6 @@
       "summary": "South Korea Crashes Out of the World Cup... Is Bankrupt JTBC Facing Billions in Losses?  최보식의언론",
       "category": "스포츠 중계권",
       "date": "2026-06-28"
-    },
-    {
-      "title": "[스포츠머그] \"데이터 분석했지만 뚜렷한 이유는…\" 남아공전 충격패 다음 날 홍명보 감독 기자회견",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpalJrSWFycEdIX1NZSElmNXUxa1diM0s4S2ZiWDNQY21fTkVnX2toVTBzWXNQTXVOamRTdnNFX05hVTNnZDlybU1nVlJ5dW8?oc=5",
-      "source": "v.daum.net",
-      "summary": "[스포츠머그] \"데이터 분석했지만 뚜렷한 이유는…\" 남아공전 충격패 다음 날 홍명보 감독 기자회견  v.daum.net",
-      "category": "스포츠 데이터",
-      "date": "2026-06-26"
     },
     {
       "title": "Byeon Woo-seok tops Lim Young-woong and Son Heung-min",
@@ -154,10 +138,18 @@
       "date": "2026-06-11"
     },
     {
+      "title": "데이터가 스포츠를 바꾼다",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHdnNnItWlhIY1A4Y2R0XzAtbUxqdkc4dVdkZmxIUm5GT3hHQlRsSmZ0V0pJX2U4dDlHa1VOcjl3amFUZVNJY1FZVllocW5VQ2JZS0ZWby13QWExdERxOGhySDZmenJ1WEVGd29aeF94dlc4eG8tcEcxSHVhdU1Mc0EtSTFBNzJ4QWNqQW9ZOEpoMnFPSHpkbWVmbVFPOERtQjlBYXdBNjJ1cnBqbDBkN2ctYlFwSXpoQmc?oc=5",
+      "source": "KDI 경제교육",
+      "summary": "데이터가 스포츠를 바꾼다  KDI 경제교육",
+      "category": "스포츠 데이터",
+      "date": "2026-06-09"
+    },
+    {
       "title": "언에이아이, 스포츠 중계 시장 AI 전환 본격화…국민체육진흥공단 지원사업 선정",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZQzMxVlQxZWhuWGhpaVhGaVJabGY3ZFFOYmRwU0M1RXY0QlZZekhueHAxVUhJSUFuLWdwb0trUGVKb01yWmtSQkpwZ0d6Y0Z3eXFZZGJuNDkycFpLaEJld0tOamMyTWhz0gFsQVVfeXFMT3pnc0RRUnZNdWhBdVlpMTFPRTRxd09TcUMyX0ZLNDI0WC1FTjVfT3lUVWZQaXVhR3U0Ri0ycm5KV0s2U0EtUHI1c1lHLUhTUXdxVWVzdGg1aVl4emQxRG5VSWxmSlFVV21CM0dn?oc=5",
-      "source": "스타트업엔(StartupN)",
-      "summary": "언에이아이, 스포츠 중계 시장 AI 전환 본격화…국민체육진흥공단 지원사업 선정  스타트업엔(StartupN)",
+      "source": "스타트업엔",
+      "summary": "언에이아이, 스포츠 중계 시장 AI 전환 본격화…국민체육진흥공단 지원사업 선정  스타트업엔",
       "category": "스포츠 기술",
       "date": "2026-06-09"
     },
@@ -176,6 +168,14 @@
       "summary": "LG 스포츠 분석 TV, 韓 출시 불발  전자신문",
       "category": "스포츠 중계권",
       "date": "2026-05-31"
+    },
+    {
+      "title": "\"축구도 특허·상표 전쟁\"... EUIPO, 스포츠를 경기 아닌 ‘IP 산업’으로 재정의했다",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iZjg0aHowMXhtVnZnOGhobTVMMURTbGpiNTZmS19FQ3FrQk12ZHpmSWpUb1BFMXVNZ3J4d0xWZGhTRVh6a0pKdjFiQllZZ0Z6b0ItWlVB?oc=5",
+      "source": "특허뉴스",
+      "summary": "\"축구도 특허·상표 전쟁\"... EUIPO, 스포츠를 경기 아닌 ‘IP 산업’으로 재정의했다  특허뉴스",
+      "category": "스포츠 기술",
+      "date": "2026-05-22"
     },
     {
       "title": "‘각본 없는 드라마’를 잡아라…OTT ‘스포츠 쟁탈전’의 진짜 속내",
@@ -202,6 +202,14 @@
       "date": "2026-04-26"
     },
     {
+      "title": "“축구 전략도 AI 데이터 분석으로”…스포츠업계 화두된 ‘데이터 분석’",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4bjlGZWRLeEVKOWRXbTZ3aldQVEg2cURyUHRVM0tmRjdRMHBMQkZ2Qktqb29uZzNtNVBKOFF6T2E5RFNaNVFvSDNvbGhSYWs?oc=5",
+      "source": "v.daum.net",
+      "summary": "“축구 전략도 AI 데이터 분석으로”…스포츠업계 화두된 ‘데이터 분석’  v.daum.net",
+      "category": "스포츠 데이터",
+      "date": "2026-04-15"
+    },
+    {
       "title": "OTT의 ‘라이브 스트리밍’ 확장 속…‘시청 접근권’ 도마에",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vc281Y29ZNFJfUTlaQ2lOR21EczBEQ29xN0VuVmpLNloybkVNM0dNTXhFQjZpMVk3VjFEMThNUi1PU2p0WVE4TFhZVWV1WVRVRXlWQV92a3pCQdIBX0FVX3lxTE95cUtSQjIxQ3c3dG5EcENyRjAwWGJLX2c0TUJ5ZjBmcEhsLWZFbVZ6SXlRVVNzemRPczl3M1NhOUsyZjYzMS1LS1BuSHJvNmItczhYeFZvZHZFb0V0YklB?oc=5",
       "source": "경향신문",
@@ -211,35 +219,11 @@
     },
     {
       "title": "속초 ICT스포츠 체험관, 새 단장 마치고 23일 재개관 ··· 가상현실(VR)·증강현실(AR) 한 단계 UP",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56Ty02ZmF5WVhhN0pXOWx4ajR0dnFGNXZrVEVfb0h1R055d1BDZDFDN3g1UmZPOFJ0ZTZuLW4zS1JXOGoxa2l4TTlWZTFxeGpRU1FWVmZrWURhMVRpeHowS0tSM01SUWFTcVpaME9KRUlVWEVVd2xFRTlR0gF_QVVfeXFMTzhseVJndTBXSkprYUFhalBvVERmb3F2am4zcjlWTjhfRmpjcmlfeHhnZ2ZxQ1NsNDlKcDcycW5INDdySTRiLWx0Q3ZETGFBeF9vemtuUFdaV3NrbDR3QzNfM3ZzSDB2NF9KR1c1aWdWd3RkRnd1cUZrY3hpdVJpaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56Ty02ZmF5WVhhN0pXOWx4ajR0dnFGNXZrVEVfb0h1R055d1BDZDFDN3g1UmZPOFJ0ZTZuLW4zS1JXOGoxa2l4TTlWZTFxeGpRU1FWVmZrWURhMVRpeHowS0tSM01SUWFTcVpaME9KRUlVWEVVd2xFRTlR?oc=5",
       "source": "뉴데일리",
       "summary": "속초 ICT스포츠 체험관, 새 단장 마치고 23일 재개관 ··· 가상현실(VR)·증강현실(AR) 한 단계 UP  뉴데일리",
       "category": "스포츠 VR/AR",
       "date": "2026-03-18"
-    },
-    {
-      "title": "“JTBC exclusive coverage of the Olympics and World Cup is hoarding; the harshest punishment should be imposed”",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oS3Q0cE9sRXczZlpXTkdiYnM4VHA3RWFDU0t3Tnlzd3F0N1FlS1h3QXpxbWxObjZZN2pGMHJJV1BWWXhkZkkyUEVYVXBtdXVXRm9tTUU4MGdYeHY3TldEY2lR?oc=5",
-      "source": "스포츠경향",
-      "summary": "“JTBC exclusive coverage of the Olympics and World Cup is hoarding; the harshest punishment should be imposed”  스포츠경향",
-      "category": "스포츠 중계권",
-      "date": "2026-03-07"
-    },
-    {
-      "title": "K-콘텐츠 기술혁신 스포츠·관광 인공지능 전환 가속... 콘진원, 26년 문화체육관광 연구개발 102.75억원 신규과제 공모",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LSnR6OTN4R3JRUzlwQ1pWeDljZGRRRVpjbTlqQU01cE9KdGdsTC1LWkc5ZW15dEVNcV9Qd0hscXFDTU1wWndaOTJnZllYQVNmOGVyMUdxM3BnQklSRFBKdUtOZ3d5a1NHY0d5dTRub9IBc0FVX3lxTE9HQkI5UTJMa08xczE3ek9OX3lVR3Y4dC1xUGQ0QS1naEhuUkRLUnk5ZkIyM1NEWExQSE45RGlxUzdYNG1lc0s3WjF1eFV1RHBoa1pOcXJCV1FxYUUxU2NOOFFCSURWMHZfeHkxeEZKdFM3Sjg?oc=5",
-      "source": "뉴스워커",
-      "summary": "K-콘텐츠 기술혁신 스포츠·관광 인공지능 전환 가속... 콘진원, 26년 문화체육관광 연구개발 102.75억원 신규과제 공모  뉴스워커",
-      "category": "스포츠 기술",
-      "date": "2026-03-03"
-    },
-    {
-      "title": "오메가의 올림픽 타임키핑 100년, 기술 혁신과 스포츠 공정성 [더 하이엔드]",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RZ3N6c01VMWpPWkMzLVFzLUpvc2dRRllEbVdNYnl1NFNaMkVTdlpON3NlVEUtYmZuLUR1MDVwbS1HRGZ4UzJycE1WVVNaTnc?oc=5",
-      "source": "v.daum.net",
-      "summary": "오메가의 올림픽 타임키핑 100년, 기술 혁신과 스포츠 공정성 [더 하이엔드]  v.daum.net",
-      "category": "스포츠 기술",
-      "date": "2026-02-09"
     },
     {
       "title": "NetApp Data Platform Powers Data Operations for Super Bowl LX",
@@ -266,12 +250,12 @@
       "date": "2026-01-24"
     },
     {
-      "title": "아이씨유엑스알, 스포츠 게이미피게이션 기반 VR/AR 디지털 재활치료 어플리케이션 개발",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95dVE1cXBpYklxRUVNSWVENGlXbTlJUVA5LTl4ZGF5alBIVEVwWGdhUGxBOW9JaFo3NUxUcWV6Y3UzOU9hdm5WTlpvSjBYcUZpam9WajJhdzc?oc=5",
-      "source": "sportsseoul.com",
-      "summary": "아이씨유엑스알, 스포츠 게이미피게이션 기반 VR/AR 디지털 재활치료 어플리케이션 개발  sportsseoul.com",
-      "category": "스포츠 VR/AR",
-      "date": "2025-12-03"
+      "title": "Alongside Official Broadcasts, “Chat Commentary”…How People Watch Sports on OTT These Days",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5faEJTTDFuY09yZGFzZVpTdlU1NHFIS2s3cWlPMWlnaDM4TEptTGRnSE5QamJma1phdUtRVl9qVTRRV3d4c2VhQmlib0FFUWJkTWpoT3RPWFJqYzMyNXNWbzh3Zlh1My1pSWgwNmZFNHjSAXRBVV95cUxQMzBfSk1DWmxRWlZkYnBaSW10MDY0OUdLUFdJMmVHSzVOaWF0VjF6clE2cTVNMDBJQXZoaWtDQVNaeUNUUWlZXzFYWmJacjhydDlaNmRXMzkydXNmQVZ3bjF0V2U4QjhnZnNYOENEdEM5ZFk2aQ?oc=5",
+      "source": "IT조선",
+      "summary": "Alongside Official Broadcasts, “Chat Commentary”…How People Watch Sports on OTT These Days  IT조선",
+      "category": "스포츠 중계권",
+      "date": "2026-01-02"
     },
     {
       "title": "Genius Sports(GENI) - 스포츠 데이터 시장의 판도를 바꾸는 기술 혁신과 NFL-세리에 A 독점 계약으로 '슈퍼 사이클' 진입 예고",
@@ -368,6 +352,14 @@
       "summary": "한섬, 스포츠 콘텐츠 스타트업 ‘왁티’에 약 53억원 투자 - 조선비즈  Chosunbiz",
       "category": "스포츠 스타트업",
       "date": "2022-03-07"
+    },
+    {
+      "title": "e스포츠 다음 시대 여는 열쇠 ‘VR-AR’",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BZkZmeFR3U3FiLVp5N2M4eWdZM2ozU0ZVXzYtdHBoeHgyQkZQV2ZCXzQ3X0lKRE12dHZHVGtzVXJONW1IRXoxNVNIVndOZDNYaHpTbHpR?oc=5",
+      "source": "지디넷코리아",
+      "summary": "e스포츠 다음 시대 여는 열쇠 ‘VR-AR’  지디넷코리아",
+      "category": "스포츠 VR/AR",
+      "date": "2019-04-17"
     }
   ]
 }
