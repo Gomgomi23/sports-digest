@@ -2,7 +2,7 @@ import json
 import os
 import re
 from datetime import datetime, timezone, timedelta
-import anthropic
+import google.generativeai as genai
 
 KST = timezone(timedelta(hours=9))
 WEEKDAYS = ['월', '화', '수', '목', '금', '토', '일']
@@ -67,20 +67,16 @@ def build_prompt(articles, date_str):
 
 
 def generate_digest(articles):
-    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+    genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+    model = genai.GenerativeModel("gemini-1.5-flash")
 
     today = datetime.now(KST)
     date_str = f"{today.year}년 {today.month}월 {today.day}일 ({WEEKDAYS[today.weekday()]})"
 
     prompt = build_prompt(articles, date_str)
+    response = model.generate_content(prompt)
 
-    message = client.messages.create(
-        model="claude-sonnet-4-6",
-        max_tokens=4096,
-        messages=[{"role": "user", "content": prompt}]
-    )
-
-    content = message.content[0].text.strip()
+    content = response.text.strip()
     content = re.sub(r'^```(?:json)?\s*', '', content)
     content = re.sub(r'\s*```$', '', content)
     content = content.strip()

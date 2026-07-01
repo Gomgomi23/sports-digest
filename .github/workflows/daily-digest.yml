@@ -18,14 +18,14 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests anthropic
+        run: pip install requests google-generativeai
 
       - name: Collect latest news
         run: python scripts/update_news.py
 
       - name: Generate AI digest
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/generate_digest.py
 
       - name: Commit and push
