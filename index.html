@@ -212,10 +212,16 @@
     }
 
     // ── 뉴스 로드 & 폴링 ───────────────────────────────────────
+    const RAW_URL = 'https://raw.githubusercontent.com/Gomgomi23/sports-digest/main/data/news.json';
+
     async function loadNews(silent = false) {
       if (!silent) document.getElementById('sync-status').classList.remove('hidden');
       try {
-        const res = await fetch('data/news.json?t=' + Date.now());
+        // 수집 대기 중에는 GitHub 원본을 직접 폴링 (로컬 파일은 갱신 안 됨)
+        const url = dispatchPending
+          ? RAW_URL + '?t=' + Date.now()
+          : 'data/news.json?t=' + Date.now();
+        const res = await fetch(url);
         if (!res.ok) throw new Error();
         const data = await res.json();
 
@@ -245,7 +251,9 @@
       }
     }
 
+    // 평상시 5분 폴링 + 수집 대기 중엔 추가로 30초마다 체크
     setInterval(() => loadNews(true), POLL_MS);
+    setInterval(() => { if (dispatchPending) loadNews(true); }, 30_000);
 
     // ── 카테고리 필터 ──────────────────────────────────────────
     function filterCategory(cat) {
