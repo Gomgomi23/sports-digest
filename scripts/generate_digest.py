@@ -53,9 +53,9 @@ def build_prompt(articles, date_str):
     }}
   ],
   "media": [
-    {{"type": "YouTube", "title": "채널명 또는 영상제목", "description": "한 줄 설명", "url": "https://youtube.com/@channelname"}},
-    {{"type": "블로그", "title": "블로그/사이트명", "description": "한 줄 설명", "url": "https://example.com"}},
-    {{"type": "리서치", "title": "리포트/기관명", "description": "한 줄 설명", "url": "https://example.com"}}
+    {{"type": "YouTube", "title": "영상 제목", "description": "한 줄 설명", "url": "https://youtube.com/watch?v=VIDEO_ID"}},
+    {{"type": "블로그", "title": "글 제목", "description": "한 줄 설명", "url": "https://example.com/specific-article"}},
+    {{"type": "리서치", "title": "리포트 제목", "description": "한 줄 설명", "url": "https://example.com/report"}}
   ]
 }}
 
@@ -67,9 +67,11 @@ def build_prompt(articles, date_str):
   * 🤖 스포츠 기술 & 데이터 & VR — 소제목 빈 문자열
   * 🌍 해외 주요 동향 — 소제목 빈 문자열
 - items의 article_num: 해당 아이템과 가장 관련 있는 기사 번호 (1~{n}). 직접 대응 기사가 없으면 0.
-- media: 오늘 뉴스 주제와 연관하여 스포츠 산업 종사자에게 유익한 YouTube 채널/영상, 블로그, 리서치 자료 5~8개 추천.
-  * 실제 존재하는 채널·사이트만 포함. URL은 채널 홈 또는 사이트 메인 URL.
-  * 뉴스에서 언급된 것 + 주제 연관 자료 폭넓게 포함 (스포츠 비즈니스, 미디어, 스타트업 투자, 스포츠테크 분야).
+- media: 오늘 뉴스의 핵심 키워드와 직접 관련된 개별 콘텐츠(특정 영상·포스트·리포트)를 5~8개 추천.
+  * YouTube는 특정 영상 URL (youtube.com/watch?v=VIDEO_ID 형식). 채널 홈 금지.
+  * 블로그·리서치는 특정 글·리포트의 직접 URL. 사이트 메인 금지.
+  * 국내외 모두 포함 — 영어권 콘텐츠도 적극 추천 (스포츠 비즈니스, OTT 전략, 스포츠테크, 투자 동향).
+  * 확실히 존재한다고 알고 있는 콘텐츠만 포함. 불확실한 URL은 생략하고 더 확실한 것으로 대체.
 - 한국어로 작성, 비즈니스 분석 톤 유지"""
 
 
