@@ -270,21 +270,38 @@
     }
 
     // ── 중복 그룹핑 ───────────────────────────────────────────
-    function normalizeTitle(title) {
-      return title.toLowerCase().replace(/[^\w가-힣]/g, '').slice(0, 30);
+    const STOPS = new Set([
+      '스포츠','기술','데이터','개최','위한','공동','관련','이후','대한',
+      '하는','위해','통해','뉴스','대회','경기','선수','구단','리그','한국',
+      '세계','올해','올해의','이번','지난','통해서','통한','대규모',
+    ]);
+
+    function extractKeywords(title) {
+      // 한글 3자 이상, 영문 4자 이상 단어 추출 후 불용어 제거
+      return (title.match(/[가-힣]{3,}|[A-Za-z]{4,}/g) || [])
+        .filter(w => !STOPS.has(w));
     }
 
     function groupArticles(articles) {
-      const groups = [];
-      const seen   = new Map();
+      const groups  = [];
+      const groupKw = []; // 각 그룹의 키워드 합집합 (Set)
+
       for (const a of articles) {
-        const key = normalizeTitle(a.title);
-        if (seen.has(key)) {
-          seen.get(key).related.push(a);
+        const kw = extractKeywords(a.title);
+        let matched = -1;
+
+        for (let i = 0; i < groups.length; i++) {
+          if (groups[i].main.category !== a.category) continue;
+          const overlap = kw.filter(w => groupKw[i].has(w)).length;
+          if (overlap >= 2) { matched = i; break; }
+        }
+
+        if (matched >= 0) {
+          groups[matched].related.push(a);
+          kw.forEach(w => groupKw[matched].add(w));
         } else {
-          const g = { main: a, related: [] };
-          seen.set(key, g);
-          groups.push(g);
+          groups.push({ main: a, related: [] });
+          groupKw.push(new Set(kw));
         }
       }
       return groups;
