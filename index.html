@@ -8,6 +8,26 @@
 </head>
 <body class="bg-gray-50 min-h-screen">
 
+  <!-- PAT 미설정 안내 배너 (최초 1회) -->
+  <div id="setup-banner" class="hidden bg-blue-50 border-b border-blue-200 px-4 py-2.5">
+    <div class="max-w-4xl mx-auto flex items-center justify-between gap-3 text-sm">
+      <p class="text-blue-700">GitHub PAT를 설정하면 접속할 때마다 자동으로 최신 뉴스를 수집합니다.</p>
+      <button onclick="showTokenPanel()" class="shrink-0 text-blue-600 font-semibold hover:text-blue-800 underline whitespace-nowrap">설정하기</button>
+    </div>
+  </div>
+
+  <!-- PAT 입력 패널 -->
+  <div id="token-panel" class="hidden bg-white border-b border-gray-200 px-4 py-3">
+    <div class="max-w-4xl mx-auto flex items-center gap-2">
+      <label class="text-sm text-gray-500 whitespace-nowrap">GitHub PAT</label>
+      <input id="token-input" type="password" placeholder="ghp_... (Actions: Read and write 권한 포함)"
+        class="flex-1 text-sm border border-gray-300 rounded-lg px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
+        onkeydown="if(event.key==='Enter') saveToken()" />
+      <button onclick="saveToken()" class="px-3 py-2 bg-blue-600 text-white text-sm font-medium rounded-lg hover:bg-blue-700">저장</button>
+      <button onclick="hideTokenPanel()" class="px-3 py-2 text-gray-500 text-sm hover:text-gray-700">취소</button>
+    </div>
+  </div>
+
   <header class="bg-white border-b border-gray-200 sticky top-0 z-10 shadow-sm">
     <div class="max-w-4xl mx-auto px-4 py-4">
       <div class="flex items-center justify-between mb-3">
@@ -15,8 +35,19 @@
           <h1 class="text-xl font-bold text-gray-900">스포츠 산업 뉴스 브리핑</h1>
           <p id="updated-at" class="text-xs text-gray-400 mt-0.5"></p>
         </div>
-        <div class="flex items-center gap-3">
+        <div class="flex items-center gap-2">
           <span id="article-count" class="text-sm text-gray-400"></span>
+
+          <!-- GitHub Actions 실행 중 표시 -->
+          <span id="dispatch-status" class="hidden text-xs text-orange-500 flex items-center gap-1">
+            <svg class="w-3 h-3 animate-spin" fill="none" viewBox="0 0 24 24">
+              <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"/>
+              <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z"/>
+            </svg>
+            수집 중
+          </span>
+
+          <!-- 폴링 스피너 -->
           <span id="sync-status" class="hidden text-xs text-blue-500 flex items-center gap-1">
             <svg class="w-3 h-3 animate-spin" fill="none" viewBox="0 0 24 24">
               <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"/>
@@ -24,6 +55,25 @@
             </svg>
             업데이트 중
           </span>
+
+          <!-- 수동 새로고침 버튼 -->
+          <button onclick="manualRefresh()" title="지금 업데이트"
+            class="text-gray-400 hover:text-blue-500 transition-colors p-1 rounded">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/>
+            </svg>
+          </button>
+
+          <!-- PAT 설정 버튼 -->
+          <button onclick="toggleTokenPanel()" title="GitHub PAT 설정"
+            class="text-gray-400 hover:text-gray-600 transition-colors p-1 rounded">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"/>
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
+            </svg>
+          </button>
         </div>
       </div>
       <div class="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1">
@@ -72,25 +122,98 @@
   </main>
 
   <script>
+    const REPO     = 'Gomgomi23/sports-digest';
+    const WORKFLOW = 'update-news.yml';
+    const STALE_MS = 30 * 60 * 1000;   // 30분 경과 시 stale 판정
+    const POLL_MS  = 5  * 60 * 1000;   // 5분마다 폴링
+
     const CATEGORY_BADGE = {
-      '스포츠 중계권': 'bg-blue-100 text-blue-700',
-      '스포츠 OTT':    'bg-purple-100 text-purple-700',
-      '스포츠 스타트업': 'bg-green-100 text-green-700',
-      '스포츠 기술':   'bg-orange-100 text-orange-700',
-      '스포츠 데이터': 'bg-cyan-100 text-cyan-700',
-      '스포츠 VR/AR':  'bg-pink-100 text-pink-700',
+      '스포츠 중계권':  'bg-blue-100 text-blue-700',
+      '스포츠 OTT':     'bg-purple-100 text-purple-700',
+      '스포츠 스타트업':'bg-green-100 text-green-700',
+      '스포츠 기술':    'bg-orange-100 text-orange-700',
+      '스포츠 데이터':  'bg-cyan-100 text-cyan-700',
+      '스포츠 VR/AR':   'bg-pink-100 text-pink-700',
     };
 
-    let allArticles = [];
-    let lastUpdatedAt = '';
-    let currentCategory = '전체';
-    const POLL_INTERVAL = 5 * 60 * 1000; // 5분
+    let allArticles      = [];
+    let lastUpdatedAt    = '';
+    let currentCategory  = '전체';
+    let dispatchPending  = false;
 
-    async function loadNews(silent = false) {
-      if (!silent) {
-        const status = document.getElementById('sync-status');
-        status.classList.remove('hidden');
+    // ── PAT 관리 ───────────────────────────────────────────────
+    const getToken = () => localStorage.getItem('gh_pat') || '';
+    const storeToken = t => localStorage.setItem('gh_pat', t.trim());
+
+    function showTokenPanel() {
+      document.getElementById('setup-banner').classList.add('hidden');
+      document.getElementById('token-panel').classList.remove('hidden');
+      const inp = document.getElementById('token-input');
+      inp.value = getToken();
+      inp.focus();
+    }
+    function hideTokenPanel() {
+      document.getElementById('token-panel').classList.add('hidden');
+    }
+    function toggleTokenPanel() {
+      const panel = document.getElementById('token-panel');
+      if (panel.classList.contains('hidden')) showTokenPanel();
+      else hideTokenPanel();
+    }
+    function saveToken() {
+      const val = document.getElementById('token-input').value.trim();
+      storeToken(val);
+      hideTokenPanel();
+      if (val) {
+        document.getElementById('setup-banner').classList.add('hidden');
+        manualRefresh();
       }
+    }
+
+    // ── GitHub Actions 트리거 ──────────────────────────────────
+    function isStale(updatedAtStr) {
+      if (!updatedAtStr) return true;
+      const m = updatedAtStr.match(/(\d{4}-\d{2}-\d{2} \d{2}:\d{2})/);
+      if (!m) return true;
+      const d = new Date(m[1].replace(' ', 'T') + '+09:00');
+      return Date.now() - d.getTime() > STALE_MS;
+    }
+
+    async function triggerWorkflow() {
+      const token = getToken();
+      if (!token || dispatchPending) return;
+      dispatchPending = true;
+      try {
+        const res = await fetch(
+          `https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW}/dispatches`,
+          {
+            method: 'POST',
+            headers: {
+              'Authorization': `Bearer ${token}`,
+              'Accept': 'application/vnd.github+json',
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ ref: 'main' }),
+          }
+        );
+        if (res.status === 204) {
+          document.getElementById('dispatch-status').classList.remove('hidden');
+        } else {
+          dispatchPending = false;
+        }
+      } catch {
+        dispatchPending = false;
+      }
+    }
+
+    async function manualRefresh() {
+      dispatchPending = false;
+      await triggerWorkflow();
+    }
+
+    // ── 뉴스 로드 & 폴링 ───────────────────────────────────────
+    async function loadNews(silent = false) {
+      if (!silent) document.getElementById('sync-status').classList.remove('hidden');
       try {
         const res = await fetch('data/news.json?t=' + Date.now());
         if (!res.ok) throw new Error();
@@ -98,12 +221,23 @@
 
         const isNew = data.updated_at && data.updated_at !== lastUpdatedAt;
         if (isNew || !silent) {
+          if (isNew && dispatchPending) {
+            document.getElementById('dispatch-status').classList.add('hidden');
+            dispatchPending = false;
+          }
           lastUpdatedAt = data.updated_at || '';
-          allArticles = data.articles || [];
-          const updatedAt = document.getElementById('updated-at');
-          if (data.updated_at) updatedAt.textContent = '마지막 업데이트: ' + data.updated_at;
-          render(currentCategory === '전체' ? allArticles : allArticles.filter(a => a.category === currentCategory));
+          allArticles   = data.articles   || [];
+          if (data.updated_at)
+            document.getElementById('updated-at').textContent = '마지막 업데이트: ' + data.updated_at;
+          const filtered = currentCategory === '전체'
+            ? allArticles
+            : allArticles.filter(a => a.category === currentCategory);
+          render(filtered);
         }
+
+        // 접속 시 stale이면 자동 수집 트리거
+        if (!dispatchPending && isStale(data.updated_at)) triggerWorkflow();
+
       } catch {
         if (!silent) showEmpty();
       } finally {
@@ -111,25 +245,26 @@
       }
     }
 
-    // 5분마다 조용히 폴링 — 새 데이터 있으면 자동 반영
-    setInterval(() => loadNews(true), POLL_INTERVAL);
+    setInterval(() => loadNews(true), POLL_MS);
 
+    // ── 카테고리 필터 ──────────────────────────────────────────
     function filterCategory(cat) {
       currentCategory = cat;
       document.querySelectorAll('.tab').forEach(btn => {
-        const isActive = btn.dataset.cat === cat;
-        btn.classList.toggle('bg-blue-600', isActive);
-        btn.classList.toggle('text-white', isActive);
-        btn.classList.toggle('bg-gray-100', !isActive);
-        btn.classList.toggle('text-gray-600', !isActive);
+        const active = btn.dataset.cat === cat;
+        btn.classList.toggle('bg-blue-600', active);
+        btn.classList.toggle('text-white',  active);
+        btn.classList.toggle('bg-gray-100', !active);
+        btn.classList.toggle('text-gray-600', !active);
       });
       const filtered = cat === '전체' ? allArticles : allArticles.filter(a => a.category === cat);
       render(filtered);
     }
 
+    // ── 렌더링 ────────────────────────────────────────────────
     function render(articles) {
       const container = document.getElementById('articles-container');
-      const empty = document.getElementById('empty-state');
+      const empty     = document.getElementById('empty-state');
       document.getElementById('article-count').textContent = '총 ' + articles.length + '건';
 
       if (!articles.length) { container.innerHTML = ''; showEmpty(); return; }
@@ -144,7 +279,7 @@
                   ${a.category}
                 </span>
                 ${a.source ? `<span class="text-xs text-gray-400">${escHtml(a.source)}</span>` : ''}
-                ${a.date   ? `<span class="text-xs text-gray-400">${escHtml(a.date)}</span>` : ''}
+                ${a.date   ? `<span class="text-xs text-gray-400">${escHtml(a.date)}</span>`   : ''}
               </div>
               <a href="${escHtml(a.url)}" target="_blank" rel="noopener noreferrer"
                 class="text-[15px] font-semibold text-gray-900 hover:text-blue-600 leading-snug">
@@ -177,6 +312,8 @@
         .replace(/"/g, '&quot;');
     }
 
+    // ── 초기화 ────────────────────────────────────────────────
+    if (!getToken()) document.getElementById('setup-banner').classList.remove('hidden');
     loadNews();
   </script>
 </body>
