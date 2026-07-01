@@ -73,7 +73,7 @@ def generate_digest(articles):
     date_str = f"{today.year}년 {today.month}월 {today.day}일 ({WEEKDAYS[today.weekday()]})"
 
     prompt = build_prompt(articles, date_str)
-    response = client.models.generate_content(model="gemini-2.0-flash", contents=prompt)
+    response = client.models.generate_content(model="gemini-2.5-flash", contents=prompt)
 
     content = response.text.strip()
     content = re.sub(r'^```(?:json)?\s*', '', content)
