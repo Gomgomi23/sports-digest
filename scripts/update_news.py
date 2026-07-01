@@ -10,18 +10,30 @@ import requests
 KST = timezone(timedelta(hours=9))
 
 KEYWORDS = [
+    # 중계권
     ("스포츠 중계권",               "스포츠 중계권"),
-    ("스포츠 OTT 쿠팡플레이 DAZN",  "스포츠 OTT"),
-    ("스포츠 스타트업 투자",         "스포츠 스타트업"),
-    ("스포츠 기술 혁신",             "스포츠 기술"),
-    ("스포츠 데이터 분석",           "스포츠 데이터"),
-    ("스포츠 VR AR 가상현실",        "스포츠 VR/AR"),
-    ("sports broadcasting rights",   "스포츠 중계권"),
-    ("sports OTT streaming",         "스포츠 OTT"),
-    ("sports startup investment",    "스포츠 스타트업"),
-    ("sports technology innovation", "스포츠 기술"),
-    ("sports data analytics",        "스포츠 데이터"),
-    ("sports VR AR",                 "스포츠 VR/AR"),
+    ("월드컵 중계권 OTT",           "스포츠 중계권"),
+    ("스포츠 방송권",               "스포츠 중계권"),
+    ("sports broadcasting rights",  "스포츠 중계권"),
+    # OTT
+    ("스포츠 OTT",                  "스포츠 OTT"),
+    ("쿠팡플레이 DAZN 스포츠",      "스포츠 OTT"),
+    ("sports OTT streaming",        "스포츠 OTT"),
+    # 스타트업
+    ("스포츠 스타트업",             "스포츠 스타트업"),
+    ("스포츠 스타트업 투자",        "스포츠 스타트업"),
+    ("sports startup investment",   "스포츠 스타트업"),
+    # 기술
+    ("스포츠 기술",                 "스포츠 기술"),
+    ("스포츠 기술 혁신",            "스포츠 기술"),
+    ("sports technology innovation","스포츠 기술"),
+    # 데이터
+    ("스포츠 데이터",               "스포츠 데이터"),
+    ("스포츠 데이터 분석",          "스포츠 데이터"),
+    ("sports data analytics",       "스포츠 데이터"),
+    # VR/AR
+    ("스포츠 VR AR 가상현실",       "스포츠 VR/AR"),
+    ("sports VR AR metaverse",      "스포츠 VR/AR"),
 ]
 
 SESSION = requests.Session()
@@ -33,9 +45,9 @@ SESSION.headers.update({
 })
 
 
-def fetch_google_news(query, category, max_items=4):
+def fetch_google_news(query, category, max_items=10):
     url = "https://news.google.com/rss/search?q={}&hl=ko&gl=KR&ceid=KR:ko".format(
-        urllib.parse.quote(query)
+        urllib.parse.quote(query + " when:7d")
     )
     articles = []
     try:
