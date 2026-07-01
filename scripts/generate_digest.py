@@ -1,9 +1,9 @@
 import json
 import os
 import re
-import urllib.parse
 from datetime import datetime, timezone, timedelta
 from google import genai
+from google.genai import types
 
 KST = timezone(timedelta(hours=9))
 WEEKDAYS = ['월', '화', '수', '목', '금', '토', '일']
@@ -97,14 +97,51 @@ def attach_urls(digest, articles):
                     new_items.append(item)
             sub['items'] = new_items
 
+    # search_query 필드 정리 (URL 확보는 fetch_media_urls_grounded에서 처리)
     for m in digest.get('media', []):
-        query = m.pop('search_query', '') or m.get('title', '')
-        if not query:
-            continue
-        if m.get('type') == 'YouTube':
-            m['url'] = 'https://www.youtube.com/results?search_query=' + urllib.parse.quote(query)
-        else:
-            m['url'] = 'https://www.google.com/search?q=' + urllib.parse.quote(query)
+        m.pop('search_query', None)
+
+
+def fetch_media_urls_grounded(media_items, client):
+    """Gemini 검색 그라운딩으로 각 미디어 추천 항목의 실제 직접 URL을 확보한다."""
+    if not media_items:
+        return
+
+    lines = "\n".join(
+        f"{i}. [{'YouTube 영상' if m.get('type') == 'YouTube' else '블로그·리서치 글'}] {m.get('title', '')}"
+        for i, m in enumerate(media_items, 1)
+    )
+
+    prompt = f"""다음 각 콘텐츠를 검색하여 실제 직접 URL을 찾아주세요.
+YouTube 항목은 youtube.com/watch?v= 형식, 나머지는 해당 글·리포트의 직접 URL을 반환하세요.
+
+{lines}
+
+순수 JSON 배열만 출력하세요 (마크다운·설명 없이):
+[{{"i":1,"url":"https://..."}},{{"i":2,"url":"https://..."}}]
+URL을 찾지 못한 항목은 제외하세요."""
+
+    try:
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                tools=[types.Tool(google_search=types.GoogleSearch())]
+            )
+        )
+        text = response.text.strip()
+        text = re.sub(r'^```(?:json)?\s*', '', text)
+        text = re.sub(r'\s*```$', '', text)
+        match = re.search(r'\[.*?\]', text, re.DOTALL)
+        if match:
+            url_map = {entry['i']: entry['url'] for entry in json.loads(match.group())}
+            for i, m in enumerate(media_items, 1):
+                if i in url_map:
+                    m['url'] = url_map[i]
+        found = sum(1 for m in media_items if m.get('url'))
+        print(f"  미디어 URL 확보: {found}/{len(media_items)}건")
+    except Exception as e:
+        print(f"  미디어 URL 검색 실패: {e}")
 
 
 def generate_digest(articles):
@@ -123,6 +160,7 @@ def generate_digest(articles):
 
     digest = json.loads(content)
     attach_urls(digest, articles)
+    fetch_media_urls_grounded(digest.get('media', []), client)
     return digest
 
 
