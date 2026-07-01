@@ -111,7 +111,7 @@
 
   <main class="max-w-4xl mx-auto px-4 py-6">
     <div id="digest-section"></div>
-    <div id="articles-container" class="space-y-3"></div>
+    <div id="articles-container" class="hidden space-y-3"></div>
     <div id="empty-state" class="hidden text-center py-24 text-gray-400">
       <svg class="w-12 h-12 mx-auto mb-3 opacity-30" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
@@ -236,10 +236,9 @@
           allArticles   = data.articles   || [];
           if (data.updated_at)
             document.getElementById('updated-at').textContent = '마지막 업데이트: ' + data.updated_at;
-          const filtered = currentCategory === '전체'
-            ? allArticles
-            : allArticles.filter(a => a.category === currentCategory);
-          render(filtered);
+          if (currentCategory !== '전체') {
+            render(allArticles.filter(a => a.category === currentCategory));
+          }
         }
 
         // 접속 시 stale이면 자동 수집 트리거
@@ -266,8 +265,16 @@
         btn.classList.toggle('bg-gray-100', !active);
         btn.classList.toggle('text-gray-600', !active);
       });
-      const filtered = cat === '전체' ? allArticles : allArticles.filter(a => a.category === cat);
-      render(filtered);
+      if (cat === '전체') {
+        document.getElementById('digest-section').classList.remove('hidden');
+        document.getElementById('articles-container').classList.add('hidden');
+        document.getElementById('empty-state').classList.add('hidden');
+        document.getElementById('article-count').textContent = '';
+      } else {
+        document.getElementById('digest-section').classList.add('hidden');
+        document.getElementById('articles-container').classList.remove('hidden');
+        render(allArticles.filter(a => a.category === cat));
+      }
     }
 
     // ── 중복 그룹핑 ───────────────────────────────────────────
