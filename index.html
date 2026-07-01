@@ -110,6 +110,7 @@
   </header>
 
   <main class="max-w-4xl mx-auto px-4 py-6">
+    <div id="digest-section"></div>
     <div id="articles-container" class="space-y-3"></div>
     <div id="empty-state" class="hidden text-center py-24 text-gray-400">
       <svg class="w-12 h-12 mx-auto mb-3 opacity-30" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -369,8 +370,89 @@
         .replace(/"/g, '&quot;');
     }
 
+    // ── 다이제스트 ────────────────────────────────────────────
+    const RANK_BORDER = ['border-red-400',  'border-blue-400',  'border-green-400'];
+    const RANK_TEXT   = ['text-red-600',    'text-blue-600',    'text-green-600'];
+
+    function parseBold(text) {
+      return String(text)
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;')
+        .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+    }
+
+    function renderDigest(d) {
+      if (!d || !d.date || d.date === '준비 중' || !d.top3 || !d.top3.length) return;
+
+      const top3Html = (d.top3 || []).map((item, i) => `
+        <div class="border-l-4 ${RANK_BORDER[i] || 'border-gray-400'} pl-4 py-0.5">
+          <div class="${RANK_TEXT[i] || 'text-gray-600'} text-sm font-bold mb-1">${item.rank}위 | ${escHtml(item.title)}</div>
+          <p class="text-sm text-gray-700 leading-relaxed">${escHtml(item.body)}</p>
+        </div>`).join('');
+
+      const sectionsHtml = (d.sections || []).map(sec => {
+        const subHtml = (sec.subsections || []).map(sub => `
+          ${sub.title ? `<div class="text-blue-600 font-semibold text-sm mt-3 mb-1.5">${escHtml(sub.title)}</div>` : ''}
+          <ul class="space-y-2">
+            ${(sub.items || []).map(item => `
+              <li class="text-sm text-gray-700 leading-relaxed flex gap-2">
+                <span class="text-gray-400 shrink-0 select-none">•</span>
+                <span>${parseBold(item)}</span>
+              </li>`).join('')}
+          </ul>`).join('');
+        return `
+          <div class="mt-5">
+            <h3 class="text-[15px] font-bold text-gray-900 border-b-2 border-gray-800 pb-1.5 mb-3">${escHtml(sec.title)}</h3>
+            ${subHtml}
+          </div>`;
+      }).join('');
+
+      const mediaTypeIcon = { 'YouTube': '▶ YouTube', '블로그': '📝 블로그', '리서치': '📊 리서치' };
+      const mediaHtml = d.media && d.media.length ? `
+        <div class="mt-5">
+          <h3 class="text-[15px] font-bold text-gray-900 border-b-2 border-gray-800 pb-1.5 mb-3">📺 추천 유튜브 & 블로그</h3>
+          <div class="space-y-3">
+            ${d.media.map(m => `
+              <div class="flex gap-3 items-start text-sm">
+                <span class="shrink-0 text-xs text-gray-500 bg-gray-100 rounded px-1.5 py-0.5 whitespace-nowrap mt-0.5">${escHtml(mediaTypeIcon[m.type] || m.type)}</span>
+                <div>
+                  <div class="font-medium text-gray-800">${escHtml(m.title)}</div>
+                  <div class="text-gray-500 text-xs mt-0.5">${escHtml(m.description)}</div>
+                </div>
+              </div>`).join('')}
+          </div>
+        </div>` : '';
+
+      document.getElementById('digest-section').innerHTML = `
+        <div class="bg-white rounded-xl border border-gray-200 p-6 mb-6">
+          <div class="text-center mb-6">
+            <h2 class="text-2xl font-bold text-gray-900">⚽ 스포츠 산업 일일 다이제스트</h2>
+            <p class="text-orange-500 text-sm mt-1 font-medium">${escHtml(d.date)} | Sports Industry Intelligence</p>
+          </div>
+          ${top3Html.length ? `
+            <div>
+              <h3 class="text-[15px] font-bold text-gray-900 border-b-2 border-gray-800 pb-1.5 mb-4">🔥 오늘의 주요 뉴스 Top 3</h3>
+              <div class="space-y-4">${top3Html}</div>
+            </div>` : ''}
+          ${sectionsHtml}
+          ${mediaHtml}
+          <div class="mt-6 pt-4 border-t border-gray-100 text-center text-xs text-gray-400">
+            스포츠 산업 일일 다이제스트 | ${escHtml(d.date)} | Anchor Corp.<br>
+            본 다이제스트는 AI가 수집·정리한 정보이며, 투자·비즈니스 결정 시 원문 확인을 권장합니다.
+          </div>
+        </div>`;
+    }
+
+    async function loadDigest() {
+      try {
+        const res = await fetch('data/digest.json?t=' + Date.now());
+        if (!res.ok) return;
+        renderDigest(await res.json());
+      } catch(e) { /* 다이제스트는 선택적 */ }
+    }
+
     // ── 초기화 ────────────────────────────────────────────────
     if (!getToken()) document.getElementById('setup-banner').classList.remove('hidden');
+    loadDigest();
     loadNews();
   </script>
 </body>
