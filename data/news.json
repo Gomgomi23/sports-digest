@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01 16:33 (KST)",
+  "updated_at": "2026-07-01 16:53 (KST)",
   "articles": [
     {
       "title": "북중미 월드컵, 유일한 승자는 네이버 치지직?",
@@ -102,6 +102,14 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15RVp5SEJ6R2NQS3V3aEtRVHdYMmFPMGhMR0ZoUXJTWmw5WFBSeUtEMVV4ZnN0ZFdscGpnNTlsZHh2ajhBZ0RkcG0teTlJRHVmRGt2M1lXZHFDa3Y2TG12ZTRUVDhUZGJuemc?oc=5",
       "source": "뉴스밸류",
       "summary": "[심층분석] ‘가치경영’이 기술혁신과 만날 때…HS효성, 장애인 스포츠 지원으로 ESG 경쟁력 확장  뉴스밸류",
+      "category": "스포츠 기술",
+      "date": "2026-06-22"
+    },
+    {
+      "title": "KT&G, 글로벌 혁신기업 4연속 박제 완료, 국내 유일 기업",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14UTdxclJWNjhoRTlJMzd2blNsQUl0czdIZWplZHVEZ1k5OUp2UU1qNl9SWmhSaVByV2Q1U3NvZXdINjN3YXRFR0hEUzlhUGItMjN5N2dmZUU2R0VJS0ZlNXMtSE1sNV9XSlljSjdOVU9iQzA?oc=5",
+      "source": "sports.donga.com",
+      "summary": "KT&G, 글로벌 혁신기업 4연속 박제 완료, 국내 유일 기업  sports.donga.com",
       "category": "스포츠 기술",
       "date": "2026-06-22"
     },
@@ -210,14 +218,6 @@
       "date": "2026-03-25"
     },
     {
-      "title": "Amid OTT expansion of ‘live streaming’…‘viewing access rights’ under scrutiny",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Xd19hM2t4ZlFxYkpGZUs1VFFaT2xXdmNxd3hwdjJqa29BWmI3VG5ZRVlNZ2h5VGxiT042MWw0Rm8tTE8wRWZXOV9UV1JFMTdJNmZ3bklpR2VmRWJQLVE?oc=5",
-      "source": "경향신문",
-      "summary": "Amid OTT expansion of ‘live streaming’…‘viewing access rights’ under scrutiny  경향신문",
-      "category": "스포츠 OTT",
-      "date": "2026-03-22"
-    },
-    {
       "title": "속초 ICT스포츠 체험관, 새 단장 마치고 23일 재개관 ··· 가상현실(VR)·증강현실(AR) 한 단계 UP",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56Ty02ZmF5WVhhN0pXOWx4ajR0dnFGNXZrVEVfb0h1R055d1BDZDFDN3g1UmZPOFJ0ZTZuLW4zS1JXOGoxa2l4TTlWZTFxeGpRU1FWVmZrWURhMVRpeHowS0tSM01SUWFTcVpaME9KRUlVWEVVd2xFRTlR?oc=5",
       "source": "뉴데일리",
@@ -258,6 +258,14 @@
       "date": "2026-01-24"
     },
     {
+      "title": "‘The King of Active Singers 3’, global OTT ‘Netflix’ streaming confirmed",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42MlBKT0RucUZrb2Q0QThzVXJxTWxySnBJNFNVUTdvS3prSWZtTVB3OXY1cHA0Z1BCeWZVTUxRVEZWQnJIYVZKbmEtTlhRZXFEUW1fN3Q5UmlJVzhTTzVUSk9B?oc=5",
+      "source": "스포츠경향",
+      "summary": "‘The King of Active Singers 3’, global OTT ‘Netflix’ streaming confirmed  스포츠경향",
+      "category": "스포츠 OTT",
+      "date": "2026-01-12"
+    },
+    {
       "title": "Alongside Official Broadcasts, “Chat Commentary”…How People Watch Sports on OTT These Days",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5faEJTTDFuY09yZGFzZVpTdlU1NHFIS2s3cWlPMWlnaDM4TEptTGRnSE5QamJma1phdUtRVl9qVTRRV3d4c2VhQmlib0FFUWJkTWpoT3RPWFJqYzMyNXNWbzh3Zlh1My1pSWgwNmZFNHjSAXRBVV95cUxQMzBfSk1DWmxRWlZkYnBaSW10MDY0OUdLUFdJMmVHSzVOaWF0VjF6clE2cTVNMDBJQXZoaWtDQVNaeUNUUWlZXzFYWmJacjhydDlaNmRXMzkydXNmQVZ3bjF0V2U4QjhnZnNYOENEdEM5ZFk2aQ?oc=5",
       "source": "IT조선",
@@ -268,18 +276,10 @@
     {
       "title": "아이씨유엑스알, 스포츠 게이미피게이션 기반 VR/AR 디지털 재활치료 어플리케이션 개발",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95dVE1cXBpYklxRUVNSWVENGlXbTlJUVA5LTl4ZGF5alBIVEVwWGdhUGxBOW9JaFo3NUxUcWV6Y3UzOU9hdm5WTlpvSjBYcUZpam9WajJhdzc?oc=5",
-      "source": "스포츠서울",
-      "summary": "아이씨유엑스알, 스포츠 게이미피게이션 기반 VR/AR 디지털 재활치료 어플리케이션 개발  스포츠서울",
+      "source": "sportsseoul.com",
+      "summary": "아이씨유엑스알, 스포츠 게이미피게이션 기반 VR/AR 디지털 재활치료 어플리케이션 개발  sportsseoul.com",
       "category": "스포츠 VR/AR",
       "date": "2025-12-03"
-    },
-    {
-      "title": "Genius Sports(GENI) - 스포츠 데이터 시장의 판도를 바꾸는 기술 혁신과 NFL-세리에 A 독점 계약으로 '슈퍼 사이클' 진입 예고",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYjBvakhpeE1WNHNHMi03cFRsUFIzV0kyT2d5Y0RHc1NJcDVpb3oxSnltREhmYlNJU1BKU2tUallrUVpRd2Y1XzNGWU8yZWQtT2JRRkJ6MXJ6bjc0UWNzSmdfRDh6aHlOSU5XVXBQTlNyNkxsbDlhVW9mVWRQcGdmRVhR?oc=5",
-      "source": "네이버 프리미엄콘텐츠",
-      "summary": "Genius Sports(GENI) - 스포츠 데이터 시장의 판도를 바꾸는 기술 혁신과 NFL-세리에 A 독점 계약으로 '슈퍼 사이클' 진입 예고  네이버 프리미엄콘텐츠",
-      "category": "스포츠 기술",
-      "date": "2025-08-28"
     },
     {
       "title": "[Hansung University Campus Town Startups 2025] 'Scapture', a startup providing AI-based services for analyzing sports videos",
