@@ -23,6 +23,7 @@ def build_prompt(articles, date_str):
         lines.append(line)
 
     articles_text = "\n\n".join(lines)
+    n = len(articles[:60])
 
     return f"""당신은 스포츠 산업 전문 애널리스트입니다. 다음 뉴스 기사들을 분석하여 {date_str}의 스포츠 산업 일일 다이제스트를 아래 JSON 스키마에 맞게 작성해주세요. 마크다운 코드블록 없이 순수 JSON만 출력하세요.
 
@@ -33,9 +34,9 @@ def build_prompt(articles, date_str):
 {{
   "date": "{date_str}",
   "top3": [
-    {{"rank": 1, "title": "가장 중요한 뉴스 제목 (간결하게)", "body": "2~3문장 핵심 요약"}},
-    {{"rank": 2, "title": "두 번째 중요 뉴스 제목", "body": "2~3문장 핵심 요약"}},
-    {{"rank": 3, "title": "세 번째 중요 뉴스 제목", "body": "2~3문장 핵심 요약"}}
+    {{"rank": 1, "title": "가장 중요한 뉴스 제목 (간결하게)", "body": "2~3문장 핵심 요약", "article_num": 3}},
+    {{"rank": 2, "title": "두 번째 중요 뉴스 제목", "body": "2~3문장 핵심 요약", "article_num": 7}},
+    {{"rank": 3, "title": "세 번째 중요 뉴스 제목", "body": "2~3문장 핵심 요약", "article_num": 12}}
   ],
   "sections": [
     {{
@@ -43,27 +44,57 @@ def build_prompt(articles, date_str):
       "subsections": [
         {{
           "title": "소제목 (예: 국내) — 소제목이 필요 없으면 빈 문자열",
-          "items": ["**굵은키워드:** 내용 설명", "**굵은키워드:** 내용 설명"]
+          "items": [
+            {{"text": "**굵은키워드:** 내용 설명", "article_num": 2}},
+            {{"text": "**굵은키워드:** 내용 설명", "article_num": 5}}
+          ]
         }}
       ]
     }}
   ],
   "media": [
-    {{"type": "YouTube", "title": "제목", "description": "한 줄 설명"}},
-    {{"type": "블로그", "title": "제목", "description": "한 줄 설명"}}
+    {{"type": "YouTube", "title": "채널명 또는 영상제목", "description": "한 줄 설명", "url": "https://youtube.com/@channelname"}},
+    {{"type": "블로그", "title": "블로그/사이트명", "description": "한 줄 설명", "url": "https://example.com"}},
+    {{"type": "리서치", "title": "리포트/기관명", "description": "한 줄 설명", "url": "https://example.com"}}
   ]
 }}
 
 작성 지침:
-- top3: 오늘 가장 중요한 뉴스 3건 선정, 각 2~3문장으로 요약
+- top3: 오늘 가장 중요한 뉴스 3건 선정, 각 2~3문장으로 요약. article_num은 위 목록에서 대표 기사 번호 (1~{n}).
 - sections: 뉴스 내용에 따라 해당하는 섹션만 포함 (최대 4개)
   * 🎙️ 스포츠 중계권 & OTT — 소제목: 국내, 글로벌 OTT 동향
   * 💰 스포츠 스타트업 & 투자 — 소제목: 투자 동향, 정부 지원 (없으면 빈 문자열)
   * 🤖 스포츠 기술 & 데이터 & VR — 소제목 빈 문자열
   * 🌍 해외 주요 동향 — 소제목 빈 문자열
-- media: 뉴스에서 언급된 유튜브/블로그/리서치 자료 (없으면 빈 배열 [])
-- 각 items 항목: "**핵심키워드:** 설명" 형식으로 한 줄
+- items의 article_num: 해당 아이템과 가장 관련 있는 기사 번호 (1~{n}). 직접 대응 기사가 없으면 0.
+- media: 오늘 뉴스 주제와 연관하여 스포츠 산업 종사자에게 유익한 YouTube 채널/영상, 블로그, 리서치 자료 5~8개 추천.
+  * 실제 존재하는 채널·사이트만 포함. URL은 채널 홈 또는 사이트 메인 URL.
+  * 뉴스에서 언급된 것 + 주제 연관 자료 폭넓게 포함 (스포츠 비즈니스, 미디어, 스타트업 투자, 스포츠테크 분야).
 - 한국어로 작성, 비즈니스 분석 톤 유지"""
+
+
+def attach_urls(digest, articles):
+    url_map = {i + 1: a.get('url', '') for i, a in enumerate(articles[:60])}
+
+    for item in digest.get('top3', []):
+        num = item.pop('article_num', 0)
+        url = url_map.get(num, '')
+        if url:
+            item['url'] = url
+
+    for sec in digest.get('sections', []):
+        for sub in sec.get('subsections', []):
+            new_items = []
+            for item in sub.get('items', []):
+                if isinstance(item, str):
+                    new_items.append({'text': item})
+                elif isinstance(item, dict):
+                    num = item.pop('article_num', 0)
+                    url = url_map.get(num, '')
+                    if url:
+                        item['url'] = url
+                    new_items.append(item)
+            sub['items'] = new_items
 
 
 def generate_digest(articles):
@@ -80,7 +111,9 @@ def generate_digest(articles):
     content = re.sub(r'\s*```$', '', content)
     content = content.strip()
 
-    return json.loads(content)
+    digest = json.loads(content)
+    attach_urls(digest, articles)
+    return digest
 
 
 def main():
@@ -102,6 +135,7 @@ def main():
     print(f"완료: {digest.get('date', '')}")
     print(f"  Top 3: {len(digest.get('top3', []))}건")
     print(f"  섹션: {len(digest.get('sections', []))}개")
+    print(f"  미디어: {len(digest.get('media', []))}개")
 
 
 if __name__ == "__main__":

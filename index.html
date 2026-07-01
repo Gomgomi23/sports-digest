@@ -400,7 +400,11 @@
 
       const top3Html = (d.top3 || []).map((item, i) => `
         <div class="border-l-4 ${RANK_BORDER[i] || 'border-gray-400'} pl-4 py-0.5">
-          <div class="${RANK_TEXT[i] || 'text-gray-600'} text-sm font-bold mb-1">${item.rank}위 | ${escHtml(item.title)}</div>
+          <div class="${RANK_TEXT[i] || 'text-gray-600'} text-sm font-bold mb-1">
+            ${item.url
+              ? `<a href="${escHtml(item.url)}" target="_blank" rel="noopener" class="hover:underline">${item.rank}위 | ${escHtml(item.title)}</a>`
+              : `${item.rank}위 | ${escHtml(item.title)}`}
+          </div>
           <p class="text-sm text-gray-700 leading-relaxed">${escHtml(item.body)}</p>
         </div>`).join('');
 
@@ -408,11 +412,14 @@
         const subHtml = (sec.subsections || []).map(sub => `
           ${sub.title ? `<div class="text-blue-600 font-semibold text-sm mt-3 mb-1.5">${escHtml(sub.title)}</div>` : ''}
           <ul class="space-y-2">
-            ${(sub.items || []).map(item => `
-              <li class="text-sm text-gray-700 leading-relaxed flex gap-2">
+            ${(sub.items || []).map(item => {
+              const text = typeof item === 'object' ? item.text : item;
+              const url  = typeof item === 'object' ? item.url  : null;
+              return `<li class="text-sm text-gray-700 leading-relaxed flex gap-2">
                 <span class="text-gray-400 shrink-0 select-none">•</span>
-                <span>${parseBold(item)}</span>
-              </li>`).join('')}
+                <span>${parseBold(text)}${url ? ` <a href="${escHtml(url)}" target="_blank" rel="noopener" class="text-gray-400 hover:text-blue-500 text-xs ml-0.5">↗</a>` : ''}</span>
+              </li>`;
+            }).join('')}
           </ul>`).join('');
         return `
           <div class="mt-5">
@@ -430,7 +437,11 @@
               <div class="flex gap-3 items-start text-sm">
                 <span class="shrink-0 text-xs text-gray-500 bg-gray-100 rounded px-1.5 py-0.5 whitespace-nowrap mt-0.5">${escHtml(mediaTypeIcon[m.type] || m.type)}</span>
                 <div>
-                  <div class="font-medium text-gray-800">${escHtml(m.title)}</div>
+                  <div class="font-medium text-gray-800">
+                    ${m.url
+                      ? `<a href="${escHtml(m.url)}" target="_blank" rel="noopener" class="hover:text-blue-600 hover:underline">${escHtml(m.title)}</a>`
+                      : escHtml(m.title)}
+                  </div>
                   <div class="text-gray-500 text-xs mt-0.5">${escHtml(m.description)}</div>
                 </div>
               </div>`).join('')}
