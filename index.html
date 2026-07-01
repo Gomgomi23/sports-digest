@@ -327,7 +327,7 @@
                 <span class="text-xs font-semibold px-2 py-0.5 rounded-full ${CATEGORY_BADGE[a.category] || 'bg-gray-100 text-gray-600'}">
                   ${a.category}
                 </span>
-                ${a.source ? `<span class="text-xs text-gray-400">${escHtml(a.source)}</span>` : ''}
+                ${a.source ? `<span class="text-xs text-gray-400">${fmtSource(a.source)}</span>` : ''}
                 ${a.date   ? `<span class="text-xs text-gray-400">${escHtml(a.date)}</span>`   : ''}
               </div>
               <a href="${escHtml(a.url)}" target="_blank" rel="noopener noreferrer"
@@ -340,7 +340,7 @@
                   <a href="${escHtml(r.url)}" target="_blank" rel="noopener noreferrer"
                     class="flex items-center gap-1.5 text-xs text-gray-400 hover:text-blue-500 transition-colors">
                     <span class="shrink-0 w-1 h-1 rounded-full bg-gray-300"></span>
-                    <span>${escHtml(r.source || '관련기사')} — ${escHtml(r.title)}</span>
+                    <span>${fmtSource(r.source || '관련기사')} — ${escHtml(r.title)}</span>
                   </a>
                 `).join('')}
               </div>` : ''}
@@ -368,6 +368,14 @@
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;');
+    }
+
+    const SOURCE_ALIAS = {
+      'v.daum.net': '다음',
+      'V.DAUM.NET': '다음',
+    };
+    function fmtSource(src) {
+      return escHtml(SOURCE_ALIAS[src] || SOURCE_ALIAS[src?.toLowerCase()] || src || '');
     }
 
     // ── 다이제스트 ────────────────────────────────────────────
