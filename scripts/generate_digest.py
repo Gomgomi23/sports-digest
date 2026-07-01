@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import urllib.parse
 from datetime import datetime, timezone, timedelta
 from google import genai
 
@@ -53,9 +54,9 @@ def build_prompt(articles, date_str):
     }}
   ],
   "media": [
-    {{"type": "YouTube", "title": "영상 제목", "description": "한 줄 설명", "url": "https://youtube.com/watch?v=VIDEO_ID"}},
-    {{"type": "블로그", "title": "글 제목", "description": "한 줄 설명", "url": "https://example.com/specific-article"}},
-    {{"type": "리서치", "title": "리포트 제목", "description": "한 줄 설명", "url": "https://example.com/report"}}
+    {{"type": "YouTube", "title": "영상 제목", "description": "한 줄 설명", "search_query": "YouTube 검색어"}},
+    {{"type": "블로그", "title": "글 제목", "description": "한 줄 설명", "search_query": "Google 검색어"}},
+    {{"type": "리서치", "title": "리포트 제목", "description": "한 줄 설명", "search_query": "Google 검색어"}}
   ]
 }}
 
@@ -67,11 +68,9 @@ def build_prompt(articles, date_str):
   * 🤖 스포츠 기술 & 데이터 & VR — 소제목 빈 문자열
   * 🌍 해외 주요 동향 — 소제목 빈 문자열
 - items의 article_num: 해당 아이템과 가장 관련 있는 기사 번호 (1~{n}). 직접 대응 기사가 없으면 0.
-- media: 오늘 뉴스의 핵심 키워드와 직접 관련된 개별 콘텐츠(특정 영상·포스트·리포트)를 5~8개 추천.
-  * YouTube는 특정 영상 URL (youtube.com/watch?v=VIDEO_ID 형식). 채널 홈 금지.
-  * 블로그·리서치는 특정 글·리포트의 직접 URL. 사이트 메인 금지.
+- media: 오늘 뉴스의 핵심 키워드와 관련된 콘텐츠(영상·글·리포트) 5~8개 추천. URL은 직접 쓰지 말 것.
+  * search_query: YouTube 또는 Google에서 그 콘텐츠를 찾을 수 있는 구체적인 검색어 (제목+저자/채널명 등).
   * 국내외 모두 포함 — 영어권 콘텐츠도 적극 추천 (스포츠 비즈니스, OTT 전략, 스포츠테크, 투자 동향).
-  * 확실히 존재한다고 알고 있는 콘텐츠만 포함. 불확실한 URL은 생략하고 더 확실한 것으로 대체.
 - 한국어로 작성, 비즈니스 분석 톤 유지"""
 
 
@@ -97,6 +96,15 @@ def attach_urls(digest, articles):
                         item['url'] = url
                     new_items.append(item)
             sub['items'] = new_items
+
+    for m in digest.get('media', []):
+        query = m.pop('search_query', '') or m.get('title', '')
+        if not query:
+            continue
+        if m.get('type') == 'YouTube':
+            m['url'] = 'https://www.youtube.com/results?search_query=' + urllib.parse.quote(query)
+        else:
+            m['url'] = 'https://www.google.com/search?q=' + urllib.parse.quote(query)
 
 
 def generate_digest(articles):
