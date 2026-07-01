@@ -2,7 +2,7 @@ import json
 import os
 import re
 from datetime import datetime, timezone, timedelta
-import google.generativeai as genai
+from google import genai
 
 KST = timezone(timedelta(hours=9))
 WEEKDAYS = ['월', '화', '수', '목', '금', '토', '일']
@@ -67,14 +67,13 @@ def build_prompt(articles, date_str):
 
 
 def generate_digest(articles):
-    genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
     today = datetime.now(KST)
     date_str = f"{today.year}년 {today.month}월 {today.day}일 ({WEEKDAYS[today.weekday()]})"
 
     prompt = build_prompt(articles, date_str)
-    response = model.generate_content(prompt)
+    response = client.models.generate_content(model="gemini-2.0-flash", contents=prompt)
 
     content = response.text.strip()
     content = re.sub(r'^```(?:json)?\s*', '', content)
