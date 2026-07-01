@@ -269,16 +269,39 @@
       render(filtered);
     }
 
+    // ── 중복 그룹핑 ───────────────────────────────────────────
+    function normalizeTitle(title) {
+      return title.toLowerCase().replace(/[^\w가-힣]/g, '').slice(0, 30);
+    }
+
+    function groupArticles(articles) {
+      const groups = [];
+      const seen   = new Map();
+      for (const a of articles) {
+        const key = normalizeTitle(a.title);
+        if (seen.has(key)) {
+          seen.get(key).related.push(a);
+        } else {
+          const g = { main: a, related: [] };
+          seen.set(key, g);
+          groups.push(g);
+        }
+      }
+      return groups;
+    }
+
     // ── 렌더링 ────────────────────────────────────────────────
     function render(articles) {
       const container = document.getElementById('articles-container');
       const empty     = document.getElementById('empty-state');
-      document.getElementById('article-count').textContent = '총 ' + articles.length + '건';
 
       if (!articles.length) { container.innerHTML = ''; showEmpty(); return; }
       empty.classList.add('hidden');
 
-      container.innerHTML = articles.map(a => `
+      const groups = groupArticles(articles);
+      document.getElementById('article-count').textContent = '총 ' + groups.length + '건';
+
+      container.innerHTML = groups.map(({ main: a, related }) => `
         <article class="bg-white rounded-xl border border-gray-200 p-4 hover:border-blue-300 transition-colors">
           <div class="flex items-start gap-3">
             <div class="flex-1 min-w-0">
@@ -293,7 +316,16 @@
                 class="text-[15px] font-semibold text-gray-900 hover:text-blue-600 leading-snug">
                 ${escHtml(a.title)}
               </a>
-              ${a.summary ? `<p class="text-sm text-gray-500 mt-1.5 leading-relaxed">${escHtml(a.summary)}</p>` : ''}
+              ${related.length ? `
+              <div class="mt-2 pt-2 border-t border-gray-100 space-y-1">
+                ${related.map(r => `
+                  <a href="${escHtml(r.url)}" target="_blank" rel="noopener noreferrer"
+                    class="flex items-center gap-1.5 text-xs text-gray-400 hover:text-blue-500 transition-colors">
+                    <span class="shrink-0 w-1 h-1 rounded-full bg-gray-300"></span>
+                    <span>${escHtml(r.source || '관련기사')} — ${escHtml(r.title)}</span>
+                  </a>
+                `).join('')}
+              </div>` : ''}
             </div>
             <a href="${escHtml(a.url)}" target="_blank" rel="noopener noreferrer"
               class="shrink-0 text-gray-300 hover:text-blue-500 transition-colors mt-0.5" title="원문 보기">
