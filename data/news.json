@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02 20:48 (KST)",
+  "updated_at": "2026-07-02 21:18 (KST)",
   "articles": [
     {
       "title": "월드컵 특수 반짝 '치지직', 네이버 다음 스텝은 '고민'",
@@ -50,18 +50,18 @@
       "date": "2026-07-02"
     },
     {
-      "title": "씨엔티테크, ‘2026 농식품 FAST TRACK’ 투자상담회 개최…보육기업 투자 검토 진행",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9abjZzTHBUaElrdkFnMDdaSjQyeUdpdUk0VzMzN2hiX21OLW1aM1ZnRkM0MmFWN3RYZWZ1QzFHS2JoTkItdGc?oc=5",
-      "source": "beSUCCESS",
-      "summary": "씨엔티테크, ‘2026 농식품 FAST TRACK’ 투자상담회 개최…보육기업 투자 검토 진행  beSUCCESS",
-      "category": "스포츠 스타트업",
-      "date": "2026-07-02"
-    },
-    {
       "title": "'김효주·방신실 효과'→상위 1.4% 질주…어메이징크리, 韓 '고속성장 스타트업 50' 선정",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJeTA0aG5NcUZCUDlfTzlPU2tHS0JmR2FaSWx5bkdvNS1mckl4Q040TjNROHB0SENBTU1VZi1vcUdJWVEyX1otWVhiMW9jRXpYbVN4TGRPQzBfTDdG?oc=5",
       "source": "네이트",
       "summary": "'김효주·방신실 효과'→상위 1.4% 질주…어메이징크리, 韓 '고속성장 스타트업 50' 선정  네이트",
+      "category": "스포츠 스타트업",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "씨엔티테크, ‘2026 농식품 FAST TRACK’ 투자상담회 개최…보육기업 투자 검토 진행",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9abjZzTHBUaElrdkFnMDdaSjQyeUdpdUk0VzMzN2hiX21OLW1aM1ZnRkM0MmFWN3RYZWZ1QzFHS2JoTkItdGc?oc=5",
+      "source": "beSUCCESS",
+      "summary": "씨엔티테크, ‘2026 농식품 FAST TRACK’ 투자상담회 개최…보육기업 투자 검토 진행  beSUCCESS",
       "category": "스포츠 스타트업",
       "date": "2026-07-02"
     },
@@ -586,10 +586,10 @@
       "date": "2026-06-29"
     },
     {
-      "title": "체육공단 '2026년 공공데이터 활용 경진대회' 개최, 최대 250만원 상금",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pUXdLRUQ5Q0JkaFhmVTN5OG9FRXRaWkhIQk9YYW9yMTF3V0MzVlpNbmtzMkQ1WEthWXJoTDhMZlF0Q3FWR1B4dS1CeURjZU02bTR5ak5NX0VtNmtoODVpdA?oc=5",
+      "title": "체육공단, 공공데이터 활용 경진대회 개최…대한민국 국민이라면 누구나 참여 가능",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90R3BVTFFXdjFmV3oyNE04NlU2QkVWU2tYRFZ0Z3IwRVpja2NSTkc2R0NlN1U3cU1JVjdfY3ljbm44MURrcXQxVVdDRWkxUmlDMl9jcUNDV2J6ZURN?oc=5",
       "source": "네이트",
-      "summary": "체육공단 '2026년 공공데이터 활용 경진대회' 개최, 최대 250만원 상금  네이트",
+      "summary": "체육공단, 공공데이터 활용 경진대회 개최…대한민국 국민이라면 누구나 참여 가능  네이트",
       "category": "스포츠 데이터",
       "date": "2026-06-29"
     },
@@ -774,6 +774,14 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpalJrSWFycEdIX1NZSElmNXUxa1diM0s4S2ZiWDNQY21fTkVnX2toVTBzWXNQTXVOamRTdnNFX05hVTNnZDlybU1nVlJ5dW8?oc=5",
       "source": "v.daum.net",
       "summary": "[스포츠머그] \"데이터 분석했지만 뚜렷한 이유는…\" 남아공전 충격패 다음 날 홍명보 감독 기자회견  v.daum.net",
+      "category": "스포츠 데이터",
+      "date": "2026-06-26"
+    },
+    {
+      "title": "AI가 바라본 '음홀대전'…탑독 프랑스에 반전 꾀하는 노르웨이",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1anpjazUtS2JCbDJLcnQ3QkN6WnRNUHRtcEdSVEM2U0pNWDRYenAwZ1g2N2U3aEF1RmdNTHcxSURUQy1PVmdUcUxjSURhODJIWndCX3Bfa1ZPX1Ay?oc=5",
+      "source": "네이트",
+      "summary": "AI가 바라본 '음홀대전'…탑독 프랑스에 반전 꾀하는 노르웨이  네이트",
       "category": "스포츠 데이터",
       "date": "2026-06-26"
     }
