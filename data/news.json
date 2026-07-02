@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02 19:48 (KST)",
+  "updated_at": "2026-07-02 20:18 (KST)",
   "articles": [
     {
       "title": "월드컵 특수 반짝 '치지직', 네이버 다음 스텝은 '고민'",
@@ -214,6 +214,14 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Za2tvSm9qV3l5cmxUd05ha1VrNldxVWFJZEk2ODJRMjFPV2pTQzRzMEUwalpJX1dRVFBhUlRBZUxlbHYyaklTWWlEcmVmN1daN0IteC11aHhXdlgzR2JkR0R6a19ITEFwNEpJ?oc=5",
       "source": "ainews1.co.kr",
       "summary": "JTBC 기업회생 논란, 월드컵 중계권만의 문제가 아니다.  ainews1.co.kr",
+      "category": "스포츠 중계권",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "2028 LA올림픽, 100주년 월드컵… 정상적 시청 여부 불명확",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kcjg0dTlxcXdMZU90bUVXWXZNOHdJRGZkUHI2d09peGtxemJjQ0xvVi1WQktYd3N0dlBZaGpjcHhEaXdKV3ZSNkxzZ2trRGI1cUFXTEdITW5PUjFCQVgzNW1aOEdkUQ?oc=5",
+      "source": "한국기자협회",
+      "summary": "2028 LA올림픽, 100주년 월드컵… 정상적 시청 여부 불명확  한국기자협회",
       "category": "스포츠 중계권",
       "date": "2026-07-01"
     },
@@ -570,18 +578,18 @@
       "date": "2026-06-29"
     },
     {
-      "title": "마인드로직, 생성형 AI 플랫폼 ‘팩트챗’ 데이터 첫 공개",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3Q1JDRG9qcnYtSXhidkVvQ3c4Y0ExZjVKdTdseE1nSWtzMm9jbEVqQXdwb3pkczJEZnZGRnJWMHdfY2FnTF93Vlp0dENwbmVqUjFpaXZETWtPVERJRXfSAWNBVV95cUxQZ3Y2YTVuNjQyRzd5dFZBckh2NENXUnI4Ukx3bWJMSXZNSWZTXzMtZXI5TjBEZ3dDeGhjbjc4UlZjWjZFSVhPNXQ1WTdTZHFPVVBQbTgtRTBqQm90X0lBdjc0b1E?oc=5",
-      "source": "스포츠경향",
-      "summary": "마인드로직, 생성형 AI 플랫폼 ‘팩트챗’ 데이터 첫 공개  스포츠경향",
-      "category": "스포츠 데이터",
-      "date": "2026-06-29"
-    },
-    {
       "title": "국민체육진흥공단, 공공데이터 활용 경진대회",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfcWU5UVRqcnhRVGtDdkJJbHA4Wk15c01ETkZSSkFQNHVscUpRanNWN1VERTdXUXQ4a3J2SjN6M0pyRGhDUDg3d1h4dk1wVEFqRlZLRnlOaEJOTHUzWGJhMA?oc=5",
       "source": "네이트",
       "summary": "국민체육진흥공단, 공공데이터 활용 경진대회  네이트",
+      "category": "스포츠 데이터",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "마인드로직, 생성형 AI 플랫폼 ‘팩트챗’ 데이터 첫 공개",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3Q1JDRG9qcnYtSXhidkVvQ3c4Y0ExZjVKdTdseE1nSWtzMm9jbEVqQXdwb3pkczJEZnZGRnJWMHdfY2FnTF93Vlp0dENwbmVqUjFpaXZETWtPVERJRXfSAWNBVV95cUxQZ3Y2YTVuNjQyRzd5dFZBckh2NENXUnI4Ukx3bWJMSXZNSWZTXzMtZXI5TjBEZ3dDeGhjbjc4UlZjWjZFSVhPNXQ1WTdTZHFPVVBQbTgtRTBqQm90X0lBdjc0b1E?oc=5",
+      "source": "스포츠경향",
+      "summary": "마인드로직, 생성형 AI 플랫폼 ‘팩트챗’ 데이터 첫 공개  스포츠경향",
       "category": "스포츠 데이터",
       "date": "2026-06-29"
     },
@@ -718,14 +726,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NNndEdEI5TXhPckgwQnExZmFCZzdwd3pMVmtWWHM3Y2o1RktlSVJFdGswSWZrclg1bW9YNVNUNW1FUlFBZUdzdkpuRExtOHBsRnJ0NFlHMVN2UExX?oc=5",
       "source": "뉴스핌",
       "summary": "[핌 포커스] '연애의 재발견' 멈췄다…JTBC 위기, 콘텐츠 현장 번지나  뉴스핌",
-      "category": "스포츠 중계권",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "북중미 월드컵 대한민국 멕시코 인터넷 중계",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qYUplSzYzTnBwZ2h5MGdteVUxZ29kSlNfYm9jMF9HYXBTajZWQmpsc2RIRUhZWkltVEtOWmZwLWh3WVZyTUdLOEln?oc=5",
-      "source": "브런치",
-      "summary": "북중미 월드컵 대한민국 멕시코 인터넷 중계  브런치",
       "category": "스포츠 중계권",
       "date": "2026-06-26"
     },
