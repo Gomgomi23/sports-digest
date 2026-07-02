@@ -37,6 +37,11 @@
       background:linear-gradient(90deg,
         var(--m-blue-light) 0 33.33%, var(--m-blue-dark) 33.33% 66.66%, var(--m-red) 66.66% 100%);
     }
+    /* 활성 카테고리 탭 = M 트라이컬러 스트라이프 밑줄 (스펙: 탭 활성/호버 인디케이터) */
+    .tab.is-active{
+      border-image:linear-gradient(90deg,
+        var(--m-blue-light) 0 33.33%, var(--m-blue-dark) 33.33% 66.66%, var(--m-red) 66.66% 100%) 1;
+    }
     ::selection{ background:var(--m-red); color:#fff; }
     /* thin scrollbar on tab strip */
     .noscroll::-webkit-scrollbar{ height:0; }
@@ -119,7 +124,7 @@
       <!-- 카테고리 탭: 언더라인형(대문자 트래킹), 필 제거 -->
       <div class="flex gap-6 overflow-x-auto noscroll">
         <button onclick="filterCategory('전체')" data-cat="전체"
-          class="tab label-m text-[12px] whitespace-nowrap pb-3 border-b-2 transition-colors text-white border-white">
+          class="tab label-m text-[12px] whitespace-nowrap pb-3 border-b-2 border-transparent transition-colors text-white is-active">
           전체
         </button>
         <button onclick="filterCategory('스포츠 중계권')" data-cat="스포츠 중계권"
@@ -152,7 +157,7 @@
     <div class="m-stripe"></div>
   </header>
 
-  <main class="max-w-4xl mx-auto px-4 py-10">
+  <main class="max-w-4xl mx-auto px-4 py-12">
     <div id="digest-section"></div>
     <div id="articles-container" class="hidden space-y-4"></div>
     <div id="empty-state" class="hidden text-center py-24 text-[#7e7e7e]">
@@ -315,10 +320,9 @@
       currentCategory = cat;
       document.querySelectorAll('.tab').forEach(btn => {
         const active = btn.dataset.cat === cat;
-        btn.classList.toggle('text-white',       active);
-        btn.classList.toggle('border-white',      active);
-        btn.classList.toggle('text-[#7e7e7e]',    !active);
-        btn.classList.toggle('border-transparent',!active);
+        btn.classList.toggle('is-active',      active);
+        btn.classList.toggle('text-white',     active);
+        btn.classList.toggle('text-[#7e7e7e]', !active);
       });
       if (cat === '전체') {
         document.getElementById('digest-section').classList.remove('hidden');
@@ -387,7 +391,7 @@
       document.getElementById('article-count').textContent = '총 ' + groups.length + '건';
 
       container.innerHTML = groups.map(({ main: a, related }) => `
-        <article class="bg-[#1a1a1a] border border-[#3c3c3c] p-5 hover:border-white transition-colors">
+        <article class="bg-[#1a1a1a] border border-[#3c3c3c] p-6 hover:border-white transition-colors">
           <div class="flex items-start gap-3">
             <div class="flex-1 min-w-0">
               <div class="flex flex-wrap items-center gap-3 mb-2.5">
