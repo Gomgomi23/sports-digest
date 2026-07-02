@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02 20:18 (KST)",
+  "updated_at": "2026-07-02 20:48 (KST)",
   "articles": [
     {
       "title": "월드컵 특수 반짝 '치지직', 네이버 다음 스텝은 '고민'",
@@ -214,14 +214,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Za2tvSm9qV3l5cmxUd05ha1VrNldxVWFJZEk2ODJRMjFPV2pTQzRzMEUwalpJX1dRVFBhUlRBZUxlbHYyaklTWWlEcmVmN1daN0IteC11aHhXdlgzR2JkR0R6a19ITEFwNEpJ?oc=5",
       "source": "ainews1.co.kr",
       "summary": "JTBC 기업회생 논란, 월드컵 중계권만의 문제가 아니다.  ainews1.co.kr",
-      "category": "스포츠 중계권",
-      "date": "2026-07-01"
-    },
-    {
-      "title": "2028 LA올림픽, 100주년 월드컵… 정상적 시청 여부 불명확",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kcjg0dTlxcXdMZU90bUVXWXZNOHdJRGZkUHI2d09peGtxemJjQ0xvVi1WQktYd3N0dlBZaGpjcHhEaXdKV3ZSNkxzZ2trRGI1cUFXTEdITW5PUjFCQVgzNW1aOEdkUQ?oc=5",
-      "source": "한국기자협회",
-      "summary": "2028 LA올림픽, 100주년 월드컵… 정상적 시청 여부 불명확  한국기자협회",
       "category": "스포츠 중계권",
       "date": "2026-07-01"
     },
@@ -562,14 +554,6 @@
       "date": "2026-06-29"
     },
     {
-      "title": "체육공단 ‘2026 공공데이터 활용 경진대회’ 개최, 창의적 서비스 발굴",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52SFRKMjhMZUlqbkJVNTdpV1pYUTU4TWJQOUtIUzlDZV95TlBnUXBEWDNXYllLQm5uWFNCb1EyZENOX2FtMjVGdFo3emlvTXFyRnpRc1FZMDU1RnloREdQNm1Tbl9oS1dlUy1Rd1hB?oc=5",
-      "source": "아시아투데이",
-      "summary": "체육공단 ‘2026 공공데이터 활용 경진대회’ 개최, 창의적 서비스 발굴  아시아투데이",
-      "category": "스포츠 데이터",
-      "date": "2026-06-29"
-    },
-    {
       "title": "국민체육진흥공단, 공공데이터 활용 경진대회",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ER0tFWllHUnQxa1oycDd0d1hzancwc2hmOVFwTmc3R3M3WnlEV0Y4YkNON0dKMUVMNTZLRUczZmtaejhHNHBmOEtDdXlPdl9ESXRGa0MzaUJWZFAxTkJHeWV1UzdyZF9IWWlDN2RHTTFpS1hLVHc?oc=5",
       "source": "starnewskorea.com",
@@ -578,10 +562,10 @@
       "date": "2026-06-29"
     },
     {
-      "title": "국민체육진흥공단, 공공데이터 활용 경진대회",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfcWU5UVRqcnhRVGtDdkJJbHA4Wk15c01ETkZSSkFQNHVscUpRanNWN1VERTdXUXQ4a3J2SjN6M0pyRGhDUDg3d1h4dk1wVEFqRlZLRnlOaEJOTHUzWGJhMA?oc=5",
-      "source": "네이트",
-      "summary": "국민체육진흥공단, 공공데이터 활용 경진대회  네이트",
+      "title": "체육공단 ‘2026 공공데이터 활용 경진대회’ 개최, 창의적 서비스 발굴",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52SFRKMjhMZUlqbkJVNTdpV1pYUTU4TWJQOUtIUzlDZV95TlBnUXBEWDNXYllLQm5uWFNCb1EyZENOX2FtMjVGdFo3emlvTXFyRnpRc1FZMDU1RnloREdQNm1Tbl9oS1dlUy1Rd1hB?oc=5",
+      "source": "아시아투데이",
+      "summary": "체육공단 ‘2026 공공데이터 활용 경진대회’ 개최, 창의적 서비스 발굴  아시아투데이",
       "category": "스포츠 데이터",
       "date": "2026-06-29"
     },
@@ -590,6 +574,14 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3Q1JDRG9qcnYtSXhidkVvQ3c4Y0ExZjVKdTdseE1nSWtzMm9jbEVqQXdwb3pkczJEZnZGRnJWMHdfY2FnTF93Vlp0dENwbmVqUjFpaXZETWtPVERJRXfSAWNBVV95cUxQZ3Y2YTVuNjQyRzd5dFZBckh2NENXUnI4Ukx3bWJMSXZNSWZTXzMtZXI5TjBEZ3dDeGhjbjc4UlZjWjZFSVhPNXQ1WTdTZHFPVVBQbTgtRTBqQm90X0lBdjc0b1E?oc=5",
       "source": "스포츠경향",
       "summary": "마인드로직, 생성형 AI 플랫폼 ‘팩트챗’ 데이터 첫 공개  스포츠경향",
+      "category": "스포츠 데이터",
+      "date": "2026-06-29"
+    },
+    {
+      "title": "국민체육진흥공단, 공공데이터 활용 경진대회",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfcWU5UVRqcnhRVGtDdkJJbHA4Wk15c01ETkZSSkFQNHVscUpRanNWN1VERTdXUXQ4a3J2SjN6M0pyRGhDUDg3d1h4dk1wVEFqRlZLRnlOaEJOTHUzWGJhMA?oc=5",
+      "source": "네이트",
+      "summary": "국민체육진흥공단, 공공데이터 활용 경진대회  네이트",
       "category": "스포츠 데이터",
       "date": "2026-06-29"
     },
@@ -782,14 +774,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpalJrSWFycEdIX1NZSElmNXUxa1diM0s4S2ZiWDNQY21fTkVnX2toVTBzWXNQTXVOamRTdnNFX05hVTNnZDlybU1nVlJ5dW8?oc=5",
       "source": "v.daum.net",
       "summary": "[스포츠머그] \"데이터 분석했지만 뚜렷한 이유는…\" 남아공전 충격패 다음 날 홍명보 감독 기자회견  v.daum.net",
-      "category": "스포츠 데이터",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "AI가 바라본 '음홀대전'…탑독 프랑스에 반전 꾀하는 노르웨이",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1anpjazUtS2JCbDJLcnQ3QkN6WnRNUHRtcEdSVEM2U0pNWDRYenAwZ1g2N2U3aEF1RmdNTHcxSURUQy1PVmdUcUxjSURhODJIWndCX3Bfa1ZPX1Ay?oc=5",
-      "source": "네이트",
-      "summary": "AI가 바라본 '음홀대전'…탑독 프랑스에 반전 꾀하는 노르웨이  네이트",
       "category": "스포츠 데이터",
       "date": "2026-06-26"
     }
