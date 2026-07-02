@@ -3,43 +3,83 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>스포츠 산업 뉴스 브리핑</title>
+  <title>SPORTS DIGEST — 스포츠 산업 뉴스 브리핑</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" as="style" crossorigin
+    href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+  <style>
+    /* ── BMW M design system ───────────────────────────────────
+       Near-black canvas · white heavy display / light body ·
+       M tricolor stripe as the sole decorative signature · radius 0 */
+    :root {
+      --canvas:#000; --surface-soft:#0d0d0d; --surface-card:#1a1a1a; --surface-elev:#262626;
+      --ink:#fff; --body:#bbbbbb; --body-strong:#e6e6e6; --muted:#7e7e7e;
+      --hairline:#3c3c3c;
+      --m-blue-light:#0066b1; --m-blue-dark:#1c69d4; --m-red:#e22718;
+    }
+    html,body{ background:var(--canvas); }
+    body{
+      font-family:'Pretendard Variable','Pretendard',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+      color:var(--body); -webkit-font-smoothing:antialiased;
+    }
+    /* heavy display vs. light body — the editorial signature */
+    .display{ font-weight:700; letter-spacing:-.01em; color:var(--ink); }
+    .body-light{ font-weight:300; }
+    /* machined uppercase labels */
+    .label-m{ text-transform:uppercase; letter-spacing:1.5px; font-weight:700; }
+    /* the M tricolor stripe — brand identity only, never a CTA */
+    .m-stripe{
+      height:4px; width:100%;
+      background:linear-gradient(90deg,
+        var(--m-blue-light) 0 33.33%, var(--m-blue-dark) 33.33% 66.66%, var(--m-red) 66.66% 100%);
+    }
+    .m-stripe-sm{ height:3px; width:44px;
+      background:linear-gradient(90deg,
+        var(--m-blue-light) 0 33.33%, var(--m-blue-dark) 33.33% 66.66%, var(--m-red) 66.66% 100%);
+    }
+    ::selection{ background:var(--m-red); color:#fff; }
+    /* thin scrollbar on tab strip */
+    .noscroll::-webkit-scrollbar{ height:0; }
+  </style>
 </head>
-<body class="bg-gray-50 min-h-screen">
+<body class="min-h-screen">
 
   <!-- PAT 미설정 안내 배너 (최초 1회) -->
-  <div id="setup-banner" class="hidden bg-blue-50 border-b border-blue-200 px-4 py-2.5">
+  <div id="setup-banner" class="hidden bg-[#0d0d0d] border-b border-[#3c3c3c] px-4 py-2.5">
     <div class="max-w-4xl mx-auto flex items-center justify-between gap-3 text-sm">
-      <p class="text-blue-700">GitHub PAT를 설정하면 접속할 때마다 자동으로 최신 뉴스를 수집합니다.</p>
-      <button onclick="showTokenPanel()" class="shrink-0 text-blue-600 font-semibold hover:text-blue-800 underline whitespace-nowrap">설정하기</button>
+      <p class="text-[#bbbbbb] body-light">GitHub PAT를 설정하면 접속할 때마다 자동으로 최신 뉴스를 수집합니다.</p>
+      <button onclick="showTokenPanel()" class="shrink-0 label-m text-[11px] text-white hover:text-[#e22718] transition-colors whitespace-nowrap">설정하기</button>
     </div>
   </div>
 
   <!-- PAT 입력 패널 -->
-  <div id="token-panel" class="hidden bg-white border-b border-gray-200 px-4 py-3">
+  <div id="token-panel" class="hidden bg-[#0d0d0d] border-b border-[#3c3c3c] px-4 py-3">
     <div class="max-w-4xl mx-auto flex items-center gap-2">
-      <label class="text-sm text-gray-500 whitespace-nowrap">GitHub PAT</label>
+      <label class="label-m text-[11px] text-[#7e7e7e] whitespace-nowrap">GitHub PAT</label>
       <input id="token-input" type="password" placeholder="ghp_... (Actions: Read and write 권한 포함)"
-        class="flex-1 text-sm border border-gray-300 rounded-lg px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
+        class="flex-1 text-sm bg-[#1a1a1a] text-white border border-[#3c3c3c] rounded-none px-3 py-2 body-light placeholder:text-[#7e7e7e] focus:outline-none focus:border-white transition-colors"
         onkeydown="if(event.key==='Enter') saveToken()" />
-      <button onclick="saveToken()" class="px-3 py-2 bg-blue-600 text-white text-sm font-medium rounded-lg hover:bg-blue-700">저장</button>
-      <button onclick="hideTokenPanel()" class="px-3 py-2 text-gray-500 text-sm hover:text-gray-700">취소</button>
+      <button onclick="saveToken()" class="px-4 py-2 border border-white text-white label-m text-[11px] rounded-none hover:bg-white hover:text-black transition-colors">저장</button>
+      <button onclick="hideTokenPanel()" class="px-3 py-2 text-[#7e7e7e] label-m text-[11px] hover:text-white transition-colors">취소</button>
     </div>
   </div>
 
-  <header class="bg-white border-b border-gray-200 sticky top-0 z-10 shadow-sm">
-    <div class="max-w-4xl mx-auto px-4 py-4">
-      <div class="flex items-center justify-between mb-3">
-        <div>
-          <h1 class="text-xl font-bold text-gray-900">스포츠 산업 뉴스 브리핑</h1>
-          <p id="updated-at" class="text-xs text-gray-400 mt-0.5"></p>
+  <header class="bg-black border-b border-[#3c3c3c] sticky top-0 z-10">
+    <div class="max-w-4xl mx-auto px-4 pt-5 pb-0">
+      <div class="flex items-start justify-between mb-4">
+        <div class="min-w-0">
+          <div class="flex items-center gap-3 mb-1.5">
+            <div class="m-stripe-sm"></div>
+            <span class="label-m text-[11px] text-[#7e7e7e]">Sports Industry Intelligence</span>
+          </div>
+          <h1 class="display text-2xl sm:text-[28px] leading-none">스포츠 산업 뉴스 브리핑</h1>
+          <p id="updated-at" class="text-[11px] text-[#7e7e7e] mt-1.5 body-light"></p>
         </div>
-        <div class="flex items-center gap-2">
-          <span id="article-count" class="text-sm text-gray-400"></span>
+        <div class="flex items-center gap-3 shrink-0 pt-1">
+          <span id="article-count" class="label-m text-[11px] text-[#7e7e7e]"></span>
 
           <!-- GitHub Actions 실행 중 표시 -->
-          <span id="dispatch-status" class="hidden text-xs text-orange-500 flex items-center gap-1">
+          <span id="dispatch-status" class="hidden label-m text-[10px] text-[#e22718] flex items-center gap-1">
             <svg class="w-3 h-3 animate-spin" fill="none" viewBox="0 0 24 24">
               <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"/>
               <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z"/>
@@ -48,7 +88,7 @@
           </span>
 
           <!-- 폴링 스피너 -->
-          <span id="sync-status" class="hidden text-xs text-blue-500 flex items-center gap-1">
+          <span id="sync-status" class="hidden label-m text-[10px] text-[#1c69d4] flex items-center gap-1">
             <svg class="w-3 h-3 animate-spin" fill="none" viewBox="0 0 24 24">
               <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"/>
               <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z"/>
@@ -58,7 +98,7 @@
 
           <!-- 수동 새로고침 버튼 -->
           <button onclick="manualRefresh()" title="지금 업데이트"
-            class="text-gray-400 hover:text-blue-500 transition-colors p-1 rounded">
+            class="text-[#7e7e7e] hover:text-white transition-colors">
             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                 d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/>
@@ -67,7 +107,7 @@
 
           <!-- PAT 설정 버튼 -->
           <button onclick="toggleTokenPanel()" title="GitHub PAT 설정"
-            class="text-gray-400 hover:text-gray-600 transition-colors p-1 rounded">
+            class="text-[#7e7e7e] hover:text-white transition-colors">
             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                 d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"/>
@@ -76,51 +116,65 @@
           </button>
         </div>
       </div>
-      <div class="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1">
+      <!-- 카테고리 탭: 언더라인형(대문자 트래킹), 필 제거 -->
+      <div class="flex gap-6 overflow-x-auto noscroll">
         <button onclick="filterCategory('전체')" data-cat="전체"
-          class="tab px-3 py-1.5 rounded-full text-sm font-medium whitespace-nowrap transition-colors bg-blue-600 text-white">
+          class="tab label-m text-[12px] whitespace-nowrap pb-3 border-b-2 transition-colors text-white border-white">
           전체
         </button>
         <button onclick="filterCategory('스포츠 중계권')" data-cat="스포츠 중계권"
-          class="tab px-3 py-1.5 rounded-full text-sm font-medium whitespace-nowrap transition-colors bg-gray-100 text-gray-600 hover:bg-gray-200">
+          class="tab label-m text-[12px] whitespace-nowrap pb-3 border-b-2 transition-colors text-[#7e7e7e] border-transparent hover:text-white">
           중계권
         </button>
         <button onclick="filterCategory('스포츠 OTT')" data-cat="스포츠 OTT"
-          class="tab px-3 py-1.5 rounded-full text-sm font-medium whitespace-nowrap transition-colors bg-gray-100 text-gray-600 hover:bg-gray-200">
+          class="tab label-m text-[12px] whitespace-nowrap pb-3 border-b-2 transition-colors text-[#7e7e7e] border-transparent hover:text-white">
           OTT
         </button>
         <button onclick="filterCategory('스포츠 스타트업')" data-cat="스포츠 스타트업"
-          class="tab px-3 py-1.5 rounded-full text-sm font-medium whitespace-nowrap transition-colors bg-gray-100 text-gray-600 hover:bg-gray-200">
+          class="tab label-m text-[12px] whitespace-nowrap pb-3 border-b-2 transition-colors text-[#7e7e7e] border-transparent hover:text-white">
           스타트업
         </button>
         <button onclick="filterCategory('스포츠 기술')" data-cat="스포츠 기술"
-          class="tab px-3 py-1.5 rounded-full text-sm font-medium whitespace-nowrap transition-colors bg-gray-100 text-gray-600 hover:bg-gray-200">
+          class="tab label-m text-[12px] whitespace-nowrap pb-3 border-b-2 transition-colors text-[#7e7e7e] border-transparent hover:text-white">
           기술
         </button>
         <button onclick="filterCategory('스포츠 데이터')" data-cat="스포츠 데이터"
-          class="tab px-3 py-1.5 rounded-full text-sm font-medium whitespace-nowrap transition-colors bg-gray-100 text-gray-600 hover:bg-gray-200">
+          class="tab label-m text-[12px] whitespace-nowrap pb-3 border-b-2 transition-colors text-[#7e7e7e] border-transparent hover:text-white">
           데이터
         </button>
         <button onclick="filterCategory('스포츠 VR/AR')" data-cat="스포츠 VR/AR"
-          class="tab px-3 py-1.5 rounded-full text-sm font-medium whitespace-nowrap transition-colors bg-gray-100 text-gray-600 hover:bg-gray-200">
+          class="tab label-m text-[12px] whitespace-nowrap pb-3 border-b-2 transition-colors text-[#7e7e7e] border-transparent hover:text-white">
           VR/AR
         </button>
       </div>
     </div>
+    <!-- M 시그니처 스트라이프 -->
+    <div class="m-stripe"></div>
   </header>
 
-  <main class="max-w-4xl mx-auto px-4 py-6">
+  <main class="max-w-4xl mx-auto px-4 py-10">
     <div id="digest-section"></div>
-    <div id="articles-container" class="hidden space-y-3"></div>
-    <div id="empty-state" class="hidden text-center py-24 text-gray-400">
-      <svg class="w-12 h-12 mx-auto mb-3 opacity-30" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <div id="articles-container" class="hidden space-y-4"></div>
+    <div id="empty-state" class="hidden text-center py-24 text-[#7e7e7e]">
+      <svg class="w-12 h-12 mx-auto mb-3 opacity-20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
           d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z"/>
       </svg>
-      <p class="text-base font-medium">아직 뉴스가 없습니다</p>
-      <p class="text-sm mt-1">다음 브리핑을 기다려주세요</p>
+      <p class="label-m text-sm text-[#bbbbbb]">아직 뉴스가 없습니다</p>
+      <p class="text-sm mt-1 body-light">다음 브리핑을 기다려주세요</p>
     </div>
   </main>
+
+  <footer class="border-t border-[#3c3c3c] mt-8">
+    <div class="max-w-4xl mx-auto px-4 py-10">
+      <div class="m-stripe-sm mb-4"></div>
+      <p class="display text-sm">SPORTS DIGEST</p>
+      <p class="text-[11px] text-[#7e7e7e] mt-1.5 body-light leading-relaxed">
+        스포츠 산업 일일 인텔리전스 · Anchor Corp.<br>
+        AI가 수집·정리한 정보이며, 투자·비즈니스 결정 시 원문 확인을 권장합니다.
+      </p>
+    </div>
+  </footer>
 
   <script>
     const REPO     = 'Gomgomi23/sports-digest';
@@ -128,13 +182,14 @@
     const STALE_MS = 30 * 60 * 1000;   // 30분 경과 시 stale 판정
     const POLL_MS  = 5  * 60 * 1000;   // 5분마다 폴링
 
-    const CATEGORY_BADGE = {
-      '스포츠 중계권':  'bg-blue-100 text-blue-700',
-      '스포츠 OTT':     'bg-purple-100 text-purple-700',
-      '스포츠 스타트업':'bg-green-100 text-green-700',
-      '스포츠 기술':    'bg-orange-100 text-orange-700',
-      '스포츠 데이터':  'bg-cyan-100 text-cyan-700',
-      '스포츠 VR/AR':   'bg-pink-100 text-pink-700',
+    // BMW M: 색상은 브랜드 트라이컬러만. 카테고리는 대문자 라벨 + M-red 마커로 통일.
+    const CATEGORY_LABEL = {
+      '스포츠 중계권':  'RIGHTS',
+      '스포츠 OTT':     'OTT',
+      '스포츠 스타트업':'STARTUP',
+      '스포츠 기술':    'TECH',
+      '스포츠 데이터':  'DATA',
+      '스포츠 VR/AR':   'VR/AR',
     };
 
     let allArticles      = [];
@@ -260,10 +315,10 @@
       currentCategory = cat;
       document.querySelectorAll('.tab').forEach(btn => {
         const active = btn.dataset.cat === cat;
-        btn.classList.toggle('bg-blue-600', active);
-        btn.classList.toggle('text-white',  active);
-        btn.classList.toggle('bg-gray-100', !active);
-        btn.classList.toggle('text-gray-600', !active);
+        btn.classList.toggle('text-white',       active);
+        btn.classList.toggle('border-white',      active);
+        btn.classList.toggle('text-[#7e7e7e]',    !active);
+        btn.classList.toggle('border-transparent',!active);
       });
       if (cat === '전체') {
         document.getElementById('digest-section').classList.remove('hidden');
@@ -316,6 +371,11 @@
     }
 
     // ── 렌더링 ────────────────────────────────────────────────
+    // BMW M 카드: surface-card(#1a1a1a) · radius 0 · 그림자 없음 · hover 시 흰 테두리
+    function catLabel(cat) {
+      return CATEGORY_LABEL[cat] || (cat || '').replace(/^스포츠\s*/, '').toUpperCase();
+    }
+
     function render(articles) {
       const container = document.getElementById('articles-container');
       const empty     = document.getElementById('empty-state');
@@ -327,33 +387,33 @@
       document.getElementById('article-count').textContent = '총 ' + groups.length + '건';
 
       container.innerHTML = groups.map(({ main: a, related }) => `
-        <article class="bg-white rounded-xl border border-gray-200 p-4 hover:border-blue-300 transition-colors">
+        <article class="bg-[#1a1a1a] border border-[#3c3c3c] p-5 hover:border-white transition-colors">
           <div class="flex items-start gap-3">
             <div class="flex-1 min-w-0">
-              <div class="flex flex-wrap items-center gap-2 mb-2">
-                <span class="text-xs font-semibold px-2 py-0.5 rounded-full ${CATEGORY_BADGE[a.category] || 'bg-gray-100 text-gray-600'}">
-                  ${a.category}
+              <div class="flex flex-wrap items-center gap-3 mb-2.5">
+                <span class="flex items-center gap-1.5 label-m text-[10px] text-white">
+                  <span class="inline-block w-2 h-2 bg-[#e22718]"></span>${escHtml(catLabel(a.category))}
                 </span>
-                ${a.source ? `<span class="text-xs text-gray-400">${fmtSource(a.source)}</span>` : ''}
-                ${a.date   ? `<span class="text-xs text-gray-400">${escHtml(a.date)}</span>`   : ''}
+                ${a.source ? `<span class="text-[11px] text-[#7e7e7e] body-light">${fmtSource(a.source)}</span>` : ''}
+                ${a.date   ? `<span class="text-[11px] text-[#7e7e7e] body-light">${escHtml(a.date)}</span>`   : ''}
               </div>
               <a href="${escHtml(a.url)}" target="_blank" rel="noopener noreferrer"
-                class="text-[15px] font-semibold text-gray-900 hover:text-blue-600 leading-snug">
+                class="block text-[16px] font-bold text-white hover:text-[#bbbbbb] leading-snug transition-colors">
                 ${escHtml(a.title)}
               </a>
               ${related.length ? `
-              <div class="mt-2 pt-2 border-t border-gray-100 space-y-1">
+              <div class="mt-3 pt-3 border-t border-[#3c3c3c] space-y-1.5">
                 ${related.map(r => `
                   <a href="${escHtml(r.url)}" target="_blank" rel="noopener noreferrer"
-                    class="flex items-center gap-1.5 text-xs text-gray-400 hover:text-blue-500 transition-colors">
-                    <span class="shrink-0 w-1 h-1 rounded-full bg-gray-300"></span>
-                    <span>${fmtSource(r.source || '관련기사')} — ${escHtml(r.title)}</span>
+                    class="flex items-center gap-2 text-xs text-[#7e7e7e] hover:text-white transition-colors">
+                    <span class="shrink-0 w-1 h-1 bg-[#7e7e7e]"></span>
+                    <span class="body-light">${fmtSource(r.source || '관련기사')} — ${escHtml(r.title)}</span>
                   </a>
                 `).join('')}
               </div>` : ''}
             </div>
             <a href="${escHtml(a.url)}" target="_blank" rel="noopener noreferrer"
-              class="shrink-0 text-gray-300 hover:text-blue-500 transition-colors mt-0.5" title="원문 보기">
+              class="shrink-0 text-[#7e7e7e] hover:text-white transition-colors mt-0.5" title="원문 보기">
               <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                   d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
@@ -386,83 +446,85 @@
     }
 
     // ── 다이제스트 ────────────────────────────────────────────
-    const RANK_BORDER = ['border-red-400',  'border-blue-400',  'border-green-400'];
-    const RANK_TEXT   = ['text-red-600',    'text-blue-600',    'text-green-600'];
+    // 순위 마커 = M 트라이컬러 (1위 red · 2위 dark-blue · 3위 light-blue)
+    const RANK_COLOR = ['#e22718', '#1c69d4', '#0066b1'];
 
     function parseBold(text) {
       return String(text)
         .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;')
-        .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+        .replace(/\*\*(.+?)\*\*/g, '<strong class="text-white font-bold">$1</strong>');
+    }
+
+    function sectionHead(title) {
+      return `<div class="flex items-center gap-3 mb-4 mt-8">
+        <div class="m-stripe-sm"></div>
+        <h3 class="display text-[16px]">${escHtml(title)}</h3>
+      </div>`;
     }
 
     function renderDigest(d) {
       if (!d || !d.date || d.date === '준비 중' || !d.top3 || !d.top3.length) return;
 
       const top3Html = (d.top3 || []).map((item, i) => `
-        <div class="border-l-4 ${RANK_BORDER[i] || 'border-gray-400'} pl-4 py-0.5">
-          <div class="${RANK_TEXT[i] || 'text-gray-600'} text-sm font-bold mb-1">
+        <div class="pl-4 py-1" style="border-left:4px solid ${RANK_COLOR[i] || '#7e7e7e'}">
+          <div class="text-[14px] font-bold mb-1.5 leading-snug" style="color:${RANK_COLOR[i] || '#e6e6e6'}">
             ${item.url
-              ? `<a href="${escHtml(item.url)}" target="_blank" rel="noopener" class="hover:underline">${item.rank}위 | ${escHtml(item.title)}</a>`
-              : `${item.rank}위 | ${escHtml(item.title)}`}
+              ? `<a href="${escHtml(item.url)}" target="_blank" rel="noopener" class="hover:underline"><span class="label-m text-[11px]">No.${item.rank}</span>&nbsp;&nbsp;${escHtml(item.title)}</a>`
+              : `<span class="label-m text-[11px]">No.${item.rank}</span>&nbsp;&nbsp;${escHtml(item.title)}`}
           </div>
-          <p class="text-sm text-gray-700 leading-relaxed">${escHtml(item.body)}</p>
+          <p class="text-[13.5px] text-[#bbbbbb] leading-relaxed body-light">${escHtml(item.body)}</p>
         </div>`).join('');
 
       const sectionsHtml = (d.sections || []).map(sec => {
         const subHtml = (sec.subsections || []).map(sub => `
-          ${sub.title ? `<div class="text-blue-600 font-semibold text-sm mt-3 mb-1.5">${escHtml(sub.title)}</div>` : ''}
-          <ul class="space-y-2">
+          ${sub.title ? `<div class="label-m text-[11px] text-[#1c69d4] mt-4 mb-2">${escHtml(sub.title)}</div>` : ''}
+          <ul class="space-y-2.5">
             ${(sub.items || []).map(item => {
               const text = typeof item === 'object' ? item.text : item;
               const url  = typeof item === 'object' ? item.url  : null;
-              return `<li class="text-sm text-gray-700 leading-relaxed flex gap-2">
-                <span class="text-gray-400 shrink-0 select-none">•</span>
-                <span>${parseBold(text)}${url ? ` <a href="${escHtml(url)}" target="_blank" rel="noopener" class="text-gray-400 hover:text-blue-500 text-xs ml-0.5">↗</a>` : ''}</span>
+              return `<li class="text-[13.5px] text-[#bbbbbb] leading-relaxed flex gap-2.5 body-light">
+                <span class="text-[#e22718] shrink-0 select-none mt-1.5"><span class="inline-block w-1.5 h-1.5 bg-[#e22718]"></span></span>
+                <span>${parseBold(text)}${url ? ` <a href="${escHtml(url)}" target="_blank" rel="noopener" class="text-[#7e7e7e] hover:text-white text-xs ml-0.5">↗</a>` : ''}</span>
               </li>`;
             }).join('')}
           </ul>`).join('');
-        return `
-          <div class="mt-5">
-            <h3 class="text-[15px] font-bold text-gray-900 border-b-2 border-gray-800 pb-1.5 mb-3">${escHtml(sec.title)}</h3>
-            ${subHtml}
-          </div>`;
+        return `<div>${sectionHead(sec.title)}${subHtml}</div>`;
       }).join('');
 
-      const mediaTypeIcon = { 'YouTube': '▶ YouTube', '블로그': '📝 블로그', '리서치': '📊 리서치' };
+      const mediaTypeLabel = { 'YouTube': 'YOUTUBE', '블로그': 'BLOG', '리서치': 'RESEARCH' };
       const mediaHtml = d.media && d.media.length ? `
-        <div class="mt-5">
-          <h3 class="text-[15px] font-bold text-gray-900 border-b-2 border-gray-800 pb-1.5 mb-3">📺 추천 유튜브 & 블로그</h3>
-          <div class="space-y-3">
+        <div>${sectionHead('추천 유튜브 & 블로그')}
+          <div class="space-y-3.5">
             ${d.media.map(m => `
               <div class="flex gap-3 items-start text-sm">
-                <span class="shrink-0 text-xs text-gray-500 bg-gray-100 rounded px-1.5 py-0.5 whitespace-nowrap mt-0.5">${escHtml(mediaTypeIcon[m.type] || m.type)}</span>
+                <span class="shrink-0 label-m text-[10px] text-[#bbbbbb] border border-[#3c3c3c] px-2 py-1 whitespace-nowrap mt-0.5">${escHtml(mediaTypeLabel[m.type] || (m.type||'').toUpperCase())}</span>
                 <div>
-                  <div class="font-medium text-gray-800">
+                  <div class="font-bold text-white text-[14px]">
                     ${m.url
-                      ? `<a href="${escHtml(m.url)}" target="_blank" rel="noopener" class="hover:text-blue-600 hover:underline">${escHtml(m.title)}</a>`
+                      ? `<a href="${escHtml(m.url)}" target="_blank" rel="noopener" class="hover:text-[#bbbbbb] transition-colors">${escHtml(m.title)}</a>`
                       : escHtml(m.title)}
                   </div>
-                  <div class="text-gray-500 text-xs mt-0.5">${escHtml(m.description)}</div>
+                  <div class="text-[#7e7e7e] text-xs mt-0.5 body-light">${escHtml(m.description)}</div>
                 </div>
               </div>`).join('')}
           </div>
         </div>` : '';
 
       document.getElementById('digest-section').innerHTML = `
-        <div class="bg-white rounded-xl border border-gray-200 p-6 mb-6">
-          <div class="text-center mb-6">
-            <h2 class="text-2xl font-bold text-gray-900">⚽ 스포츠 산업 일일 다이제스트</h2>
-            <p class="text-orange-500 text-sm mt-1 font-medium">${escHtml(d.date)} | Sports Industry Intelligence</p>
+        <div class="bg-[#0d0d0d] border border-[#3c3c3c] p-6 sm:p-8 mb-8">
+          <div class="mb-7">
+            <div class="m-stripe-sm mb-3"></div>
+            <h2 class="display text-[26px] sm:text-[32px] leading-none">스포츠 산업 일일 다이제스트</h2>
+            <p class="label-m text-[11px] text-[#7e7e7e] mt-2.5">${escHtml(d.date)} · Sports Industry Intelligence</p>
           </div>
           ${top3Html.length ? `
-            <div>
-              <h3 class="text-[15px] font-bold text-gray-900 border-b-2 border-gray-800 pb-1.5 mb-4">🔥 오늘의 주요 뉴스 Top 3</h3>
-              <div class="space-y-4">${top3Html}</div>
+            <div>${sectionHead('오늘의 주요 뉴스 TOP 3')}
+              <div class="space-y-5">${top3Html}</div>
             </div>` : ''}
           ${sectionsHtml}
           ${mediaHtml}
-          <div class="mt-6 pt-4 border-t border-gray-100 text-center text-xs text-gray-400">
-            스포츠 산업 일일 다이제스트 | ${escHtml(d.date)} | Anchor Corp.<br>
+          <div class="mt-8 pt-5 border-t border-[#3c3c3c] text-[11px] text-[#7e7e7e] body-light leading-relaxed">
+            스포츠 산업 일일 다이제스트 · ${escHtml(d.date)} · Anchor Corp.<br>
             본 다이제스트는 AI가 수집·정리한 정보이며, 투자·비즈니스 결정 시 원문 확인을 권장합니다.
           </div>
         </div>`;

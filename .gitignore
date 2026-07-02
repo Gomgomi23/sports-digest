@@ -1,0 +1,5 @@
+# Local Claude Code / preview tooling — not part of the deployed site
+.claude/
+
+# Stray temp artifact
+C:UserslafirAppDataLocalTempcommits.json
