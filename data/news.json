@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-07-03 09:46 (KST)",
+  "updated_at": "2026-07-03 16:39 (KST)",
   "articles": [
+    {
+      "title": "'비주류-아마추어가 우리에겐 킬러 콘텐츠'...SOOP이 스포츠 독점 생중계 늘리는 이유",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEcmZzOFdEREZ4bHpMM3BWdEpxalBCcko4WlZ4X1BZU0p3RS1qNFp1UFh4WVFpSVZ5NTJ0N19BcmhQTE1TdUtMZHkxT2dBTlVwbjJ1ODhOdS1ManlMVHRoZEFZTEF2TDBEUUHSAWpBVV95cUxQRHJmczhXRERGeGx6TDNwVnRKcWpQQnJKOFpWeF9QWVNKd0UtajRadVBYeFlRaUlWeTUydDdfQXJoUExNU3VLTGR5MU9nQU5VcG4ydTg4TnUtTGp5TFR0aGRBWUxBdkwwRFFB?oc=5",
+      "source": "테크M",
+      "summary": "'비주류-아마추어가 우리에겐 킬러 콘텐츠'...SOOP이 스포츠 독점 생중계 늘리는 이유  테크M",
+      "category": "스포츠 중계권",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "네이버 치지직, e스포츠 월드컵 2026 전 종목 단독 생중계",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QaVZyd0s4N3M0dzZRTG8tbDRXczhYdzJrcXBIbnZYTEpQcXRBa21TQ3ZfSEI3YjBXRVJRYkdpbEZWNzhLQlU1aENLQlR4ZU4xRW92RFlTcUtjWGU4UUYzM2wxTEpFR2U3?oc=5",
+      "source": "2news.co.kr",
+      "summary": "네이버 치지직, e스포츠 월드컵 2026 전 종목 단독 생중계  2news.co.kr",
+      "category": "스포츠 중계권",
+      "date": "2026-07-03"
+    },
     {
       "title": "저작권 장벽에 막힌 움짤…AI가 바꾼 월드컵 콘텐츠 - 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HRTBrYnVHcEt6VHhfbHlSLVQ4OGloZmxEWGRCcXNjT0JZdGtVQXVxeFVERm1wODd0cGF2ZENpZm0tQzFqZ1ludUk2QVRxVmVQYzF6Z3IyNkFrMWRSVmJ3V1phSW5wejRNTjFQTNIBbEFVX3lxTE5HRTBrYnVHcEt6VHhfbHlSLVQ4OGloZmxEWGRCcXNjT0JZdGtVQXVxeFVERm1wODd0cGF2ZENpZm0tQzFqZ1ludUk2QVRxVmVQYzF6Z3IyNkFrMWRSVmJ3V1phSW5wejRNTjFQTA?oc=5",
@@ -10,11 +26,115 @@
       "date": "2026-07-03"
     },
     {
+      "title": "엄재용 사무총장 '뉴미디어 중계권 등 넓혀가야'",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BLXgzZUVEQ29jbFpsWkZxZmdIbXp2LURMc1dxc2s1MldnTXBxTnpxTkNtLUZWTjVqeWlVNnNpNEtkQ1hHOXBLRFcxSTU2N0FqX0h6dnVSSEZkS2x2ZVZHbg?oc=5",
+      "source": "네이트",
+      "summary": "엄재용 사무총장 '뉴미디어 중계권 등 넓혀가야'  네이트",
+      "category": "스포츠 중계권",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "네오위즈 후원 'KPHF 클럽리그', STN SPORTS TV 정규 편성",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LeWJnZHgyMkhUWmhyT1AtSjJNajh6c3J5bXRJU1F2WmZuSi1jRjA0a0JKQXlQejR2YlJyM1QyN1kybFIyNXhTQWNEekk1a2JHVmF0d0JaN3BDeE9taEFRejdRMm9YWlJsemhWaDRR?oc=5",
+      "source": "뉴스후플러스",
+      "summary": "네오위즈 후원 'KPHF 클럽리그', STN SPORTS TV 정규 편성  뉴스후플러스",
+      "category": "스포츠 중계권",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "네오위즈, '피망 쇼다운 홀덤' KPHF 클럽리그 STN SPORTS TV 정규 방송",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UZlY5cG5nLVFveUZhaXoyNjc2LUJhODhvSmY0TzF5YmVjMTZjSHhka0RhanhqWnRlZnE2c0lrU3JfU21Hc3pqdGJKUjJWd0JwNFp5QUJMa2JodXFIc3lfcEZtd2JvcG1BcFNmZWxDRjM5UXVUQ0N4MFZR?oc=5",
+      "source": "로이슈",
+      "summary": "네오위즈, '피망 쇼다운 홀덤' KPHF 클럽리그 STN SPORTS TV 정규 방송  로이슈",
+      "category": "스포츠 중계권",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "[이번주 뭐보지] 피의 게임X·F1·NBA 등 예능&스포츠 라인업 공개",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXUE80SjZSaW9RYXNwTFVlX0VjZ0dJMDc2RFM2dVV6ZFlMVEdwN1JReDZIOTAwQ0RlUVBESXRJZnhPRF9xeFF2T1VPdnMtMENHRGtna3VHanc2aEtSa2g5dmdITDU0RkpCbmc?oc=5",
+      "source": "천지일보",
+      "summary": "[이번주 뭐보지] 피의 게임X·F1·NBA 등 예능&스포츠 라인업 공개  천지일보",
+      "category": "스포츠 OTT",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "이호진 KOVO 신임 총재 공식 취임 \"부모님의 배구 사랑 이어 무거운 사명감\"[일문일답]",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZEFWZGhIUmJZejZndU5SN0ZMTGVTV1EwX2JOOXZBUXFTcGw2TS1ocnNoSXdfYW1CRWlyeVhoUG95b2VteEo1Si1MT2ctSU9GcUJxUXVObWZpTUhicHh4M01SSGszNmlLc1VWUGZlUmlraG5Fd0daYWVWNG0wbXYyZ2dlM1NRUQ?oc=5",
+      "source": "조선일보",
+      "summary": "이호진 KOVO 신임 총재 공식 취임 \"부모님의 배구 사랑 이어 무거운 사명감\"[일문일답]  조선일보",
+      "category": "스포츠 OTT",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "동산스포츠, KISS 2026서 산업용 PCM 냉각 솔루션 ‘Smart Eco Ice’ 공개… \"폭염 속 작업자 안전 지킨다\"",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwREN3N3JhVHdOTW9oQ0kwX0NKV25HVHU3RW0zYlRQY2FIckVHckQ2di05U3ozMks3cVJpcUlzZkpwVTN3T3RvNXJadElRajFtY0Q3RmNUcjFHYzVOWmhXaDFXWngyRXc?oc=5",
+      "source": "에이빙",
+      "summary": "동산스포츠, KISS 2026서 산업용 PCM 냉각 솔루션 ‘Smart Eco Ice’ 공개… \"폭염 속 작업자 안전 지킨다\"  에이빙",
+      "category": "스포츠 스타트업",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "전북대, 과기부 ‘TLO 혁신형’ 선정…기술사업화 속도",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBVmVMSDFHdFNrSHpkU3VTVDQ2cWc4YzQ5bWRmUTRmV2h3Z2hsS3hlbXdQSV92ZF96VU9TNEtlY3NGeTBuVGhPbkFVSzRDSG9tVkZ3SXpab3dFUjhhUkNacFlIN3BfY2JZT2s3WNIBbEFVX3lxTFBBVmVMSDFHdFNrSHpkU3VTVDQ2cWc4YzQ5bWRmUTRmV2h3Z2hsS3hlbXdQSV92ZF96VU9TNEtlY3NGeTBuVGhPbkFVSzRDSG9tVkZ3SXpab3dFUjhhUkNacFlIN3BfY2JZT2s3WA?oc=5",
+      "source": "국민일보",
+      "summary": "전북대, 과기부 ‘TLO 혁신형’ 선정…기술사업화 속도  국민일보",
+      "category": "스포츠 기술",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "피구의 진화, 이제는 가상현실 속으로!",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fRmNuZm45dEZvSmkwcFpkRXJVVG1XdDBsWnZiUjdsY2l3aG1wZzdXTV9VMTlIY3JUY2RhaGQ0QkUtcTlxaUh3aGdBVWZWWUZzNEJ4bFVZWVljX3ltRko0WFZjZU9aVms?oc=5",
+      "source": "경인신문",
+      "summary": "피구의 진화, 이제는 가상현실 속으로!  경인신문",
+      "category": "스포츠 기술",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "최휘영-박지성 공동위원장 체제 ‘K-축구 혁신위원회’ 출범...한국 축구 혁신 과제 다룬다",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZm9lNGJkZHgwcG1NQWJmZ2N4NzliV1ZKMHc5UGlBcGlrTHplMGJqdURPZ1JFV3NiRGZhV2pBVUNPVmF2QXVfR0xneXN5RkZBdERKTTNxQ0lidTU5Z3pzR29vcnVmYzl5TFZUcDN1Umc0QUNxVFJkM2w4UUU1enRvN29LWlVGWVkwTGtV?oc=5",
+      "source": "조선일보",
+      "summary": "최휘영-박지성 공동위원장 체제 ‘K-축구 혁신위원회’ 출범...한국 축구 혁신 과제 다룬다  조선일보",
+      "category": "스포츠 기술",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "AI 의료혁신 한눈에…‘2026 메디엑스포 코리아’ 대구 개막",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vMm5aY19jZVZ5TTJvME9rMU9BWVVNQzM2VVdfMmxnZzN6ejUtR3AyMDVMbVlISG84bTRMbGlONzVtOE02V3NiZ0JSRktjSFE2NUxScEVLd3hvS2ROT0pXWXFrOU53OXVPX3AtWlZrSUJPZw?oc=5",
+      "source": "스포츠동아",
+      "summary": "AI 의료혁신 한눈에…‘2026 메디엑스포 코리아’ 대구 개막  스포츠동아",
+      "category": "스포츠 기술",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "안양산업진흥원, ‘중소기업 기술교류회’개최…AI시대 혁신 전략 논의",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mWURnZnRKMmtSVzVYb3dqYXpJdEJ2Mk5QenVHekhVM3ItSFFJRE1hQVJCSURKNm9NbDdmM2VKclpsWTA0cmRTTjEtQmVqT0lUQTBhMkdhUzBGVlFPcDJMU2RYa3U2WTRlRmhxQnJIcw?oc=5",
+      "source": "stnsports.co.kr",
+      "summary": "안양산업진흥원, ‘중소기업 기술교류회’개최…AI시대 혁신 전략 논의  stnsports.co.kr",
+      "category": "스포츠 기술",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "검색어가 기획서로… 플랫폼 데이터로 신상품 만든다",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80czFmYkpBa0RxRnpRZ21JaVFCUUtQOWlGOXJ1eDZGai11QzQ2Q1daVHZCUExjTTlMdDFSZ1hScGY0OTNCVnAtSkJ6dmwtVjg5VDRpQWhUMFJqSzJhZDZLam5DZFhPQmlCelQtTNIBbEFVX3lxTE80czFmYkpBa0RxRnpRZ21JaVFCUUtQOWlGOXJ1eDZGai11QzQ2Q1daVHZCUExjTTlMdDFSZ1hScGY0OTNCVnAtSkJ6dmwtVjg5VDRpQWhUMFJqSzJhZDZLam5DZFhPQmlCelQtTA?oc=5",
+      "source": "국민일보",
+      "summary": "검색어가 기획서로… 플랫폼 데이터로 신상품 만든다  국민일보",
+      "category": "스포츠 데이터",
+      "date": "2026-07-03"
+    },
+    {
       "title": "뱅크샐러드, 정부 ‘마이데이터 서비스 지원사업’ 선정",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15VlZmejVMUHkxV2dUV2dWRHlaRTl1bmJNUjZUemhLQWphckw1dFFBNmVMeWZvb3ZBOVNXejlKd1VJNUZoWDAtMzB4Q0htaGszWmZIbXZ2a2JiblB4N1YwcDdZVdIBY0FVX3lxTE15VlZmejVMUHkxV2dUV2dWRHlaRTl1bmJNUjZUemhLQWphckw1dFFBNmVMeWZvb3ZBOVNXejlKd1VJNUZoWDAtMzB4Q0htaGszWmZIbXZ2a2JiblB4N1YwcDdZVQ?oc=5",
       "source": "스포츠경향",
       "summary": "뱅크샐러드, 정부 ‘마이데이터 서비스 지원사업’ 선정  스포츠경향",
       "category": "스포츠 데이터",
+      "date": "2026-07-03"
+    },
+    {
+      "title": "AI 시대 '마이크로 디스플레이' 뜬다…삼성D, 아산 생산기지 구축",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ySmVqN2lqNjR4N0c4Q0FiTkdwX0lEWjZjMUNZRFpiRkNSWWllNm9QSnVnS2xodm9FenpUaXR6Njl0d3VDVmowblhpUzd5aHBISmRkbzE0NENSUDhCQzY5SNIBeEFVX3lxTFBuclVoWVYweGJoQ3JQeDFMbkJsZjJGcUlPZkpoc1JQbGJGS1JZX2x4ZUVFN3VfUVV1Y1ZHeVM1YWlLSUxkc19zRUZLcTB2d2UwSHI0RUo2QlB6eWR6QlY0bm5iX1ZLVEhqeE5PUHhCekpUOHBJdU5VWA?oc=5",
+      "source": "뉴시스",
+      "summary": "AI 시대 '마이크로 디스플레이' 뜬다…삼성D, 아산 생산기지 구축  뉴시스",
+      "category": "스포츠 VR/AR",
       "date": "2026-07-03"
     },
     {
@@ -51,7 +171,7 @@
     },
     {
       "title": "1분 콘텐츠에 몰리는 이용자들…OTT도 숏폼 전쟁 뛰어들었다",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03Tkppc2pkWk5FTEliV2NvR3RJeWRjeVpXSXNDM0kxalN1Uy0xQjZYNU1RWnlaVjAzeU51NnhpdUxCS2pxSEIxVDQzbXFNZTVHU25TNG9XOFlGaG5fU1g0TXYxOWRxRkJWckZsblJfLUFocUFY0gF0QVVfeXFMTTdOSmlzamRaTkVMSWJXY29HdEl5ZGN5WldJc0MzSTFqU3VTLTFCNlg1TVFaeVpWMDN5TnU2eGl1TEJLanFIQjFUNDNtcU1lNUdTblM0b1c4WUZobl9TWDRNdjE5ZHFGQlZyRmxuUl8tQWhxQVg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1saWlYVzh6VjZhMld6SXBDVERreUE4Y1plWmRhLVJCMkZQd0Q5VjN5cjlCRDZFRTdFQnJIUGowVkNYTWdBSzJVN3pmQlFOeGY5RDVuZUdLVjFtTEE5Vi1pOENpa25zdllOdGxteXJhNFnSAXRBVV95cUxNN05KaXNqZFpORUxJYldjb0d0SXlkY3laV0lzQzNJMWpTdVMtMUI2WDVNUVp5WlYwM3lOdTZ4aXVMQktqcUhCMVQ0M21xTWU1R1NuUzRvVzhZRmhuX1NYNE12MTlkcUZCVnJGbG5SXy1BaHFBWA?oc=5",
       "source": "스포츠한국",
       "summary": "1분 콘텐츠에 몰리는 이용자들…OTT도 숏폼 전쟁 뛰어들었다  스포츠한국",
       "category": "스포츠 OTT",
@@ -90,14 +210,6 @@
       "date": "2026-07-02"
     },
     {
-      "title": "어메이징크리 운영사 에이엠씨알, 포브스코리아 ‘스타트업 50’ 선정",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rMzFMZ0cycHlURFhMRnA4bml6V012RFlmVjJvdVNIWmd1aGJxNjNKM0gtd2NSN3k0bjJvUXdyNkNXTERSUnZCRkl0ZkdJNGwtcG1GV1Z3?oc=5",
-      "source": "헤럴드경제",
-      "summary": "어메이징크리 운영사 에이엠씨알, 포브스코리아 ‘스타트업 50’ 선정  헤럴드경제",
-      "category": "스포츠 스타트업",
-      "date": "2026-07-02"
-    },
-    {
       "title": "‘어메이징크리 전개’ 에이엠씨알, 고속성장 스타트업 50 선정[골프브리핑]",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1ZFd6ajk0aXBjdmdKU1RkdUIwUU9UODhLM0hCNGg4TDBtdDRyWXBuV2N6VlNhSVU5Unk3VDhCZXM0ZXc2SXFhM0pDczVTalI4b3hNdNIBVEFVX3lxTFA1ZFd6ajk0aXBjdmdKU1RkdUIwUU9UODhLM0hCNGg4TDBtdDRyWXBuV2N6VlNhSVU5Unk3VDhCZXM0ZXc2SXFhM0pDczVTalI4b3hNdA?oc=5",
       "source": "한국경제",
@@ -114,18 +226,10 @@
       "date": "2026-07-02"
     },
     {
-      "title": "테슬라·엔비디아 뚫은 삼성 파운드리… 2나노·SRAM 혁신 선언",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Bd1FZTnBOLWJGNENIVUJ6RWRpVGpiRTlBZnJlR2t5cWV4QUxqRnM0SmlQdzR5d19tSXBYbjgwRlp5SzhwQUhyNUY1NWJVRUlCYlpyWWlCRk1kQzVacFpuWlVzTDRNRDFRcF9Ca9IBbEFVX3lxTE1Bd1FZTnBOLWJGNENIVUJ6RWRpVGpiRTlBZnJlR2t5cWV4QUxqRnM0SmlQdzR5d19tSXBYbjgwRlp5SzhwQUhyNUY1NWJVRUlCYlpyWWlCRk1kQzVacFpuWlVzTDRNRDFRcF9Caw?oc=5",
-      "source": "국민일보",
-      "summary": "테슬라·엔비디아 뚫은 삼성 파운드리… 2나노·SRAM 혁신 선언  국민일보",
-      "category": "스포츠 기술",
-      "date": "2026-07-02"
-    },
-    {
-      "title": "대전과기대, 스포츠·의료부문서 경쟁력 입증",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HZ2N3YnVkYjJRN2RUeXFlTTducDVmZlJIVU5WLTNHdlRzWG9hSkdZekt0M2dzV2hMWWhFaXJrUGlLVklyS1VQWVN1aXdzR3o2cEluYjI0MFpMXzNJOXM0ZkY4VE4xQ0ZQejZUYw?oc=5",
-      "source": "충청뉴스",
-      "summary": "대전과기대, 스포츠·의료부문서 경쟁력 입증  충청뉴스",
+      "title": "최첨단 페이스 기술 적용…비거리는 늘리고, 볼 스핀 컨트롤 극대화",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85U0s0T3k5dk1xcVVaNmJVYnBXRk5XNUxDN3dFV2ZuZTNZYmktQ0MxSWg5ODRPbGt3MjY5ejh3ajZoTGoxRXN5b0ZPVlQ5NFlYZ1JJUU9hMXgweGVyWkg2aHg2MExKYnRGU295eWd2Smt4QW_SAXNBVV95cUxPOVNLNE95OXZNcXFVWjZiVWJwV0ZOVzVMQzd3RVdmbmUzWWJpLUNDMUloOTg0T2xrdzI2OXo4d2o2aExqMUVzeW9GT1ZUOTRZWGdSSVFPYTF4MHhlclpINmh4NjBMSmJ0RlNveXlndkpreEFv?oc=5",
+      "source": "한국일보",
+      "summary": "최첨단 페이스 기술 적용…비거리는 늘리고, 볼 스핀 컨트롤 극대화  한국일보",
       "category": "스포츠 기술",
       "date": "2026-07-02"
     },
@@ -134,14 +238,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wa2dQdWZnR19yVk1kNzhUWHpMQVhqUEtxcnhyVkFDWlJFdFhHRDI2MTJiN3JTY3ppM0lLTENfd1dUMUFzc3Y1QnVwSjNSczhPaEF5aHJrbnk1V3FRLUVpVHhpdUVqVTQ?oc=5",
       "source": "한국섬유신문",
       "summary": "한국아웃도어스포츠산업협회, 섬유패션 DX·AX 전문인력 양성 나선다  한국섬유신문",
-      "category": "스포츠 기술",
-      "date": "2026-07-02"
-    },
-    {
-      "title": "'원팀' 강조한 염갈량 \"똘똘 뭉쳐 기술 아닌 팀워크로 버텼어→후반기 타격 페이스 분명 올라온다\"",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nSkJrVzhVM1FuZV8wT0pGT0ZvdmFPUDhIM1o3MGNGS09SbFBOSk9PdUVfRWxMMW1DcmlaVzAyclBRbndRTDRBZVBPcVNnY2RCWUNTTUV1SnVmcUpSSWppYlZlSXVQWHFLcG1kWTJZM1ZoMEZLZkE?oc=5",
-      "source": "starnewskorea.com",
-      "summary": "'원팀' 강조한 염갈량 \"똘똘 뭉쳐 기술 아닌 팀워크로 버텼어→후반기 타격 페이스 분명 올라온다\"  starnewskorea.com",
       "category": "스포츠 기술",
       "date": "2026-07-02"
     },
@@ -219,7 +315,7 @@
     },
     {
       "title": "2028 LA올림픽, 100주년 월드컵… 정상적 시청 여부 불명확",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kcjg0dTlxcXdMZU90bUVXWXZNOHdJRGZkUHI2d09peGtxemJjQ0xvVi1WQktYd3N0dlBZaGpjcHhEaXdKV3ZSNkxzZ2trRGI1cUFXTEdITW5PUjFCQVgzNW1aOEdkUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qdnF4aW1zRjdBczFDaXNYME1MNm13V0hYRlB0TlVnQ3VXSnZ1VHJ1ZWpOM19iTFV5T2ZsQXUtNExMb2ZqUnFoUmFXQVFoSVJndy1zRWloZ0hlVXU2U3hCajJtaXI?oc=5",
       "source": "한국기자협회",
       "summary": "2028 LA올림픽, 100주년 월드컵… 정상적 시청 여부 불명확  한국기자협회",
       "category": "스포츠 중계권",
@@ -235,7 +331,7 @@
     },
     {
       "title": "울화통 월드컵, ‘치지직’은 웃었다…100만명 이상 새 이용자 확보",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtSUsxaUt6N0FKVTlvMUZ1aVBlR0dfSnFJV3VFYmdHQVFONDM5bDRDWXdkM3dpZ0RUeERzNTdtVllVdjBBa0tDV3pHQjNTODFMUzRnUE9TSlI4NjR5WkZKcQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UaE16dk5BVzdMdmRfNE5VN2lzQzBDVHBzb3ZvaEdKbzRmYlhub25BS1RXZHNuNTV3VUhFUFI2Wi1zNVV6ZTlDMFNucXVoRWF2U3Q3QS1hMHZBajB2THJ3RFN3?oc=5",
       "source": "한겨레",
       "summary": "울화통 월드컵, ‘치지직’은 웃었다…100만명 이상 새 이용자 확보  한겨레",
       "category": "스포츠 중계권",
@@ -246,6 +342,14 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Za2tvSm9qV3l5cmxUd05ha1VrNldxVWFJZEk2ODJRMjFPV2pTQzRzMEUwalpJX1dRVFBhUlRBZUxlbHYyaklTWWlEcmVmN1daN0IteC11aHhXdlgzR2JkR0R6a19ITEFwNEpJ?oc=5",
       "source": "ainews1.co.kr",
       "summary": "JTBC 기업회생 논란, 월드컵 중계권만의 문제가 아니다.  ainews1.co.kr",
+      "category": "스포츠 중계권",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "2028 LA올림픽, 100주년 월드컵… 정상적 시청 여부 불명확",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kcjg0dTlxcXdMZU90bUVXWXZNOHdJRGZkUHI2d09peGtxemJjQ0xvVi1WQktYd3N0dlBZaGpjcHhEaXdKV3ZSNkxzZ2trRGI1cUFXTEdITW5PUjFCQVgzNW1aOEdkUQ?oc=5",
+      "source": "한국기자협회",
+      "summary": "2028 LA올림픽, 100주년 월드컵… 정상적 시청 여부 불명확  한국기자협회",
       "category": "스포츠 중계권",
       "date": "2026-07-01"
     },
@@ -262,14 +366,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96dlFCQVNQOHJKYzFVUEYtVURkMVFTRkRKTGRiQ08tZHBxV0tTcUFHeEFVaGYtTENIS3d6MXJ3a0lyOUgzVHl2azgzV3VlekZaaE5PUVd1RXBvNWxY?oc=5",
       "source": "supple.kr",
       "summary": "울화통 월드컵…‘치지직’은 웃었다  supple.kr",
-      "category": "스포츠 중계권",
-      "date": "2026-07-01"
-    },
-    {
-      "title": "월드컵을 유튜브에서 무료로 중계하는 '방송사'를 보유한 유일한 국가.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGZkMWg2VnZGWHljRE9LM3JYVXo0RzZHUFh6QWthV2JhTU5mblpPLW14VkpXZWZWYlV0YTZPRko2b2ZBRTRDM0ZaOGNpN2E1MU5ZS19XMEg3bGlaWlBLb0NpT1gtUjRya0RKR0dfcE83X29hSkRUbUJJUlU3aXAtQVNjUFhwVWN0RXJUY29ZVlVWT1BCTWlR?oc=5",
-      "source": "Vietnam.vn",
-      "summary": "월드컵을 유튜브에서 무료로 중계하는 '방송사'를 보유한 유일한 국가.  Vietnam.vn",
       "category": "스포츠 중계권",
       "date": "2026-07-01"
     },
@@ -331,18 +427,18 @@
     },
     {
       "title": "[최낙삼] 스포츠로의 회귀, 나이키 '마인드'가 던지는 메시지",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fSmNrZ2M0bVpzOHlBNnJaaWpSRFZBcnlzWThSZmpRVDdpOUVXMWV0M0hyc2YtbnFyYkp2Tmsxb05Ma3pkWThBYjE3cGF4TmtFeTROSk12eEM2czQwV2d2OEluNG16SWhfNFEwZkphajc4ck0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Sa2FsOXlmVlM1aEt3WEcwajd2SGhpVU9KV1pJNlJZLXdlUjFmRFBVVHJrSlBZaHkxMnJKMk0yaGFrZlN1SzYyTHJUdWRhMnRHa3BOX1I1NnUzUDZ4MXprYzQ3di1vWnNPUGl0YjJCcXdWVVU?oc=5",
       "source": "어패럴뉴스",
       "summary": "[최낙삼] 스포츠로의 회귀, 나이키 '마인드'가 던지는 메시지  어패럴뉴스",
       "category": "스포츠 기술",
       "date": "2026-07-01"
     },
     {
-      "title": "[최낙삼] 스포츠로의 회귀, 나이키 '마인드'가 던지는 메시지",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Sa2FsOXlmVlM1aEt3WEcwajd2SGhpVU9KV1pJNlJZLXdlUjFmRFBVVHJrSlBZaHkxMnJKMk0yaGFrZlN1SzYyTHJUdWRhMnRHa3BOX1I1NnUzUDZ4MXprYzQ3di1vWnNPUGl0YjJCcXdWVVU?oc=5",
-      "source": "어패럴뉴스",
-      "summary": "[최낙삼] 스포츠로의 회귀, 나이키 '마인드'가 던지는 메시지  어패럴뉴스",
-      "category": "스포츠 기술",
+      "title": "79% 확률로 경기 뒤집혔다…‘물 한 모금’이 판 흔드는 월드컵",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PQ1RxUXg0RmJXb0kwdHFHVGNHNUVsbW5YY1NBUmNsdFZlRVljTmRuVWJhbzM3dkpZZ3hzT01ZU2xxTWhTQ2VuTUFzaw?oc=5",
+      "source": "v.daum.net",
+      "summary": "79% 확률로 경기 뒤집혔다…‘물 한 모금’이 판 흔드는 월드컵  v.daum.net",
+      "category": "스포츠 데이터",
       "date": "2026-07-01"
     },
     {
@@ -386,18 +482,18 @@
       "date": "2026-06-30"
     },
     {
-      "title": "[현장] AI·PBV·레이싱…현대차그룹이 제시한 미래차 승부처",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XdHo2S1V6TUZZMWJDUlJPZEVCbmY3RmdFVkdSaWZ1UnNmaTFjZHNaY0QyRzRwdTcxUjlnZkJGQ2VxMmZiVW9fZkVTNlBmbWp6am5DNkJHWjZacXNOZjVhTWNBbmxaOExjdkdLMU83VjA4QdIBdkFVX3lxTE53MWVNakF3ZGg1Q3BKNHR0N202elJoa1ZKTElYZGxnY1doSnpaekZhUjU5Zk1iczZsRlRoQVRwVUVVN2s0TExBb2ZHSFdudHR5YlFWLVRDYnYwQzdOYUtPazFhc3MwLUhKc0QyT0JnRFlIb0FqWFE?oc=5",
-      "source": "포춘코리아",
-      "summary": "[현장] AI·PBV·레이싱…현대차그룹이 제시한 미래차 승부처  포춘코리아",
-      "category": "스포츠 기술",
-      "date": "2026-06-30"
-    },
-    {
       "title": "국제명장 박미경, K-스포츠 '터링' 개발로 생활체육의 새로운 지평 열다",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2RnE0c0dBQ3JjUXNmekNjX3pkX3lMVU42RFlscjFzbk5WYmZsSjJoRVVGenRZRXEwZ0M5Nmw4M3JKVW5TQjVKNnZsQTA5UE1raUZ6UENFbE00NXZhQlpZcDlHa0xjeHdXQ1o0?oc=5",
       "source": "뉴스인",
       "summary": "국제명장 박미경, K-스포츠 '터링' 개발로 생활체육의 새로운 지평 열다  뉴스인",
+      "category": "스포츠 기술",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "세계 대학 태권도인들의 축제, 4일 대구서 개막... 장준-양희찬 포함 '26개국 930명 참가' - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2ZHJod19TdnZTMVdkQmdiUjAxTWRYbzB0Qm1STHplNXhaWUwxdWZHUkdWLVFJZHdqdFpxcGZ6SEJQNEpHX0plQ19hbURMdFFlaTR1MnJPRV90dVRMZHJWbzlDSUR2cWNQQTJrbUIwc9IBb0FVX3lxTFA2ZHJod19TdnZTMVdkQmdiUjAxTWRYbzB0Qm1STHplNXhaWUwxdWZHUkdWLVFJZHdqdFpxcGZ6SEJQNEpHX0plQ19hbURMdFFlaTR1MnJPRV90dVRMZHJWbzlDSUR2cWNQQTJrbUIwcw?oc=5",
+      "source": "머니투데이",
+      "summary": "세계 대학 태권도인들의 축제, 4일 대구서 개막... 장준-양희찬 포함 '26개국 930명 참가' - 머니투데이  머니투데이",
       "category": "스포츠 기술",
       "date": "2026-06-30"
     },
@@ -407,14 +503,6 @@
       "source": "스포츠한국",
       "summary": "'글로벌 AI 역량 입증'…카카오뱅크, 세계적 학회서 연구 성과  스포츠한국",
       "category": "스포츠 기술",
-      "date": "2026-06-30"
-    },
-    {
-      "title": "흥국화재, 국내 최초 日 의료 빅데이터 도입… \"간편보험 경쟁력 강화\"",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YUzFUSEY4LUtWYjBGMGRXcWdvODdLT21jSEhFUl9pd2JTMDh6TTV6azNQU19qd2sxNm1UZTZXWENlTVJTVlFzODFOUW9LNklkQnhoY2V5UnpPOUVWNHFjUXJTQUYzVXFubUFRbNIBbEFVX3lxTE9YUzFUSEY4LUtWYjBGMGRXcWdvODdLT21jSEhFUl9pd2JTMDh6TTV6azNQU19qd2sxNm1UZTZXWENlTVJTVlFzODFOUW9LNklkQnhoY2V5UnpPOUVWNHFjUXJTQUYzVXFubUFRbA?oc=5",
-      "source": "국민일보",
-      "summary": "흥국화재, 국내 최초 日 의료 빅데이터 도입… \"간편보험 경쟁력 강화\"  국민일보",
-      "category": "스포츠 데이터",
       "date": "2026-06-30"
     },
     {
@@ -442,6 +530,14 @@
       "date": "2026-06-30"
     },
     {
+      "title": "야구팬들 염장 지른 ‘그 판정’…‘AI 심판’은 어떻게 돈이 됐나 [권준영의 머니볼]",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51M3Q2V0paTFF5NTlSYzJ0aGZPM205YnhsTXFMNTFZVnpJbzhxS2gzU050a1RWYVFOQ3hsVmRMenJPWkk3amMtRm1CcDVIQzZGVnBGMHNzZ2fSAVRBVV95cUxOcEVjaG1SaTRDN1lMZjRjVkVtNVJvTkFkNTFmY2hNWWhialJZOFlvTDZNR014STAxM296UGt1X3VwcEJ6TFQwaDUyVzVoaG1tcWE1bk0?oc=5",
+      "source": "세계일보",
+      "summary": "야구팬들 염장 지른 ‘그 판정’…‘AI 심판’은 어떻게 돈이 됐나 [권준영의 머니볼]  세계일보",
+      "category": "스포츠 데이터",
+      "date": "2026-06-30"
+    },
+    {
       "title": "가평청소년문화의집, ‘증강현실(AR) 스포츠 플랫폼’ 도입… 청소년 스마트 놀이터로 변신",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Ja2xMNS1sZkhRQjdsUUY3MXJtUjVvUWdxM2lvcXhLaGoxVkhDTUVlcU5DTTc5el82eldqT1g0NVBQWUVaWDZobA?oc=5",
       "source": "브레이크뉴스",
@@ -454,14 +550,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0bE0zZy1zZlluV2l0bnpwbW9JbHRqd3ZRTUY1SUJZQ01YZllCN28waHFpckhyLUdYRkl5UGlZU0RJYUZoN2RRREtMY0VzYm1ydEg5RWl0UkVWdUVPcGdmYkVmSzlkUTVwU0E?oc=5",
       "source": "경기도민일보 미디어",
       "summary": "가평청소년문화의집, 스마트 체육ㆍ여가 공간 조성  경기도민일보 미디어",
-      "category": "스포츠 VR/AR",
-      "date": "2026-06-30"
-    },
-    {
-      "title": "가평청소년문화의집, VR 체육 플랫폼 ‘디딤’ 운영 시작:장애인인식개선신문",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB4Z3cycUhIV3JSQXpWX1l0b0lzSWJBVTcwczFQQTN3VjltUjFnSXlzNWxkY090Y2kteEJEeHRaY2dEb2PSAV9BVV95cUxPRHgwQlAtUURtaGdlcjcycGhvcGdhZ1NfVUdJVENxUTdlY3V3dFVZUHp1SWk2SkFwTHlpQld6aDgwNEthMGh4VktLd09pVHdhT2hPdDNoZ0NYaWtPb2YyVQ?oc=5",
-      "source": "장애인인식개선신문",
-      "summary": "가평청소년문화의집, VR 체육 플랫폼 ‘디딤’ 운영 시작:장애인인식개선신문  장애인인식개선신문",
       "category": "스포츠 VR/AR",
       "date": "2026-06-30"
     },
@@ -610,10 +698,10 @@
       "date": "2026-06-29"
     },
     {
-      "title": "체육공단, 공공데이터 활용 경진대회 개최…대한민국 국민이라면 누구나 참여 가능",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zUmNRT1NrRWNzUk9EeVAyYTlZUk1hNmtlWkF2RzdSa3RBS2lkV0Rna2J6U25oRmZTajQtQmlkT2ZlSHN1NEZxeEpKOWJDb0Z1VDFN?oc=5",
-      "source": "네이트",
-      "summary": "체육공단, 공공데이터 활용 경진대회 개최…대한민국 국민이라면 누구나 참여 가능  네이트",
+      "title": "“서면·전포로 청년들 몰려들었다”… 데이터가 입증한 부산진구의 ‘청년 붐’",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lTlZYZUF1NmlXVFNhZTYxSHI1bHFzd2Q4YTZqbEtCbUFUZHdQSVl0RHFxd3R2TS1SdFdfSF9pTWlBQ3phMEJqOXRnYXVoLUxBdFF2M0NfcEJEdE9odjVzeERiU2tLc1RXOWhKSU80VXk4UQ?oc=5",
+      "source": "스포츠동아",
+      "summary": "“서면·전포로 청년들 몰려들었다”… 데이터가 입증한 부산진구의 ‘청년 붐’  스포츠동아",
       "category": "스포츠 데이터",
       "date": "2026-06-29"
     },
@@ -626,10 +714,10 @@
       "date": "2026-06-29"
     },
     {
-      "title": "울산수학문화관, 2029년 호계매곡지구로 확장 이전",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pUWxiWW1hcnFRZElMTEYzN0NENl9lZFQ0S19COHNQVEY2cm5DUjc1MUNDMmtNd2FqeGtBa3JxLVl2dWNfYWdpcVJXS3JjdnZoUnpsOW9nQkJjaS02S0hRUNIBeEFVX3lxTE1Wd0tSZ2hvZG1tcXc3c2FFUEVXbWhqV1RHUWZrN2VldjlOX0hkaTR1cnozUTNnTUcxTTRfQ2UyM0s3eUtPOUtaQVJCNnpMUTdXbGZ2aEc3YzZqQUpKUFhsUW01LXFoWjE1eXNQbW55TzNiTVUtYnRCNg?oc=5",
-      "source": "뉴시스",
-      "summary": "울산수학문화관, 2029년 호계매곡지구로 확장 이전  뉴시스",
+      "title": "광진미래기술체험관 인기 유튜브 ‘문과적 기술주의’서 집중 조명",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92THh1cHpQYXhkZURiMEExVThzaFY4Q0RKaWt4WTFqZms1S3prbmJoZUVrS2t3YnJYQmRrM2ZtUVZEY01vVW1GOTNzRHVaYzdJLUJ0UGx3?oc=5",
+      "source": "헤럴드경제",
+      "summary": "광진미래기술체험관 인기 유튜브 ‘문과적 기술주의’서 집중 조명  헤럴드경제",
       "category": "스포츠 VR/AR",
       "date": "2026-06-29"
     },
@@ -647,6 +735,14 @@
       "source": "네이트",
       "summary": "'중계권→회생신청' JTBC, 韓탈락 확정에 '진심이었던 사람만 바보가 돼' [왓IS]  네이트",
       "category": "스포츠 중계권",
+      "date": "2026-06-28"
+    },
+    {
+      "title": "“툭하면 담배 물고” 해도 너무하다 했더니…결국 터진 OTT 논란",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbVZhbkVkT3oxVGxKN3dtaWtiTFAxeDNvZU1iM3F4RWxVNU5iSHVfdlBxUmowTmVSRllRcU8xSFBCc3lPeFdrZkhrbjQ3b25iUFhNcmtB?oc=5",
+      "source": "헤럴드경제",
+      "summary": "“툭하면 담배 물고” 해도 너무하다 했더니…결국 터진 OTT 논란  헤럴드경제",
+      "category": "스포츠 OTT",
       "date": "2026-06-28"
     },
     {
@@ -682,14 +778,6 @@
       "date": "2026-06-27"
     },
     {
-      "title": "상반기 2관왕, 디즈니+ 1위로 제작사 경쟁 주도권 확보…티엠이그룹의 하반기 신작 라인업",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pNFJrVG1PM2ZOaFg1VUEyVlp2V0VYODFrYnF3LUtJR3F3RGNZeFp3dzNqazZzVWNqSHBabG5mNjNkazlOVGltb2I3RW94bzA?oc=5",
-      "source": "v.daum.net",
-      "summary": "상반기 2관왕, 디즈니+ 1위로 제작사 경쟁 주도권 확보…티엠이그룹의 하반기 신작 라인업  v.daum.net",
-      "category": "스포츠 OTT",
-      "date": "2026-06-27"
-    },
-    {
       "title": "컴퍼니케이·퀀텀벤처 등 14곳, 모태 2차 정시 낙점",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45UFkzM1cwQXVnelhWbFZwMVItTDlqb0ZHX3RLNlI4TFlsRm1kZEtmZjE3ZURab3M0eGJxbWdTekVfazlZLVVXS2IyZzNhN0U?oc=5",
       "source": "딜사이트",
@@ -719,46 +807,6 @@
       "source": "v.daum.net",
       "summary": "\"월드컵 경기 못 볼 뻔했다?\" JTBC 중계권 논란이 남긴 질문  v.daum.net",
       "category": "스포츠 중계권",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "‘하시5’ 4주연속 화제성 화요일 부문 1위",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MM1lkQVhJbDB6SmpjRGU3NW5JLWtFZ040bTFZLUNlUEhyZ3VzSm5nYXp1cFZySm1TdEh0RDczQ0hJMWVMTEVMRU5xQ2xWNXVTSzRvR1BjVkdTcVVTbVHSAWNBVV95cUxQTVRtWm1MOXhYYzVXZnlteTM3cmZZRHprTHpfaVZBVmhBelcxWVZqWVg3eHFBc2Rna3N2R01HdHBBMHlGRmVhVExDQmV6bDBwZndnc3BzbG90MDdxV25pVmk0TkE?oc=5",
-      "source": "스포츠경향",
-      "summary": "‘하시5’ 4주연속 화제성 화요일 부문 1위  스포츠경향",
-      "category": "스포츠 OTT",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "\"임영웅 일냈다\"... '산골총각 영웅' 시청률+OTT 1위까지 달성하며 히트쳤다",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1WSDhaSzlqcGRCSXBjU1JUWWRCOVU5cG8zSmJCM3pBNWFrTjNPWTQxUjMzUFhjWGppU0U5d0oycnpCNnV5dmc?oc=5",
-      "source": "v.daum.net",
-      "summary": "\"임영웅 일냈다\"... '산골총각 영웅' 시청률+OTT 1위까지 달성하며 히트쳤다  v.daum.net",
-      "category": "스포츠 OTT",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "스트리밍 플랫폼 SOOP, 텐센트와 ‘델타포스’ e스포츠 협력 확대",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2LVFiYl8ybHlQbUc5RE9rLUtuSU5rSFp5ZzJIcnhuNzUyVUZ5N2N1ZXBrWGZlNWlxTl9BM3loUHpJTlJPUll4Zk1pWTJTOXc?oc=5",
-      "source": "v.daum.net",
-      "summary": "스트리밍 플랫폼 SOOP, 텐센트와 ‘델타포스’ e스포츠 협력 확대  v.daum.net",
-      "category": "스포츠 OTT",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "‘기술’에 ‘포용’ 입힌 하나금융, 시각장애인 축구 관람 벽 허물다",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ES25oU2VmUmpjVm5XcWNTLS1VcHI4WGVmMUswaERubEZ1dTZnODUyQV9kbHVQc2tOcXdrZjZfdnpTYUM4eDB3LVZ2RFUzQWppX3Z5MW1HbGxCZ0Y1QnNPZWJDM3lMaGJRcHQtdVQ4Z9IBc0FVX3lxTE9BOW9SMnVnYWNteDlaVHZaTVpoazdpRk9DVlZ2eHM5VmM3QURaaXZSTnpLWWxPUDBROEdUbVBjOWpGeDlUUnAtOU5fVkYzOFJZRnZNWHZaYld0MVRoTFluYjAyWUdqVU5oSlBiV2pGZUFDbkk?oc=5",
-      "source": "시사저널",
-      "summary": "‘기술’에 ‘포용’ 입힌 하나금융, 시각장애인 축구 관람 벽 허물다  시사저널",
-      "category": "스포츠 기술",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "[스포츠머그] \"데이터 분석했지만 뚜렷한 이유는…\" 남아공전 충격패 다음 날 홍명보 감독 기자회견",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpalJrSWFycEdIX1NZSElmNXUxa1diM0s4S2ZiWDNQY21fTkVnX2toVTBzWXNQTXVOamRTdnNFX05hVTNnZDlybU1nVlJ5dW8?oc=5",
-      "source": "v.daum.net",
-      "summary": "[스포츠머그] \"데이터 분석했지만 뚜렷한 이유는…\" 남아공전 충격패 다음 날 홍명보 감독 기자회견  v.daum.net",
-      "category": "스포츠 데이터",
       "date": "2026-06-26"
     }
   ]
