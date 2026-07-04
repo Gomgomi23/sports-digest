@@ -1,6 +1,8 @@
 name: Update News Dashboard
 
 on:
+  schedule:
+    - cron: '0 */6 * * *'   # 6시간마다 서버에서 자동 갱신 (api.github.com 트리거 불필요)
   workflow_dispatch:
 
 jobs:
