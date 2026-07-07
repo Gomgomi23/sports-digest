@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07 13:10 (KST)",
+  "updated_at": "2026-07-07 13:40 (KST)",
   "articles": [
     {
       "title": "네이버 치지직, 월드컵 중계로 날았다…사용자 수 2배 가까이 급증",
@@ -22,6 +22,22 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jU0VPeTZubGpuclNWQTUwak4yeTZPM3NfM1dmdUVjUlA3QlFLRkxxUkwyNVBHMjgwTnhLV09hUEJqRW1IU1pxM3dLT3ViQQ?oc=5",
       "source": "전자신문",
       "summary": "브이씨-서울대, AI 스포츠 웨어러블 개발 협력  전자신문",
+      "category": "스포츠 기술",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "브이씨, 서울대와 AI 러닝워치 공동 개발",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oMXBwQTAyNmtrc1U0MmFWemNpT2JCZFBxNkZ1TW9UcUxSSnVYVWN6dUlfS2lmQ2ppS19YZjhNMnloQTFpRU1Hem55cWo2NkdkaHF1V3F4dGR1QXFZ?oc=5",
+      "source": "뉴스핌",
+      "summary": "브이씨, 서울대와 AI 러닝워치 공동 개발  뉴스핌",
+      "category": "스포츠 기술",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "[인터뷰] 이충환 경기도전국체전추진단장 “경기 체육 선순환 원년 만든다”",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JNmlpbUNaWmhuV2VCaThLMUotQlpXTE1VZVRkc3B5Rk1lY1FlNUQ3RHB3TEJ3NUlfREx3Z2FDOGwzdXJHS0JiWWNiLTJCUU16aTFtSWFEUHhmV1lIaVBhUnNaUm5vNFZFNnMzOExn?oc=5",
+      "source": "아시아투데이",
+      "summary": "[인터뷰] 이충환 경기도전국체전추진단장 “경기 체육 선순환 원년 만든다”  아시아투데이",
       "category": "스포츠 기술",
       "date": "2026-07-07"
     },
@@ -154,14 +170,6 @@
       "date": "2026-07-06"
     },
     {
-      "title": "이병진 한국토요타 부사장 “풀뿌리 모터스포츠 중요”…레이스 기술로 양산차 고도화 [ET의 모빌리티]",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XQU1UNUNPU0h3RG1ERExwZExfWXR0eDE4QzZrM3psVV9CVzVmaHFmZ201bnY2WHlsOExfeFdyMTg5ZmxZYS1VNEJnWQ?oc=5",
-      "source": "v.daum.net",
-      "summary": "이병진 한국토요타 부사장 “풀뿌리 모터스포츠 중요”…레이스 기술로 양산차 고도화 [ET의 모빌리티]  v.daum.net",
-      "category": "스포츠 기술",
-      "date": "2026-07-06"
-    },
-    {
       "title": "우석대 학생들, AI 스포츠 아이디어 공모전 우수상",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQekY3Qm4zdEo0WHVBY25uaFNQdHl6bENFbXgyeHdqeWJNeUdjWjJxaHZKZ0JmWl9BdDBnOV9hQ1diUDN1MzM4Q0FSRUt4NGdXeU9DVHg3azhhaG5VSlcybF9CMjdlLTdacmdYMHJDRW9VbXhGX2I4b1hwWnQ5aXZWcnVJTE12dEE?oc=5",
       "source": "전북도민일보",
@@ -250,18 +258,18 @@
       "date": "2026-07-05"
     },
     {
-      "title": "KR, 유럽 해사업계와 AI·탈탄소 협력 강화",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5dGNvMFdKWW9RYmlwZ01Qa0JveDh3WU5DVUZuUXBadkhhbktMVFg4NWpudmxoRUlTVGJudURBTjFfejluMjBXUnkxWFZNclNSWGJQbFBlZG5CdjhsRktxQTdpV0pkTDc3WTQ5bdIBbEFVX3lxTFB5dGNvMFdKWW9RYmlwZ01Qa0JveDh3WU5DVUZuUXBadkhhbktMVFg4NWpudmxoRUlTVGJudURBTjFfejluMjBXUnkxWFZNclNSWGJQbFBlZG5CdjhsRktxQTdpV0pkTDc3WTQ5bQ?oc=5",
-      "source": "국민일보",
-      "summary": "KR, 유럽 해사업계와 AI·탈탄소 협력 강화  국민일보",
-      "category": "스포츠 기술",
-      "date": "2026-07-05"
-    },
-    {
       "title": "\"장애인 스포츠 발전, 전문 트레이너 확충 절실\"",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mN1JScVEyZ2ZId0VscGtqNXY0UC13bnRaZnZxbTN6c0FSV2prS3BhQWd0UTlFYlN2OE9wYnhKSG9JRkloQ1FZbFU2VWNieXEzWGpRR1pFTURDaWtrbkQwNk1lVXNUakRENEdfLQ?oc=5",
       "source": "매경헬스",
       "summary": "\"장애인 스포츠 발전, 전문 트레이너 확충 절실\"  매경헬스",
+      "category": "스포츠 기술",
+      "date": "2026-07-05"
+    },
+    {
+      "title": "KR, 유럽 해사업계와 AI·탈탄소 협력 강화",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5dGNvMFdKWW9RYmlwZ01Qa0JveDh3WU5DVUZuUXBadkhhbktMVFg4NWpudmxoRUlTVGJudURBTjFfejluMjBXUnkxWFZNclNSWGJQbFBlZG5CdjhsRktxQTdpV0pkTDc3WTQ5bdIBbEFVX3lxTFB5dGNvMFdKWW9RYmlwZ01Qa0JveDh3WU5DVUZuUXBadkhhbktMVFg4NWpudmxoRUlTVGJudURBTjFfejluMjBXUnkxWFZNclNSWGJQbFBlZG5CdjhsRktxQTdpV0pkTDc3WTQ5bQ?oc=5",
+      "source": "국민일보",
+      "summary": "KR, 유럽 해사업계와 AI·탈탄소 협력 강화  국민일보",
       "category": "스포츠 기술",
       "date": "2026-07-05"
     },
@@ -330,6 +338,14 @@
       "date": "2026-07-04"
     },
     {
+      "title": "“가상·증강현실 등 신기술 ‘언론 위기’ 돌파구 될 것”",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4QWc1VGFNOHZJQndNRkUzc2NZMjVMYkhHYkQxcW96czFpOFdPbV9lZnpUOGtkMG9MbzRQd2tfTjM0aXpVZEYtNk9NNmRBS1NTc1E1RjJ1dndWNUI4XzQ2ZTdEWXc?oc=5",
+      "source": "한겨레",
+      "summary": "“가상·증강현실 등 신기술 ‘언론 위기’ 돌파구 될 것”  한겨레",
+      "category": "스포츠 VR/AR",
+      "date": "2026-07-04"
+    },
+    {
       "title": "엔터테인먼트 메타버스 시장, 2032년 1,219억 달러 전망…XR·AI·블록체인이 여가와 산업 구조를 바꾼다",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Td2RKRXNrVFlEUWRzYldlLWhnbGk0YWszYzdqTk52bmNOeVFFa0hubmdrcmZNYXVsNGJlZnVJZUhBNnJXVlI2Zw?oc=5",
       "source": "얼리어답터뉴스",
@@ -387,7 +403,7 @@
     },
     {
       "title": "엄재용 사무총장 '뉴미디어 중계권 등 넓혀가야'",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QSUU1eXVwSUhjTXRNMHNiQWRNVkNnRGp0Z2N1M29iX0ZtSVVDVlZvWUxnMHVZWU8tREQwTi1oWXBSSXlCSXB3N3JqWTd0NEZMR0FTR1ktWEIwTVZy?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BLXgzZUVEQ29jbFpsWkZxZmdIbXp2LURMc1dxc2s1MldnTXBxTnpxTkNtLUZWTjVqeWlVNnNpNEtkQ1hHOXBLRFcxSTU2N0FqX0h6dnVSSEZkS2x2ZVZHbg?oc=5",
       "source": "네이트",
       "summary": "엄재용 사무총장 '뉴미디어 중계권 등 넓혀가야'  네이트",
       "category": "스포츠 중계권",
@@ -490,6 +506,14 @@
       "date": "2026-07-02"
     },
     {
+      "title": "[인터뷰] “난 과대포장됐다”던 최민식에게, 열등감을 물었다",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtOTc0X013YU1Lc3VLakFPdUlIbkkyblVmTnNud0o5Uk9rQXdiSEd0SVhuaEczVk1MMko0YW1ueFRpeENENWZrcTN1VnJvRjVUZUtEN3FrMkF5X1cwUHfSAWNBVV95cUxNU1Q3aDVpQWxDaE9Hc21XbERub2ZRRUtrWlF6VXVRbU5KMHFocjFCazlOUV91bHF6aXJrU1VMbXNHck00UGZaRWhCaU9uZjJzb2x5RU95b2dQWHZRc1EtR1A4R3M?oc=5",
+      "source": "스포츠경향",
+      "summary": "[인터뷰] “난 과대포장됐다”던 최민식에게, 열등감을 물었다  스포츠경향",
+      "category": "스포츠 OTT",
+      "date": "2026-07-02"
+    },
+    {
       "title": "어메이징크리, 포브스코리아 '고속성장 스타트업 50' 선정..글로벌 확장 가속",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CM0ZOd3dGMlZtaUpZOTNZM2tYaVQwZ1NqYzdBMmNwVDZKb18xbnQwUlBjMXVXTE44RWdROFJaMS1MakxPTFJrV3d5M3puR28?oc=5",
       "source": "v.daum.net",
@@ -515,7 +539,7 @@
     },
     {
       "title": "AI 시대 스포츠태권도의 경기 혁신과 산업 발전전략 논의…스포츠태권도 국제융합컨퍼런스 4일 개막[온라인 라운지]",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9BUmVtRUhsWHB2OEJaaXdueFEzVDdGTTFUYXlQODlaMEdNbkhvTkdENGJTWGNGVl94V1liNGxvaFQ2S09XQWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTR083YmRQUU1Gd3hVRXI3NUZqSnM3dEkzVWtPcnExZGFkQ2ZRQWpDaG9JMzNFZ2pVbTdoel8zNER3QXpLcnYwMVJuMmVHa3c?oc=5",
       "source": "v.daum.net",
       "summary": "AI 시대 스포츠태권도의 경기 혁신과 산업 발전전략 논의…스포츠태권도 국제융합컨퍼런스 4일 개막[온라인 라운지]  v.daum.net",
       "category": "스포츠 기술",
@@ -642,14 +666,6 @@
       "date": "2026-07-01"
     },
     {
-      "title": "북중미 월드컵, 유일한 승자는 네이버 치지직?",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yVHVCbTlTakdqRWpadHJYem5DWGZCYmRPVi1wTUdsQjVqNnM5ckM4dDR2d3NwcHhCUnRYLWtJOGVVeVYzYTd1YlRaVTYtMnduTnYyQk5R?oc=5",
-      "source": "뉴닉",
-      "summary": "북중미 월드컵, 유일한 승자는 네이버 치지직?  뉴닉",
-      "category": "스포츠 OTT",
-      "date": "2026-07-01"
-    },
-    {
       "title": "[시리즈] \"쌓이는 데이터가 경쟁력\"... 스포츠테크 '플코', 40억 원 후속 투자 유치",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55OUZHX25FTXpMR3JGYzRBZXNnSXZ6d280WWFsb2hGV2hJTVExZ3o1LS03a0NnNkhhLTNEVnU2WGV4QmRTRml3ZExvaHd2bW91SExZMnBJX3Qzd2RuSVF5cVB4UlgxSXVseHFxbFFGR2pUdw?oc=5",
       "source": "investnews.co.kr",
@@ -687,14 +703,6 @@
       "source": "디트NEWS24",
       "summary": "\"그린바이오는 미래를 결정하는 나침반”  디트NEWS24",
       "category": "스포츠 기술",
-      "date": "2026-07-01"
-    },
-    {
-      "title": "79% 확률로 경기 뒤집혔다…‘물 한 모금’이 판 흔드는 월드컵",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81SXRLbWRCNDJFeEk2em5aazMxQlhmdFNQbXZNYzZKbGNUYlViVTVDb1oyemY5X3lCOE1ZN3R1bmZ2YXNDZUpfdkR0eHpEMFk?oc=5",
-      "source": "v.daum.net",
-      "summary": "79% 확률로 경기 뒤집혔다…‘물 한 모금’이 판 흔드는 월드컵  v.daum.net",
-      "category": "스포츠 데이터",
       "date": "2026-07-01"
     },
     {
