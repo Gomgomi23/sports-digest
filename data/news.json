@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07 21:56 (KST)",
+  "updated_at": "2026-07-07 22:30 (KST)",
   "articles": [
     {
       "title": "월드컵으로 외형 키운 치지직, 다음 과제는 '록인'",
@@ -38,14 +38,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tdFhzQ0xIZllqV09MejV4aXNQZ3AtVmxITnRJTlpsbUZCcERuUFdZUkRQR2lEYVQyMzZITkpGd216QXN1UlJLcFMyNDlIVUQ4dUJzMnh0WFdIeXF5a2fSAWNBVV95cUxORTFSN2JtM3lBMVFRVXlfOEQ3Zjl0MUR0RjIyTHRRZUZuS2YyazlmNzB3TGFqOTBpZTh0ZklmVXVHbDFzZUFWVGd3Y0hNQnVlaXhaVWhUSVY0eDlVRXhyWlV1dTA?oc=5",
       "source": "스포츠경향",
       "summary": "‘김부장’ 보고 싶은 OTT 1위  스포츠경향",
-      "category": "스포츠 OTT",
-      "date": "2026-07-07"
-    },
-    {
-      "title": "‘열혈농구단2’ 첫 방송부터 넷플릭스 TOP10 진입…순조로운 출발",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16THllNnpvTjZhMDFNUHNER0s3Y1JiZC1UcjlVS2g0b21rSHhva2tVQlp6NmJGR29xeU5IU1pnMTV6NGw1XzdDMzZiOGpjWWhrbElwMEJ3Zm93Y1VXSzJuc2Y1UDlqSmN4?oc=5",
-      "source": "뉴스엔",
-      "summary": "‘열혈농구단2’ 첫 방송부터 넷플릭스 TOP10 진입…순조로운 출발  뉴스엔",
       "category": "스포츠 OTT",
       "date": "2026-07-07"
     },
@@ -162,19 +154,27 @@
       "date": "2026-07-07"
     },
     {
-      "title": "브이씨-서울대스포츠과학연구소, AI 러닝워치 공동 개발 나서",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zVE9qX0NTNkEtWl80dWEwMkxESTJVSWRMNmZGWWh0WWtMdkJERnZUMUlyUVhidzR4d0hFTVNpbU1lU0dmbTZGQWtaY3dSdEVHVEVoZkZLeEYtSVpKaVhSTTNWWlA?oc=5",
-      "source": "매일일보",
-      "summary": "브이씨-서울대스포츠과학연구소, AI 러닝워치 공동 개발 나서  매일일보",
-      "category": "스포츠 데이터",
-      "date": "2026-07-07"
-    },
-    {
       "title": "이정후 1위, 7월 스포츠 스타 브랜드평판 정상..2위 류현진·3위 양의지",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wcTZHQzh1a3pYR2dSZjc3b0dzalM3MzRvOEx2Nkh4andaWkpiaWVhX1ZTdGUzc0UtSmJtLUtQRkZ3TXNGR3Ztdw?oc=5",
       "source": "브레이크뉴스",
       "summary": "이정후 1위, 7월 스포츠 스타 브랜드평판 정상..2위 류현진·3위 양의지  브레이크뉴스",
       "category": "스포츠 데이터",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "남해군, 청소년수련관에 VR 스포츠실 조성… 본격 운영",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPMDItU2t1MXdjZ25BS21xQzhsaE5DQkNXRzR4MUhMUUlLQUlncGNNZWZLc0tJZHhSYXdtYXVzY2taZnhDRTZtYmREbWY4bkREUjhDdlJCRTZJQkNsQktDdkVFaTFHWExidllsOFF0RGt1Q2lGY1lJUkVMUlF6cWk2WUxoaG15WU5QVVAyZno4MDhqeVllOV9wUzR2UFItQ2xSMHRBOVBtbVRwc2JFZkhuclhPcEdDMEpQanBqMjF3d2VmdEliSXA2aF9QMjBYVTkxQzAyZ2hzZVFXWXoxSEFZc1lzXzVtSG01ZnYzX2hkOGFXdEU4SkJsMkJ3V1VkYXdUZEhnNmRVS1pwTk1WRG8teEhDUGpzWTg2SlIzWjFMVDJXMXRYVkVmWXZxZzJjWkFHZzFDYlNoTGMxRFFLekFpald4LUUyOXEwTDVSeXBPa0VaMUZ5Z2M5bQ?oc=5",
+      "source": "MSN",
+      "summary": "남해군, 청소년수련관에 VR 스포츠실 조성… 본격 운영  MSN",
+      "category": "스포츠 VR/AR",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "헤드셋 쓰고 허공에 발차기, 버추얼 태권도 타격감은?",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmRDBSWHBoa2tYUy1mMGNrLXhCYmVaWlY5Y25NVnFIOUtGRnlZTDZNT2JyQkN1bVV2T1ItTzJsVXFvbEcxS2dQcE13VjBET1kzM0lkZXp4NkZyNGVi?oc=5",
+      "source": "네이트",
+      "summary": "헤드셋 쓰고 허공에 발차기, 버추얼 태권도 타격감은?  네이트",
+      "category": "스포츠 VR/AR",
       "date": "2026-07-07"
     },
     {
@@ -266,6 +266,14 @@
       "date": "2026-07-06"
     },
     {
+      "title": "우석대 학생들, AI 스포츠 아이디어 공모전 우수상",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcEFQUFZJRWxPa0N2dC1PNmg3UFhpN3BQSS1LQTM2WWFHbUVWQU80b01pQVNzODU0WHRxSkFrVDdUZVJ1UHJ3QkRaVzV5VGwtNE4xb25VUE1kT1diTC1qZ0VpSHJkdV8yaUJPRVdOZkpSMjYtVlpQQlJYQXdkQkFnbzhLZFFWX1Fy?oc=5",
+      "source": "전북도민일보",
+      "summary": "우석대 학생들, AI 스포츠 아이디어 공모전 우수상  전북도민일보",
+      "category": "스포츠 기술",
+      "date": "2026-07-06"
+    },
+    {
       "title": "‘2026 제6회 스포츠태권도 국제융합컨퍼런스’ 막 내려",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52Z2dEU3Vval9qT21rclA4RGl5bTBGamFDTWlaaG5qaFB5Y3BmMW5nMnNxcWJkYlYzdGVDNjhieWJyV3FvMkNTNlVfNXFOSmE4YWQ0MEMzeEZBd2hHZFZmWjAzd1luRElUc2F4UTBjNEPSAXBBVV95cUxOdmdnRFN1b2pfak9ta3JQOERpeW0wRmphQ01pWmhuamhQeWNwZjFuZzJzcXFiZGJWM3RlQzY4YnlicldxbzJDUzZVXzVxTkphOGFkNDBDM3hGQXdoR2RWZlowM3dZbkRJVHNheFEwYzRD?oc=5",
       "source": "전라일보",
@@ -314,18 +322,18 @@
       "date": "2026-07-06"
     },
     {
-      "title": "강원도·GS, ‘동해 AI 데이터센터’ 조성 맞손",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02ZUJ3V3A1TjFQRkJyMEw4dC1fOFRQdVV2TFRBWk9PV3Q1UDN0eWpTSlpQUEpWVU9xaG1BMldTRU10S1ZYYV9rZTVWOEtrQ1pwNmdqMUlVYmM4ek9EMmZYVGd0YndmbGdGZXVzb9IBbEFVX3lxTE02ZUJ3V3A1TjFQRkJyMEw4dC1fOFRQdVV2TFRBWk9PV3Q1UDN0eWpTSlpQUEpWVU9xaG1BMldTRU10S1ZYYV9rZTVWOEtrQ1pwNmdqMUlVYmM4ek9EMmZYVGd0YndmbGdGZXVzbw?oc=5",
-      "source": "국민일보",
-      "summary": "강원도·GS, ‘동해 AI 데이터센터’ 조성 맞손  국민일보",
-      "category": "스포츠 데이터",
-      "date": "2026-07-06"
-    },
-    {
       "title": "\"스포츠산업 진입 희망자 누구나 지원 가능\"… 한국프로축구연맹, 축구산업 아카데미 26기 모집 ‘19일까지 접수’",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RczcwUzVnT1c0Wk95WDZzbE9yWmFsbHJja0ZfZ1l3MkN2YnBaNHIxUG5kQmJ4d2NDMllDb0kyRF9qMU5JMWdXeW9ndTA0NG9BRE9BcU5LUUxxSUlxNXZEMFdoeExHUHp1V1Uwc0ZR?oc=5",
       "source": "besteleven.com",
       "summary": "\"스포츠산업 진입 희망자 누구나 지원 가능\"… 한국프로축구연맹, 축구산업 아카데미 26기 모집 ‘19일까지 접수’  besteleven.com",
+      "category": "스포츠 데이터",
+      "date": "2026-07-06"
+    },
+    {
+      "title": "강원도·GS, ‘동해 AI 데이터센터’ 조성 맞손",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02ZUJ3V3A1TjFQRkJyMEw4dC1fOFRQdVV2TFRBWk9PV3Q1UDN0eWpTSlpQUEpWVU9xaG1BMldTRU10S1ZYYV9rZTVWOEtrQ1pwNmdqMUlVYmM4ek9EMmZYVGd0YndmbGdGZXVzb9IBbEFVX3lxTE02ZUJ3V3A1TjFQRkJyMEw4dC1fOFRQdVV2TFRBWk9PV3Q1UDN0eWpTSlpQUEpWVU9xaG1BMldTRU10S1ZYYV9rZTVWOEtrQ1pwNmdqMUlVYmM4ek9EMmZYVGd0YndmbGdGZXVzbw?oc=5",
+      "source": "국민일보",
+      "summary": "강원도·GS, ‘동해 AI 데이터센터’ 조성 맞손  국민일보",
       "category": "스포츠 데이터",
       "date": "2026-07-06"
     },
@@ -347,9 +355,9 @@
     },
     {
       "title": "경북교육청, '농어촌 찾아가는 AI·로봇 놀이터' 운영",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55d204MUFnTzJZRkMxSEZvLVRkRlgwNmM0RGRPMFg1MlA4T05URmUzRnljVnluekpVUUJfWXBmYUFuZEwwZUZ4cHhmUHR0MkRyX0Rz?oc=5",
-      "source": "네이트",
-      "summary": "경북교육청, '농어촌 찾아가는 AI·로봇 놀이터' 운영  네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2bHk0d0NFV3ltNnFmZUdmTzBSWXhBNkdzYTA0SERZY3lYWXRYd0tyTFZuSkh2YXhWdGJjMkRkdmdCckRkQ3BWdVBOYmx4b1BrZEt5OWhPbExOMW9iU3VRQ9IBeEFVX3lxTFAxVE1ocEFaMmFHdFNQSks1WWJWaEljUFVLMWxtMWdqNVQ0dWJRa0ZDUEN2QmYxQ3ZsYXJUMkFqZHBmQWtaSzdkeXhUN0pZa0JsSHlqdDVoNkNfZ3BtaFBRYU9nUWR6XzNQVHBuajc3cnhFX0dLdEdGWQ?oc=5",
+      "source": "뉴시스",
+      "summary": "경북교육청, '농어촌 찾아가는 AI·로봇 놀이터' 운영  뉴시스",
       "category": "스포츠 VR/AR",
       "date": "2026-07-06"
     },
@@ -466,14 +474,6 @@
       "date": "2026-07-04"
     },
     {
-      "title": "엔터테인먼트 메타버스, 2032년 1,219억 달러 시장으로 도약한다",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1eXRvaFdPNWpZM0tqUWpocklUaWZIbTAwV2txTnVxTlJ0RUJ5TEpodjVlQmFwRTJhRlpiaFh4Z2pleEt4cURXRQ?oc=5",
-      "source": "얼리어답터뉴스",
-      "summary": "엔터테인먼트 메타버스, 2032년 1,219억 달러 시장으로 도약한다  얼리어답터뉴스",
-      "category": "스포츠 VR/AR",
-      "date": "2026-07-04"
-    },
-    {
       "title": "치지직, e스포츠 중계 플랫폼 입지 넓힌다",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mUTZSNFFINXU1SDhfQUIycEp4dWlmZ0wyeGlPN1VNbUVrWThJN0dWbWZBSEpzVWhQczM5eFRHOXlqUTJTOVNaRXg4WHNrMlFEVDVnV0p1UGN2VVZIQXZGSEdPeFZwNjgydUxGSw?oc=5",
       "source": "스마트비즈",
@@ -515,7 +515,7 @@
     },
     {
       "title": "엄재용 사무총장 '뉴미디어 중계권 등 넓혀가야'",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BLXgzZUVEQ29jbFpsWkZxZmdIbXp2LURMc1dxc2s1MldnTXBxTnpxTkNtLUZWTjVqeWlVNnNpNEtkQ1hHOXBLRFcxSTU2N0FqX0h6dnVSSEZkS2x2ZVZHbg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QSUU1eXVwSUhjTXRNMHNiQWRNVkNnRGp0Z2N1M29iX0ZtSVVDVlZvWUxnMHVZWU8tREQwTi1oWXBSSXlCSXB3N3JqWTd0NEZMR0FTR1ktWEIwTVZy?oc=5",
       "source": "네이트",
       "summary": "엄재용 사무총장 '뉴미디어 중계권 등 넓혀가야'  네이트",
       "category": "스포츠 중계권",
@@ -666,6 +666,14 @@
       "date": "2026-07-02"
     },
     {
+      "title": "한국아웃도어스포츠산업협회, 섬유패션 DX·AX 전문인력 양성 나선다",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83cS05WW0ybFk1NUQwbEg1dmJMbXY4b0l4YmNFeVZxS21fUkpLQWMtWEROVEwzQ1dORGh0RFFZV29DSVRQbTdxaWJRTUdBeVN2VENoQzR6Vi13dUZlR2Vmd1BFaWlaci1t?oc=5",
+      "source": "한국섬유신문",
+      "summary": "한국아웃도어스포츠산업협회, 섬유패션 DX·AX 전문인력 양성 나선다  한국섬유신문",
+      "category": "스포츠 데이터",
+      "date": "2026-07-02"
+    },
+    {
       "title": "해미청소년문화의집,‘제1회 서산시장배 충남 청소년 드론축구대회’참가팀 모집",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxSDI1UHhUdW5vc3daOVE3LVZXVVNWLURrbGVHTlhKbFNybktnaFpIQ0l6dG9makJlcjFDWm9VekZZTzFMUnBFWUt4VUkzbV9wY2l0Vlg3Qmg4cmIzR0E?oc=5",
       "source": "중부시사신문",
@@ -750,6 +758,14 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVZramV6Njlvbk0yRkp6T2FrVFI4d29IQ0dfOGhmeldiQmE0RWlKNzE3el9xX1FYMzlWTjF3UlR0eTc3bzZ2My00WlpCbTB6TkNNaWdGbDFGMWJIaE1QRlV4RVFFNTZYRTd0a3JvQlBqdnZZSVNSZ0Q2OEhtNUpYdg?oc=5",
       "source": "이데일리",
       "summary": "“OTT 여러 개 안 봐도 된다”…SK브로드밴드, 지상파 담은 ‘B tv+ max’ 출시  이데일리",
+      "category": "스포츠 OTT",
+      "date": "2026-07-01"
+    },
+    {
+      "title": "‘별들의 전쟁’ 챔피언스리그 준결승서 이강인vs김민재 코리안 더비…한 명만 웃는다",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EOEIycjFpNU92d0gtVzFfVUMtWVFjTk41REtLMEJROENrRUVfcUZHUThrcmFGZlM2ZU53Qmozc3FVdU5jcmVFZ3dHYVBnaml4eHk5VkVuYkFwSTZWZGljNkg4SQ?oc=5",
+      "source": "쿠키뉴스",
+      "summary": "‘별들의 전쟁’ 챔피언스리그 준결승서 이강인vs김민재 코리안 더비…한 명만 웃는다  쿠키뉴스",
       "category": "스포츠 OTT",
       "date": "2026-07-01"
     },
