@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13 11:14 (KST)",
+  "updated_at": "2026-07-13 11:45 (KST)",
   "articles": [
     {
       "title": "\"시청자 잡아라\" 점유율 하락 넷플릭스, 라이브TV채널·OTT 번들 검토",
@@ -31,6 +31,14 @@
       "source": "네이트",
       "summary": "'뿌리기술, 원스톱 지원' 원주시, 산업부 '산업혁신기반 구축사업' 최종 선정  네이트",
       "category": "스포츠 기술",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "데이터 사이언스 입은 스포츠약학… '도핑 없는 클린스포츠' 새 지평 연다",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ILVRNVndGcE9TS015bDZKN042U2NyM0tLYTZEZmFtdjlSWC1GMENoME1MdzBWd2IyT0dPODRxY2xXallzQVJMVkxYb3lRZGlNOXdpM0w3M0EyZnNRQ2tjSmtzQnk0SDFfRjhaWA?oc=5",
+      "source": "약사공론",
+      "summary": "데이터 사이언스 입은 스포츠약학… '도핑 없는 클린스포츠' 새 지평 연다  약사공론",
+      "category": "스포츠 데이터",
       "date": "2026-07-13"
     },
     {
@@ -94,14 +102,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qR3BLS09yeDBvaHR0cVVHNHBDTVJUblVwaFZZSjNYUVJ6MldiTVVRRHp1Mkg3YTR2YXh1U2xBOUw4ZmpoUWY1UEtCYTNKdGc?oc=5",
       "source": "v.daum.net",
       "summary": "파리 홀린 K스타트업 … 비바테크서 'AI혁신' 호평  v.daum.net",
-      "category": "스포츠 스타트업",
-      "date": "2026-07-12"
-    },
-    {
-      "title": "중기부, 17개 시도서 '아이디어 컨설팅 데이'…맞춤형 상담 지원",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1PNFF0VTJCdHNuYzUtdHNqeDUtaVRJTUhTejFaRjM0Umc1MW41QlVIUF9iaWQyeE43R0FidVdkbnQ2QTlFX2c?oc=5",
-      "source": "v.daum.net",
-      "summary": "중기부, 17개 시도서 '아이디어 컨설팅 데이'…맞춤형 상담 지원  v.daum.net",
       "category": "스포츠 스타트업",
       "date": "2026-07-12"
     },
@@ -210,14 +210,6 @@
       "date": "2026-07-10"
     },
     {
-      "title": "넷플릭스에서 24시간 방송 나오고 월드컵 중계도 보게될까",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNVZRSlhwTEFIS0E2MUJMdVdnNGMxNlpTcDV5UTFFSVlfVmRxRElBRkx5SXpxTlNZY18wV3FXa1AxcjJua0p6NHJBTWs4WWo4ek5KeFpIZjZrWVpTd3R5WFU5b2pqb21HOC0tTzlUb0tBaERwY2NDcGhIM05GcUNkV1lEc3laSlpz?oc=5",
-      "source": "매일경제",
-      "summary": "넷플릭스에서 24시간 방송 나오고 월드컵 중계도 보게될까  매일경제",
-      "category": "스포츠 중계권",
-      "date": "2026-07-10"
-    },
-    {
       "title": "넷플릭스, 실시간 TV·OTT 묶음상품 검토… 시청시간 하락 대응",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iQ2diMkZ4NElqOEFEQTFVdDVYaUtnR1N1N3B1aWhMek43eEFBTllHU3FIRENPUDQtVU56YmhUN292NnJPck5BaUdxRGFGY3VNNVRfMnVwTG02TE9Bb09say0wNzR2YUQ5Vk0zVWF6Z0rSAXRBVV95cUxNZzR3ajdhVzh4SUhrUXhEMThiNUpVd0pIcFV5a0N0b1R6Si1IZUdPN1VUa1FyZFVRM0dQTk81THg5V0JfcHh0ektRakdEQkdoWEs0ZnVCMm5Jb1ZuQzdOMW5ucUI3c2dEeHhlLU1tOFZ5djJCdg?oc=5",
       "source": "IT조선",
@@ -282,18 +274,18 @@
       "date": "2026-07-10"
     },
     {
-      "title": "레노버 \"AI 심판 시점으로 월드컵 시청 혁신\"… 팬 91% \"더 몰입감 있다\"",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LeTNrM29fNmhkNHpBbVFINzRRS2xtdmh1dE1IT1h4Uno5VEZQaXh3bE9nUUMtdjl3Rm50YnZzNnFxdXBsWENCa2xzLVlxbkhFT1ZN?oc=5",
-      "source": "강소기업뉴스",
-      "summary": "레노버 \"AI 심판 시점으로 월드컵 시청 혁신\"… 팬 91% \"더 몰입감 있다\"  강소기업뉴스",
-      "category": "스포츠 기술",
-      "date": "2026-07-10"
-    },
-    {
       "title": "국회, K-스타트업 글로벌 경쟁력 강화 시동…\"기술 아닌 제도 혁신이 관건\"",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13QWNnTzlPMmQxUUhuMHBLOUtXYnBYSGUtQ1Q4SURreVJBd0xKc29TRFZ4bVFYdjljcXlWZ2ZlYllHM1MxQUJRdEJnUUFIRXRfcjVz?oc=5",
       "source": "네이트",
       "summary": "국회, K-스타트업 글로벌 경쟁력 강화 시동…\"기술 아닌 제도 혁신이 관건\"  네이트",
+      "category": "스포츠 스타트업",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "레노버 \"AI 심판 시점으로 월드컵 시청 혁신\"… 팬 91% \"더 몰입감 있다\"",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LeTNrM29fNmhkNHpBbVFINzRRS2xtdmh1dE1IT1h4Uno5VEZQaXh3bE9nUUMtdjl3Rm50YnZzNnFxdXBsWENCa2xzLVlxbkhFT1ZN?oc=5",
+      "source": "강소기업뉴스",
+      "summary": "레노버 \"AI 심판 시점으로 월드컵 시청 혁신\"… 팬 91% \"더 몰입감 있다\"  강소기업뉴스",
       "category": "스포츠 기술",
       "date": "2026-07-10"
     },
@@ -326,14 +318,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40Zy1USU5kTENkd2Z5cjAweEZXak0yUGo1bTdEMGN5aS1GLVZlWkVnV2x4M1k1amFMX2hFUVNFVm1IWEZ5MUVNMnFYZUxPUQ?oc=5",
       "source": "전자신문",
       "summary": "상명대 일반대학원 스포츠ICT융합학과 스포츠아일랜드 제주 안덕센터와 업무협약 체결  전자신문",
-      "category": "스포츠 데이터",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "“스포츠 현장 데이터로 미래 인재 키운다”…상명대, 스포츠아일랜드와 맞춤형 산학협력 추진",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56dWdEdl8zYjFnbVo1ZU9wYmdVYU5zSE9meTNRN3oxYUtVM3pKMEhvbnhESzFQYndtbkN3MHlDbHV0bldIVThKZnpCQ18zUU91Vk4yQjM3SmdTcElnc2Jpa1RVZmh2ZHRpTHlrcTZNTlc?oc=5",
-      "source": "스마트경제",
-      "summary": "“스포츠 현장 데이터로 미래 인재 키운다”…상명대, 스포츠아일랜드와 맞춤형 산학협력 추진  스마트경제",
       "category": "스포츠 데이터",
       "date": "2026-07-10"
     },
@@ -390,6 +374,14 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83R19BU2NCSlNGZ096RjhmbzJIMC10M3F2YmNrQ3Z0R0puRmR6Z3lBUGVuQl9uMHJxVnZ4RV9CU2p4a1h5ZU1LODZGd2FQMW9iZXM1LUZ4MFdWdVFTSlRDdTdVNjhONFY5aWtSUGRnQXRyNnPSAXdBVV95cUxOUEcxRDRJQTlPTzNYY3pSeEE5ZC0yZDd2NXp3N3FvX2ZFc1U4cS02VlZTT2FldGlaZUVoZFJyNXpLY0YyRi1saHowMi04czg2cDJYSExkWEEyZzNwY3FPWjI4bXhOaDV6eFB0cWxSbE9DYUMzRlQ1NA?oc=5",
       "source": "스포츠 피플 타임즈",
       "summary": "예술경영지원센터, 창업도약 지원사업 ‘하이팁스데이’ 성료  스포츠 피플 타임즈",
+      "category": "스포츠 스타트업",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "네이버, 버추얼 엔터테인먼트 스타트업 '23세기아이들' 투자",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92R1BKUHlSdk9aZjNIR01Ja29jamZWcHJqS0RYbDBsRXhqeDNadnlvRFhmS1dkc1ZPdS1aSTlvRHY2N0JhWXc?oc=5",
+      "source": "v.daum.net",
+      "summary": "네이버, 버추얼 엔터테인먼트 스타트업 '23세기아이들' 투자  v.daum.net",
       "category": "스포츠 스타트업",
       "date": "2026-07-09"
     },
@@ -674,18 +666,18 @@
       "date": "2026-07-07"
     },
     {
-      "title": "브이씨-서울대, AI 스포츠 웨어러블 개발 협력",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jU0VPeTZubGpuclNWQTUwak4yeTZPM3NfM1dmdUVjUlA3QlFLRkxxUkwyNVBHMjgwTnhLV09hUEJqRW1IU1pxM3dLT3ViQQ?oc=5",
-      "source": "전자신문",
-      "summary": "브이씨-서울대, AI 스포츠 웨어러블 개발 협력  전자신문",
-      "category": "스포츠 데이터",
-      "date": "2026-07-07"
-    },
-    {
       "title": "“한국, 월드컵 34위” 진작에 딱 맞힌 AI…우승국은 ‘이 나라’ 꼽았다",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PUTR3Tm1uZzdKQ3VKa1pJQmVBWlJsY1o2UXMxbUdqMkFfUzlqZnMtekhQVnZNVW1WaE1CU0N2T2tQZVJmdndGd2RwbDUwNEVrQ1ZrWDdqTFZwQWFxbElUeTZR?oc=5",
       "source": "미주중앙일보",
       "summary": "“한국, 월드컵 34위” 진작에 딱 맞힌 AI…우승국은 ‘이 나라’ 꼽았다  미주중앙일보",
+      "category": "스포츠 데이터",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "브이씨-서울대, AI 스포츠 웨어러블 개발 협력",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jU0VPeTZubGpuclNWQTUwak4yeTZPM3NfM1dmdUVjUlA3QlFLRkxxUkwyNVBHMjgwTnhLV09hUEJqRW1IU1pxM3dLT3ViQQ?oc=5",
+      "source": "전자신문",
+      "summary": "브이씨-서울대, AI 스포츠 웨어러블 개발 협력  전자신문",
       "category": "스포츠 데이터",
       "date": "2026-07-07"
     },
@@ -711,14 +703,6 @@
       "source": "데일리안",
       "summary": "깨진 넷플릭스 40% 콘크리트층, 축구·야구가 밀어 올린 토종 OTT의 추격  데일리안",
       "category": "스포츠 OTT",
-      "date": "2026-07-06"
-    },
-    {
-      "title": "대기업 기술실증부터 글로벌 진출까지…경과원, 33개사 모집",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UWkIwOW5teXZwaldJQjltd3I1OW9YN1k4b3daRVY4UVR1Sl9SSUtRNUlCeXl4SFNIMVM3dzNtVDZVdllMcElnaW45QkI3ckU?oc=5",
-      "source": "v.daum.net",
-      "summary": "대기업 기술실증부터 글로벌 진출까지…경과원, 33개사 모집  v.daum.net",
-      "category": "스포츠 스타트업",
       "date": "2026-07-06"
     },
     {
@@ -767,6 +751,14 @@
       "source": "조선일보",
       "summary": "스포츠태권도 미래는 AI…무주 국제융합컨퍼런스 성료  조선일보",
       "category": "스포츠 기술",
+      "date": "2026-07-06"
+    },
+    {
+      "title": "한국프로축구연맹, 축구산업 아카데미 26기 모집",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81dkp5YUsyNDh6TmlBVHFyYWpJV3JUQzZBeG1uR2hwMkpENnZ6OWtHSXpBU2pkZkMxOTVieG5yenhXXzhnQTB6QkU5bkJYc2s?oc=5",
+      "source": "v.daum.net",
+      "summary": "한국프로축구연맹, 축구산업 아카데미 26기 모집  v.daum.net",
+      "category": "스포츠 데이터",
       "date": "2026-07-06"
     },
     {
