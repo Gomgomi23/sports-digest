@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13 19:42 (KST)",
+  "updated_at": "2026-07-13 20:42 (KST)",
   "articles": [
     {
       "title": "\"시청자 잡아라\" 점유율 하락 넷플릭스, 라이브TV·OTT 번들 검토",
@@ -42,18 +42,18 @@
       "date": "2026-07-13"
     },
     {
-      "title": "관악구,‘ 2026 관악S밸리 브릿지 데모데이 ’개최...스타트업의 ‘든든한 징검다리’",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwNkxEb0JtQXkxczFSVlJHWTFEaE1DWHBGLWE3N1UzbGZlNEwtamhHMkx0VkVBeF9waUFOTkpSUDN0dlkwQ28tN3ZyMC1TTkFiSTZIMVE2Y3E3TjI4VUktdDBIUDhmTnpub0Uw?oc=5",
-      "source": "BBS불교방송",
-      "summary": "관악구,‘ 2026 관악S밸리 브릿지 데모데이 ’개최...스타트업의 ‘든든한 징검다리’  BBS불교방송",
-      "category": "스포츠 스타트업",
-      "date": "2026-07-13"
-    },
-    {
       "title": "[🍚 오밥뉴] \"충남 벤처펀드 1조 5천억으로 키운다\" | 오늘의 밥 친구 뉴스 (2026. 07. 13)",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDbWdYT3d2WV9WS3Zfa1lIQTVMMXJYX3NvM00zTG5lUHRUTE00YlZscU1taHV5U3ZHV2RPUmVrM1VRMUpSZ0E?oc=5",
       "source": "v.daum.net",
       "summary": "[🍚 오밥뉴] \"충남 벤처펀드 1조 5천억으로 키운다\" | 오늘의 밥 친구 뉴스 (2026. 07. 13)  v.daum.net",
+      "category": "스포츠 스타트업",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "AI로 쏠리는 벤처투자…정부 규제 완화에도 '선별 투자' 심화",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JWURYR0xreDdWcU9WSVJGOFNnS3h0RGduSzFFZWtmemMxWXlMaTJYYjNDLTBqWFVreFF6YWZoVTJ4TlRPekhnUVdlVm9nUVE?oc=5",
+      "source": "v.daum.net",
+      "summary": "AI로 쏠리는 벤처투자…정부 규제 완화에도 '선별 투자' 심화  v.daum.net",
       "category": "스포츠 스타트업",
       "date": "2026-07-13"
     },
@@ -114,16 +114,8 @@
       "date": "2026-07-13"
     },
     {
-      "title": "수도권 신생기업이 대구 남구로 향하는 이유는",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ESFFZTy00blhjUUszZU1OeTB2TjR5a2ZBSnJlLTlveEplbHdoN1VfaVRKTmlCR2FyMWN0X0x5Rkd0NDNjRVprdVhHMk03ekhuMTJhUnBydUdUNjdhcktNY0ZaUkNIZkRNRURr?oc=5",
-      "source": "영남일보",
-      "summary": "수도권 신생기업이 대구 남구로 향하는 이유는  영남일보",
-      "category": "스포츠 VR/AR",
-      "date": "2026-07-13"
-    },
-    {
       "title": "[인터뷰] 조익환 SK텔레콤 피지컬AI 부사장 “3년 내 AI B2B 매출 10% 이상 목표… 반도체·자동차·조선서 피지컬AI 수요 클 것” - 조선비즈",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNanUwVVJiVmk3dnBoMUtVR2RFU3pzZzNzRlNZNmJsU3NHVTRESV9oUHQyV1F4emNrd1N2R2JhMER3ZEdqR2diOEhTQkx5b2l4cERMRDgwVy15UTk4V2o1Z1lHMUhfclNfc196RG02X0NBQVFkbGRMRC1Cbl9KVldfdC1RQ0xnV3RoWWJRTlYtU3VESkR1UEHSAZYBQVVfeXFMTWp1MFVSYlZpN3ZwaDFLVUdkRVN6c2czc0ZTWTZibFNzR1U0RElfaFB0MldReHpja3dTdkdiYTBEd2RHakdnYjhIU0JMeW9peHBETEQ4MFcteVE5OFdqNWdZRzFIX3JTX3NfekRtNl9DQUFRZGxkTEQtQm5fSlZXX3QtUUNMZ1d0aFliUU5WLVN1REpEdVBB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEJlM1ZIZWk0RVMybG5wblJQOUpzQi1XQzNNdFR0NUZRSGhYSkltc0NCSVdGXzVFTnJzT2FoYldyRGZVM0dBTjRMSnUtby0zbjN5YU5rQndod2RYTlh3MkRHZ256VUsyakJZSEJuVWZZanNaZV9ZSVF0YkVudUNyQk130gGWAUFVX3lxTE1qdTBVUmJWaTd2cGgxS1VHZEVTenNnM3NGU1k2YmxTc0dVNERJX2hQdDJXUXh6Y2t3U3ZHYmEwRHdkR2pHZ2I4SFNCTHlvaXhwRExEODBXLXlROThXajVnWUcxSF9yU19zX3pEbTZfQ0FBUWRsZExELUJuX0pWV190LVFDTGdXdGhZYlFOVi1TdURKRHVQQQ?oc=5",
       "source": "Chosunbiz",
       "summary": "[인터뷰] 조익환 SK텔레콤 피지컬AI 부사장 “3년 내 AI B2B 매출 10% 이상 목표… 반도체·자동차·조선서 피지컬AI 수요 클 것” - 조선비즈  Chosunbiz",
       "category": "스포츠 VR/AR",
@@ -202,6 +194,14 @@
       "date": "2026-07-12"
     },
     {
+      "title": "광명시, AI·AR·3D 설계까지…3040세대 직업전환 디딤돌 놓다",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wTUo3eXVwRUwwOV9ORWtxQWIzR3ByRTNSbTUwQzBqVDZqRVlfSHI2MmhsY1ppc0FKVlc1bmFObXZ5bXdCZTBkVWtPRE9BbTJzU053?oc=5",
+      "source": "네이트",
+      "summary": "광명시, AI·AR·3D 설계까지…3040세대 직업전환 디딤돌 놓다  네이트",
+      "category": "스포츠 VR/AR",
+      "date": "2026-07-12"
+    },
+    {
       "title": "FIFA 월드컵 중계권 입찰가 상승이 폭스(FOXA)의 생중계 스포츠 경쟁 우위를 재편할 것인가?",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN05pS3JObVBiLWZKLVhSMkhQZ1pXV0p6dXlMNWc2R2plejdLeW1GR04wbkNPeXluaXpVeFNyeGdQTUQ3Y2Vuc1NMS0RseEJvSmt4NU5ydzU3WVBwdm9IdzhFNy01Q2JhTktOM01YTDZoLUt0NDdEYlJ5cTRZTFBPOUU4NnRfM0RKSlHSAYoBQVVfeXFMTTdOaUtyTm1QYi1mSi1YUjJIUGdaV1dKenV5TDVnNkdqZXo3S3ltRkdOMG5DT3l5bml6VXhTcnhnUE1EN2NlbnNTTEtEbHhCb0preDVOcnc1N1lQcHZvSHc4RTctNUNiYU5LTjNNWEw2aC1LdDQ3RGJSeXE0WUxQTzlFODZ0XzNESkpR?oc=5",
       "source": "simplywall.st",
@@ -214,14 +214,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9saW9QVjVoakdBYzZvV3M5T0hxR0FfRWpTOGo4dkY4WHJ4YmVtQW9iVnJUcHZybG9HT3Y2UjBJeDlKYzFpWDBQT3RWWTBBU01VV2JCa2JGaFZKRk5hM1pJSnZBRlRYTDRzaXfSAW5BVV95cUxNRnBIUHY4VlozdzI4NHR0OExLT2ZobG1PWE81WDlXQTRFT25MdUVPUzY3SkNTbkxlWlNYWHhtMFVCSXJBTmszWjFXWUVUaWsySkxuaVpCbFl6SmJ3YUtUbmRvNDY1ckp2QTF6RWlwQQ?oc=5",
       "source": "르몽드디플로마티크",
       "summary": "2026 월드컵 FIFA, 얼마나 벌었나. 월드컵의 경제학  르몽드디플로마티크",
-      "category": "스포츠 중계권",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "넷플릭스(NFLX) 라이브 채널과 월드컵 입찰 검토가 말해주는 다음 변화",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVHoxemlzalpnTmZDUzdMT2xTRDBqS3hTSElsRzNLTVk2azBTcWsyMHNrcUxOaG9mQ2lac1E2RC0zdF95LUhEWHlONDhOZURiWWlTSzUxWmIzVFVEN3dXX083ZE9Gem4tVEMyMHIwdmFIaTVaTmVOMXY4LUlXaV9yZXA1TkM0VTJjY3fSAY8BQVVfeXFMT0xhamZOZHJGM214OFYzOHZIQjJyaHlSX3BGRUMwd1R0UDZua01kS0tQSTcyZzJUQVZMRnRyalFEMndETnh4UHljMjZIVXZISUFESV9YRG8zUUJybHVVNHJiSTVGd0F0ZUtheGVHcmxoa09WdG9KdjlPWGp1Nm5wQ2pYakgxRUJxTzhiTzRXOUU?oc=5",
-      "source": "simplywall.st",
-      "summary": "넷플릭스(NFLX) 라이브 채널과 월드컵 입찰 검토가 말해주는 다음 변화  simplywall.st",
       "category": "스포츠 중계권",
       "date": "2026-07-11"
     },
@@ -274,6 +266,22 @@
       "date": "2026-07-10"
     },
     {
+      "title": "넷플릭스·유튜브·디즈니도 월드컵 중계권 확보 전쟁 나섰다",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA3YzkzVWhfWXRLWGltTERHYzNHUHRfV1RDUHY5b1poY3liWnQzSmg5MUdVNk9WSGhYZzJkenNvNVVBUGNkcHc?oc=5",
+      "source": "v.daum.net",
+      "summary": "넷플릭스·유튜브·디즈니도 월드컵 중계권 확보 전쟁 나섰다  v.daum.net",
+      "category": "스포츠 중계권",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "넷플릭스에서 24시간 방송 나오고 월드컵 중계도 보게될까",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNVZRSlhwTEFIS0E2MUJMdVdnNGMxNlpTcDV5UTFFSVlfVmRxRElBRkx5SXpxTlNZY18wV3FXa1AxcjJua0p6NHJBTWs4WWo4ek5KeFpIZjZrWVpTd3R5WFU5b2pqb21HOC0tTzlUb0tBaERwY2NDcGhIM05GcUNkV1lEc3laSlpz?oc=5",
+      "source": "매일경제",
+      "summary": "넷플릭스에서 24시간 방송 나오고 월드컵 중계도 보게될까  매일경제",
+      "category": "스포츠 중계권",
+      "date": "2026-07-10"
+    },
+    {
       "title": "넷플릭스, 실시간 TV·OTT 묶음상품 검토… 시청시간 하락 대응",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iQ2diMkZ4NElqOEFEQTFVdDVYaUtnR1N1N3B1aWhMek43eEFBTllHU3FIRENPUDQtVU56YmhUN292NnJPck5BaUdxRGFGY3VNNVRfMnVwTG02TE9Bb09say0wNzR2YUQ5Vk0zVWF6Z0rSAXRBVV95cUxNZzR3ajdhVzh4SUhrUXhEMThiNUpVd0pIcFV5a0N0b1R6Si1IZUdPN1VUa1FyZFVRM0dQTk81THg5V0JfcHh0ektRakdEQkdoWEs0ZnVCMm5Jb1ZuQzdOMW5ucUI3c2dEeHhlLU1tOFZ5djJCdg?oc=5",
       "source": "IT조선",
@@ -298,6 +306,14 @@
       "date": "2026-07-10"
     },
     {
+      "title": "넷플릭스·유튜브·디즈니도 월드컵 중계권 확보 전쟁 나섰다",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fbkw5aU1pbGRZQUMzR0kyS1JNRUl0MHFOV0JnZlJnb3FJeFVOWlcxLVNNdkF2dl83MXJfUDM2RlRQejN0VmNUZUtGSEVpaDQ?oc=5",
+      "source": "v.daum.net",
+      "summary": "넷플릭스·유튜브·디즈니도 월드컵 중계권 확보 전쟁 나섰다  v.daum.net",
+      "category": "스포츠 중계권",
+      "date": "2026-07-10"
+    },
+    {
       "title": "FIFA 월드컵 2026™: 생중계 저작권 침해라는 난제.",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX19zeV9IUzFRYm5nbUdkQzlaTjAyYmdDRGdsbW1fM01mc2MwMW9QSW5UMXZKdUNYbWhjYVJRenZKbkZQbExQQXVNc0ZEazdWMGV1eFN5Zm84THFnLUVKaEd2X29WWWV1QlFvYXpaa2ItdzVfV2p6LS1qdVhmRkthXzVwclhRYUlVVlNQVXhhNVVZNDc4TkVjS1k5VGxjTXBXeWRDcQ?oc=5",
       "source": "Vietnam.vn",
@@ -306,10 +322,10 @@
       "date": "2026-07-10"
     },
     {
-      "title": "카페에서 월드컵 경기를 손님들에게 보여줄 경우 저작권료를 지불해야 할까요?",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb05GV1pCRm81QlNTTFlMU0VZQjlXbHlMOVJNMm1Sd3BBZGc2c0l0UkFjRXpEZWtNUmxiSHdINFlZR0dBOU1Va01LbnJKVjVBQVlrbHNwamNROHZOSlNaNUo0bVZiUVlwZkV1cnF1QzF2RXpKME5QejZIQU52NGFsMW53bGtxTmRweHJIbHRaYUx4ekhxOUxqYg?oc=5",
-      "source": "Vietnam.vn",
-      "summary": "카페에서 월드컵 경기를 손님들에게 보여줄 경우 저작권료를 지불해야 할까요?  Vietnam.vn",
+      "title": "월드컵은 공정한 게임인가⋯FIFA 수익 구조 보니 [북중미 월드컵]",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QaE5uRUx6U3VhcURxeDBiYjdZa2QxMVYyNTcxMXlScllDcXdma3M0Z3dMNGFLck1tX2J6bV93Nk1PbXFhTnVyaU56dVlrdWhSV0VyUm8zT19uU3RY?oc=5",
+      "source": "supple.kr",
+      "summary": "월드컵은 공정한 게임인가⋯FIFA 수익 구조 보니 [북중미 월드컵]  supple.kr",
       "category": "스포츠 중계권",
       "date": "2026-07-10"
     },
@@ -570,18 +586,18 @@
       "date": "2026-07-08"
     },
     {
-      "title": "쿠팡플레이는 축구, 티빙은 야구로 넷플릭스 추격 나섰다 : 스포츠가 OTT 경쟁 공식 바꾸고 있다",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BX2pJMk54djd5cGRzU1QwcE8zTGl0VEZmVTNvOWxtZGdIODJkTUdxMkVTR3V5RzVxRUwzeGxNWl9rakI4OGpHc2VtUE9EZFNDYnlYU2Y5QQ?oc=5",
-      "source": "허프포스트코리아",
-      "summary": "쿠팡플레이는 축구, 티빙은 야구로 넷플릭스 추격 나섰다 : 스포츠가 OTT 경쟁 공식 바꾸고 있다  허프포스트코리아",
-      "category": "스포츠 중계권",
-      "date": "2026-07-07"
-    },
-    {
       "title": "월드컵으로 외형 키운 치지직, 다음 과제는 '록인'",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qZkVXa2VxVi1DRjlpNEc3N3RtcFpiTkFXUldYNU9xWERCNGRCaDZIbVdxb2FBMUFvazA0c0FRQVk4ZWZSMXQ3NHdLWmpvQW9TUTFKQ0pfU19ES3lWdHBrcUtZQ1NMaFA3YmxQdg?oc=5",
       "source": "스마트비즈",
       "summary": "월드컵으로 외형 키운 치지직, 다음 과제는 '록인'  스마트비즈",
+      "category": "스포츠 중계권",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "쿠팡플레이는 축구, 티빙은 야구로 넷플릭스 추격 나섰다 : 스포츠가 OTT 경쟁 공식 바꾸고 있다",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BX2pJMk54djd5cGRzU1QwcE8zTGl0VEZmVTNvOWxtZGdIODJkTUdxMkVTR3V5RzVxRUwzeGxNWl9rakI4OGpHc2VtUE9EZFNDYnlYU2Y5QQ?oc=5",
+      "source": "허프포스트코리아",
+      "summary": "쿠팡플레이는 축구, 티빙은 야구로 넷플릭스 추격 나섰다 : 스포츠가 OTT 경쟁 공식 바꾸고 있다  허프포스트코리아",
       "category": "스포츠 중계권",
       "date": "2026-07-07"
     },
@@ -642,6 +658,14 @@
       "date": "2026-07-07"
     },
     {
+      "title": "[미주M&A] 골프 미디어 강자 버산트 미디어 그룹(VSNT), 스포츠 시뮬레이터 기업 '풀 스윙' 인수",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zLW96bU8yam5SdnRvU0wtS1QxVUxGV0hFb3lZTG0zRlpYOG1GaGtjWFZaUTRNY1dOQWhMREdRZGZEbWQ3dl9PaE9XZzVkZkF6RUQyVzdkTmd1VTlFOWhzOWFNdVFEODN2eFQ2VW90bWk3OUxHRVE?oc=5",
+      "source": "인포스탁데일리",
+      "summary": "[미주M&A] 골프 미디어 강자 버산트 미디어 그룹(VSNT), 스포츠 시뮬레이터 기업 '풀 스윙' 인수  인포스탁데일리",
+      "category": "스포츠 기술",
+      "date": "2026-07-07"
+    },
+    {
       "title": "[2026 테마캠퍼스/삼육보건대학교] 2027학년도 스포츠과학과 신설! 스포츠와 과학, 건강을 연결하다",
       "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNc1JOYTZYaHN1VDlsS0FNc01nS3ByY19TV1FUNlQ2blN2cFVYUy0tQVZSbjg4Q0JOV2k4dWQ3WkNtLS1KeVNWSWZOUFVNOHJGTHBwcE9qUVNPM1pSMk1ReURIb3gyaGFVT2NrdmRTZkNOOTMydWNhWFRsRDFDTDFtYVdrZ1FWTk1OLV96Rlo0ZHVPTUpRUlczTFI4U3NMaEF4bE9mc05FUFpXalkyakZ1ZzFUUXc0eWd6N21UUmJSbHdYWi02U1Y5UHo2cldUNjlYdXhtSk9xbWtrdU80dHNJZkV5MHlBVExsWXJuUUZjU1FHWXhSSDNqRXRPeFpETXNGbjNOY1A0aHZZTDQ5alNZQUNPVUVURmVpLUU0dmJqMi1IYmtvbTJUYW9yQ2IxTlJjdFZwSC04SHVBZw?oc=5",
       "source": "한국대학신문",
@@ -674,14 +698,6 @@
       "date": "2026-07-07"
     },
     {
-      "title": "현대자동차, 피파 월드컵 2026™ 사상 최초 실제 경기 환경에 아틀라스 휴머노이드 로봇 도입",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpMWc5eWJWYTJZSUI4akk2cUd4NUlyb2ZmU1d6UUNPYmhMMmxadmJlN1dOUlZsamFGYzRHZ2VEZ3p1S0hJMmh2RE96TklPcjdubDluVDh3?oc=5",
-      "source": "지디넷코리아",
-      "summary": "현대자동차, 피파 월드컵 2026™ 사상 최초 실제 경기 환경에 아틀라스 휴머노이드 로봇 도입  지디넷코리아",
-      "category": "스포츠 기술",
-      "date": "2026-07-07"
-    },
-    {
       "title": "“AI가 여는 스포츠태권도\"…제6회 스포츠태권도 국제융합컨퍼런스 성황",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yZEwtY3RnNFdaZjEzYkVMLW5FUnpKZlp5NUVDMDlNY2lMZjVIQ2d5aDFUOE1ReUFLQ3VFMy13MVEzOEVIbXZvM21CQ1lfQjV4SklyVw?oc=5",
       "source": "v.daum.net",
@@ -706,18 +722,18 @@
       "date": "2026-07-07"
     },
     {
-      "title": "`2026 제6회 스포츠태권도 국제융합컨퍼런스` 개최…국내외 태권도인 300여 명 참가",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mWXE3bUxJclJXMW5GZldDSFljdG5uXzIyXy1meTNMTFlDTVh3c0UwTmhoWVgzckZHd3pveWRRbVZncnJ1OXhFNnFsVGpsYjgydEY1QzN5Qk1QbThKQVpHZQ?oc=5",
-      "source": "마이데일리",
-      "summary": "`2026 제6회 스포츠태권도 국제융합컨퍼런스` 개최…국내외 태권도인 300여 명 참가  마이데일리",
-      "category": "스포츠 기술",
-      "date": "2026-07-07"
-    },
-    {
       "title": "축구계 전반 개혁하자던 K-혁신위에 현장 지도자는 0명…문체부, \"추후 대화의 장 만들 것\"",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxVU96Yk5TREVPdDR3bkR6Z3FhZnI0a01JNTVlaVljLVh6WXM2QUFRcUM4ME1RcFZBOWpzSENmUnktWEpuMGFtVDBlak5YQkFEYUc2TUkxQ2NHaXR4?oc=5",
       "source": "네이트",
       "summary": "축구계 전반 개혁하자던 K-혁신위에 현장 지도자는 0명…문체부, \"추후 대화의 장 만들 것\"  네이트",
+      "category": "스포츠 기술",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "`2026 제6회 스포츠태권도 국제융합컨퍼런스` 개최…국내외 태권도인 300여 명 참가",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mWXE3bUxJclJXMW5GZldDSFljdG5uXzIyXy1meTNMTFlDTVh3c0UwTmhoWVgzckZHd3pveWRRbVZncnJ1OXhFNnFsVGpsYjgydEY1QzN5Qk1QbThKQVpHZQ?oc=5",
+      "source": "마이데일리",
+      "summary": "`2026 제6회 스포츠태권도 국제융합컨퍼런스` 개최…국내외 태권도인 300여 명 참가  마이데일리",
       "category": "스포츠 기술",
       "date": "2026-07-07"
     },
@@ -730,18 +746,18 @@
       "date": "2026-07-07"
     },
     {
-      "title": "브이씨-서울대, AI 스포츠 웨어러블 개발 협력",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jU0VPeTZubGpuclNWQTUwak4yeTZPM3NfM1dmdUVjUlA3QlFLRkxxUkwyNVBHMjgwTnhLV09hUEJqRW1IU1pxM3dLT3ViQQ?oc=5",
-      "source": "전자신문",
-      "summary": "브이씨-서울대, AI 스포츠 웨어러블 개발 협력  전자신문",
-      "category": "스포츠 데이터",
-      "date": "2026-07-07"
-    },
-    {
       "title": "[2026년 6월호] From Intuition to Analytics : 네이버 블로그",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVk9xczhvTXBzT1N6WGFWQVVxS0pVSmN0aGlGblp2RWtvaXlFNkktNUNXZWUyNTZvYlJ0TDkwZHBjZTNxdWNOUFRranpIbW1wUnlfeVpFWVk1aEllOFlSb3VWTlZxQVJPQkxIWlUwcFRyZ01nQ3ZLbmMzRE4tUm5FaUVuV0p1TDRLeWg3VDRoWQ?oc=5",
       "source": "Naver Blog",
       "summary": "[2026년 6월호] From Intuition to Analytics : 네이버 블로그  Naver Blog",
+      "category": "스포츠 데이터",
+      "date": "2026-07-07"
+    },
+    {
+      "title": "브이씨-서울대, AI 스포츠 웨어러블 개발 협력",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jU0VPeTZubGpuclNWQTUwak4yeTZPM3NfM1dmdUVjUlA3QlFLRkxxUkwyNVBHMjgwTnhLV09hUEJqRW1IU1pxM3dLT3ViQQ?oc=5",
+      "source": "전자신문",
+      "summary": "브이씨-서울대, AI 스포츠 웨어러블 개발 협력  전자신문",
       "category": "스포츠 데이터",
       "date": "2026-07-07"
     },
@@ -754,12 +770,12 @@
       "date": "2026-07-07"
     },
     {
-      "title": "한국프로축구연맹, 축구산업 아카데미 26기 모집",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81dkp5YUsyNDh6TmlBVHFyYWpJV3JUQzZBeG1uR2hwMkpENnZ6OWtHSXpBU2pkZkMxOTVieG5yenhXXzhnQTB6QkU5bkJYc2s?oc=5",
-      "source": "v.daum.net",
-      "summary": "한국프로축구연맹, 축구산업 아카데미 26기 모집  v.daum.net",
+      "title": "이정후 1위, 7월 스포츠 스타 브랜드평판 정상..2위 류현진·3위 양의지",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wcTZHQzh1a3pYR2dSZjc3b0dzalM3MzRvOEx2Nkh4andaWkpiaWVhX1ZTdGUzc0UtSmJtLUtQRkZ3TXNGR3Ztdw?oc=5",
+      "source": "브레이크뉴스",
+      "summary": "이정후 1위, 7월 스포츠 스타 브랜드평판 정상..2위 류현진·3위 양의지  브레이크뉴스",
       "category": "스포츠 데이터",
-      "date": "2026-07-06"
+      "date": "2026-07-07"
     }
   ]
 }
