@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14 17:09 (KST)",
+  "updated_at": "2026-07-14 17:39 (KST)",
   "articles": [
     {
       "title": "국내 프로스포츠가 OTT와 손잡는 이유",
@@ -114,14 +114,6 @@
       "date": "2026-07-14"
     },
     {
-      "title": "크래프톤, AI '실전 적용' 확대... e스포츠·안티치트·AI 팀원까지",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SMV9HQWVXRloyeXhXTlVwVFZfWmxjZFVkajdrdFVuQ2pUQV9mMS1xVWRNOEl0Y3RLMkZNbTRIU2JyN0RpVFFLcHBock1qdw?oc=5",
-      "source": "전자신문",
-      "summary": "크래프톤, AI '실전 적용' 확대... e스포츠·안티치트·AI 팀원까지  전자신문",
-      "category": "스포츠 데이터",
-      "date": "2026-07-14"
-    },
-    {
       "title": "\"시청자 잡아라\" 점유율 하락 넷플릭스, 라이브TV·OTT 번들 검토",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4yQkMxdndmVFZEUXQ3cmxUeDliQjZ0cFZkazdxQnFXbl9xRkV6RDBFR3VGci1faVRIQlZKVHA2WUxtVTNOZXc?oc=5",
       "source": "v.daum.net",
@@ -166,6 +158,14 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zQVJzdHdoYlNUVUpVVklVVlctTnliRmhuZFdJWlk5SllOdXdMU2dyYlV0QjYtNEd4RnB2cFJyN3pRWDNYOTU3cW9aN2tjbnBZTzhtaTdJcFZGZWNQU25SZ2FmbnRnZGxCdDJr?oc=5",
       "source": "디트NEWS24",
       "summary": "목원대, 글로벌 스타트업스쿨 부트캠프서 3개 팀 수상  디트NEWS24",
+      "category": "스포츠 스타트업",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "크래프톤, 인도서 심은 6년…'국민게임' 넘어 생태계 키운다",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53Q2h3QWItaFBCcW04aXpGSGFwOTVkd0tHN0VCdDlMYXRoZGJzNUlxR0JfR0lsTGZfWlpfQlRWRnZWV2FyVHlaeTJMUGtlZjVXSzd2N1J4bnHSAVhBVV95cUxOd0Nod0FiLWhQQnFtOGl6RkhhcDk1ZHdLRzdFQnQ5TGF0aGRiczVJcUdCX0dJbExmX1paX0JUVkZ2VldhclR5WnkyTFBrZWY1V0s3djdSeG5x?oc=5",
+      "source": "미디어펜",
+      "summary": "크래프톤, 인도서 심은 6년…'국민게임' 넘어 생태계 키운다  미디어펜",
       "category": "스포츠 스타트업",
       "date": "2026-07-13"
     },
@@ -251,7 +251,7 @@
     },
     {
       "title": "[인터뷰] 조익환 SK텔레콤 피지컬AI 부사장 “3년 내 AI B2B 매출 10% 이상 목표… 반도체·자동차·조선서 피지컬AI 수요 클 것” - 조선비즈",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEJlM1ZIZWk0RVMybG5wblJQOUpzQi1XQzNNdFR0NUZRSGhYSkltc0NCSVdGXzVFTnJzT2FoYldyRGZVM0dBTjRMSnUtby0zbjN5YU5rQndod2RYTlh3MkRHZ256VUsyakJZSEJuVWZZanNaZV9ZSVF0YkVudUNyQk130gGWAUFVX3lxTE1qdTBVUmJWaTd2cGgxS1VHZEVTenNnM3NGU1k2YmxTc0dVNERJX2hQdDJXUXh6Y2t3U3ZHYmEwRHdkR2pHZ2I4SFNCTHlvaXhwRExEODBXLXlROThXajVnWUcxSF9yU19zX3pEbTZfQ0FBUWRsZExELUJuX0pWV190LVFDTGdXdGhZYlFOVi1TdURKRHVQQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNanUwVVJiVmk3dnBoMUtVR2RFU3pzZzNzRlNZNmJsU3NHVTRESV9oUHQyV1F4emNrd1N2R2JhMER3ZEdqR2diOEhTQkx5b2l4cERMRDgwVy15UTk4V2o1Z1lHMUhfclNfc196RG02X0NBQVFkbGRMRC1Cbl9KVldfdC1RQ0xnV3RoWWJRTlYtU3VESkR1UEHSAZYBQVVfeXFMTWp1MFVSYlZpN3ZwaDFLVUdkRVN6c2czc0ZTWTZibFNzR1U0RElfaFB0MldReHpja3dTdkdiYTBEd2RHakdnYjhIU0JMeW9peHBETEQ4MFcteVE5OFdqNWdZRzFIX3JTX3NfekRtNl9DQUFRZGxkTEQtQm5fSlZXX3QtUUNMZ1d0aFliUU5WLVN1REpEdVBB?oc=5",
       "source": "Chosunbiz",
       "summary": "[인터뷰] 조익환 SK텔레콤 피지컬AI 부사장 “3년 내 AI B2B 매출 10% 이상 목표… 반도체·자동차·조선서 피지컬AI 수요 클 것” - 조선비즈  Chosunbiz",
       "category": "스포츠 VR/AR",
@@ -354,10 +354,10 @@
       "date": "2026-07-11"
     },
     {
-      "title": "넷플릭스(NFLX) 라이브 채널과 월드컵 입찰 검토가 말해주는 다음 변화",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVHoxemlzalpnTmZDUzdMT2xTRDBqS3hTSElsRzNLTVk2azBTcWsyMHNrcUxOaG9mQ2lac1E2RC0zdF95LUhEWHlONDhOZURiWWlTSzUxWmIzVFVEN3dXX083ZE9Gem4tVEMyMHIwdmFIaTVaTmVOMXY4LUlXaV9yZXA1TkM0VTJjY3fSAY8BQVVfeXFMT0xhamZOZHJGM214OFYzOHZIQjJyaHlSX3BGRUMwd1R0UDZua01kS0tQSTcyZzJUQVZMRnRyalFEMndETnh4UHljMjZIVXZISUFESV9YRG8zUUJybHVVNHJiSTVGd0F0ZUtheGVHcmxoa09WdG9KdjlPWGp1Nm5wQ2pYakgxRUJxTzhiTzRXOUU?oc=5",
-      "source": "simplywall.st",
-      "summary": "넷플릭스(NFLX) 라이브 채널과 월드컵 입찰 검토가 말해주는 다음 변화  simplywall.st",
+      "title": "[흑과백⑦-백] '신흥강자' 치지직, 올림픽·e스포츠 중계…동접자 500만명",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ocmx6ZXFyNGRxaTZrak1rTkNLd2pnZ19CZnlSUEU4RGZtWEtqZGRDdm5Ha0lUc05sUkNkeE1BWnFSRThwT1dmSUhoenNSYXN4M1BPZXJudkl4Um5IYkZjREhPQlNUV3pSejhNZkJQRHk?oc=5",
+      "source": "신아일보",
+      "summary": "[흑과백⑦-백] '신흥강자' 치지직, 올림픽·e스포츠 중계…동접자 500만명  신아일보",
       "category": "스포츠 중계권",
       "date": "2026-07-11"
     },
@@ -426,6 +426,14 @@
       "date": "2026-07-10"
     },
     {
+      "title": "넷플릭스·유튜브·디즈니도 월드컵 중계권 확보 전쟁 나섰다",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fbkw5aU1pbGRZQUMzR0kyS1JNRUl0MHFOV0JnZlJnb3FJeFVOWlcxLVNNdkF2dl83MXJfUDM2RlRQejN0VmNUZUtGSEVpaDQ?oc=5",
+      "source": "v.daum.net",
+      "summary": "넷플릭스·유튜브·디즈니도 월드컵 중계권 확보 전쟁 나섰다  v.daum.net",
+      "category": "스포츠 중계권",
+      "date": "2026-07-10"
+    },
+    {
       "title": "FIFA 월드컵 2026™: 생중계 저작권 침해라는 난제.",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX19zeV9IUzFRYm5nbUdkQzlaTjAyYmdDRGdsbW1fM01mc2MwMW9QSW5UMXZKdUNYbWhjYVJRenZKbkZQbExQQXVNc0ZEazdWMGV1eFN5Zm84THFnLUVKaEd2X29WWWV1QlFvYXpaa2ItdzVfV2p6LS1qdVhmRkthXzVwclhRYUlVVlNQVXhhNVVZNDc4TkVjS1k5VGxjTXBXeWRDcQ?oc=5",
       "source": "Vietnam.vn",
@@ -434,11 +442,11 @@
       "date": "2026-07-10"
     },
     {
-      "title": "카페에서 월드컵 경기를 손님들에게 보여줄 경우 저작권료를 지불해야 할까요?",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb05GV1pCRm81QlNTTFlMU0VZQjlXbHlMOVJNMm1Sd3BBZGc2c0l0UkFjRXpEZWtNUmxiSHdINFlZR0dBOU1Va01LbnJKVjVBQVlrbHNwamNROHZOSlNaNUo0bVZiUVlwZkV1cnF1QzF2RXpKME5QejZIQU52NGFsMW53bGtxTmRweHJIbHRaYUx4ekhxOUxqYg?oc=5",
-      "source": "Vietnam.vn",
-      "summary": "카페에서 월드컵 경기를 손님들에게 보여줄 경우 저작권료를 지불해야 할까요?  Vietnam.vn",
-      "category": "스포츠 중계권",
+      "title": "제네시스 마그마 레이싱, WEC 상파울루 6시간 출전…12일 SPOTV 생중계",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkRkpFZFBaRDRSS2l1UUdYei02dDBhcGRXSmpaMlpGN3NLaGJKNHdwcTRvS1ZIOHdaRld2UFFtYzJBUXN4NW1zWEoySGpHZVl6a0tpQUtZWmZZZ2xBMzdjUVJKaTEyZktGYThR?oc=5",
+      "source": "파이낸셜신문",
+      "summary": "제네시스 마그마 레이싱, WEC 상파울루 6시간 출전…12일 SPOTV 생중계  파이낸셜신문",
+      "category": "스포츠 OTT",
       "date": "2026-07-10"
     },
     {
@@ -482,14 +490,6 @@
       "date": "2026-07-10"
     },
     {
-      "title": "상명대 일반대학원 스포츠ICT융합학과 스포츠아일랜드 제주 안덕센터와 업무협약 체결",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40Zy1USU5kTENkd2Z5cjAweEZXak0yUGo1bTdEMGN5aS1GLVZlWkVnV2x4M1k1amFMX2hFUVNFVm1IWEZ5MUVNMnFYZUxPUQ?oc=5",
-      "source": "전자신문",
-      "summary": "상명대 일반대학원 스포츠ICT융합학과 스포츠아일랜드 제주 안덕센터와 업무협약 체결  전자신문",
-      "category": "스포츠 데이터",
-      "date": "2026-07-10"
-    },
-    {
       "title": "“스포츠 현장 데이터로 미래 인재 키운다”…상명대, 스포츠아일랜드와 맞춤형 산학협력 추진",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wZXR4XzJQN0JLV0dnbEpYc0R1RzV4WE0xc19Sd3lpY2VYZkFOV3dMUUpkdC1JTGZRbmRHT2tUS0w5aEdTQ2d0b3pOV1VUSVlGd0FpV2VXNmE1WlBJMVBqaWFndkZBUDR6ODJmUnVQWQ?oc=5",
       "source": "스마트경제",
@@ -498,10 +498,10 @@
       "date": "2026-07-10"
     },
     {
-      "title": "[Why] 관중석으로 날아간 월드컵 축구공은 왜 홈런볼처럼 못 가져갈까 - 조선비즈",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWFlOQy1ETVZoQTM5NG5mUlVjekt3eF9fNkp3cXZVbV9tVFNHLTVFMW1sY2U0cnJJckQxVjdrY0k3YzYxRUdJQ2pLcGNIekJ0cmR6TWdvOGt5OFV2dFhfR1JHS2E5eHNoazRnNTZmTGZ4ck5OYm5mUU4xenpUdGhGamdoN0lROFU3Zmw5ZWhPRTE2RkMzbG9naFhUUmk2Z9IBsgFBVV95cUxNM0MwSE11VnZyN1hRUnZKUFQ1c3dYaFpObW1wR2RQUWE5OFdwT1NZODh1OUVtOUpzaC00NnBPdER4MGhXZmlzSFhpOU1wemczZHliZmtKQkpSaWVweHRFNXIybkZsVmI3RkFhanBaamlFcGk5OWFOaWZKOHhmbVgyNHRXQjBZZmxmU1Y3MVd4Z2U0dUlILXloR0ZZUEhULUZTSEhlOWpfSzVKeU9kV1JHWjV3?oc=5",
-      "source": "Chosunbiz",
-      "summary": "[Why] 관중석으로 날아간 월드컵 축구공은 왜 홈런볼처럼 못 가져갈까 - 조선비즈  Chosunbiz",
+      "title": "상명대 일반대학원 스포츠ICT융합학과 스포츠아일랜드 제주 안덕센터와 업무협약 체결",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40Zy1USU5kTENkd2Z5cjAweEZXak0yUGo1bTdEMGN5aS1GLVZlWkVnV2x4M1k1amFMX2hFUVNFVm1IWEZ5MUVNMnFYZUxPUQ?oc=5",
+      "source": "전자신문",
+      "summary": "상명대 일반대학원 스포츠ICT융합학과 스포츠아일랜드 제주 안덕센터와 업무협약 체결  전자신문",
       "category": "스포츠 데이터",
       "date": "2026-07-10"
     },
@@ -543,6 +543,14 @@
       "source": "v.daum.net",
       "summary": "글로벌 e스포츠 이벤트 2026 EWC, 최초로 파리에서 개막  v.daum.net",
       "category": "스포츠 OTT",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "머니볼랩스, AI 기반 스포츠 데이터 분석 플랫폼 정식 출시",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxZ2d3T2NPVENaVWg2V09vTDBXT2ZZUy1POXdXU09xSjBoOGNRUGdKUFM0YjR6NVhMNng5OGpURG9WbGs4QnVKbWxvVHBCTC1kNVVz?oc=5",
+      "source": "전자신문",
+      "summary": "머니볼랩스, AI 기반 스포츠 데이터 분석 플랫폼 정식 출시  전자신문",
+      "category": "스포츠 스타트업",
       "date": "2026-07-09"
     },
     {
@@ -698,22 +706,6 @@
       "date": "2026-07-08"
     },
     {
-      "title": "‘김부장’ 보고 싶은 OTT 1위",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tdFhzQ0xIZllqV09MejV4aXNQZ3AtVmxITnRJTlpsbUZCcERuUFdZUkRQR2lEYVQyMzZITkpGd216QXN1UlJLcFMyNDlIVUQ4dUJzMnh0WFdIeXF5a2fSAWNBVV95cUxORTFSN2JtM3lBMVFRVXlfOEQ3Zjl0MUR0RjIyTHRRZUZuS2YyazlmNzB3TGFqOTBpZTh0ZklmVXVHbDFzZUFWVGd3Y0hNQnVlaXhaVWhUSVY0eDlVRXhyWlV1dTA?oc=5",
-      "source": "스포츠경향",
-      "summary": "‘김부장’ 보고 싶은 OTT 1위  스포츠경향",
-      "category": "스포츠 OTT",
-      "date": "2026-07-07"
-    },
-    {
-      "title": "네이버페이, 모험자본 투자 플랫폼 'Npay 스타트업' 출범…시범 운영 시작",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XS3d6SHl4dlo5RjRwWklWTjdpUXZwMzVLYktCUzZFcm01b2MwVzJZR25NNl9yYjBScWY0MkdDdW1BQmdhNWhfT2lVYmtvbUpzdlhWaUJVOWRqOGFoVExHS1Q5ZHBTNHlDNUxr?oc=5",
-      "source": "BBS불교방송",
-      "summary": "네이버페이, 모험자본 투자 플랫폼 'Npay 스타트업' 출범…시범 운영 시작  BBS불교방송",
-      "category": "스포츠 스타트업",
-      "date": "2026-07-07"
-    },
-    {
       "title": "“AI가 여는 스포츠태권도\"…제6회 스포츠태권도 국제융합컨퍼런스 성황",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82SjZxU2d4cVpzbzhzdDlRSHBKdjd6dGh0djV1aEdaN2lOYlItaEM3ZjRmVk1aV014bnNTV1NnN1JwOG1HaFE?oc=5",
       "source": "v.daum.net",
@@ -746,10 +738,10 @@
       "date": "2026-07-07"
     },
     {
-      "title": "브이씨, 서울대 스포츠과학연구소와 AI 러닝워치 공동 개발",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sRkt6bWF4Q3ZfZW9LVFBoSU5PN2hNbVRjeE5McVNTRHNINHNwSkVqQnFsRnIwcVNzXzZzS0ZVamxYb2M1Q3Q5YzAwZzUzX0dhVkdURUozMEpWa3h5enFjd2U3ZDQ1UFJ5eTFSZjVEUmo4cFE?oc=5",
-      "source": "마켓인",
-      "summary": "브이씨, 서울대 스포츠과학연구소와 AI 러닝워치 공동 개발  마켓인",
+      "title": "\"하늘까지 돕는 리오넬 메시 2연패\" 슈퍼컴퓨터가 선택한 우승확률 1위 프랑스, 2위 스페인. 한 팀은 4강에서 제거된다",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZkxmTGhGVjFGYW91SDFoYS1KWEg2RTMtLTJJMGJFaVBHYlcxa1FKR18zZXBZc2p5NmZUUGZoM0w0RkxzUVliN01GN3VzV1pRbnJDTDMwdXFEVlFTUGRIMVJZYl9JdTMxUmI1dDd2b2RkdXlaeGN2SHk1eV82YUdSalczdw?oc=5",
+      "source": "조선일보",
+      "summary": "\"하늘까지 돕는 리오넬 메시 2연패\" 슈퍼컴퓨터가 선택한 우승확률 1위 프랑스, 2위 스페인. 한 팀은 4강에서 제거된다  조선일보",
       "category": "스포츠 데이터",
       "date": "2026-07-07"
     }
