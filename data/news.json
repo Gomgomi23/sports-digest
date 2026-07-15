@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15 16:23 (KST)",
+  "updated_at": "2026-07-15 16:29 (KST)",
   "articles": [
     {
       "title": "[GAM] 디즈니 ② 전략적 선택에 따라 주가 재평가 전망",
@@ -22,14 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LVklSN1ZqLURJcER4aGVjaFJIR05tdHh2bjVhUjJrOC12X2I4dnpCQUtyNjhoLWtZT1dWUjdnS0FuUHc4VWFGdUs1UEloOWxGZkRyZkJ2Y0pQcE5ha3lfNg?oc=5",
       "source": "뉴스1",
       "summary": "광고·요금 다변화 나선 쿠팡플레이…수익성 강화 속도  뉴스1",
-      "category": "스포츠 OTT",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "정주행만으로론 부족하다…OTT, ‘매일 켜는 앱’ 경쟁",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DMTQzTWpIS3dZeWNQZ2Z2TmI4MHZESU5sYUpacllLMVdTSXpHQThSbEs4X0djV042ZlZqMjFMeUs0VWJEWjlwOF9ZM2JpOEtHcDRqODlXdlBReHZBZ19GLVFLWlJrQlBq?oc=5",
-      "source": "데일리팝",
-      "summary": "정주행만으로론 부족하다…OTT, ‘매일 켜는 앱’ 경쟁  데일리팝",
       "category": "스포츠 OTT",
       "date": "2026-07-15"
     },
@@ -170,6 +162,14 @@
       "date": "2026-07-14"
     },
     {
+      "title": "부산, 관광스타트업으로 외국인 관광객 소비 늘린다",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QR0hFRnZQRlJ5SG1yNW1pNjdvbHVERy1yS3A1UFF2WEFpLUJOX1AtQ21kWGpjdktYYzZVanJYN0s2cnExMFdBYWVxRlRTRHdqZ3JkeXFsbWwzby1jU25RMG54OXQwcXJiajBEONIBbEFVX3lxTE1QR0hFRnZQRlJ5SG1yNW1pNjdvbHVERy1yS3A1UFF2WEFpLUJOX1AtQ21kWGpjdktYYzZVanJYN0s2cnExMFdBYWVxRlRTRHdqZ3JkeXFsbWwzby1jU25RMG54OXQwcXJiajBEOA?oc=5",
+      "source": "국민일보",
+      "summary": "부산, 관광스타트업으로 외국인 관광객 소비 늘린다  국민일보",
+      "category": "스포츠 스타트업",
+      "date": "2026-07-14"
+    },
+    {
       "title": "경기도, ‘뉴욕 투자유치 프로그램’ 참가 창업기업 모집…글로벌 진출 ‘교두보’",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1JVnRUWHBWa3FxbHkwRWpEUDE4cUtNU1dITTZpTEhNb0xmT0ttZFhBU2tlazByRDdDS2dIdVRlX3NOU21lSFE?oc=5",
       "source": "v.daum.net",
@@ -251,9 +251,9 @@
     },
     {
       "title": "[워너브러더스 M&A] 파라마운트, 합병 이후 대규모 부채 떠안는다",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUOXFncGktZ2RfVWpYRkJlajl2aDNZMHRZa2g3emZ5azlNTFhuNlEtMEItb2YzY0FEWlBTY25oeXRxZzE1Q0VUUDVVdw?oc=5",
-      "source": "v.daum.net",
-      "summary": "[워너브러더스 M&A] 파라마운트, 합병 이후 대규모 부채 떠안는다  v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ucDdfUWlMMWdNYTVxeUlLRjJwTENTLXJIQk1GX05XQkl1OTU5TVJfZF93cVlLRVhuNE1UU1dKZVl1UFR3UTNnSFNRVFZMMzFZNEJuY01vd1piejdybFVlbDFoQVJrQl81VFlB?oc=5",
+      "source": "numbers.co.kr",
+      "summary": "[워너브러더스 M&A] 파라마운트, 합병 이후 대규모 부채 떠안는다  numbers.co.kr",
       "category": "스포츠 중계권",
       "date": "2026-07-13"
     },
@@ -270,6 +270,14 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wYndyVnJKNDZZRnhqN1ZHakFlZ2dQR2FKaVVESHhEZkdydFNpTktRcURSVmo2VG80TXRob2pTbXdTcDVURmJITWVqX3RMQ1VNR1RGalR6N0NWaFZFbTUxOQ?oc=5",
       "source": "아시아경제",
       "summary": "\"시청자 잡아라\" 점유율 하락 넷플릭스, 라이브TV·OTT 번들 검토  아시아경제",
+      "category": "스포츠 OTT",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "범죄 다큐는 옛말…OTT, 논픽션 장르 다각화로 이용자 잡는다",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WSGc5WlhzN1Q1SmtjcUthcDhtblVYZDZIMlVQQUZBcktHUWIzeTk1OHZuWHktdkU5TmVVSFFRNFQ4UkItVV94aVpwYUI5SEJMZFJ5M1FNb2RrdWFfQWt1emZtNXg?oc=5",
+      "source": "디지털데일리",
+      "summary": "범죄 다큐는 옛말…OTT, 논픽션 장르 다각화로 이용자 잡는다  디지털데일리",
       "category": "스포츠 OTT",
       "date": "2026-07-13"
     },
@@ -362,6 +370,14 @@
       "date": "2026-07-13"
     },
     {
+      "title": "넷플릭스도 결국 ‘옛날 TV’ 되나…생방송 채널·스포츠까지 노린다",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aUGhWN2JoVUNKQzJFRFZtVmI0TnR3NzFKUHJCd1RJVnlpY1VLZlhUXzZwYkJ4T0hYSU5BRW9qcTd3OEI2ZG5xS1NMSEhyMngtZ3pDSkd3?oc=5",
+      "source": "헤럴드경제",
+      "summary": "넷플릭스도 결국 ‘옛날 TV’ 되나…생방송 채널·스포츠까지 노린다  헤럴드경제",
+      "category": "스포츠 중계권",
+      "date": "2026-07-12"
+    },
+    {
       "title": "2026 월드컵 FIFA, 얼마나 벌었나. 월드컵의 경제학",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTQjNvRFBpM21sdHMxVnZlYlZfUXdlVVRGR1ZwVTFTdTFzLXU5ZWx3eFF3dEd6Y2ZyUkZUNW9OZ0dBM0J0Z3Nad0VoTVN0WnMyVFVBcVA5SlVpMzZJZkt3bXljZjlyVFg0cXd3Qw?oc=5",
       "source": "climatepol.com",
@@ -430,14 +446,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN05pS3JObVBiLWZKLVhSMkhQZ1pXV0p6dXlMNWc2R2plejdLeW1GR04wbkNPeXluaXpVeFNyeGdQTUQ3Y2Vuc1NMS0RseEJvSmt4NU5ydzU3WVBwdm9IdzhFNy01Q2JhTktOM01YTDZoLUt0NDdEYlJ5cTRZTFBPOUU4NnRfM0RKSlHSAYoBQVVfeXFMTTdOaUtyTm1QYi1mSi1YUjJIUGdaV1dKenV5TDVnNkdqZXo3S3ltRkdOMG5DT3l5bml6VXhTcnhnUE1EN2NlbnNTTEtEbHhCb0preDVOcnc1N1lQcHZvSHc4RTctNUNiYU5LTjNNWEw2aC1LdDQ3RGJSeXE0WUxQTzlFODZ0XzNESkpR?oc=5",
       "source": "simplywall.st",
       "summary": "FIFA 월드컵 중계권 입찰가 상승이 폭스(FOXA)의 생중계 스포츠 경쟁 우위를 재편할 것인가?  simplywall.st",
-      "category": "스포츠 중계권",
-      "date": "2026-07-11"
-    },
-    {
-      "title": "2026 월드컵 FIFA, 얼마나 벌었나. 월드컵의 경제학",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9saW9QVjVoakdBYzZvV3M5T0hxR0FfRWpTOGo4dkY4WHJ4YmVtQW9iVnJUcHZybG9HT3Y2UjBJeDlKYzFpWDBQT3RWWTBBU01VV2JCa2JGaFZKRk5hM1pJSnZBRlRYTDRzaXfSAW5BVV95cUxNRnBIUHY4VlozdzI4NHR0OExLT2ZobG1PWE81WDlXQTRFT25MdUVPUzY3SkNTbkxlWlNYWHhtMFVCSXJBTmszWjFXWUVUaWsySkxuaVpCbFl6SmJ3YUtUbmRvNDY1ckp2QTF6RWlwQQ?oc=5",
-      "source": "르몽드디플로마티크",
-      "summary": "2026 월드컵 FIFA, 얼마나 벌었나. 월드컵의 경제학  르몽드디플로마티크",
       "category": "스포츠 중계권",
       "date": "2026-07-11"
     },
@@ -678,6 +686,14 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EVXlqNVA1Q1g5NnU2UWh3NFhxcThpU3JOSldUZjJEa2Rnb3NYck9fQ0dtTloxZTFjUTF1SU1XVXp3aXo0RGVLbjl3dnBEOVlVUDlGdXFESF9scktZSWc?oc=5",
       "source": "경향신문",
       "summary": "Even the mighty Messi missed twice··· Is a PK automatically a goal? ‘No premature celebration!’  경향신문",
+      "category": "스포츠 데이터",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "RESCENE, Melon searches surge 6,550%···No. 904→No. 1",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02a2JyZXRmMDllZ2lVcmo5UjJIWHU3SE94Qmt4bHdJMjcxRGhBcElMWXNBNHZxMDJfNGVYS1hkcmV0TTRPdUxzbTZxbTBfcU9IVGpabnpUdFhLaktJaWdHZEh3?oc=5",
+      "source": "스포츠경향",
+      "summary": "RESCENE, Melon searches surge 6,550%···No. 904→No. 1  스포츠경향",
       "category": "스포츠 데이터",
       "date": "2026-07-09"
     },
