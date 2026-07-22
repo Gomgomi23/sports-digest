@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22 10:12 (KST)",
+  "updated_at": "2026-07-22 10:43 (KST)",
   "articles": [
     {
       "title": "[숏폼뉴스] 신문·영화·방송·축구까지 집어삼킨 미디어 황제, 루퍼트 머독",
@@ -39,6 +39,14 @@
       "source": "네이트",
       "summary": "아이언 여왕, 퍼트 천국서 날 수 있을까  네이트",
       "category": "스포츠 데이터",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "로봇에도 '탠덤 OLED' 심는다…K-디스플레이 달군 'AI 화면' 전쟁",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RNHo4ejlzZ3FSVkNaWWFXSkV2UjZiMldpMG9iNFRCcEZZR3AxVWtCY2gzNzhuUHN5MVpnbkR6R2JCS0szelk3UEllektPWFRJUzQ4?oc=5",
+      "source": "네이트",
+      "summary": "로봇에도 '탠덤 OLED' 심는다…K-디스플레이 달군 'AI 화면' 전쟁  네이트",
+      "category": "스포츠 VR/AR",
       "date": "2026-07-22"
     },
     {
@@ -138,14 +146,6 @@
       "date": "2026-07-21"
     },
     {
-      "title": "'2026 경기 스타트업 서밋' 10월 수원서 개최…참가기업 모집",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CNmFMWEFKX2ZzdEZBTHF1RGs5bFhWUVA1Z0tQUDd2RzhQOWFwTTctMTVzZTYwV3NuRVRLMTZrT2lYWi1sQVRzREJ0SndqZ2s?oc=5",
-      "source": "v.daum.net",
-      "summary": "'2026 경기 스타트업 서밋' 10월 수원서 개최…참가기업 모집  v.daum.net",
-      "category": "스포츠 스타트업",
-      "date": "2026-07-21"
-    },
-    {
       "title": "[인더이슈] 월드컵 후원 넘어 ‘경험 설계와 기술 실증’…현대차의 스포츠 마케팅 진화",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OWF9rQkFvVGw5RXlmTW9NR0xzS0h1MF9LZlg2NnprQnhieUtCT0tCZnpjUW16OEtYN2RqZTY2anpycjlTMlZsN2xpakJiZExsR0YtWWh5U2k4akdEYkJVT1F4WTE?oc=5",
       "source": "인더뉴스",
@@ -154,26 +154,10 @@
       "date": "2026-07-21"
     },
     {
-      "title": "바이오솔루션, 조성환 코치 공식 앰버서더 발탁…스포츠·바이오 헬스케어 접점 확대",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83bk5MZ2pDYkh5S2xOZ1lROTZzb2VScFdjcG96VkI3QktHZE5hMk8tQ1hySWMxSi1ldnJUZ1IyVW03QWUtZGpySUhtOEpKbjN2S181S0o2OGo3RkpiRlZvWk9NQ3BzZ0tEOEUxNg?oc=5",
-      "source": "바이오타임즈",
-      "summary": "바이오솔루션, 조성환 코치 공식 앰버서더 발탁…스포츠·바이오 헬스케어 접점 확대  바이오타임즈",
-      "category": "스포츠 기술",
-      "date": "2026-07-21"
-    },
-    {
       "title": "‘키미 쇼크’ 문샷도 상장 추진… IPO 랠리 펴는 中 테크",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tdW5Ka2JlSkpCcnE5RW9yTEFycWZ2OUcwM1J1R0czYzVOVXZpVVV6RXQ0dmRyVlBXZ0FRY2FINVY4M0Q0M3pPNmxEeXBRQXZhTnRHbHBnZUNyeW44Wlp3ejJjOFNITG1YeHg1cdIBbEFVX3lxTE0tdW5Ka2JlSkpCcnE5RW9yTEFycWZ2OUcwM1J1R0czYzVOVXZpVVV6RXQ0dmRyVlBXZ0FRY2FINVY4M0Q0M3pPNmxEeXBRQXZhTnRHbHBnZUNyeW44Wlp3ejJjOFNITG1YeHg1cQ?oc=5",
       "source": "국민일보",
       "summary": "‘키미 쇼크’ 문샷도 상장 추진… IPO 랠리 펴는 中 테크  국민일보",
-      "category": "스포츠 기술",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "[산업/국제] 전 세계 축구공 70% 생산하는 파키스탄 시알코트, 월드컵 공식구 독점 제조",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ca1ozelR1akYtWlZ4akxZRndINVNDYnFTWC1hY25EOUh3RXI5b0t6NkVxSFhuNjR1NmotZk9xVENWZS1LY2RrenVSdmV3Z1lfUXUyU2dLLUxmN2RoWTJJM2J5OUNBT19ldWF3aW4tMHE?oc=5",
-      "source": "굿모닝베트남미디어",
-      "summary": "[산업/국제] 전 세계 축구공 70% 생산하는 파키스탄 시알코트, 월드컵 공식구 독점 제조  굿모닝베트남미디어",
       "category": "스포츠 기술",
       "date": "2026-07-21"
     },
@@ -191,6 +175,14 @@
       "source": "공감신문",
       "summary": "현대차그룹, 월드컵에서 로보틱스 혁신으로 세계적 주목  공감신문",
       "category": "스포츠 기술",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "이란 \"바레인 아마존 데이터시설 미사일 공격\" 주장",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVEFoMEZqQmlxdlQ3VTlRM09CNkNyWDRMeFRpakVzbVl3clVmenJ4U21uTmoxc1pvckl5UjNnZkhycXd3aV9vODBRUWd5WlVHa0VTRkJSZ0RJR0JPbUxoV0toYkVpZDFNdnJLcGN1dGpLeUJMRXd6dS1EYlRqQjZhUnJMSnk2dzBqTXdiRDRnSmo4a0prM1BRbC1CUGtZRDhmWE5jc1UxS3FkVzcxamhGd2Q4VWZ5b3FIRThKSg?oc=5",
+      "source": "MBC 뉴스",
+      "summary": "이란 \"바레인 아마존 데이터시설 미사일 공격\" 주장  MBC 뉴스",
+      "category": "스포츠 데이터",
       "date": "2026-07-21"
     },
     {
@@ -282,14 +274,6 @@
       "date": "2026-07-20"
     },
     {
-      "title": "Tencent Cloud and Rockstreamer bring \"Over The Top\" Infrastructure and sports streaming to Bangladesh",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02TkZDcklxQWFUdmNMc1ROa1NsM2hpUDNJRU1NTDNBaldrZ3N0Z0pJSXBIei1KZUZQRzVNV0RDTHo5NkljTU5aN1ZyTGltWGM1TjZoUGd5bVNKRlMzVVpLMU5sVkNScVZD?oc=5",
-      "source": "KIPOST",
-      "summary": "Tencent Cloud and Rockstreamer bring \"Over The Top\" Infrastructure and sports streaming to Bangladesh  KIPOST",
-      "category": "스포츠 OTT",
-      "date": "2026-07-20"
-    },
-    {
       "title": "스포츠 스타트업 IR부터 다이나믹 네트워킹까지… 단국대 창업지원단. C&T테크 스포츠 세미나 성료(주)비에듀케이션센터 신유정대표 사회",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1WVXlxV2lxYzItNnJhOVJfRm1rakJfaE9lX3E1T3JLZWFuQVRzYmdieHJJdHQ0anpkbUNWRFN6TnlzMjQ?oc=5",
       "source": "한국공공정책신문",
@@ -330,10 +314,34 @@
       "date": "2026-07-20"
     },
     {
-      "title": "'붉은사막', 英 ‘디벨롭 스타 어워드’ 기술 혁신상 수상",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pb0tCRzY0MTEtUW9JZXpCWnhNWlA4XzBxR0RaeHhBM0l3MFhJSlgtNkM1QTR1ek9aR1gwZXU0M0hhZHotRG10a1BWV3l3UHA1dWVB?oc=5",
-      "source": "osen.co.kr",
-      "summary": "'붉은사막', 英 ‘디벨롭 스타 어워드’ 기술 혁신상 수상  osen.co.kr",
+      "title": "로봇·AI 체험으로 꿈 키운다…구미 방학놀이축제 성료",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NTmZONFFMV3ZrdjdIM2pWdEZtSWMtWkVuLV94bURZZ0hVLWxWTTdWbEVmZHlBajlnMVpNM09IcndfN1ZvdlZCY3NfOWZfQmZfOWg0blZsRjBlS0UtSGR5cU1ZX0NRcG5fX0pYLTJwbw?oc=5",
+      "source": "kyongbuk.co.kr",
+      "summary": "로봇·AI 체험으로 꿈 키운다…구미 방학놀이축제 성료  kyongbuk.co.kr",
+      "category": "스포츠 기술",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "남자 운동선수들은 왜 경기 중에 '스포츠 브라'와 비슷한 몸에 딱 달라붙는 셔츠를 입는 걸까요?",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVXNDWHhjQUw1MW14TVl4TW5yNVZfYnhjeXUtY3ptZEgyalBrdURfbmRJZ09IcDRuVmhVVnE2NkR3cHh4d0tqcGdiSVN1YWw0SjBVdkI2WXN3dTNwb0Q4TWkwemltSVFOcUU2NFlDMkVITGNKRjJmcXhRMjNyQ0FoZWg3ajRBd3U5aGJBdmhBWUsxbVZ0YkdTVHRLZHFyU28?oc=5",
+      "source": "Vietnam.vn",
+      "summary": "남자 운동선수들은 왜 경기 중에 '스포츠 브라'와 비슷한 몸에 딱 달라붙는 셔츠를 입는 걸까요?  Vietnam.vn",
+      "category": "스포츠 기술",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "경기혁신센터, 딥테크 스타트업 6개사 신규 투자…엑셀러레이팅 지원",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03OGNrdDYzdmdmQkRoakI4Y1JzZURPSjBIR1V5dWNHTFF4Sm8yMHdJVHIxQnZ4R2RzS2ZtcFp1cl95MVlXbmNzQTRnV1R3U0NoaXdYaTNudlMtQzdSUy1TUEYwQ0VmelItNlVKdQ?oc=5",
+      "source": "유니콘팩토리",
+      "summary": "경기혁신센터, 딥테크 스타트업 6개사 신규 투자…엑셀러레이팅 지원  유니콘팩토리",
+      "category": "스포츠 기술",
+      "date": "2026-07-20"
+    },
+    {
+      "title": "'붉은사막', 英 '디벨롭 스타 어워드' 기술 혁신상 수상",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14dm9WVXR0TWxNM1F5WEp3MWtOZGMtOS04andzMXFIRUdMZGRrOFFiTWdCcmhsRjkteTc3VHM3RnJvci1oTlV5ZXpoQWpYM1ppZWpUTmh2YTFMay1MN2F4bA?oc=5",
+      "source": "네이트",
+      "summary": "'붉은사막', 英 '디벨롭 스타 어워드' 기술 혁신상 수상  네이트",
       "category": "스포츠 기술",
       "date": "2026-07-20"
     },
@@ -343,14 +351,6 @@
       "source": "les24heures.fr",
       "summary": "스포츠 데이터 분석가란 : 새로운 트렌드와 발전 방향 - 톱 5 비교  les24heures.fr",
       "category": "스포츠 데이터",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "마이크로 LED주 혼조… 원풍물산 상한가에도 대형주는 조정",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EMVpadFN6dkxMbVlpMDQ2SUhObVlyc0NQVEJtU3hDWGNDSEdxZHV0dGw0YWhLVExOUjNEOFRJRGFadTZPWVR4Wlc5Q1RjT3pwMUswb01zQ1oyTXFRTVdLUm1PS2dNOFVaMFdJRGJkVTVwOW_SAXdBVV95cUxQX2VuMGRoRlBBU29zQ2lRaWFEMnVxVlNoTWNLLUpLc2RsVTJLc2JSSjdHdnVWM1lmbFZkX0QzRS1hNGVkYWZmVG5Yb1ZNcjRVYnk2Rm5oOHlDeEpUd2o1cDhLLVpIcjVwYmlhZ2lPT1NlSlRqVXJTbw?oc=5",
-      "source": "핀포인트뉴스",
-      "summary": "마이크로 LED주 혼조… 원풍물산 상한가에도 대형주는 조정  핀포인트뉴스",
-      "category": "스포츠 VR/AR",
       "date": "2026-07-20"
     },
     {
@@ -426,14 +426,6 @@
       "date": "2026-07-19"
     },
     {
-      "title": "표준화된 데이터를 사용하여 문화적 맥락에 맞춰 AI를 훈련시키고 결과물을 엄격하게 통제합니다.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUDRROUFNQWR2NHJsT3RBY1loTUZaUXpzS2FJeU1YVFdzTG1vNXR2T2VfOHlhXy1RTlJGa3FvZHlDMGptc1BiOGlvODVBc0YzeUJUdWdtSHVjSEczNkI1Q3QzbTZlS0pscGNBbDA2d1JzS0Q1T2JWZV9yYVo4N0xDVFZ4RGdIUWJzTHVkbldSY215cGVrcEhn?oc=5",
-      "source": "Vietnam.vn",
-      "summary": "표준화된 데이터를 사용하여 문화적 맥락에 맞춰 AI를 훈련시키고 결과물을 엄격하게 통제합니다.  Vietnam.vn",
-      "category": "스포츠 VR/AR",
-      "date": "2026-07-19"
-    },
-    {
       "title": "블록체인 뜻 연구원를 위한 사물인터넷 핵심 전략",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PeTFWdHlEY3JHaFJ1dkd4VUNuVG80TmZVTGhBV3NyN3pJd0NLUnlwRTd3NWxzTXBHYWhaYVNmUTRSeXo0NklENF92a2J3dw?oc=5",
       "source": "kmrk.ru",
@@ -454,6 +446,14 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jNENtcU55SmtQUUM3SnJDSFExaHRjOHo2MDZYR3JYUHBIeWE3eUl2R1dxWXdWeS1ZQnN4d3NfQ3lFZkF6QWlPN05tUmk2YkVwM1JDRTBvTmstN1NFVExvdy1ObGIySDlIQmJ6cG1uVlo1SlU?oc=5",
       "source": "ESG비즈니스리뷰",
       "summary": "UNEP \"2026 월드컵, 메가 스포츠 이벤트의 '친환경 도시 혁신' 시험대\"  ESG비즈니스리뷰",
+      "category": "스포츠 기술",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "라이브스포츠 을 위한 필수 정보 및 팁 - 톱 5 비교",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iS1hkc1B2MjJZNUV6RnpRdWVYbHRDZHp2S0xjeGx3TFY0MnlWeW5XWFVfckhna1NGVWRxc3RDcGVNdFFIU0M3NjFzYkNqX1pKa3pFN3lLYUFzS2RxM0FhTGtOSTg?oc=5",
+      "source": "les24heures.fr",
+      "summary": "라이브스포츠 을 위한 필수 정보 및 팁 - 톱 5 비교  les24heures.fr",
       "category": "스포츠 기술",
       "date": "2026-07-18"
     },
@@ -482,6 +482,14 @@
       "date": "2026-07-18"
     },
     {
+      "title": "도박성 뜻 을 통한 성공 전략: 실제 사례와 결과",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xQ2ZYWG1aU0c5ZjEzLUtEaHpJZ0FUMkJHTmVkQkk4d3hPZUFzUVQtbEZhdzlTUDNlWEIweUU1a2RwZ2hPbk1OdjFyNEpsQ2VtMnFPRE53VmpFeTA?oc=5",
+      "source": "kmrk.ru",
+      "summary": "도박성 뜻 을 통한 성공 전략: 실제 사례와 결과  kmrk.ru",
+      "category": "스포츠 중계권",
+      "date": "2026-07-17"
+    },
+    {
       "title": "NFL·WWE 이어 MLB까지… 넷플릭스, 스포츠 확장에도 홈런더비 시청자 역대 최저",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81MVpwQVNrMEdKNWlyQTdaTXR0VW5DcGJDcXBPUTVSYUJQWFk0Yk5UQXE4anp4WTc5Sk5vYUxwRWI4NHRYTjZJWGthU1NrN3NRMlhiSFBhZnNBekpidTJMU3dUTzgyWnN5?oc=5",
       "source": "녹색경제신문",
@@ -494,14 +502,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBSnNidEx5VWlBYXFOSW4yZ3hjTHJJSU9nYTN5dTZVVG9iQVZwWDcyNUU0R2Z2MmJwNktSTGdkM0Rsano5a25ZQ1Bfb3QzY2YtSy1hSWlpR0NMOUXSAWBBVV95cUxOMC0yTHM4Zk9leklnVy1mNUdKby1xQ1kzQVVnYkMzdUR3N1FkRHc1U3h0R3J2RHg4cWlvVTdLSDlqTGxnemRiUy13bE4yWk05VzRjb3NSOVpIVzF1ck92cHI?oc=5",
       "source": "연합뉴스",
       "summary": "넷플릭스 MLB 홈런더비 시청자 수 530만명…2003년 이래 최저  연합뉴스",
-      "category": "스포츠 OTT",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "[오!뜨뜨] 넷플릭스 ‘동궁’→애플TV ‘럭키’…제헌절 연휴 채울 ‘취향저격’ 신작",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iOHhyUWFfclVjYUdId0J0RV9TM01ndHllenEwMDB0eU92a2tqdDhlaUJXZ1RaUXF5WXM1cUJBXzJTRUxzdXF1SEZ0c1JtVGs?oc=5",
-      "source": "v.daum.net",
-      "summary": "[오!뜨뜨] 넷플릭스 ‘동궁’→애플TV ‘럭키’…제헌절 연휴 채울 ‘취향저격’ 신작  v.daum.net",
       "category": "스포츠 OTT",
       "date": "2026-07-17"
     },
@@ -602,6 +602,14 @@
       "date": "2026-07-16"
     },
     {
+      "title": "\"올해 부산 대표 스타트업은?\"…창투원 B-스타트업챌린지 참가사 모집",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94bXhTeUxFU0g0M0ItWHVQR29iRFVYMW5kSEw4R2JtZDR5Tm1aZWR0MVdmODZBWDZSdUY1b1dubEQyRG9QSFZjdHlaYjNlT1k?oc=5",
+      "source": "v.daum.net",
+      "summary": "\"올해 부산 대표 스타트업은?\"…창투원 B-스타트업챌린지 참가사 모집  v.daum.net",
+      "category": "스포츠 스타트업",
+      "date": "2026-07-16"
+    },
+    {
       "title": "디캠프, 오는 30일 배치 3기 ‘디데이’ 개최…유망 스타트업 5개사 무대 오른다",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9FOHBBdnRqbXQwUmZlZjVEQjNLNFdzdTR2ZFItYktqQ01RdXY0UGZ1aDZ2X1FneXNOY2M3cDFTejc2VTllbUE?oc=5",
       "source": "beSUCCESS",
@@ -614,6 +622,14 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9scHEtU3FocFg4OE92UkxBSENTZGJnMkNKVWdkNDhjd2w0TEpsQUt1MHR1THFMUXRPWFRRX2ZTUmZtc1B3M2R0OEtNUk1CMGhMVVZ1Nkh3Z0lxS3dkUUJ0RGxLNk94ak5QOWfSAW9BVV95cUxQd0FKZjZEMnZWTTVUSU83QV9DWHhGcHVPS0dmOG1XQUxMd3p1cVhDRV9GMVJKSWI1RDk0ajIwWUxsU240aFFsbkoycmIwR2ZZMDRMamdtVXpkdEVxMWJhLWRkNDB0a2VqSkdUaHpMR3c?oc=5",
       "source": "머니투데이",
       "summary": "메시·음바페, 찰나의 움직임도 감지…전술도 판정도 'AI 시대' - 머니투데이  머니투데이",
+      "category": "스포츠 스타트업",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "한국엔젤투자협회, '스케일업 서밋 2026' 성료…지역 스타트업 투자유치 지원",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KRGc0cWozVkNDSnphYnl2YkZSQlF3SVlhOXhBYW9ab240dTk2WG9CQzdNcXFud2I4cnd2R2k0Sy1NZTFyWEdlZnNabEp3U0E?oc=5",
+      "source": "v.daum.net",
+      "summary": "한국엔젤투자협회, '스케일업 서밋 2026' 성료…지역 스타트업 투자유치 지원  v.daum.net",
       "category": "스포츠 스타트업",
       "date": "2026-07-16"
     },
@@ -658,18 +674,10 @@
       "date": "2026-07-16"
     },
     {
-      "title": "문화, 스포츠 및 관광 분야의 디지털 전환을 위한 혁신적인 솔루션 강화.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0lxZ0dWcUtmSkdmd202X2Ryb1hjSXY3WldVMk52alp0NmRrZ1lVTV9HaFhmczlIdFpTRENpdFFnTVNrMDk1X19DTHlYNXBtNk9DTDA1eVM1OGpVeGdFTkl6TVFZMG9uZ01jRU0zOGpJSm9RVUZzZWFpWVVOUVhWREZQYlJFc2habW5INFhpNzNsLVkyeXRSdm5n?oc=5",
-      "source": "Vietnam.vn",
-      "summary": "문화, 스포츠 및 관광 분야의 디지털 전환을 위한 혁신적인 솔루션 강화.  Vietnam.vn",
-      "category": "스포츠 기술",
-      "date": "2026-07-16"
-    },
-    {
-      "title": "우선순위와 핵심 영역을 명확히 정의하고 문화, 스포츠 및 관광 분야의 디지털 전환을 가속화하십시오.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVl3bmRtYnp5SHhEZlAzXzh5Nl9MZ2FBWExIcWpOcEhicWJVQWhrV3BMbjlOdjFZNkZsN0V4ZUlNV3l5dXpBcm81eV9PYmhEcXo2ZTRobTVUYnJJVnZEUG40QjIwTUF5dnppRkxIU1c3MG5HZUtiZHNXYWhuMXNaMXd1bW1GSk9QemJVdXdPLUxIV25rX05rclZR?oc=5",
-      "source": "Vietnam.vn",
-      "summary": "우선순위와 핵심 영역을 명확히 정의하고 문화, 스포츠 및 관광 분야의 디지털 전환을 가속화하십시오.  Vietnam.vn",
+      "title": "펄어비스 '붉은사막', 디벨롭 스타 어워드서 '기술 혁신상' 수상",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQdW1LRnVfZEV3Yk55OXVlU284Z1kxS1VXYi0xN3ZjMHhKdmZabVMyQ1VQX0xnckx1SmhmVEtDSGxMLVRkWWo0S2JndWQtSHVkQ0V6TkhHLXR3UTNlMlZLTFlKUkszTVlOZlJITXpzRnLSAXRBVV95cUxQLWJDTDRHSV80RUlhUS1Md2MtcFBtaHlueVBrcUlqdU1ZZXIySlB4SlNWblZBZkRtcEhGZDdkQjBLdWtUNmIzeDNqRnJsWTgyTTFWWW91NlNGMUtqQTUtUm80T1QzTm1lRDhfeGQ4MmpVUWRxag?oc=5",
+      "source": "스포츠한국",
+      "summary": "펄어비스 '붉은사막', 디벨롭 스타 어워드서 '기술 혁신상' 수상  스포츠한국",
       "category": "스포츠 기술",
       "date": "2026-07-16"
     },
@@ -704,14 +712,6 @@
       "summary": "DXE, a CJ ENM-affiliated digital advertising agency, launches ‘GEO (Generative Engine Optimization) consulting’ service  스포츠경향",
       "category": "스포츠 데이터",
       "date": "2026-07-16"
-    },
-    {
-      "title": "‘넷플릭스에서 숏폼 시청?’…이용자 잡기 나선 스트리밍 플랫폼들",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mUVFzTHVmSVJNY2U0TXhldmZlaHIzVGxkVEZrbWs1bE9RVWVFbFVYeUk2b09IMWNBRHlpNUZIQ2NEU08yQlE4aE1pazZvTmJZbXZvZ2FWeGRNUENobU96MXNkQi13cGhVMFNiaUxVZEhkeVBwb2c?oc=5",
-      "source": "RadioKorea",
-      "summary": "‘넷플릭스에서 숏폼 시청?’…이용자 잡기 나선 스트리밍 플랫폼들  RadioKorea",
-      "category": "스포츠 중계권",
-      "date": "2026-07-15"
     },
     {
       "title": "\"따로 말고 같이 보자\"...OTT, 채팅·투표 시청자 참여 기능 확대",
@@ -754,19 +754,11 @@
       "date": "2026-07-15"
     },
     {
-      "title": "FIFA 월드컵 2026™: 세계 최대 규모의 축구 기술 전시회.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbERkV2dvWVU4N0JJbEFETWMtTXlyeGVCQmJfSzB5a0RoRlBtaW1RdWZqYWxYcllZUHRDbUw2b3M0djZ1YlE5VmhhTUFJOHJLbElDWm5vZVpWYThTUExNSlY3RWV2Q0VHeEdKOEVzdWE3MXBvM3EwUnBETjFIN1QxVFpUbGR1bXk1MTZGRkJNUHFqRmthNkNDVDdwbmJaVk1TcWhqM3A5V0Q?oc=5",
-      "source": "Vietnam.vn",
-      "summary": "FIFA 월드컵 2026™: 세계 최대 규모의 축구 기술 전시회.  Vietnam.vn",
+      "title": "경북도, 잠자는 연구장비 깨워 지역기업 기술혁신 돕는다",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fTnV5bndGcUdHaEI0NHl3RmMwcjBua0czc2hwNFN5RExMQ3dZUm5iNV8yX1BuNGdBc3h4Y1VjNnpwX0cyaDZtd3lUNzNhcERXdS1vU2p2LVl4cnVFMXh3MUJEMDhQWDRGQ0pBU1dB0gFzQVVfeXFMUGhJYXU3clpFc21QZ0x0Tzdqd3FadHlnaUJVc1FYTS1vR2hGRUxmRG1pR0dtZy1TX1M3UW1qVS1weFRGLXhPdXA2MUlaY0FnX3dTajFhWmVrTEJ0bHk1aGRxb2JXSW1DZXNmcTlaWVpobEZ6SQ?oc=5",
+      "source": "한국일보",
+      "summary": "경북도, 잠자는 연구장비 깨워 지역기업 기술혁신 돕는다  한국일보",
       "category": "스포츠 기술",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "[기획] 조정희 작가 - 데이터로 다시 걸어본 평택, 숫자 뒤의 사람을 그리다",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YbkFWV2xUV1Q4V2pRWkJ4Tkcta1k5eVdOTkJDU1hvNlVJU0V6YjdfMHBfcFVsYzdFWTFrbV9oRVpqLVljblVwLUtpR0gtTGNsTHgyMVY2ajdYNXBWMkdGQzZMdm5jXzhH?oc=5",
-      "source": "평택시민신문",
-      "summary": "[기획] 조정희 작가 - 데이터로 다시 걸어본 평택, 숫자 뒤의 사람을 그리다  평택시민신문",
-      "category": "스포츠 데이터",
       "date": "2026-07-15"
     },
     {
@@ -782,6 +774,14 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIZjdoYXUwQ2c0azk1RU9kUzFSUFBxQmpHVDZ1MTlRZTVQQ1J0TlV0aW9BS1pHSmtpUDdyQ3dhMlR0VzhEbVF2VVhZUWN5MkhfaFFQVHp4c2RUcTRSLTF2R1daZ09GelRKMU83LQ?oc=5",
       "source": "Straits Research",
       "summary": "골프 시뮬레이터 시장 규모, 점유율, 성장, 분석, 보고서, 2034년  Straits Research",
+      "category": "스포츠 VR/AR",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "동탑성은 2026년부터 2030년까지 '베트남 문화의 날' 행사를 개최하는 계획을 발표했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdE1OejBfYXVVdk15Z29tYlh1UFhVd3kyQmtFRDk3VE04b2Z4NmJhOFMzaW0tOHNzemRyaWpMcEhXa0RJdm1OSTFMTWNpMGIwTkJBMmRqUHhCZmdFQllKNzFLeFJxVldIa28ybjllbHhMU05QWm1kZzNqc1hTbXNMRk1aQVFPSzZVYm9vcEpYRnJRRGNQMkRLMVZPNGRoVUdzbGNNVDdn?oc=5",
+      "source": "Vietnam.vn",
+      "summary": "동탑성은 2026년부터 2030년까지 '베트남 문화의 날' 행사를 개최하는 계획을 발표했습니다.  Vietnam.vn",
       "category": "스포츠 VR/AR",
       "date": "2026-07-15"
     }
