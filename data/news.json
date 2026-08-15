@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 08:27 (KST)",
+  "updated_at": "2026-08-15 09:49 (KST)",
   "articles": [
     {
       "title": "LA 레이커스, 18조원에 팔렸다",
@@ -92,8 +92,8 @@
     {
       "title": "제주스포츠과학센터, 배드민턴 선수 대상 스포츠과학교실 운영",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nZ0tPTXg0aTBJazhXRExjdzRMQkR0dkUxQnNnZWZrQWxvaGFJMElEeHdlSjgzUzl6WFdJMGVmVTlJT1lWejRfQV92dVV6Vl9UU25JRlZ0UEtFY0hqeVR6VzJsbVc0bjA5OGxXdA?oc=5",
-      "source": "newsnjeju.com",
-      "summary": "제주스포츠과학센터, 배드민턴 선수 대상 스포츠과학교실 운영  newsnjeju.com",
+      "source": "뉴스N제주",
+      "summary": "제주스포츠과학센터, 배드민턴 선수 대상 스포츠과학교실 운영  뉴스N제주",
       "category": "스포츠 기술",
       "date": "2026-08-14"
     },
@@ -107,7 +107,7 @@
     },
     {
       "title": "AI 활용한 스포츠 복지 정책 고민…체육공단, 학술대회에서 열띤 논의의 장 열었다",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xbzRRTllKTU5jMkt3azlXRDdoQS1MeGxIaVZHdFk5M05TV1F5M1NRWC1WNFBtZXNaYmNuN1hwU3BZTG96LUlVdVZtYmJMcGc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1yX1llbnVkYzdWeEhrckdHaFIySFRlcUlhUm5fRURwVmhKSmJWeTVkUS1KSGRlQ3hZQmIwSmJHSDRwNFB4aEE?oc=5",
       "source": "v.daum.net",
       "summary": "AI 활용한 스포츠 복지 정책 고민…체육공단, 학술대회에서 열띤 논의의 장 열었다  v.daum.net",
       "category": "스포츠 기술",
@@ -124,8 +124,8 @@
     {
       "title": "국민체육진흥공단, AI 활용한 스포츠 정책 확대안 세션 논의",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93ZlVaU1dVcDJYRDBOZXJ6RS1XczZzeHFxYWpCVjJ5ZUhvQnBmZ3g5X1lSeEh1Z2VncUJSTVh6Yjk4QTN5bVRKOUtHdElsZU9XMUd2bzgzYkZxbkIw?oc=5",
-      "source": "뉴스핌",
-      "summary": "국민체육진흥공단, AI 활용한 스포츠 정책 확대안 세션 논의  뉴스핌",
+      "source": "newspim.com",
+      "summary": "국민체육진흥공단, AI 활용한 스포츠 정책 확대안 세션 논의  newspim.com",
       "category": "스포츠 기술",
       "date": "2026-08-14"
     },
@@ -148,8 +148,8 @@
     {
       "title": "국민체육진흥공단, 한국정책학회 하계학술대회 참가…'AI 스포츠 복지' 특별 세션 운영",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hU3o0T09jc2xVNHplSlUteThJR0dGT0RXMkxVQk1Lb3NXM1VaLU5EZTlUazVsM3AzZ3ZVV1BQSXNpTTc5M2xBX0RsLXEzanZYa0IzWjk5ZDc4cUt0?oc=5",
-      "source": "sports.news.nate.com",
-      "summary": "국민체육진흥공단, 한국정책학회 하계학술대회 참가…'AI 스포츠 복지' 특별 세션 운영  sports.news.nate.com",
+      "source": "네이트",
+      "summary": "국민체육진흥공단, 한국정책학회 하계학술대회 참가…'AI 스포츠 복지' 특별 세션 운영  네이트",
       "category": "스포츠 기술",
       "date": "2026-08-14"
     },
@@ -159,6 +159,14 @@
       "source": "Complete Sports",
       "summary": "중계 기술 혁신이 스포츠 팬들의 시청 경험을 어떻게 바꾸고 있나  Complete Sports",
       "category": "스포츠 기술",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "AI 활용한 스포츠 복지 정책 고민…체육공단, 학술대회에서 열띤 논의의 장 열었다",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xbzRRTllKTU5jMkt3azlXRDdoQS1MeGxIaVZHdFk5M05TV1F5M1NRWC1WNFBtZXNaYmNuN1hwU3BZTG96LUlVdVZtYmJMcGc?oc=5",
+      "source": "v.daum.net",
+      "summary": "AI 활용한 스포츠 복지 정책 고민…체육공단, 학술대회에서 열띤 논의의 장 열었다  v.daum.net",
+      "category": "스포츠 데이터",
       "date": "2026-08-14"
     },
     {
@@ -184,6 +192,14 @@
       "summary": "스타드 드 프랑스, 270만 관객으로 증명한 대형 경기장 허브 전략의 실체  한국AI부동산신문",
       "category": "스포츠 VR/AR",
       "date": "2026-08-14"
+    },
+    {
+      "title": "AI 시대 '황금 거위' 스포츠…LA 레이커스, 17.7조원 '사상 최고가' 팔렸다",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XcjZSMjFfOVo3SzZvSm5PTFpRSmFIWERPVDZyWEVSd2xmMGsxeTBfOUZKN0J5OUl1RUJXWnB2eFo3MklhMmhGb3FmUGdnclJXUTcyVEUycVVxdw?oc=5",
+      "source": "파이낸셜뉴스",
+      "summary": "AI 시대 '황금 거위' 스포츠…LA 레이커스, 17.7조원 '사상 최고가' 팔렸다  파이낸셜뉴스",
+      "category": "스포츠 중계권",
+      "date": "2026-08-13"
     },
     {
       "title": "FIFA가 아세안컵 TV 중계권료로 요구하는 300만 달러는 너무 높은 가격일까요?",
@@ -252,8 +268,8 @@
     {
       "title": "씨엔티테크, 췌장암 신약과 스포츠 AI에 나란히 투자",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CdnBlZjh0bTZOMGdEYzJnOEptdkowVTdlVzZsaGtpcWRkSDhBeHJHWWR6Slh1aTh4cDFrRk8tUklCdGxkYkpQcw?oc=5",
-      "source": "플래텀(Platum)",
-      "summary": "씨엔티테크, 췌장암 신약과 스포츠 AI에 나란히 투자  플래텀(Platum)",
+      "source": "platum.kr",
+      "summary": "씨엔티테크, 췌장암 신약과 스포츠 AI에 나란히 투자  platum.kr",
       "category": "스포츠 스타트업",
       "date": "2026-08-13"
     },
@@ -298,6 +314,14 @@
       "date": "2026-08-13"
     },
     {
+      "title": "‘자원 먹는 하마’ 데이터센터, 규제 피해 선진국서 개도국으로",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SeTROOUlPM1JWZGE4cUVxRXdPMUlSaUhfYkVZdzl0WUpQMll1Y2JJN2xrUC1LTnJYT200eVZxU0MxWHFBdWN6amoxbFY5eGZPeS1Lc011MXpoZkV2TTJwQXRYUVNGWVc0WVVDVtIBbEFVX3lxTE1SeTROOUlPM1JWZGE4cUVxRXdPMUlSaUhfYkVZdzl0WUpQMll1Y2JJN2xrUC1LTnJYT200eVZxU0MxWHFBdWN6amoxbFY5eGZPeS1Lc011MXpoZkV2TTJwQXRYUVNGWVc0WVVDVg?oc=5",
+      "source": "국민일보",
+      "summary": "‘자원 먹는 하마’ 데이터센터, 규제 피해 선진국서 개도국으로  국민일보",
+      "category": "스포츠 데이터",
+      "date": "2026-08-13"
+    },
+    {
       "title": "데이터는 e스포츠 생태계에서 '황금광산'이 되었습니다.",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSHVkQ0ZIaWpMLXB2MVhfQ0Vja2dHWktYbWE1NGlSZ2hzOTJvUGtodXA1dFU4ajdsT2UxdzBjX1NlS25vc2UtRnFROUxtcUF5QWg5a3R4LURvRmxNTUV2WXI5ZGtBbV9uejBXMnhVSzBHazhXenpzNXJwNlVIVmZidFF5bm4?oc=5",
       "source": "Vietnam.vn",
@@ -310,6 +334,14 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhT0pCZU81dzd2YjROV3pBY0ttME5xbjR1ZWhjSndKOU1QQjZSQS1KODhWTDNzV0NkeHdOamM4d3VEOFZoNEE2dDRwSnB4MXNpQnlZQzBRaWIzeEdxRW4w?oc=5",
       "source": "한국교육신문",
       "summary": "마포진로센터-한국e스포츠협회, 진로교육 협력  한국교육신문",
+      "category": "스포츠 데이터",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "‘김부장’ ‘유부녀 킬러’ 그리고 ‘결혼의 완성’",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lRFhYb256VXF6Qnl0eFJQZkR3TmhPeHBSUEFlNnhjSjZmWEl6Mzg5OFdCVlR4c19TZEwzcDBfMDE2OWlDQXFfZVRFR003U3RReENUMHdvMXJWSXRBRFHSAWNBVV95cUxNR0I4WDNzWWRrcU1TVjUwYWQ1bTU2RjVReXQ1VEFJY19teXluZ25EdjNnZW9kU2tISFgxMnd3Nk5LTkpCOWtLZjMwMmdRNUtEcUFWSzdJT3N3TWpueERtMklOT2c?oc=5",
+      "source": "스포츠경향",
+      "summary": "‘김부장’ ‘유부녀 킬러’ 그리고 ‘결혼의 완성’  스포츠경향",
       "category": "스포츠 데이터",
       "date": "2026-08-13"
     },
@@ -340,24 +372,24 @@
     {
       "title": "애플TV, 디오픈 미국 중계권 노린다 ‘NBC와 넷플릭스·아마존까지 경쟁’",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1maG1WZFlFajIwY0E4Qlg0cTZaYl85VlBIM0l2cTZBelluM1V5YVJlVXJLUUJaYldIYXJrRnJEVVk1T1JnM09OWm1NZkFvNE9raDNOVHpzRUdRWjk5Nmg4c3U4OFVJODJQTmtseVFwTQ?oc=5",
-      "source": "와이드스포츠",
-      "summary": "애플TV, 디오픈 미국 중계권 노린다 ‘NBC와 넷플릭스·아마존까지 경쟁’  와이드스포츠",
+      "source": "widesports.co.kr",
+      "summary": "애플TV, 디오픈 미국 중계권 노린다 ‘NBC와 넷플릭스·아마존까지 경쟁’  widesports.co.kr",
       "category": "스포츠 중계권",
       "date": "2026-08-12"
     },
     {
       "title": "바카라 채팅 창업자를 위한 투자 재테크 필수 포인트",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVOXMyZGxoeDVCaVJxRXlNa2V0VHh0N2RvMFhjN2psdDdTaEZiQ18zeW1rQXBMR1pDb3NxSTBOS01ST3gyaVZ1WWttbnJXOHJlc3NVQk0wdENaQTMtMkZ6Z0JnVDEzdERPSnpDRklKZnNMOUJpZExF?oc=5",
-      "source": "gwaramedia.com",
-      "summary": "바카라 채팅 창업자를 위한 투자 재테크 필수 포인트  gwaramedia.com",
+      "source": "Gwara Media",
+      "summary": "바카라 채팅 창업자를 위한 투자 재테크 필수 포인트  Gwara Media",
       "category": "스포츠 중계권",
       "date": "2026-08-12"
     },
     {
       "title": "농약 토토왕|카지노 다시보기 쿠쿠 티비",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS1pkT3AxS2tEamZHR1lrN0wxSEtmUkhCdkFHVmx3ZkhmUjRVcGlhcldpSmtScXoxOWc4c1diaUpDZlRKVlU2b2t6Tk1hNUtnN0ZrbnB3dE9udkxLc3JZMERqc1NPNC1ITVdDb3I3LUxSUU5Yanh2aVlXNDBvbHZPV3ZzYW0wRU5MdkpXSFE4TDhBVml0RUc3QkNFRElBYkFadzVNbWZBaWtnV1BBcjFLdTd5UngzaXl0dzdGWWJ5OTBlWFlORi1iaXFwZ1dMQQ?oc=5",
-      "source": "gwaramedia.com",
-      "summary": "농약 토토왕|카지노 다시보기 쿠쿠 티비  gwaramedia.com",
+      "source": "Gwara Media",
+      "summary": "농약 토토왕|카지노 다시보기 쿠쿠 티비  Gwara Media",
       "category": "스포츠 중계권",
       "date": "2026-08-12"
     },
@@ -372,16 +404,16 @@
     {
       "title": "파이브드래곤 슬롯 탄소 중립을 통한 요약: 원리, 방법 및 기술",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmN5RGIzaFJWVzVOVFFNQy1pZ1VRZExkVlRsS2QtclVhMS1CMVZ0SjFoU0xtRVhVWEJqcXEtdGdFZExuM3RRX1ZwOEdMcWdzVEZ3MmNwWGlHZzFqUU9Nd3pocFBkWS02R1pEOWg2ME5JNlNBbzI0Q0VSbmJ5YjhaWWp1RVhMS1VWSVBicExqREhaQ29OVUFGcUdYWS1pcVQ2QmY3dXZ5TzRKLTk3TS1qWWw2dkhnTWdBcFdN?oc=5",
-      "source": "gwaramedia.com",
-      "summary": "파이브드래곤 슬롯 탄소 중립을 통한 요약: 원리, 방법 및 기술  gwaramedia.com",
+      "source": "Gwara Media",
+      "summary": "파이브드래곤 슬롯 탄소 중립을 통한 요약: 원리, 방법 및 기술  Gwara Media",
       "category": "스포츠 스타트업",
       "date": "2026-08-12"
     },
     {
       "title": "스포츠 토토 커뮤니티 제로 기억 기술과 비밀 풀기: 분석, 평가 및 최적화",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXc2tuSTMyejFEd3dVaWR5N01OYzl0blVHM09LOV9Xakw4SDQ1dnVzcTJGSG9kaFJIZVgwR1QxSW5KOUdLM01tZURUM3VKWTllR2VpQg?oc=5",
-      "source": "gwaramedia.com",
-      "summary": "스포츠 토토 커뮤니티 제로 기억 기술과 비밀 풀기: 분석, 평가 및 최적화  gwaramedia.com",
+      "source": "Gwara Media",
+      "summary": "스포츠 토토 커뮤니티 제로 기억 기술과 비밀 풀기: 분석, 평가 및 최적화  Gwara Media",
       "category": "스포츠 기술",
       "date": "2026-08-12"
     },
@@ -404,16 +436,8 @@
     {
       "title": "스포츠 데이터 분석가란 에 대한 완벽한 가이드: 초보자부터 전문가까지",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM1Y2REdWZjljX2hXa0lDbER4dWRQdXhycjV0a05hWUNtY0U1UzFDckJNV3pRbjA0a3FpOEsxbVlVSE5UWGo2OHZ0Z3JabXgxSWZNa3BMUGp4aW1BYWEzQy1pR2xvSlZVUWViYmtRN0hHazN2dXZQcnRQQlI0bDc5b2NEZlBNakJDRmZocVhQVlpqa3ViZ2hWS1FaUE9pUDBGZGZfaTBiNl90OXNfSXB4b2gtUTJLOS1HaV8wTEJwZjZrVmVDNnBLMlh0bS1WZw?oc=5",
-      "source": "gwaramedia.com",
-      "summary": "스포츠 데이터 분석가란 에 대한 완벽한 가이드: 초보자부터 전문가까지  gwaramedia.com",
-      "category": "스포츠 데이터",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "‘상습 가뭄’ 섬에 들어선 데이터센터… 주민들 “식수 끊겼다”",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52cjRGSFBhekd2a3NacXRPMlZ2NWRvQ1NPUDMwMEpSWUd1akdqcEZwT0VFOW91UXMtSWtLbWtWaFJlZURZaklaR211UERQTnBMUFhobTNwRlh0Sm0wUEJKQUs4dTRUd3lUMmM1YtIBbEFVX3lxTE52cjRGSFBhekd2a3NacXRPMlZ2NWRvQ1NPUDMwMEpSWUd1akdqcEZwT0VFOW91UXMtSWtLbWtWaFJlZURZaklaR211UERQTnBMUFhobTNwRlh0Sm0wUEJKQUs4dTRUd3lUMmM1Yg?oc=5",
-      "source": "국민일보",
-      "summary": "‘상습 가뭄’ 섬에 들어선 데이터센터… 주민들 “식수 끊겼다”  국민일보",
+      "source": "Gwara Media",
+      "summary": "스포츠 데이터 분석가란 에 대한 완벽한 가이드: 초보자부터 전문가까지  Gwara Media",
       "category": "스포츠 데이터",
       "date": "2026-08-12"
     },
@@ -428,8 +452,8 @@
     {
       "title": "스포츠 영상 분석 프로그램 알아보기 웹사이트 구축 실용 도구",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV2l5SGVjaXhGYUxkMEpmWFEtZGNNVTlDUGl5OTRyblE2Ql9HZGxpQWVzSS1UbDRPNFhYa1JMV0FpM19NX1dSYXpYaEd1all5ekdXOXRLTnVBRkZCWG9QRHl0cC1Hc0lheEM5cVpORUV0Y2p6R1V5T3NxTXlBTDYyR1k3eXVGUjlXWll2TEJua2dtZTBVZmY5R2hUdUx3YTFNVnp4d19YVlljYnZBeGhKeWRRclE0TDFmN19JRkkzRzVYYjBLaFV3UjZaSE8?oc=5",
-      "source": "gwaramedia.com",
-      "summary": "스포츠 영상 분석 프로그램 알아보기 웹사이트 구축 실용 도구  gwaramedia.com",
+      "source": "Gwara Media",
+      "summary": "스포츠 영상 분석 프로그램 알아보기 웹사이트 구축 실용 도구  Gwara Media",
       "category": "스포츠 데이터",
       "date": "2026-08-12"
     },
@@ -444,16 +468,8 @@
     {
       "title": "韓·日전인 ACLE PO 중계 못 볼 뻔... 강원, 한국·일본·태국에 중계 성사···구단이 단일 경기 중계권 판매 최초 사례 남겨",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jcGtmX3FWY0o4VkFxcHFyVnlXeUdMRG5zRGI2Mmd2Z0wzeVBrQlNNWW45NDJXR180NzR0cFNsTV8xTW1aY3kwSnJTRVhiQ1ZnLWZ3TVZmeFhGUmoxMExVaTJ1TFo?oc=5",
-      "source": "m.mksports.co.kr",
-      "summary": "韓·日전인 ACLE PO 중계 못 볼 뻔... 강원, 한국·일본·태국에 중계 성사···구단이 단일 경기 중계권 판매 최초 사례 남겨  m.mksports.co.kr",
-      "category": "스포츠 중계권",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "투자자들이 로저스 커뮤니케이션즈(TSX:RCI.B)의 프라임 비디오 NHL 스트리밍 중계권 계약에 어떻게 반응할까",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaERHQzlDb0VRZU1LbHdhNk1TcEY1YW5tNnRyaE0ySUdibWNMNklEeXlPTEY4SWdfMVpjbFl0NHluYzRzRFBxdzB2azdRZVhHVVRVTHNJN09ha3N2U0xCSWhVV2hlNWRnTDFlLVI0TkRHR3FleFdBZ2c1V1ZMaEQ3WXdCT0JJSXJIeWlXSGY4QVc2VU5PUlBieEhDTlVxaVVKdVZidGdBRmNFYjDSAasBQVVfeXFMT2hER0M5Q29FUWVNS2x3YTZNU3BGNWFubTZ0cmhNMklHYm1jTDZJRHl5T0xGOElnXzFaY2xZdDR5bmM0c0RQcXcwdms3UWVYR1VUVUxzSTdPYWtzdlNMQkloVVdoZTVkZ0wxZS1SNE5ER0dxZXhXQWdnNVdWTGhEN1l3Qk9CSUlySHlpV0hmOEFXNlVOT1JQYnhIQ05VcWlVSnVWYnRnQUZjRWIw?oc=5",
-      "source": "simplywall.st",
-      "summary": "투자자들이 로저스 커뮤니케이션즈(TSX:RCI.B)의 프라임 비디오 NHL 스트리밍 중계권 계약에 어떻게 반응할까  simplywall.st",
+      "source": "MK스포츠",
+      "summary": "韓·日전인 ACLE PO 중계 못 볼 뻔... 강원, 한국·일본·태국에 중계 성사···구단이 단일 경기 중계권 판매 최초 사례 남겨  MK스포츠",
       "category": "스포츠 중계권",
       "date": "2026-08-11"
     },
@@ -476,8 +492,8 @@
     {
       "title": "[OTT] '이강인부터 김민재까지' 유럽파 한눈에…SPOTV NOW, 26-27시즌 '챔스패스' 출시",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5peG9QaWJsaE1mVzZEQmphY0ZOc0w4dURPc3VyWWRRR1g2ZUVaeDJfNHVta2U2SnhtX2c3QUtZS1ZvY1ZnSzNROHktcnp1UGRDLURJOFQwb0EzNUF1U0ZvMkNObmJGbDJsVnlqMjJzbjdVZWpqUDZv?oc=5",
-      "source": "sports.news.nate.com",
-      "summary": "[OTT] '이강인부터 김민재까지' 유럽파 한눈에…SPOTV NOW, 26-27시즌 '챔스패스' 출시  sports.news.nate.com",
+      "source": "네이트",
+      "summary": "[OTT] '이강인부터 김민재까지' 유럽파 한눈에…SPOTV NOW, 26-27시즌 '챔스패스' 출시  네이트",
       "category": "스포츠 OTT",
       "date": "2026-08-11"
     },
@@ -538,10 +554,10 @@
       "date": "2026-08-11"
     },
     {
-      "title": "[빅데이터로본다] 스포츠 스타 2026년 8월 브랜드평판... 1위 김도영, 2위 박지성, 3위 이정후",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nR3NZYUg1RmZSaVNMMU9fX0Z2bzBHeUc2MHdhTEV2M0lKcVBUZEV0ZDBKTWowOHBKcWRRUXMwdVM5aUpKQUtVcWw0VWtreVhka3h4WUxGOWNScXRQc095UzZvUzJ0SVBkQXNj?oc=5",
-      "source": "일간투데이",
-      "summary": "[빅데이터로본다] 스포츠 스타 2026년 8월 브랜드평판... 1위 김도영, 2위 박지성, 3위 이정후  일간투데이",
+      "title": "기후부 장관 “데이터센터 물 수요, 빨리 정리하겠다”",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5STDd0Y2kyc2RLd1pOVk9od0RFSlFkb0xiU1hCS0RKMEVxUzloeFlKbnFUZmxJU2poX0d2Y2JiZ2x1SVBFdU9wVzRwNFBqajlBZzA5T0RBZHBDUm1KOGdERGNYRXpSX1R0TXF2c9IBbEFVX3lxTE5STDd0Y2kyc2RLd1pOVk9od0RFSlFkb0xiU1hCS0RKMEVxUzloeFlKbnFUZmxJU2poX0d2Y2JiZ2x1SVBFdU9wVzRwNFBqajlBZzA5T0RBZHBDUm1KOGdERGNYRXpSX1R0TXF2cw?oc=5",
+      "source": "국민일보",
+      "summary": "기후부 장관 “데이터센터 물 수요, 빨리 정리하겠다”  국민일보",
       "category": "스포츠 데이터",
       "date": "2026-08-11"
     },
@@ -604,8 +620,8 @@
     {
       "title": "강원, ACLE 플레이오프 해외 중계권 직접 판매…일본·태국 송출",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YWlJWektJWVNkdTBuckExcDMxN1BsaHRCMGlPV0ZwcFltVmM3WG5CRTJqNFdrOHpxUy1aeExBcms3WFpOdVVVa3VONG1lRDdVTWctYS1jRjNyNmc1?oc=5",
-      "source": "sports.news.nate.com",
-      "summary": "강원, ACLE 플레이오프 해외 중계권 직접 판매…일본·태국 송출  sports.news.nate.com",
+      "source": "네이트",
+      "summary": "강원, ACLE 플레이오프 해외 중계권 직접 판매…일본·태국 송출  네이트",
       "category": "스포츠 중계권",
       "date": "2026-08-10"
     },
@@ -652,8 +668,8 @@
     {
       "title": "[전화성의 스타트업 모닝커피 1373회] 피벗",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBaU8yVDA5d2Q5NndqaXhMTTI4eml5Z0tOdk85RmxJRFZiU0ppR0RsSlBLNjRKSkM2VEhqcmFvYnFUdl9veUxjRA?oc=5",
-      "source": "플래텀(Platum)",
-      "summary": "[전화성의 스타트업 모닝커피 1373회] 피벗  플래텀(Platum)",
+      "source": "platum.kr",
+      "summary": "[전화성의 스타트업 모닝커피 1373회] 피벗  platum.kr",
       "category": "스포츠 스타트업",
       "date": "2026-08-10"
     },
