@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07 09:49 (KST)",
+  "updated_at": "2026-09-07 11:14 (KST)",
   "articles": [
     {
       "title": "NFL마저 넷플릭스로 간 까닭은",
@@ -12,8 +12,16 @@
     {
       "title": "2026 라플라스×ETRI 딥테크 투자포럼 9월 14일 개최",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FR2lTM0t2U2tOQ2N6aUUtZUpkblFwYmt5bENTSjdyQl9hbm9UaEVubnNlSFJ6T0Q2UGpwMlAxNzdjRWNkaFlRaDRkbk9YVFJ1YXc3aEVlbXdfZGpfRnE2NkppXzJsQQ?oc=5",
-      "source": "벤처타임즈",
-      "summary": "2026 라플라스×ETRI 딥테크 투자포럼 9월 14일 개최  벤처타임즈",
+      "source": "vtimes.kr",
+      "summary": "2026 라플라스×ETRI 딥테크 투자포럼 9월 14일 개최  vtimes.kr",
+      "category": "스포츠 스타트업",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "진주시, 제3회 J-Startup 페스티벌 개최",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RTDVnNTVHZzVjRUIyWjlmdDBFMzUwc2xuWkEyZVB0MnFmOHZpYzNkRUh2N2FpVGQtVHR3N0x2ZjB0cHVDRlJLLVo1RTc5ZjQ4WTNwcUtaa1FrZw?oc=5",
+      "source": "경남신문",
+      "summary": "진주시, 제3회 J-Startup 페스티벌 개최  경남신문",
       "category": "스포츠 스타트업",
       "date": "2026-09-07"
     },
@@ -28,32 +36,72 @@
     {
       "title": "아우디, 中 SAIC와 '혁신기술센터' 설립…전용 전기차 브랜드 개발 현지화",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkc2MzOVZIQms2Mk5SWVJGOE1iOWplUHp0QV9YeXNhUEhncm1sRWtQYjNnUGNPSEd6QllpZFJZaUJfMEdwZ3lBa1JXWjRyNURRUkJRUWdoWllqTzdqTUE?oc=5",
-      "source": "theguru.co.kr",
-      "summary": "아우디, 中 SAIC와 '혁신기술센터' 설립…전용 전기차 브랜드 개발 현지화  theguru.co.kr",
+      "source": "더구루",
+      "summary": "아우디, 中 SAIC와 '혁신기술센터' 설립…전용 전기차 브랜드 개발 현지화  더구루",
       "category": "스포츠 기술",
       "date": "2026-09-07"
     },
     {
-      "title": "조립식 AI데이터센터 뜬다… “2년 걸릴 공사, 6개월이면 끝”",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QdFQ1anRpUkZTOEptSW1nSnJBUXpGR05QS1NGOU12YnFPNUJjZHNicHZwUXdQcUFZOHF1V3N1bm9lNE1sQzVUbmUxX2ljQmVpNk91UGZoZDl4dF92a0VZZmdpMDZ2NjNvVjZVLdIBbEFVX3lxTE9QdFQ1anRpUkZTOEptSW1nSnJBUXpGR05QS1NGOU12YnFPNUJjZHNicHZwUXdQcUFZOHF1V3N1bm9lNE1sQzVUbmUxX2ljQmVpNk91UGZoZDl4dF92a0VZZmdpMDZ2NjNvVjZVLQ?oc=5",
-      "source": "국민일보",
-      "summary": "조립식 AI데이터센터 뜬다… “2년 걸릴 공사, 6개월이면 끝”  국민일보",
-      "category": "스포츠 데이터",
+      "title": "전남 학생 6583명 구례 집결…스포츠·문화 어우러진 축제 열린다",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TMjdFTGx0NkZ4aTJBT0tKRmRMVjRjSS1UcTFaSTJnOE4xQ1ZZbFBkajFpd1hSYXVhZEFYeGU4Tkw0VHlPY1dWakoxZVRiOThQd19VVzkzcHLSAVhBVV95cUxOUzI3RUxsdDZGeGkyQU9LSkZkTFY0Y0ktVHExWkkyZzhOMUNWWWxQZGoxaXdYUmF1YWRBWHhlOE5MNFR5T2NXVmpKMWVUYjk4UHdfVVc5M3By?oc=5",
+      "source": "아주경제",
+      "summary": "전남 학생 6583명 구례 집결…스포츠·문화 어우러진 축제 열린다  아주경제",
+      "category": "스포츠 VR/AR",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "전남광주 학생들, 스포츠로 뛰고 문화로 함께 성장한다",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kRjZKY3VCTjlFUC0yRzhnY25LbWFha1B4MXV4Y1JiZzhhU1hqUlpCajVSVjJvV1UzN0hqRFl4WWVjVV9vMjZrQ2t0OVpOV0Z2TjNOekJsT2Z2am82a3BxUXpaRjBQSmQ5eGdTZA?oc=5",
+      "source": "광주in",
+      "summary": "전남광주 학생들, 스포츠로 뛰고 문화로 함께 성장한다  광주in",
+      "category": "스포츠 VR/AR",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "전남광주특별시교육청 '2026 전남 학생 스포츠문화축제' 개최",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85V09La3hNckFiUjhMeDdIN2x3cHF3NzJNc2dwLVliMllHdlFzQkJmbklUUEhiX2JrQlFkR1RQa3hYWTByNUlkYXFacmZLeDY4eVhER0E4ellPVHhha193ekV0UjnSAWRBVV95cUxPOVdPS2t4TXJBYlI4THg3SDdsd3BxdzcyTXNncC1ZYjJZR3ZRc0JCZm5JVFBIYl9ia0JRZEdUUGt4WFkwcjVJZGFxWnJmS3g2OHlYREdBOHpZT1R4YWtfd3pFdFI5?oc=5",
+      "source": "news1.kr",
+      "summary": "전남광주특별시교육청 '2026 전남 학생 스포츠문화축제' 개최  news1.kr",
+      "category": "스포츠 VR/AR",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "전남 학생 6583명, 구례서 스포츠·문화로 하나 된다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sQ1F6dTdNZ0lMcmk5NDBKYTVUZjdJeEJ3VEF5TDVPSXdwbWludy1lNTBCb3AyZHk0R2xQYXdPclgxSkh3WWFZVnZCMmktMUV1SzVra1h1c0lWVHpJNGlldNIBeEFVX3lxTE5DWTdlUmFmYTRVMVV3bWZpeUdPanRHc2p2aHBZbFExLVRNczk5SXZ1VHlTcWFwblg5OTNfV2VOM0V2OExkcldzRnpieGlSTXdrbHNfNlV4bkFOX0dEekQxTTNBTWktaGw1QW1rUzVNWlVzQzQ0OElnRQ?oc=5",
+      "source": "newsis.com",
+      "summary": "전남 학생 6583명, 구례서 스포츠·문화로 하나 된다  newsis.com",
+      "category": "스포츠 VR/AR",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "전남광주특별시교육청, ‘2026 전남 학생 스포츠문화축제’ 개최",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iTGZZdXBUYUQ5Skt2aERwNmtBSVZHTlVRTHZVU05HU3ZBa2NpTlptUk5GNFRqUDQ3S3k0UjM4aFBBeHJ5N01LRVRmTFpneXNEN3VpbFpWUnZCVmtHV3dyanpreUJZdw?oc=5",
+      "source": "kgdm.kr",
+      "summary": "전남광주특별시교육청, ‘2026 전남 학생 스포츠문화축제’ 개최  kgdm.kr",
+      "category": "스포츠 VR/AR",
       "date": "2026-09-07"
     },
     {
       "title": "전남광주통합교육청, '6583명 격돌'... 구례서 대규모 스포츠문화 축전 개최",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lYmFYN2JOMXVoVXNyVUV6UUdpZG5LZGVRZURKQUV0Qk1BcDBYQlhuNGRBeGRldThIMUhwcndiZVRrR1dlWWVsengwbnBNeEhtR2twM296N2pTdXladF9KQ25XNVR3X2hBRXc2aTB3RjPSAXRBVV95cUxOc0QyRTlHREFpT0c4ZlNRVl80REZJcWRXaGRJZ2xvdUxZTklGdUd1TW12QzFoMnkwTndEWW9ua3ZxS2szNVkwVjRiM0RFSHYzcjNISm1zTlFOamU5NW1kczZTa3M0NGg2MmRva0YxNHhlcnlnag?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zRDJFOUdEQWlPRzhmU1FWXzRERklxZFdoZElnbG91TFlOSUZ1R3VNbXZDMWgyeTBOd0RZb25rdnFLazM1WTBWNGIzREVIdjNyM0hKbXNOUU5qZTk1bWRzNlNrczQ0aDYyZG9rRjE0eGVyeWdq0gF0QVVfeXFMTnNEMkU5R0RBaU9HOGZTUVZfNERGSXFkV2hkSWdsb3VMWU5JRnVHdU1tdkMxaDJ5ME53RFlvbmt2cUtrMzVZMFY0YjNERUh2M3IzSEptc05RTmplOTVtZHM2U2tzNDRoNjJkb2tGMTR4ZXJ5Z2o?oc=5",
       "source": "뉴스워커",
       "summary": "전남광주통합교육청, '6583명 격돌'... 구례서 대규모 스포츠문화 축전 개최  뉴스워커",
       "category": "스포츠 VR/AR",
       "date": "2026-09-07"
     },
     {
-      "title": "전남광주특별시교육청 '2026 전남 학생 스포츠문화축제' 개최",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05TFdGQmgwZ2Y2cV9TaUpDZE5SY2NKcmZTWTRkQjZqUHFtZDhCb3pma0ZpRDcyekEyNnM5eVU0dUp6U21fb1h1STZRTjhKeUdWY2c0?oc=5",
-      "source": "네이트",
-      "summary": "전남광주특별시교육청 '2026 전남 학생 스포츠문화축제' 개최  네이트",
+      "title": "전남광주 학생 함께하는 스포츠문화 축제, 구례서 열린다",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwNlk1VU13M2pYeUxWaFZYM21fUGtvMDR6NnVKOWZiRXhWWUhvU1YwUW55MDFYcjQ3WU9LSWsxZ0Y1OGxQOVY2TzkxQUg0bXU5Z2c?oc=5",
+      "source": "유스연합",
+      "summary": "전남광주 학생 함께하는 스포츠문화 축제, 구례서 열린다  유스연합",
+      "category": "스포츠 VR/AR",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "6,583명 학생 참가…'2026 전남 학생 스포츠문화축제' 내년 9월 구례 개최",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyVHJTd0RpUlBaVm40c0RuM2swVlNZMm9BVzVkNTVZRkhGTnNKS2VXckhPWXVqemdKM21seWJ1bG13Mi00TldYdHhWSjg1VUZqcmhVQ1dfVWVhZjlZeER5NWp1THp5R3E4VDNfTDF3?oc=5",
+      "source": "gukjenews.com",
+      "summary": "6,583명 학생 참가…'2026 전남 학생 스포츠문화축제' 내년 9월 구례 개최  gukjenews.com",
       "category": "스포츠 VR/AR",
       "date": "2026-09-07"
     },
@@ -92,8 +140,8 @@
     {
       "title": "야구도 ‘똑똑하게’ 즐긴다…관람의 빈틈 채운 ‘AI 기술’",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jUGRjU0daT000WGhqOTZWc1FtQ09leC1tVklMU0FjdE8yMlhmcW8xT2JNWkpxQzZkQUdEQmU1MjRTV1Vrei1VT2p1bEttemdCcjVORw?oc=5",
-      "source": "JTBC",
-      "summary": "야구도 ‘똑똑하게’ 즐긴다…관람의 빈틈 채운 ‘AI 기술’  JTBC",
+      "source": "news.jtbc.co.kr",
+      "summary": "야구도 ‘똑똑하게’ 즐긴다…관람의 빈틈 채운 ‘AI 기술’  news.jtbc.co.kr",
       "category": "스포츠 기술",
       "date": "2026-09-06"
     },
@@ -126,6 +174,14 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWlJSNmtNS1hPRnU4elNFdE1NNm9vbDdPYm14Q1dCczN6S1k1a252bm5sMjdWdTRHWGhqTEZwZEFGUndUcGRHZWdFV19SaW9wNlVtS0RJc3BvcGlpUjNvSjdncHE0d2I1eWc?oc=5",
       "source": "Calgary Roughnecks",
       "summary": "스포츠 데이터 분석 대학원 전문가들이 알려주는 핵심 노하우 - 전문가의 관점에서  Calgary Roughnecks",
+      "category": "스포츠 데이터",
+      "date": "2026-09-06"
+    },
+    {
+      "title": "GPU 구형 되기 전에… “2년 걸릴 데이터센터, 6개월 만에 짓는다”",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcTdMSjVUV1hyRTBNN1g4SGhkYkMwZ2ZNUExINTNFeUc5NUE4Q19OMHB6Z3phcTBidlNMSkFIU3BQWE5iUmdZMm10bThMRE5NNllNRzdKaUhRaFlhUUtoR1VrTmtaWTVtNTN0dNIBbEFVX3lxTE1IcTdMSjVUV1hyRTBNN1g4SGhkYkMwZ2ZNUExINTNFeUc5NUE4Q19OMHB6Z3phcTBidlNMSkFIU3BQWE5iUmdZMm10bThMRE5NNllNRzdKaUhRaFlhUUtoR1VrTmtaWTVtNTN0dA?oc=5",
+      "source": "국민일보",
+      "summary": "GPU 구형 되기 전에… “2년 걸릴 데이터센터, 6개월 만에 짓는다”  국민일보",
       "category": "스포츠 데이터",
       "date": "2026-09-06"
     },
@@ -182,14 +238,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4NFd4dFBoV1FJOGwzdVZUYmpmb2RFNE1YMXdaam5QX0VVVloxXzlZdUxHbzRWczdlTFpocnBicVNDQ2lCM1BEQ2FhMUJtQ1d4YVdkTExLRU8yNG9qSWNUb0c1UWpLeE9uQWJYTG5WNNIBb0FVX3lxTFA4NFd4dFBoV1FJOGwzdVZUYmpmb2RFNE1YMXdaam5QX0VVVloxXzlZdUxHbzRWczdlTFpocnBicVNDQ2lCM1BEQ2FhMUJtQ1d4YVdkTExLRU8yNG9qSWNUb0c1UWpLeE9uQWJYTG5WNA?oc=5",
       "source": "머니투데이",
       "summary": "\"AI가 팬덤은 복제못해\"…스포츠에 뭉칫돈 넣는 美 VC·억만장자 - 머니투데이  머니투데이",
-      "category": "스포츠 스타트업",
-      "date": "2026-09-05"
-    },
-    {
-      "title": "룰렛 apk 포스트 코로나 시대 디자인 패턴: 핵심 개념과 실제 응용",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlRlJnZnJCZFlHM01FSW5qTUFKTENHdVVmR0ZrR2xjd013dkJxZ2tVR3BwbGZZRGlocUg3MHlRNDBkdTc4dUxYVjhpb05ncm9SX1BJQzg5STJnSFhrVjJqTHZoRm04d2Q5WVBjVFFaZw?oc=5",
-      "source": "Calgary Roughnecks",
-      "summary": "룰렛 apk 포스트 코로나 시대 디자인 패턴: 핵심 개념과 실제 응용  Calgary Roughnecks",
       "category": "스포츠 스타트업",
       "date": "2026-09-05"
     },
@@ -284,8 +332,8 @@
     {
       "title": "적자·정보유출·집단소송 '겹악재'… 티빙, KBO에 또 5년 '깜깜이 베팅'",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53OTkwNnM0dmt3dlE3NmNia3VBbWUzUHNDQnZzcTA0aUhkQTVnR2t2TXBxN0pWUGtLSURFVUJNN0VCeDdlbU9VbV9SUlROR0ZoYnd6b2dDMWllUllwUVRfT05Td3R2azNv0gFsQVVfeXFMT1duQjdIWlZnSWdVVktreUVuMzlqMjJ6dFZ1SmpMZU01WUUyWTVLRXFnWGZqSEFERExLRUFoTUQ1ZkRXYjJLRTRlYVVWSUVlV2VnU2drVGViTGtvV05EaFA4b2RiZWlpWC1uUlpq?oc=5",
-      "source": "필드뉴스",
-      "summary": "적자·정보유출·집단소송 '겹악재'… 티빙, KBO에 또 5년 '깜깜이 베팅'  필드뉴스",
+      "source": "fieldnews.kr",
+      "summary": "적자·정보유출·집단소송 '겹악재'… 티빙, KBO에 또 5년 '깜깜이 베팅'  fieldnews.kr",
       "category": "스포츠 중계권",
       "date": "2026-09-04"
     },
@@ -348,32 +396,24 @@
     {
       "title": "라플라스파트너스·ETRI, '딥테크 투자포럼' 개최",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45WXk0Yzh2Q3lUYVRpVklhYm1xT3d3YVZiVTFmeVBWam92MW1KX1NDZS12RUFscXdkRzh6RWtucUtuR2ZVQUVSa203d1JpTWhBVFllNXdVZG1NS0RKOXFqUzVBMmhzazYyRmc?oc=5",
-      "source": "junggi.co.kr",
-      "summary": "라플라스파트너스·ETRI, '딥테크 투자포럼' 개최  junggi.co.kr",
+      "source": "중기이코노미",
+      "summary": "라플라스파트너스·ETRI, '딥테크 투자포럼' 개최  중기이코노미",
       "category": "스포츠 스타트업",
       "date": "2026-09-04"
     },
     {
-      "title": "딥테크 스타트업 6곳, 라플라스 파트너스·ETRI 포럼서 투자 피칭",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BdTdSZkJJMURHZEtOUDIzNms0aEdiVm9qWG1YX3JhQjVEZTR3eTVMb1dRbU1XRUd1QzZ1WHFvbURlOWlXc3hUQg?oc=5",
-      "source": "플래텀(Platum)",
-      "summary": "딥테크 스타트업 6곳, 라플라스 파트너스·ETRI 포럼서 투자 피칭  플래텀(Platum)",
-      "category": "스포츠 스타트업",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "딥테크 유망주 6곳 한자리에...라플라스×ETRI 투자포럼 열린다",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GbkZ0cWQ5U2l6U3pjdWppUC1XWDU2a2l1azgzUS1ZaVNwOGdiR0syYXlSZ2I2d3Mxa3ZGeUk4MmhmeWF1eHpDb2dMMXhrUk1yUHNxd0NBamdBM2w5SlRPckluMF9wWjBpZ1BPVQ?oc=5",
-      "source": "econovill.com",
-      "summary": "딥테크 유망주 6곳 한자리에...라플라스×ETRI 투자포럼 열린다  econovill.com",
+      "title": "라플라스·ETRI, ‘2026 딥테크 투자포럼’ 이달 14일 개최",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pbTBNeDRHbVloTTRGMDY5WWZRSVhHZTRVVXpONFlyWVNOa3pkY3BMY3REcmdlOWhwcnVhb3dSWGNHdjhMVHEyTEl4LVpGNk9LV0JNZ2VB?oc=5",
+      "source": "지디넷코리아",
+      "summary": "라플라스·ETRI, ‘2026 딥테크 투자포럼’ 이달 14일 개최  지디넷코리아",
       "category": "스포츠 스타트업",
       "date": "2026-09-04"
     },
     {
       "title": "[2026 The CEO of Jeju National University Early-Stage Startup Package] S2E TECH, Revolutionizing Youth Sports with a Proprietary Data-Driven Growth Management Platform",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMcnZMblNpaVdodjNrODBHR0J1Q1A5YmJhZHVueklOY2I3QlUyN1BHTWs2ZWFBUGRYbEh1XzZfT2hfdWN5RGtfR1dQREd0em9aUk1xRjlBb3JZSnRFNUd4UGRBdlJZZzFNTVlv?oc=5",
-      "source": "magazine.hankyung.com",
-      "summary": "[2026 The CEO of Jeju National University Early-Stage Startup Package] S2E TECH, Revolutionizing Youth Sports with a Proprietary Data-Driven Growth Management Platform  magazine.hankyung.com",
+      "source": "한경매거진&북",
+      "summary": "[2026 The CEO of Jeju National University Early-Stage Startup Package] S2E TECH, Revolutionizing Youth Sports with a Proprietary Data-Driven Growth Management Platform  한경매거진&북",
       "category": "스포츠 스타트업",
       "date": "2026-09-04"
     },
@@ -412,33 +452,17 @@
     {
       "title": "제주대학교 2026년 초기창업패키지 선정기업 유소년 스포츠 데이터를 기반으로 성장관리를 제공하는 플랫폼 기업 에스2이테크",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiOFZuUzE3Wl9yREFoNUplajhKUkJuTEROdWlTY2JWMWhJZ2JLaVpOcVpTUWxORXd6M0JoQ05oRUd4d3UyOWMzbW9jbk4yUmUyWWU1bXlGM2d1d0Rwc0dNekVXVDlhZ2RmTlVj?oc=5",
-      "source": "magazine.hankyung.com",
-      "summary": "제주대학교 2026년 초기창업패키지 선정기업 유소년 스포츠 데이터를 기반으로 성장관리를 제공하는 플랫폼 기업 에스2이테크  magazine.hankyung.com",
+      "source": "한경매거진&북",
+      "summary": "제주대학교 2026년 초기창업패키지 선정기업 유소년 스포츠 데이터를 기반으로 성장관리를 제공하는 플랫폼 기업 에스2이테크  한경매거진&북",
       "category": "스포츠 데이터",
       "date": "2026-09-04"
     },
     {
       "title": "미래 체육 산업 선도하는 중부대, 수시모집 이렇게",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtM2VtaW94X05lOC0walJpRXRlZ2dLVGsyV1d2bTJKSi1PdlpJSDVzbVhXR1RrWlZ3TmFFQThXR3VlUFRnWVMxS0k5b1ZNMEtiNGtVZTBONExoMHQxSVpkUW9pYUdKY3lMZS16aWRia3NMdw?oc=5",
-      "source": "goodmorningcc.com",
-      "summary": "미래 체육 산업 선도하는 중부대, 수시모집 이렇게  goodmorningcc.com",
+      "source": "굿모닝충청",
+      "summary": "미래 체육 산업 선도하는 중부대, 수시모집 이렇게  굿모닝충청",
       "category": "스포츠 데이터",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "아동·청소년 정책 제안으로 살펴본 영주의 미래…5개 팀 본선서 아이디어 경쟁",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4ejU4VGlzTTc5YkJxTlpMQlA4SWNuSnAydjEtT2hMakNrZUhHV2tmWVE5WWRUOEFWMkVwS3IwZ1lJSFNKR2Y4?oc=5",
-      "source": "브레이크뉴스",
-      "summary": "아동·청소년 정책 제안으로 살펴본 영주의 미래…5개 팀 본선서 아이디어 경쟁  브레이크뉴스",
-      "category": "스포츠 VR/AR",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "바카라 파싱 알 을 위한 필수 정보 및 팁",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOX2RVSnU3T1k1dlo3cVllTmhybGY1bWpPemxwRE9qY1NqWkRzMUF0bGZVVWhFeUtjMS1jejM2RUtKZFFVVnVKcTRCVHNTTmhTT1hGeHhEU25Jcmk0OUhvZ2ROYk5JQ0hzbktsellNcjREY1RnVUp2NHVmb3lSdTBPd3YxQkVtaGtBZkRNVXpWcVMxbXhaTEtKVGF4VnFkMDNMOFlnMU1QNlZVcjZfVVZuQlpHc2tjZGg1MUJpNTdGcWNJbkh0dEZGbmtTM0hYMENLQjZ1YWRsb0RpdFBWb1FrTXFRMXdHWS1MaWFvTWNqaWpzU3BMQlFzc2pXeG5ValJHS05lZlFNUHZVcU16ODd3?oc=5",
-      "source": "Histoire pour tous",
-      "summary": "바카라 파싱 알 을 위한 필수 정보 및 팁  Histoire pour tous",
-      "category": "스포츠 VR/AR",
       "date": "2026-09-04"
     },
     {
@@ -452,8 +476,8 @@
     {
       "title": "씨엔티테크 2026년 스포츠 창업도약센터 참여기업 AI 기반 필라테스 스마트코칭 앱 개발하는 기업 브이랩코퍼레이션",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZU2NhQ2tvNTUtZTVnejl2bDczOVpQdkR0NzlCX1FvRFhHNlhXUTMyYVJuZ20tMFJSems5Nk9sX2FjTEp6QTh3X3VMWGxEN3BxYnVIb2xuOTZkZHNkeGdXWlVPYnBVNkpRXzQ0?oc=5",
-      "source": "magazine.hankyung.com",
-      "summary": "씨엔티테크 2026년 스포츠 창업도약센터 참여기업 AI 기반 필라테스 스마트코칭 앱 개발하는 기업 브이랩코퍼레이션  magazine.hankyung.com",
+      "source": "한경매거진&북",
+      "summary": "씨엔티테크 2026년 스포츠 창업도약센터 참여기업 AI 기반 필라테스 스마트코칭 앱 개발하는 기업 브이랩코퍼레이션  한경매거진&북",
       "category": "스포츠 스타트업",
       "date": "2026-09-03"
     },
@@ -484,16 +508,16 @@
     {
       "title": "인천대·두산에너빌리티, ‘원자력 설계기술 공동연구’로 산학협력 새판 짠다",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BMGxJU3JQX3M1VW40UHNIdEtKajRMMUJNZXlIY1hhbUlyYTd1Qy10UXlsOHkzbEZZRG0tQ3JkTnViOHdXczFrdVB6RU52QUUzTFVnajBSUlJIMlNNRS1ydkN0c2wxeG9vRUMtbjBQT3lvQQ?oc=5",
-      "source": "스포츠동아",
-      "summary": "인천대·두산에너빌리티, ‘원자력 설계기술 공동연구’로 산학협력 새판 짠다  스포츠동아",
+      "source": "sports.donga.com",
+      "summary": "인천대·두산에너빌리티, ‘원자력 설계기술 공동연구’로 산학협력 새판 짠다  sports.donga.com",
       "category": "스포츠 기술",
       "date": "2026-09-03"
     },
     {
       "title": "BTS, Risenne, and Lim Young-woong",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13VVctQ3UwVDJYeTBtaHlXNGR5alBXN3VHSXFBcmo0YkRwanVzU0txZ3BxM1AwTEk3MWNJa2lFdjEtTkZkTDhPMFRRLThQZG9Yb1dFV1hWMG9WbVZzcVlwbWhn?oc=5",
-      "source": "스포츠경향",
-      "summary": "BTS, Risenne, and Lim Young-woong  스포츠경향",
+      "source": "sports.khan.co.kr",
+      "summary": "BTS, Risenne, and Lim Young-woong  sports.khan.co.kr",
       "category": "스포츠 데이터",
       "date": "2026-09-03"
     },
@@ -516,8 +540,8 @@
     {
       "title": "[주목 스포츠 메이커스] ‘다시 시작하는 아이들’…야구에 멘탈을 더하다",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80eG9uN09PU3dqazdMQzdPSS16NHNwUEpDb1JISnlXTXlzc2lKUUNZZi1JUUFNemdLZEpUSnVudkozSE9pYzdMQkpCNHlfS0JEQnRyZWNIMnQ3djEtbmY3aFUxZEFRSnhXT2JPM2UtUlJuZw?oc=5",
-      "source": "goodmorningcc.com",
-      "summary": "[주목 스포츠 메이커스] ‘다시 시작하는 아이들’…야구에 멘탈을 더하다  goodmorningcc.com",
+      "source": "굿모닝충청",
+      "summary": "[주목 스포츠 메이커스] ‘다시 시작하는 아이들’…야구에 멘탈을 더하다  굿모닝충청",
       "category": "스포츠 기술",
       "date": "2026-09-02"
     },
@@ -540,16 +564,16 @@
     {
       "title": "NC강서점, 가을 맞아 매장 새단장… 생활부터 스포츠·향까지 콘텐츠 확대",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2bWVBOWM3bFpYNEhQOHA5ckZDN3p4UWVJb2dEMXVNcmx0alo0X1IyVUhEMndjVWcwamZMeUhjNm05TGtlUW5RS0dESWdMWFQyUTJqNlZiYjZLQkdfVXNNOE9zZ28zWDhZM3pDa0dPUE0?oc=5",
-      "source": "Korea IT Times",
-      "summary": "NC강서점, 가을 맞아 매장 새단장… 생활부터 스포츠·향까지 콘텐츠 확대  Korea IT Times",
+      "source": "koreaittimes.com",
+      "summary": "NC강서점, 가을 맞아 매장 새단장… 생활부터 스포츠·향까지 콘텐츠 확대  koreaittimes.com",
       "category": "스포츠 기술",
       "date": "2026-09-02"
     },
     {
       "title": "한양대 ERICA, 中 우한스포츠대 교수진 초청 스포츠과학 연수 성료",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyR05zeGFhb0tGSmR6bjgxQUltb096OUgycElYVjBjN0FXQl9mcXJLdHlHQ3NYMlg1UVJNcnd1NE45cExMZGxUNjRITUhWRGVtQ1NwdWxYNlphNTVUVUxfSExn?oc=5",
-      "source": "kgnews.co.kr",
-      "summary": "한양대 ERICA, 中 우한스포츠대 교수진 초청 스포츠과학 연수 성료  kgnews.co.kr",
+      "source": "경기신문",
+      "summary": "한양대 ERICA, 中 우한스포츠대 교수진 초청 스포츠과학 연수 성료  경기신문",
       "category": "스포츠 데이터",
       "date": "2026-09-02"
     },
@@ -564,8 +588,8 @@
     {
       "title": "글로벌 OTT ‘아이콘드룹’ K-POP 스타 총출동에 ‘한동철’ 잡아라",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xTHFQU0ZKVnV6OGg1MDFkaXlLRFZJVVdrVWJaWlB6cDZZOE8xMmg1aHNZYW9BX3lBXzVDR3Z5cnZRZ2tWLW1UMjNJRFY0cnZFc1pabllEN1JWbkkwUWfSAWNBVV95cUxNaDJNaUVFajVSSmsyWkhGTWlnRUp1ODJWOWd2X191MU5jTkxwUmFZcF9UdmRWODJHclQ0ajBlZVc0eUczV1JQTnhJc1A3bGFzRDE3SUFobmoyTzEtckMtZS1MRDg?oc=5",
-      "source": "스포츠경향",
-      "summary": "글로벌 OTT ‘아이콘드룹’ K-POP 스타 총출동에 ‘한동철’ 잡아라  스포츠경향",
+      "source": "sports.khan.co.kr",
+      "summary": "글로벌 OTT ‘아이콘드룹’ K-POP 스타 총출동에 ‘한동철’ 잡아라  sports.khan.co.kr",
       "category": "스포츠 OTT",
       "date": "2026-09-01"
     },
@@ -591,22 +615,6 @@
       "source": "스마트경제",
       "summary": "“일본 스포츠 빅데이터 쥐락펴락”… 상명대, 글로벌 스포츠ICT ‘신세계’ 연다  스마트경제",
       "category": "스포츠 데이터",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "속초 교통안전체험관, VR·AR 입은 '생활안전체험관' 탈바꿈",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Fbi1zc3o0bmRhNjZpNUNGbXA2bHVjZnBqV3BnRldsNDBlTUFzSTRkUXBvME1xUGdQNi1JZ3ExRktScFRmX1RLbUdsWWRkeFQ4SkxkbNIBWkFVX3lxTE5kcUJiOXFUZ0YyWDh5dHhvUHVMVEZIRUk3ZzhQNEI5clhrbFRlV0ZiUi1FWUh5ZTdEVXRHalcyb1pZR3dtUGNGaS1UUkNfVGp3ZW0tWi1aNFoxZw?oc=5",
-      "source": "뉴스1",
-      "summary": "속초 교통안전체험관, VR·AR 입은 '생활안전체험관' 탈바꿈  뉴스1",
-      "category": "스포츠 VR/AR",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "쿠키뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1leGJIU21ZVWN4SkgtaVRoakhfZEo4dERPM09hcU9tZGduaUdoUm5YOHlrckk1UHBTcEV0UXhNLVRkM3JYdFVxc0RpaWIwTFBIZEZtYWpMSVJ0N1BXSHRTVTFFMzk?oc=5",
-      "source": "쿠키뉴스",
-      "summary": "",
-      "category": "스포츠 VR/AR",
       "date": "2026-09-01"
     },
     {
@@ -636,8 +644,8 @@
     {
       "title": "“AI 기술에 사람 중심 케어를 더하다”… 두원공대 혁신지원사업, 전공 넘나드는 차세대 교육혁신",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Kal8tdXJXMDZ2OWxnbTlVS3BVbWVWN1VQNlRjRjMzbEdXaGk1OHRKX0ZWRkZ3SUF5RlN4Xy16cnZyZmpEbUtpQU1Ca1ZnT00xUGNONlI1Sk9rM2VBVXfSAWNBVV95cUxNQVNCOHkyU3gtb2s5bU5Sc2xiaWktYldnX2Rqc2FCVzVWTzZYcnhJOC1WemNSenBDNVZhcXZ6bkdxVlBhVXR4X0VOWVpSWDZBMjlhZk8zeXN6cDk1Q2MyWkRibm8?oc=5",
-      "source": "스포츠경향",
-      "summary": "“AI 기술에 사람 중심 케어를 더하다”… 두원공대 혁신지원사업, 전공 넘나드는 차세대 교육혁신  스포츠경향",
+      "source": "sports.khan.co.kr",
+      "summary": "“AI 기술에 사람 중심 케어를 더하다”… 두원공대 혁신지원사업, 전공 넘나드는 차세대 교육혁신  sports.khan.co.kr",
       "category": "스포츠 기술",
       "date": "2026-08-31"
     }
