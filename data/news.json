@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-26 01:16 (KST)",
+  "updated_at": "2026-09-26 05:57 (KST)",
   "articles": [
+    {
+      "title": "용인 '가상현실 스포츠 체험센터'...2년 만에 이용객 1만 명",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tcWxfTVQxY19DbFZQbTVLc19CMUwxMW5LUVFKbkFJWFNsdFBILXpHZzdLMDFJaVhQNmtTX1pzeDUwSVRpZXFnaDg1TUJ1OFdkdEl5M3FjUmtZWTZjWnc?oc=5",
+      "source": "YTN",
+      "summary": "용인 '가상현실 스포츠 체험센터'...2년 만에 이용객 1만 명  YTN",
+      "category": "스포츠 기술",
+      "date": "2026-09-26"
+    },
     {
       "title": "[대 야망의 붕괴!]중앙일보 그룹의 파산 “최고로 성공 했을 때 최고로 위험했다!”",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE03SzZKOGRKcUhCZWJaZXhBRmozS1N3Q2JFS3FGYWVfRGZxZk9vUlZhS2U2dWtuSHNEcVNCbzgtTnBKUQ?oc=5",
@@ -84,8 +92,8 @@
     {
       "title": "충남콘텐츠진흥원, 스타트업 투자유치 ‘파이널 데모데이’ 성료",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4QlpBVmRJSjEzZk80bVpnSUFNbFB3ZW12Wlk3Z1hjdUxzbEhqSkx1Q1ctcU1qbmp4ejdWTUQ4cUVFeGU3VExQSHJHUUlhaTVlci1DWU5rcnhRenk3Z2YteElIMTZJYy1vWmxycjJISdIBckFVX3lxTE9tUUZxNENIamlNVjF1eWVtNTAwWUhPM2NMeTJ3R0psdHdXRG1SMU9DX2xtaWU5VkhhLUhaTHBRY1E1Z0VES0k2ZTAtZ0xwYTVDWDVmQWl4cXRsbnpiMzVhSXl4TUZCNmVXOTY1YkxwSllWQQ?oc=5",
-      "source": "newsiesports.com",
-      "summary": "충남콘텐츠진흥원, 스타트업 투자유치 ‘파이널 데모데이’ 성료  newsiesports.com",
+      "source": "뉴스아이이에스",
+      "summary": "충남콘텐츠진흥원, 스타트업 투자유치 ‘파이널 데모데이’ 성료  뉴스아이이에스",
       "category": "스포츠 스타트업",
       "date": "2026-09-24"
     },
@@ -98,11 +106,11 @@
       "date": "2026-09-24"
     },
     {
-      "title": "화려한 효과와 실제 결과 표시, 스포츠 데이터 분석 대학원 구분하기",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOHN5QlU0cmJQMERPUHJUNWZaaVh5SjI1bGNxUXg5WnN3enVIWnpScUlsQW15dWVsNGtEZUd3T2tjSjBWcS12Wmp6RXdoNHRDWUhESDlUaGs3a0tmQ0c5V0s3Vk1MRk5xMWtYUkltOTktMHEySmU5MmNnNHdSbmlMTTJkY1hFSmVKRHZfZ2RwTGluSDhDRE8yZHk4OU9sMnI3VmNxRlFrQVF4dnR6dzltN0lIRXAxc21qY3gxZDdJWjdvZ2lLQ3ZBY1BucjhnVDJ2VHBGd1NxMHJQWDhhX3NDRjFlQS15Zw?oc=5",
-      "source": "Calgary Roughnecks",
-      "summary": "화려한 효과와 실제 결과 표시, 스포츠 데이터 분석 대학원 구분하기  Calgary Roughnecks",
-      "category": "스포츠 데이터",
+      "title": "맥라렌, 도약을 위해 진화한 새로운 브랜드 아이덴티티 공개",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16ZHJpdVF4SDR4WGxuTlF4UWxHWjFoWXpfaTd6VGhSTmVVTVJVQmw0OXIyRkt6UGFvRXhFVTNJSl84aHNZdmpFUU81R2RISXF0M1pkTno2eWw3Q1k3Tk15cjRpRkNkS2ZFU044ZQ?oc=5",
+      "source": "모터그래프",
+      "summary": "맥라렌, 도약을 위해 진화한 새로운 브랜드 아이덴티티 공개  모터그래프",
+      "category": "스포츠 기술",
       "date": "2026-09-24"
     },
     {
@@ -110,6 +118,14 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MbHVSbXRNWE50Y0hjbnpHeFhaTjBDYkJ4VzRvaDRLOXc1M2lHaE9VeFFvbGJTdDVkSlhuZ2xWMFY5U3k3TWhleWlCcGlUMVFNd3U3dnJ3?oc=5",
       "source": "중앙일보",
       "summary": "‘자이언트 킬러’ 브라이턴… 막후에 데이터 전문가 구단주  중앙일보",
+      "category": "스포츠 데이터",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "화려한 효과와 실제 결과 표시, 스포츠 데이터 분석 대학원 구분하기",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOHN5QlU0cmJQMERPUHJUNWZaaVh5SjI1bGNxUXg5WnN3enVIWnpScUlsQW15dWVsNGtEZUd3T2tjSjBWcS12Wmp6RXdoNHRDWUhESDlUaGs3a0tmQ0c5V0s3Vk1MRk5xMWtYUkltOTktMHEySmU5MmNnNHdSbmlMTTJkY1hFSmVKRHZfZ2RwTGluSDhDRE8yZHk4OU9sMnI3VmNxRlFrQVF4dnR6dzltN0lIRXAxc21qY3gxZDdJWjdvZ2lLQ3ZBY1BucjhnVDJ2VHBGd1NxMHJQWDhhX3NDRjFlQS15Zw?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "화려한 효과와 실제 결과 표시, 스포츠 데이터 분석 대학원 구분하기  Calgary Roughnecks",
       "category": "스포츠 데이터",
       "date": "2026-09-24"
     },
@@ -234,6 +250,14 @@
       "date": "2026-09-23"
     },
     {
+      "title": "언어를 바꾸면 달라지는 스포츠 데이터 분석 대학원 메뉴 표현",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNmw2Yk1OZDh5c2ZlTHQ0dmx3a0R2cjBoMllDVEROYk9pdmNDR0g4QnRUZVBiTl8zZ3RrWnl1d1NveGR2ZVF6VkNCWUJjNUcyLUV4OUdkN0NZc2NUSldhazY3anB4N2c1Zkx1UThXYzNRZXBKZ0RGVHZGSm1zNGY1MUJ0eUVPZi1KSzQtbTdzamJsdm1vMVRiQ1M4aXRWeTRzelN5ZzNXRkJHQXNEaU9FV0lZcG5oUGt4OExwNkY0aG9fTUZUVDRuOXNieUhuMjVCcHFuQ2xTZzdyV19DUDNkRnNOWWtKZ1czckRWZFlJMFhlclo2dHFHRDZUU2E3U2hwVVp6ZG01NmY?oc=5",
+      "source": "Histoire pour tous",
+      "summary": "언어를 바꾸면 달라지는 스포츠 데이터 분석 대학원 메뉴 표현  Histoire pour tous",
+      "category": "스포츠 데이터",
+      "date": "2026-09-23"
+    },
+    {
       "title": "[서평]흩어진 스포츠기록 구조적 단절, AI 보완 어떨까...대범한 제안 - 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LRWVKckNtcGozYi1ucUhPWDdnX1ZhU0xQdXJnTmpfRWZjQm84UWVCV3JzN1BYeFpscE9hNHBoV1RVNHNsbWxCRmQybmF0YXFOWHVuczNHdlYyYjlJWWVGRmNHMV9LLVlhaW1McmV1R1BIc1FMUWg5UtIBfkFVX3lxTE0xOGY0cDFONkZmMXNiN3RVMjFJY2tId0pPcnVYckRmMnpvb09YYlFJLUIwUHhHTEk3Um5ZeWo5UDVfaHd3UjlpVlFNV3c5aTkxc1RNVk1IUW9vRV9WR1NCcFNSdFYxUUFLZnM3Q0tramtzTzBmMms0WEIxNXhJUQ?oc=5",
       "source": "머니투데이",
@@ -258,14 +282,6 @@
       "date": "2026-09-23"
     },
     {
-      "title": "언어를 바꾸면 달라지는 스포츠 데이터 분석 대학원 메뉴 표현",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNmw2Yk1OZDh5c2ZlTHQ0dmx3a0R2cjBoMllDVEROYk9pdmNDR0g4QnRUZVBiTl8zZ3RrWnl1d1NveGR2ZVF6VkNCWUJjNUcyLUV4OUdkN0NZc2NUSldhazY3anB4N2c1Zkx1UThXYzNRZXBKZ0RGVHZGSm1zNGY1MUJ0eUVPZi1KSzQtbTdzamJsdm1vMVRiQ1M4aXRWeTRzelN5ZzNXRkJHQXNEaU9FV0lZcG5oUGt4OExwNkY0aG9fTUZUVDRuOXNieUhuMjVCcHFuQ2xTZzdyV19DUDNkRnNOWWtKZ1czckRWZFlJMFhlclo2dHFHRDZUU2E3U2hwVVp6ZG01NmY?oc=5",
-      "source": "Histoire pour tous",
-      "summary": "언어를 바꾸면 달라지는 스포츠 데이터 분석 대학원 메뉴 표현  Histoire pour tous",
-      "category": "스포츠 데이터",
-      "date": "2026-09-23"
-    },
-    {
       "title": "PC 브라우저에서 확인하는 스포츠 빅데이터 분석가 실행 정보",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ybjl5SEpwOWxSUGNLVXo3TUQxeWttbFotUnZnUFFsWW1rbUhXSEtUcGZ4eldXN2VCMWhlNVk2LTBxX0RqVENOc1pkcUtVa0lCSjBVVFh0OXBkVnptdnNXd2t6bWs4a2s?oc=5",
       "source": "Histoire pour tous",
@@ -278,6 +294,14 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fN2RjRWNHanpsRkxvaU5ka1lqZ2RFT2RONVI0QjQxUW9zOFZIaXk5emhXaml4S204SFhQVmxjY2t2SlA4VjhDd3JSUFhGZVFWUTBGY1g5YnZ0a29udTJ6WDN5QdIBY0FVX3lxTE5fN2RjRWNHanpsRkxvaU5ka1lqZ2RFT2RONVI0QjQxUW9zOFZIaXk5emhXaml4S204SFhQVmxjY2t2SlA4VjhDd3JSUFhGZVFWUTBGY1g5YnZ0a29udTJ6WDN5QQ?oc=5",
       "source": "스포츠경향",
       "summary": "뱅크샐러드 데이터 기반 카드 추천···평균 105만원 혜택 받는다  스포츠경향",
+      "category": "스포츠 데이터",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "교육부·한국교육개발원, 수업에서 스포츠 경험으로 「데이터로 읽는 우리 교육」 제14호 발간",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wc3FUWXpWZ01KX0JlMU8zTTRHLVU4aXJKR1NWNHhpM0VBSUkycmFHOVo4bGZSVEpPcW9CY082Wl83ZDlscllKdnBtbjM0M1pRbmxrNU5tdGIzOVI0c096VEJsODc4dXk1cmlSSDg2aWw?oc=5",
+      "source": "한국강사신문",
+      "summary": "교육부·한국교육개발원, 수업에서 스포츠 경험으로 「데이터로 읽는 우리 교육」 제14호 발간  한국강사신문",
       "category": "스포츠 데이터",
       "date": "2026-09-23"
     },
@@ -404,8 +428,8 @@
     {
       "title": "사이언스타임즈/사용자메뉴/과학문화/사타가 간다",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFpackVkNVF3bEFmLTY2OEIyOWxRWmVVYzMtZkRSaXhwLU8xWW5BWDhOT1NRU1VaalFMTzFGOENlamgzMTdwM3hLaWw3WlkySlpaTE9wNVNzSEZURzJoUTR5cEFQcFdKWldBb1RtdmJTc1ktSWZ5WVFKRHFxbG1WWnFPcWtGN0p4Skh2M3RxSXlnaGQ3VG9TTVE3cUN3aXY4NlU4M19FendUT19acks4d3E2TDVtU2FtZEZKVHBsZnFpYms?oc=5",
-      "source": "sciencetimes.co.kr",
-      "summary": "사이언스타임즈/사용자메뉴/과학문화/사타가 간다  sciencetimes.co.kr",
+      "source": "사이언스타임즈",
+      "summary": "사이언스타임즈/사용자메뉴/과학문화/사타가 간다  사이언스타임즈",
       "category": "스포츠 기술",
       "date": "2026-09-22"
     },
@@ -430,7 +454,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FLUE0eEhsbnk0NjBTVlNrNndNal93LWI5ZzQzaTJadkhuQ3Rkb3pGZ01wclJOMWxaRWs5U2RLaVZOU1d1MC1QeWQzUFlPX2hCRkhUZVZXVW1jZw?oc=5",
       "source": "한국경제",
       "summary": "[신간] \"기록이 공정을 증명한다\"…'스포츠 AX 대전환'  한국경제",
-      "category": "스포츠 기술",
+      "category": "스포츠 데이터",
       "date": "2026-09-22"
     },
     {
@@ -460,8 +484,8 @@
     {
       "title": "리그1 중계권 수사…PSG 회장 알켈라이피, 이해충돌 의혹 직면",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4MEdpTlFPaXRZTS11SXVsc3JFZWhuVVpYMzZ3OWlrY25OeEwwZ0lSNnFhWW0xZENQWTNZNFNtMDd3S2FsVFMzeThnTWQwR3JCMlNjM3VsYUZ6ZmkxSXpnUGtkRXhsZk1wZGlSdUJMc3hHdw?oc=5",
-      "source": "topstarnews.net",
-      "summary": "리그1 중계권 수사…PSG 회장 알켈라이피, 이해충돌 의혹 직면  topstarnews.net",
+      "source": "톱스타뉴스",
+      "summary": "리그1 중계권 수사…PSG 회장 알켈라이피, 이해충돌 의혹 직면  톱스타뉴스",
       "category": "스포츠 중계권",
       "date": "2026-09-21"
     },
@@ -516,16 +540,16 @@
     {
       "title": "“무료로 받은 카드가 620만 원”…‘한 장의 잭팟’ 트레이딩 카드 재테크 열풍",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NN0FxLUtYTWtqU25UcElqX245MHh2WE5QVlRkajEzVHVmbUdCd2NtWTZaZ2pHTzdrYUJydVhfaVBQdGVDMUptR1dCWEFyUTl2Wi1ENVZ2T29ueXdtdXFUdUdsaW9TTGlGejMzdjZLeXBQNzl6VmJxMA?oc=5",
-      "source": "busan.com",
-      "summary": "“무료로 받은 카드가 620만 원”…‘한 장의 잭팟’ 트레이딩 카드 재테크 열풍  busan.com",
+      "source": "부산일보",
+      "summary": "“무료로 받은 카드가 620만 원”…‘한 장의 잭팟’ 트레이딩 카드 재테크 열풍  부산일보",
       "category": "스포츠 데이터",
       "date": "2026-09-21"
     },
     {
       "title": "성승민의 ‘첫 금메달’ 순간, 왜 TV 중계 안 됐나? [아하 아시안게임]",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByenB3Z3dmYVMyZXNId0RLQ1lmcFNQTzNWZnl0WDI0VFd5d1RFLTNwaFIySHN3NHFCMERwNWdDY3hfdkgtZm5HMlYzSERwUFRuX3dMdlV1VFo2SXlwVDBqdWl5VXh0NjFUVlVWTkZOU2hLZ0tTSFJz?oc=5",
-      "source": "hani.co.kr",
-      "summary": "성승민의 ‘첫 금메달’ 순간, 왜 TV 중계 안 됐나? [아하 아시안게임]  hani.co.kr",
+      "source": "한겨레",
+      "summary": "성승민의 ‘첫 금메달’ 순간, 왜 TV 중계 안 됐나? [아하 아시안게임]  한겨레",
       "category": "스포츠 중계권",
       "date": "2026-09-20"
     },
@@ -572,16 +596,16 @@
     {
       "title": "KOREA 포르노 텔레그램",
       "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPcFhRQ1h2Z3hFWkFhTU5iQko1dWdHQzZHdVhleEFXY21FeGVpZWc1QVAwWjJBZDJiSTByLVhDN01GdjREVmVQUGhkWTBNM04zeVh6bVl6UzQ0ZTktQnFCcHpuWmx3TVZHWk9EOHl0b2tRTGhzekhEOHBGWWNjdWRsRVRJc1NUY05oOVRybUdKbGxSNVFSc3V2NG80Und4SEJ6M0NUMGFZR3pWOWh0Q2thZGJhOXVJdDBBSGVPcDFtX3hHcllXZXBhX1N5dnZwY3h6M01xRWk3MHJJUlh0aXJ5bnI4X3U2Z0FIOTJVU0F5dlZZUFd4bEZOT2xrUXRqSDdTVE5jS3l0T191QzZzZkRrRjRrbnRHRVh4a294MDJPa2s1SzlDUnFZazhmUGNtUVlGblQ5eGRlSFgtSjJXMXBQMFQzcVc4Yk5wVFdCM3VNMHBvQU8xdmc?oc=5",
-      "source": "jcyl.es",
-      "summary": "KOREA 포르노 텔레그램  jcyl.es",
+      "source": "Junta de Castilla y León",
+      "summary": "KOREA 포르노 텔레그램  Junta de Castilla y León",
       "category": "스포츠 데이터",
       "date": "2026-09-20"
     },
     {
       "title": "국산야동 대학생 2026 - 한국 여친 애널 Full HD 무수정",
       "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNU01WOXFfazFuQXpoNGFIa082eXNDZ2pyb05Ed3h4T1QyQnE0Q1ZOYkRVYjkycDdFelE3LUFvVFA0UTA2MDZYTmVZcHIwNmhSQ1FSOWd6YkdZOWhKVnVWaDFqd21vUDJwcnlfVDE2b0ZWbEYxU2FENTF5ZEo0b1FpbDBiNm51b3piYUNXenVZcWZlZ2NZc0lUaENWaDFGYThVYVgzalFiNnV2cWRfNjBDbEUtS19rZmVyZmIwdEJVUlE2YVhiQ2h3MVNoOFdGQTVvX1pReGwyX1pxZjZTaWlETW9HRm9hQzRvWk9Xak92cFY3T2MxOEZ6SEZKT19wZFJBa3k4UkNuczZDakFtUGlSc3dCZEZ3ZE1fMW9HeFUwUFJ3M2RUN3ZqSDJGVVkwSFZhNW0zS3JUT0xUZUZOMmkxSlBSSUpZLXBESW96RFVJNUQ4WUNpSUQ1RW1OdENXd2VNTVlybllFa0w5VUFVOFE?oc=5",
-      "source": "jcyl.es",
-      "summary": "국산야동 대학생 2026 - 한국 여친 애널 Full HD 무수정  jcyl.es",
+      "source": "Junta de Castilla y León",
+      "summary": "국산야동 대학생 2026 - 한국 여친 애널 Full HD 무수정  Junta de Castilla y León",
       "category": "스포츠 데이터",
       "date": "2026-09-20"
     },
@@ -618,30 +642,6 @@
       "date": "2026-09-19"
     },
     {
-      "title": "베스트웨이 껀터 스포츠 기술 공장 프로젝트가 효과적으로 운영될 수 있도록 모든 유리한 조건을 조성하십시오.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjE0cmxYSGJzRV91YzVyZTVvcXIzUEdjRXBfV29PQzBCMUJySTVwTVZTVFhaOFY4S0xiOWZ0ZmFQR1gzV01NSUs5M2ZkeW1Yb2RKZ2E5ZVZvRVNQSHRjWnZkeTMwdE9BQVpDR0JGVG95YWY0VWRPNnlCQTRyZ056ZlhjZzhnQnFBSWExaGFjd1VubElNc28waWJKQWdaNW1vcllfbWxIWXBRR0gtVEZjM0plZFQwM3lydklaSUQwMzhfdw?oc=5",
-      "source": "Vietnam.vn",
-      "summary": "베스트웨이 껀터 스포츠 기술 공장 프로젝트가 효과적으로 운영될 수 있도록 모든 유리한 조건을 조성하십시오.  Vietnam.vn",
-      "category": "스포츠 기술",
-      "date": "2026-09-19"
-    },
-    {
-      "title": "기능 소개를 읽기 전에 알아둘 스포츠 데이터 분석가 하는일 조건 표현",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGX3d6a1JKS2JOUDBQd2tFQVVaUFVfSXk0M3JibGhEbU9ueDRzeWoyMHFFSkJ4Mk9zcjFROV9tQzk1blJscVkxVm11MnBfaUdPc3UtYXI5VGdmWFBTMmZGYVkyM0hoZHhHc0RFVk5uTDV5dTRKcTAzMDlrUEJ0aTQ?oc=5",
-      "source": "Histoire pour tous",
-      "summary": "기능 소개를 읽기 전에 알아둘 스포츠 데이터 분석가 하는일 조건 표현  Histoire pour tous",
-      "category": "스포츠 데이터",
-      "date": "2026-09-19"
-    },
-    {
-      "title": "게임 내 설명서를 읽는 스포츠 데이터 분석 채용 초보자 코스",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHpkRDNYN01lSkVpX3hCNldFeUFmcEFrZGFXVGxJakx4X01oRjZ4dU1YbWxZSW9scEJYMDNDTkRFek5tQW1DZ1djZ0R1b0syUTZ2dll1MnNTOVg5QXg0SUY1WnZjMEE3bGE4MEVGWWNYMm1yM0lUdTFCM2hlVXd1d0VMbU81UnotZVN5ZlRsZjU2M0J5Q1BjelAwSDE1Q1AxY2VlWlBLMlJRLTVORnQxclo2NjFsT1lCVGFUNkpSTkZqS29XeHMyYTB3MjRRbDktV2QtQ09VOXR1ZVREWmFIQnI5VXNNSlMtcE1XYQ?oc=5",
-      "source": "Calgary Roughnecks",
-      "summary": "게임 내 설명서를 읽는 스포츠 데이터 분석 채용 초보자 코스  Calgary Roughnecks",
-      "category": "스포츠 데이터",
-      "date": "2026-09-19"
-    },
-    {
       "title": "스포츠 데이터 분석 사례 효과음과 배경음 설정",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbjdZOTJSZW8tNU1ZRXg3YkJnRE9ZYTMzTTBFdG9xVGVtT0ZwQWlsSjJyQlhaanVyM1hrYjdMNE5TeE5UdkJCSDdEY2hDNGNsZWRiUlY4bUtHdU5kQ0EyNnAzdi14QmdacEtPUFFWYVlWVUpOd0JqRC1nZmt3Nm5ITEVZVl9QM3pHbU9ISWNwZC1BZ2lKWWhvaENGVG9wX2pkWVcxb3RjcUFsOHk1ODJlVVBfTUIxVUFoQ3Q0OXZfVjBSbFJicGZ5dUZDVzAwZW96Mngzc0FybFU0R3B5MjBzX2QydEhUZWVUekRjMHpHMWVQVGFnWXNCYlRRaW5ubHhlWFNMNEQxZktodw?oc=5",
       "source": "Histoire pour tous",
@@ -660,8 +660,8 @@
     {
       "title": "전남 학생 6,583명 스포츠로 하나…전남 단독 마지막 대회",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsbHJVYlFIUXFYYTNmOVdFMXExU2I0TTNJWFBpZlpxby1ibVJtNjgxRTBXSzE2Q1ZhNFk4c0lpa0VfeXJxV2E3ampZOGpLbHdCQWpmMVVTVWZmSWZXS2tIV2VlZE93N1NjaVIzXw?oc=5",
-      "source": "ihopenews.com",
-      "summary": "전남 학생 6,583명 스포츠로 하나…전남 단독 마지막 대회  ihopenews.com",
+      "source": "호남교육신문",
+      "summary": "전남 학생 6,583명 스포츠로 하나…전남 단독 마지막 대회  호남교육신문",
       "category": "스포츠 VR/AR",
       "date": "2026-09-19"
     },
@@ -670,14 +670,6 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnTlRQYXI0U3NGUzJkNFcyY0dTaE40Uy0xWkUyc3FFal9BUHY5ZzFTWEFZai1nZXE5N0NDaHpEQ2dOTTM1ZjVUTWdlbnlIVExkbFdRMTU3NnNSakEwbVk3NFpoS2d1cFNyTzBHOER6VjJFV1ZpR1lKYTU5d9IBf0FVX3lxTE5qZWRWemg4cFcxMThGRHliZHJMeTI0RW5KcFFqNGtyVS0wR0F3R2F1aFJYNHBqSlRZWXZGQ21QU0lrTUN6TThNOVJIRHREQkh2ZkJQaVpGQnE2bnBmeXRySWszZmJnN295cXN6Vlc1ME50X0FwNEJZVHUwU3pmcU0?oc=5",
       "source": "데일리스포츠한국",
       "summary": "전남광주특별시교육청, ‘전남 학생 스포츠문화축제’ 성황리 마쳐  데일리스포츠한국",
-      "category": "스포츠 VR/AR",
-      "date": "2026-09-19"
-    },
-    {
-      "title": "전남광주교육청, 전남 22개 시·군 학생 한자리에…스포츠·문화로 교류",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96YkV2bTJLSjZWNWtQZ3NxY2ZIeUl6anVWYXdKdTFJU01NM1FFRHhqRmVjaDRZQXZSUlJHbGZLVDR2SHBfcGlpS2hHT0lIU05oT2p0WVA3ak9xaGI2WTd4Wmp0Z3UwVGNuMlh4b1lnYnrSAXRBVV95cUxQNUpoUjY2M0ZlV1A1WDRmV1VrRElVeGUtSTdKUE1OQ08ydFdkUjYyX3h1T2p5Nkl4VWt6X014eWZMeGhwcENSalo5TEpDdWFlSFJobDdUZUZablJDYzRRcGRQa3FwX25DR3c0QXpEMFMwWHUyUg?oc=5",
-      "source": "thefairnews.co.kr",
-      "summary": "전남광주교육청, 전남 22개 시·군 학생 한자리에…스포츠·문화로 교류  thefairnews.co.kr",
       "category": "스포츠 VR/AR",
       "date": "2026-09-19"
     }
