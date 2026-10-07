@@ -1,4 +1,677 @@
 {
-  "updated_at": "2026-10-07 11:13 (KST)",
-  "articles": []
+  "updated_at": "2026-10-07 12:39 (KST)",
+  "articles": [
+    {
+      "title": "e스포츠 중계, 찾아 보기 힘드네",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53TFo4MVFQWW9PQzFVZHM4NHlCTHcxSDVPcVpnRjEweml0UXJfTkNCUmFDbHZ0RzRKSDM5aFdTbWVmTWh6U0RVdDZvQ2ltSVBJY2NJRUdSR1RqNFRLSzlodEpYOWVxbVE?oc=5",
+      "source": "국민일보",
+      "summary": "e스포츠 중계, 찾아 보기 힘드네  국민일보",
+      "category": "스포츠 중계권",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "언에이아이, 일신창투서 프리A 투자 유치…AI 스포츠 중계 도전",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96WTRoUHVfQjRsR3NOeGNkbE1Od3g3WXRFcmRoaXpIYWpzbEtRS1V6bHljN0ZCcVY4WmlvYzVSa1hMdkc5WlpGRTJRQW5FNFpaZm1id0hzYTdRdHFQcEViSFNoYl83ajFI?oc=5",
+      "source": "동행일보",
+      "summary": "언에이아이, 일신창투서 프리A 투자 유치…AI 스포츠 중계 도전  동행일보",
+      "category": "스포츠 중계권",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "e스포츠 중계, 찾아 보기 힘드네",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xZWpLek8zNXdsdkdUY1V4RGxINmVZdFd6dEZqS3ZRNVo0M2UyVHo0S1VVczhVTE5HMS1EaE9SMkdpbW5NajB0RlYyNWNhVEFfcl9uX1pfQUp6QkktT18tMHR1OEhuaUxVczlIatIBbEFVX3lxTE1xZWpLek8zNXdsdkdUY1V4RGxINmVZdFd6dEZqS3ZRNVo0M2UyVHo0S1VVczhVTE5HMS1EaE9SMkdpbW5NajB0RlYyNWNhVEFfcl9uX1pfQUp6QkktT18tMHR1OEhuaUxVczlIag?oc=5",
+      "source": "국민일보",
+      "summary": "e스포츠 중계, 찾아 보기 힘드네  국민일보",
+      "category": "스포츠 중계권",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "베트남 U-17 대표팀의 U-17 월드컵 최신 일정: 베트남에서는 아직 TV 중계권이 확보되지 않았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUERvUl90bGIxb05NY0dIcm4tQUxfczFEU3ctYWZ0NWEySWZxdkhiR0ZkUDljelRGX2V6cGFVMzFEVnhaelJ1TVN5YlYzVlNsUHhqWV8ybkctd0EtR2Y3QVJtbE1zQUVfOFI0dmRlX1VnVXA3SmVCZnV3bnpwbVo4Yl9zSkZOVFVDOTVUaUxtYmEyQTZsM1FvQ09xejVCN1RpVldzOGRmWEFyMWZWWmV1dUx1SEVraXVhMGsyalpWQVk?oc=5",
+      "source": "Vietnam.vn",
+      "summary": "베트남 U-17 대표팀의 U-17 월드컵 최신 일정: 베트남에서는 아직 TV 중계권이 확보되지 않았습니다.  Vietnam.vn",
+      "category": "스포츠 중계권",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "스포츠·OTT 결합이 만든 ‘팬덤 경제 시너지’",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc0xvc1ZxaEI4SnJxUmF0WFEzbEZRR080NU9TM1YxX3dlUjFfMnRMcDhCRE1ad2FmNmJuZl9NcFBBRVBRU2kwcEJWemVESHBnYkxmeEdhVmJwRzdQRWNreFlKUDM4SzRscWhUNDZrTGNVdjdJRGVsWjdPU2lyYUFfSg?oc=5",
+      "source": "이데일리",
+      "summary": "스포츠·OTT 결합이 만든 ‘팬덤 경제 시너지’  이데일리",
+      "category": "스포츠 OTT",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "언에이아이, 일신창업투자서 Pre-A 투자 유치…AI 더빙·스포츠 미디어 확대",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfV3NtOE56Mlh2UGNSc1E4LWhJc041elNDVGNDUHlqQm96eHR3ekpQWFFLOHFsTkI3ZWNRWnRJRXN3Uk9lVHcxMmZ0RDJBVnNFWDRXTDhSTkQ3eXFPZzh3UWdSRnpqT1ZuMHh3eNIBbEFVX3lxTFBfV3NtOE56Mlh2UGNSc1E4LWhJc041elNDVGNDUHlqQm96eHR3ekpQWFFLOHFsTkI3ZWNRWnRJRXN3Uk9lVHcxMmZ0RDJBVnNFWDRXTDhSTkQ3eXFPZzh3UWdSRnpqT1ZuMHh3eA?oc=5",
+      "source": "스타트업엔(StartupN)",
+      "summary": "언에이아이, 일신창업투자서 Pre-A 투자 유치…AI 더빙·스포츠 미디어 확대  스타트업엔(StartupN)",
+      "category": "스포츠 OTT",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "언에이아이, 일신창업투자서 Pre-A 투자 유치…AI 더빙·스포츠 미디어 확대",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vdjhrZVJWNE05UTJxbHBsZWFJNFNYZmd3YWlmbW5Hbkg2SzR3QWpUbTEwQjZqS3JJUFBLXzRrWk84M3lEbmJ2M2d4SzdNMUx6U21qZ01FY0hicWpOQVFuMGlUMFdGajlV0gFsQVVfeXFMUF9Xc204TnoyWHZQY1JzUTgtaElzTjV6U0NUY0NQeWpCb3p4dHd6SlBYUUs4cWxOQjdlY1FadElFc3dST2VUdzEyZnREMkFWc0VYNFdMOFJORDd5cU9nOHdRZ1JGempPVm4weHd4?oc=5",
+      "source": "스타트업엔(StartupN)",
+      "summary": "언에이아이, 일신창업투자서 Pre-A 투자 유치…AI 더빙·스포츠 미디어 확대  스타트업엔(StartupN)",
+      "category": "스포츠 스타트업",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "언에이아이, 일신창업투자서 프리-A 투자 유치···AI 스포츠 미디어로 사업 넓힌다",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZaFF2eFRqeUJfN2JSUE5VUkxVUGlyMy1LbmZxTlRwREVhQTNJbGRjVU80cTU2S0FUczZkNFlYVTVIMjJCOC1ZVVFFblM5QUluOWNxR2dSdXoyLWU3ZVZrV3k5YURKMVhaZWJwUkxaRFE3Z9IBdEFVX3lxTE5CZDJfNGgtSFNRUndEYThHd3FXUlF3ZmVHTGJYek9IeVd0aVFDdTZQbHNXOUFEYmgxMUFweDVKOEpWNGlsSFpKaFlwQW9aa0piWTR2Tmx1a3FMOEhZa0NOUHVFODFyNzFndDJ2dUwxSjNFX0N5?oc=5",
+      "source": "이뉴스투데이",
+      "summary": "언에이아이, 일신창업투자서 프리-A 투자 유치···AI 스포츠 미디어로 사업 넓힌다  이뉴스투데이",
+      "category": "스포츠 스타트업",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "추가 라운드가 끝난 뒤의 스포츠토토 분석 픽 진행 순서",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd0ZrVmQyek5DLWVZTlRHVzVIUjgtR21qZ01RYXVCRGFteGRVQWluY0hubUg3RGNjb1g0c3hUUkY0X2Y0VUhTQ3ZKQnFMMHF1NjZkczlMOW0zc2RpenFOZkUxM0VpSkRscFRsYnctc1E1YWcxWXNkbmZvSmRDMV91WnRCWHBoSUF5QnBMVVlvUEFXckNJMXBaTkNvcEpTUUR0Yk5KVGlrbXFlQm1pVUNJRzZLOThka1oyRHBPV2pxRlNTcVdjcGJfRU1uYWJMeHFfSkdwWlVrQ0dCdE1jZTVseWczaEppQUh5cWww?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "추가 라운드가 끝난 뒤의 스포츠토토 분석 픽 진행 순서  Calgary Roughnecks",
+      "category": "스포츠 스타트업",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "씨엔티테크, 홈트레이닝·스포츠 기구 자체 기획·설계·제조 및 D2C 유통 기업 '페셔네이트'에 투자",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12WENxRENaNTJGNGZ6LU5vMm1MaWhNeUpRdHhUcGtJa09YdkNVbFpIYVR1NjNfcGMyRk5jNjRraTVhOFEwZndRb1dkdVRDZw?oc=5",
+      "source": "전자신문",
+      "summary": "씨엔티테크, 홈트레이닝·스포츠 기구 자체 기획·설계·제조 및 D2C 유통 기업 '페셔네이트'에 투자  전자신문",
+      "category": "스포츠 스타트업",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "씨엔티테크, 홈트 브랜드 '핏에이블' 운영사 페셔네이트에 투자 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xZC1qQzNQXzUwTUdBa1pIM2tPZkFPd0pwYmduazBfVU5xMkRKS0dOaTc5TVJXREJOMWhxMGZpb3F6bHZDWkotNjBXQXNoYmNEN09OWGZnSnhSNW5QWmcyMWFLV1ItZDhxUHfSAW9BVV95cUxOeUNwRFZSc2dXX0lpWEQ4UG51UnFURnY3aTFIaXlqTDFmUm9McHdOTnlRdjJDYk1Kd29UYWV4VWhranRkd0pqcjFrNmdVS201NUpRSlBHYTNGRUdnU21wTmlPREI4bS1SbndfN1p2MFU?oc=5",
+      "source": "머니투데이",
+      "summary": "씨엔티테크, 홈트 브랜드 '핏에이블' 운영사 페셔네이트에 투자 - 머니투데이  머니투데이",
+      "category": "스포츠 스타트업",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "[우리품의 아프리카인](55) 대륙 맞춤형 디지털 기술…짐바브웨 개발자 시원데",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Cak55SkZQQmN3SUJBTXRReTRpekRueS1HNi1mV2NrWEU2VHkzSUpuSGxFR2xrSzg1NE1STElsdjFaUDNHblJ1Rlg3a3Y4UFYzeENxVVlLa1V0M2pKUHd4U9IBYEFVX3lxTE5Cak55SkZQQmN3SUJBTXRReTRpekRueS1HNi1mV2NrWEU2VHkzSUpuSGxFR2xrSzg1NE1STElsdjFaUDNHblJ1Rlg3a3Y4UFYzeENxVVlLa1V0M2pKUHd4Uw?oc=5",
+      "source": "연합뉴스",
+      "summary": "[우리품의 아프리카인](55) 대륙 맞춤형 디지털 기술…짐바브웨 개발자 시원데  연합뉴스",
+      "category": "스포츠 기술",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "오성택 WSC Sports 한국 사업 책임자 - 하이라이트를 넘어 개인화로, AI가 만드는 스포츠의 순간",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtS3VxeDEteTNtRlFJaUUzN0RscUdsSWx1RG5vM2YtYnU5NDZHSFVWNFdTb1NNc01mQ0lvZDJydGxtR1hodk1EUXRGTlJJZzlHbmNSNWtRSGRFX1d4UEVwV1hSYzZ1N2QtMjg3dnBaOGdsRmQ5aFHSAXZBVV95cUxQLUt1cXgxLXkzbUZRSWlFMzdEbHFHbElsdURubzNmLWJ1OTQ2R0hVVjRXU29TTXNNZkNJb2QycnRsbUdYaHZNRFF0Rk5SSWc5R25jUjVrUUhkRV9XeFBFcFdYUmM2dTdkLTI4N3ZwWjhnbEZkOWhR?oc=5",
+      "source": "월간인물",
+      "summary": "오성택 WSC Sports 한국 사업 책임자 - 하이라이트를 넘어 개인화로, AI가 만드는 스포츠의 순간  월간인물",
+      "category": "스포츠 기술",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "LIV 골프의 방송 중계권료는 PGA 투어의 70분의 1…PGA는 연간 7억달러, LIV는 1000만달러",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mVm1ueU91Y1h0Q0hGb1Z3TjVhNTZEaVNkSndwSHVXVnQ5QVVZM2h6enR5Tzk0VkJDY3J3Q3pub0RGQlI2UHFBeEFvblpCTDQ2cE9UbDRrT25RMmd0R3ljejVlc9IBY0FVX3lxTE9mVm1ueU91Y1h0Q0hGb1Z3TjVhNTZEaVNkSndwSHVXVnQ5QVVZM2h6enR5Tzk0VkJDY3J3Q3pub0RGQlI2UHFBeEFvblpCTDQ2cE9UbDRrT25RMmd0R3ljejVlcw?oc=5",
+      "source": "스포츠경향",
+      "summary": "LIV 골프의 방송 중계권료는 PGA 투어의 70분의 1…PGA는 연간 7억달러, LIV는 1000만달러  스포츠경향",
+      "category": "스포츠 중계권",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "FIFA 아세안컵 2026: 이번 대회가 처음이자 마지막 대회가 될까요?",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaHdON0xCVFNkTmtpYVMxc3NjTnlBVmdmRVFIRnNxTjV3YlZPNXpwZnZnWG5IVFNwYW4tTzBXS1pFbjZXdkphWlBpRjNLQWV0UjQ0ZzFxVEhnQjVWbVh2RklGSTZ3ZVFyenNlWXpDRUtrbHJzY0FscDc3UmRhb0pjZA?oc=5",
+      "source": "Vietnam.vn",
+      "summary": "FIFA 아세안컵 2026: 이번 대회가 처음이자 마지막 대회가 될까요?  Vietnam.vn",
+      "category": "스포츠 중계권",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "구독료 ‘年 100만원’ 시대…배 부총리 “통신비 인하 방안 마련”",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81SjhBR2MwOUNDak1vekluZk1hejktc2hlY2ZqWUtJZVIxbzBRc2lHQ1lVLVhQbHJjVTZGYUxaLWR2dFdEWkR2UkREcVVzS0N2VTczd3FaMWlkbGtITktNUnVobEZEZlZwYnlpZtIBbEFVX3lxTE81SjhBR2MwOUNDak1vekluZk1hejktc2hlY2ZqWUtJZVIxbzBRc2lHQ1lVLVhQbHJjVTZGYUxaLWR2dFdEWkR2UkREcVVzS0N2VTczd3FaMWlkbGtITktNUnVobEZEZlZwYnlpZg?oc=5",
+      "source": "국민일보",
+      "summary": "구독료 ‘年 100만원’ 시대…배 부총리 “통신비 인하 방안 마련”  국민일보",
+      "category": "스포츠 OTT",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "대만 OTT 1위 찍은 ‘상남자의 여행법’…대성→지코, 이번엔 대만 종단 [종합]",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QQjE2NW8wbmJkdGUtT1lYck9iQkI1YmF0WFJJc0VJbERyTHliWEU2c2pzelZfelZqUGtJWnFZT295dEU3LUhQUTJMeHFTT25QX3VzSHF4N21yX0ppOFFNMlU5WdIBY0FVX3lxTE9QQjE2NW8wbmJkdGUtT1lYck9iQkI1YmF0WFJJc0VJbERyTHliWEU2c2pzelZfelZqUGtJWnFZT295dEU3LUhQUTJMeHFTT25QX3VzSHF4N21yX0ppOFFNMlU5WQ?oc=5",
+      "source": "스포츠경향",
+      "summary": "대만 OTT 1위 찍은 ‘상남자의 여행법’…대성→지코, 이번엔 대만 종단 [종합]  스포츠경향",
+      "category": "스포츠 OTT",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "뉴럴하이웨이, 동포 매장 5만여 곳 잇는 ‘한민족TV’ 네트워크 구축∙∙∙오프라인 매장 광고 모델 공동 추진",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lTi1DdERYODA0SHpYcVdXMnNGemZSU2dTVG1SNWJsRnYxZDBCNmI0UzQyek4weUFibHcxS2VmRUNLUmF3YXZkWHp5Z1dVSzd2amhWYkdzMm40a2dQUURqQ3F3WkxxZHpuX0JoMg?oc=5",
+      "source": "스타트업투데이",
+      "summary": "뉴럴하이웨이, 동포 매장 5만여 곳 잇는 ‘한민족TV’ 네트워크 구축∙∙∙오프라인 매장 광고 모델 공동 추진  스타트업투데이",
+      "category": "스포츠 스타트업",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "침수 대피·복약 관리…학생 창업팀 15곳, 부산서 투자자 앞에 선다",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55cUw1WWVMYm5xOHktZ0U1OTNPNEktWHRFYXhUMmt6c1lHVW5ITEFGYVJsM1loQXFvazMwR25CMTN6ZUZCeVFtYmNnZUpPNFdsRk1KRVc0bmFSX0h3aGN0SzdqQ0U5amZVY3hxWNIBbEFVX3lxTE55cUw1WWVMYm5xOHktZ0U1OTNPNEktWHRFYXhUMmt6c1lHVW5ITEFGYVJsM1loQXFvazMwR25CMTN6ZUZCeVFtYmNnZUpPNFdsRk1KRVc0bmFSX0h3aGN0SzdqQ0U5amZVY3hxWA?oc=5",
+      "source": "국민일보",
+      "summary": "침수 대피·복약 관리…학생 창업팀 15곳, 부산서 투자자 앞에 선다  국민일보",
+      "category": "스포츠 스타트업",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "스포츠 영상 분석 프로그램 : 고급 전략과 기술 - 최신 트렌드",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qeE1sangycWhoMV9WR25nVVJvT1FpMDRrRTJsQ0JSZ21lQV9SSHdmTVBvZWx4VmJFTGxpMmVUX3ptWVhxX19vMFlaUjFBSl9McVJZNUJrRzRLeTIxUVAwSFo4TjlOODFKODJJ?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "스포츠 영상 분석 프로그램 : 고급 전략과 기술 - 최신 트렌드  Calgary Roughnecks",
+      "category": "스포츠 기술",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "한동대, 수도권 벤처기업 2곳 포항 유치…신규 인력 충원 계획",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Mcll6UnpZOVdBS0FId2FCcXUzazNTSF9wdHpvZjVzaFFtcFdpek02bXNYRFFHaXZaTGtLbU43bXp0S1F0ZVFRUzV1RGZGWG1xbDBHZXh3a3g1ODRtZjVKYtIBYEFVX3lxTE9Mcll6UnpZOVdBS0FId2FCcXUzazNTSF9wdHpvZjVzaFFtcFdpek02bXNYRFFHaXZaTGtLbU43bXp0S1F0ZVFRUzV1RGZGWG1xbDBHZXh3a3g1ODRtZjVKYg?oc=5",
+      "source": "연합뉴스",
+      "summary": "한동대, 수도권 벤처기업 2곳 포항 유치…신규 인력 충원 계획  연합뉴스",
+      "category": "스포츠 기술",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "포항시, 서울 스마트라이프위크 참가",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02ZFk3b2NsUC1uSlZmTl9QUXFSRy1ZZFczQ2xqN3loRGtmdU5QMmRaODBPRzZ1SU5ORDdqTDVtVHF2QkFnVThodWZOQzFPNnFRaWtKRVVHUzhPdWVSTzVPWFhXeHp1eTdMNFVmTdIBbEFVX3lxTE02ZFk3b2NsUC1uSlZmTl9QUXFSRy1ZZFczQ2xqN3loRGtmdU5QMmRaODBPRzZ1SU5ORDdqTDVtVHF2QkFnVThodWZOQzFPNnFRaWtKRVVHUzhPdWVSTzVPWFhXeHp1eTdMNFVmTQ?oc=5",
+      "source": "국민일보",
+      "summary": "포항시, 서울 스마트라이프위크 참가  국민일보",
+      "category": "스포츠 기술",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "녹색 혁신: 친환경 낙엽 자원화 시스템의 도입",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0ay1TeHVDTlVXVE1UYjJXX1htRWpCT040OV8wMHBlYllsZUVvOVhuUnhjZE82WWRpaUhlRnBvTjdXc0VCMWh1cDVGQmVZUndPMV9j0gFTQVVfeXFMUDRrLVN4dUNOVVdUTVRiMldfWG1FakJPTjQ5XzAwcGViWWxlRW85WG5SeGNkTzZZZGlpSGVGcG9ON1dzRUIxaHVwNUZCZVlSd08xX2M?oc=5",
+      "source": "VOA 한국어 홈페이지",
+      "summary": "녹색 혁신: 친환경 낙엽 자원화 시스템의 도입  VOA 한국어 홈페이지",
+      "category": "스포츠 기술",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "보아 테크놀로지, 25년 혁신 담은 ‘휴먼 퍼포먼스 핏 랩 임팩트 리포트’ 발간",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JUkxCWjJFdEdvU2ZNQWZlS3pCYV8ya3Z3UEx4aTNld3kyRng5MkExLTA2eWZ5bWpCWTNaRWlKYzB1THZfZkVCLXFkZVQ1Ukp6aDlrU1lTWlRPVlQzOFdmaDdB?oc=5",
+      "source": "스포츠월드",
+      "summary": "보아 테크놀로지, 25년 혁신 담은 ‘휴먼 퍼포먼스 핏 랩 임팩트 리포트’ 발간  스포츠월드",
+      "category": "스포츠 기술",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "[빅데이터로본다] 스포츠 스타 2026년 10월 브랜드평판... 1위 김도영, 2위 손흥민, 3위 이대호",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwdnE5TGZXbjJiVzB5ZkpvODdpZ2lxSGxiZW10TTl3MlV6NVFUdFFvQl9MTkpscXZCT1lIRVVMeW9mRVU2YVRIOEFNQ2VtbzlmVDJtYWhmdkZrRWRyR0pYVlVJM0tYMXpGUXA0?oc=5",
+      "source": "일간투데이",
+      "summary": "[빅데이터로본다] 스포츠 스타 2026년 10월 브랜드평판... 1위 김도영, 2위 손흥민, 3위 이대호  일간투데이",
+      "category": "스포츠 데이터",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "용인특례시, AI·로봇·XR 체험 한자리에…사이버과학축제 성료",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PTkNoOHBXeE5KcGgzdmFhaE1TWnZob0c0N2Z4MjNBN0lpc2ZMX294Tl85RzZLbHhKQUlyd3NlVHk2bE96QUhZbUNFYUpSOEpiSnBtV2pnX1VWb1lmTGdMWmZHeElYdzTSAWtBVV95cUxNcjB0cWZwelpNYzV2V1hYdVliZ2tNSi1UNGlXdzFmSFlCMDNTSEIwQ0oxOUFxNHI0bllCc1dhLV9vaE1MeHJRbF9lUFItMWRfeWRDMXA4Nkh3alN3SDZuUnBad04wcDFtSTdiVQ?oc=5",
+      "source": "서울매일",
+      "summary": "용인특례시, AI·로봇·XR 체험 한자리에…사이버과학축제 성료  서울매일",
+      "category": "스포츠 VR/AR",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "용인특례시, 용인사이버과학축제 폐막…AI·로봇 등 첨단기술 체험",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41Z2xxN0EzSkVUTVgwWHlaV2FoNldEZkV3bk4zcUVYRFRNWk9WY1pJWWtWR2pKQU9fNTdUMEdLQ1lVcW4xdkllTUZPaVdnMklVZGo2cXlPNDV6N2twbkJlM3A3WmdHdVNJWmlyanVYNjZiNXhvVWFDNFUwVQ?oc=5",
+      "source": "글로벌에픽",
+      "summary": "용인특례시, 용인사이버과학축제 폐막…AI·로봇 등 첨단기술 체험  글로벌에픽",
+      "category": "스포츠 VR/AR",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "스포츠 중계로 덩치 키운 치지직…AI 클립 5320만회 재생",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CNm1USTVoaXQwcmNVVm8wZk9Jdm1XV1BPRFUwS2c3c044REJGVUk1VW1xVEdhbEZ5Y3EwTzNBUU4yZ0xHc3l1bkNPQXRxYzRoU3podA?oc=5",
+      "source": "Daum",
+      "summary": "스포츠 중계로 덩치 키운 치지직…AI 클립 5320만회 재생  Daum",
+      "category": "스포츠 중계권",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "'스포츠 산업-정책 전문가' 한남희 고려대 교수, 국민체육진흥공단 상임감사 내정",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWElRZDRhVDlYOFo3N3NLcEVqdFZhU3RsWUUzTzd5bmxfZkxOQVBxM3Z3cFpDMzgxdEdCU25QWU1aTm1lSnZuRC1BVXpyWHRSanozaWRIQjUxUmZ1NmJNREhERi1aVHBzb1BaVF8yeTNPYldlanBxb1ZQRUlwSlcwb1I0NHYwMFVmWDF3?oc=5",
+      "source": "조선일보",
+      "summary": "'스포츠 산업-정책 전문가' 한남희 고려대 교수, 국민체육진흥공단 상임감사 내정  조선일보",
+      "category": "스포츠 스타트업",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "\"韓스포츠를 부탁해!\" 자신X기술만 믿은 10대 앙팡테리블: 황서현X강준이X최지운이 쏘아올린 희망",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTzdKWTBoM1RlOEhMYXF2N01kU0tYS1UtUjliZ3RXTnpfajVOSkZCWDFYSnFZNTZHWkdYVmtyZnRKUzdsb0MtTVFETmlFYlpGZkZhd3hLSXhvRFgwTW9vcUh3aC14TlVaZzMxZ2NNUzVzYnVGZVFNQXFfaVdFMmVqemhoallMQjlZSy1J?oc=5",
+      "source": "조선일보",
+      "summary": "\"韓스포츠를 부탁해!\" 자신X기술만 믿은 10대 앙팡테리블: 황서현X강준이X최지운이 쏘아올린 희망  조선일보",
+      "category": "스포츠 기술",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "“e스포츠, 국가균형발전 시대 플랫폼으로 활용해야”",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53ampFQmdfTXZFbGRaYXQ0THRmbTJFbWhxbDBTS1VXdGNfZFFQWFdkaW8wZlhnQXU1Z1R5ZmFncGJCMjk3ZU1wRGh4X0p0WU1STkpVcE90SFFMajN5ZGfSAWNBVV95cUxOajZpMHhrN09fSFA4VVhlZm1Pemt1REEzRUh6LXFNdGxhY0xEUlhOSTJDRXFXYW1HcVhzYklKT2ZyVktzX29ZVENpNEllR3ZvUmtTbHZBVm9lNVVZQWlMcU1NM2s?oc=5",
+      "source": "스포츠경향",
+      "summary": "“e스포츠, 국가균형발전 시대 플랫폼으로 활용해야”  스포츠경향",
+      "category": "스포츠 기술",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "“e스포츠, 국가균형발전 시대 플랫폼으로 활용해야”",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qNmkweGs3T19IUDhVWGVmbU96a3VEQTNFSHotcU10bGFjTERSWE5JMkNFcVdhbUdxWHNiSUpPZnJWS3Nfb1lUQ2k0SWVHdm9Sa1NsdkFWb2U1VVlBaUxxTU0za9IBY0FVX3lxTE5qNmkweGs3T19IUDhVWGVmbU96a3VEQTNFSHotcU10bGFjTERSWE5JMkNFcVdhbUdxWHNiSUpPZnJWS3Nfb1lUQ2k0SWVHdm9Sa1NsdkFWb2U1VVlBaUxxTU0zaw?oc=5",
+      "source": "스포츠경향",
+      "summary": "“e스포츠, 국가균형발전 시대 플랫폼으로 활용해야”  스포츠경향",
+      "category": "스포츠 기술",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "전기차 i3부터 6기통 M350까지…BMW 8세대 3시리즈, 혁신의 폭 넓혔다",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jV09nMzdfbmVUZGFyb19UWUVtY1FSZVh6NDlZQUFZa0xjQVJua0t4eXgtcDEzeHpBVWttOEh0RElkd3UwTXdteXI4SlV6UzFIRmYwWUdJdHFNRnpFRWxfbUpFVWQ2QUJWRmhkbkJvRjFGc3c?oc=5",
+      "source": "스포츠동아",
+      "summary": "전기차 i3부터 6기통 M350까지…BMW 8세대 3시리즈, 혁신의 폭 넓혔다  스포츠동아",
+      "category": "스포츠 기술",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "금액 단위를 바꿀 수 있나요? 스포츠 데이터 분석 대학원 설정 문답",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPVVYxcHAwbUktcEhkWjJNeDhwMzJMaDBmZGRMcUhGQ3IxSlRtWFY4QTg4UUVjMGRzd2NjRE5MZkM5X1ZvV2R2UDdpRXBSdnZ2b3FsRHFsbktXUFRPNzBUNXNuOE5TUGV6aFY2UkpWeVM5Q2ZmQjM2TUJoZzQtT2hESG03Qmh2djlTdVludWh1aXFrTkRiRFZjTTlVYkpnNHBWclVmSnNnMlFVMVZVem10Q3J4Qzl1UHNqNTZTS1NnUE5pZkZXZm5Na2pISW42eGE2Z0xYTGstMVNBQjVtZURSa2FsclNkN1BSTjRURHNHVXFkTGxzU0FhcUVRM0FJTGZkVzhIOGpZOHNPZEdILXBlWkFDMHlIQlVpOXdlaXMzaERHTXV0czFnUkpR?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "금액 단위를 바꿀 수 있나요? 스포츠 데이터 분석 대학원 설정 문답  Calgary Roughnecks",
+      "category": "스포츠 데이터",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "게임 테마와 기능은 어떻게 연결될까? 온라인 바카라 중독",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81dUtwcXlvdnRfcTM4eDJUYmdCSDRBR3hUeWhsc1NzMGhsdXRlRTU4SzJhWUwzNlppSmgtQW45YkxkVmQ4WVl4U2lOYzhuX3k0UmRZZm5Cc1hDZ3lNNE9melN6T0lxcmVBa0lVT2dscy1zOWVR?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "게임 테마와 기능은 어떻게 연결될까? 온라인 바카라 중독  Calgary Roughnecks",
+      "category": "스포츠 데이터",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "용인특례시, 제26회 사이버과학축제 성황리 마무리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySDl2T0FLZWMzdVJtRDZzdHNuRHNDVnp4S1cxM1EwVXdyandVOWJVdlZaVWttbF9EWktrNmJJbEdyWUtfN1JfNDA5UUJ4NTJmLWNnVTZSMFNrYU9XLVpVNw?oc=5",
+      "source": "경기경제신문",
+      "summary": "용인특례시, 제26회 사이버과학축제 성황리 마무리  경기경제신문",
+      "category": "스포츠 VR/AR",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "용인특례시, 제26회 사이버과학축제 성료",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NQmNNamJCVWdYNmFCRlY4TVc3blBvSHY2YmJPS2twRnhZcGdWTklLRlZWWU5oTEV5NXRWUmNsdWJRbnBmWHprQktBcnFEVENxODZqeVY4RTdkckVlel9lNi1udVZzU0FlZFk5OFRWZHhjVWs?oc=5",
+      "source": "동방일보",
+      "summary": "용인특례시, 제26회 사이버과학축제 성료  동방일보",
+      "category": "스포츠 VR/AR",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "타이거 우즈 - TGL, ESPN과 미국 중계권 다년 연장",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjenVvNm9ENDBQNmRialpGV2NuSE1vdkw5UEV0WVpKYVdoYlJqUXhwOUpadzZnbjFHOFkteUpKWUl4amRoNWM2ckVLQnVEak52emdSWHNaYi1RMnVhblRmMUMwQlotdDBwaUxSYTd5MA?oc=5",
+      "source": "와이드스포츠",
+      "summary": "타이거 우즈 - TGL, ESPN과 미국 중계권 다년 연장  와이드스포츠",
+      "category": "스포츠 중계권",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "현재 진행과 이전 결과를 구별하는 미시간 온라인 스포츠 베팅 프로모션",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRU5iUmZYeFN5czFCTXU4MEdjcFdqbnZKRmhISVhDN2NidThvSWVkSHo0M3RpMUpBcU4zV09OQ2cwNEFlUzh5SExfdU4zWU1idnU2V2hiYTk5V0hhb1FfV0dldFNlVDJBU3E2ZWV5SkJnSExlQXpVRnExMDhEa0QzdkdvWndEZHNCdEJmaXhleHc0c3JFQ1Q0NE0zWU9SSnpmX2JuQkxodGYtRDM4RGZzQ3prcmpvSW8?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "현재 진행과 이전 결과를 구별하는 미시간 온라인 스포츠 베팅 프로모션  Calgary Roughnecks",
+      "category": "스포츠 OTT",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "[주목 스포츠 메이커스] “조금 느려도 괜찮아, 함께 성장하자”",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWTEVsc21HQTBCRW5TYkUzYkZoV2R1amNmWlpnejE3MEozbWppOXF4aklCMW5rOXl6QnBNd2JfSnFPbDFMSFlZVEVGcDBEZVI0RWJEczc0SXRscWNiNHVLRjRjUjhDSnpIZVJha2sxNVZ4Zw?oc=5",
+      "source": "굿모닝충청",
+      "summary": "[주목 스포츠 메이커스] “조금 느려도 괜찮아, 함께 성장하자”  굿모닝충청",
+      "category": "스포츠 스타트업",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "그린바이오 케어푸드 메디머스, 스포츠두유 'VARA' 원료 공급…스포츠 영양 시장 진출 [ 신아일보 강동완 기자 ]",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcGdXZGlmMjVIa0cyS2pQbTgxWS1YeDVlT1FsR0VURHJaelNyQ0huQjAxOWNDUE84N0o2cTNteXd5bUpOUjlWdWdUMmtTU0U5aWpTT1JEVTBOR0dMdWNQU0Z5VWowQVotclJPcG9vMTJXVVZ6blA0SmFFSWVrN2ZpOVRqekZ1MUdaNTBmRnlzTzI4LXdXZlYyNFRxUlAyX3d4RHdsa1NQQWVkaU02QzdyR0NqRV9XMFRkQVNuYg?oc=5",
+      "source": "블로그",
+      "summary": "그린바이오 케어푸드 메디머스, 스포츠두유 'VARA' 원료 공급…스포츠 영양 시장 진출 [ 신아일보 강동완 기자 ]  블로그",
+      "category": "스포츠 스타트업",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "주류회사가 K팝·네일·친환경 옷에 꽂힌 이유…117억 스타트업 실험",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50Y3pKWXhQLUttd1NoNFBSai1IRFd0R2pvWUgwaXNOZ0NvbW5KWnZJWHZmZ2E5V1hvcWdwTFFPUGpfT2hkbnpxdlRaMFlSU1E?oc=5",
+      "source": "Daum",
+      "summary": "주류회사가 K팝·네일·친환경 옷에 꽂힌 이유…117억 스타트업 실험  Daum",
+      "category": "스포츠 스타트업",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "[현장기자] 중국 金 41개, 한국 4개… 숙련기술 지원 줄일 때인가",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51WE1mYldXLW1tZFV4ZXRWT3h6VXNWbnZ6QWhkbXVPZUJlQm45aUdMXzk5Z0ZVb2pRYTdnRklRUUpHdk9CbmZTbnBNVlB2VGtIQXRUZFFLS1dmeUxVZ0d2RnlMeC11cW1rc2NjVNIBbEFVX3lxTE51WE1mYldXLW1tZFV4ZXRWT3h6VXNWbnZ6QWhkbXVPZUJlQm45aUdMXzk5Z0ZVb2pRYTdnRklRUUpHdk9CbmZTbnBNVlB2VGtIQXRUZFFLS1dmeUxVZ0d2RnlMeC11cW1rc2NjVA?oc=5",
+      "source": "국민일보",
+      "summary": "[현장기자] 중국 金 41개, 한국 4개… 숙련기술 지원 줄일 때인가  국민일보",
+      "category": "스포츠 기술",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "스포츠, 전통 문화, 그리고 기술의 조화로운 융합.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVNWZ2dVZmNGSGFlb2xhd2hxeFdSbHBfQkU3ZExqdzd0Q1R1VTV5TlFDcGUzUm1oY3pQOGRLTzVmN2M4RE00bDAtdTZWLTBocXIzWU1zNjVBVWh1cUF5TzFzdzF6OVpucmJVaFg4Q2M3MW9JSm4tYUR0RFpXamRZdXZiLWZ5V1M3?oc=5",
+      "source": "Vietnam.vn",
+      "summary": "스포츠, 전통 문화, 그리고 기술의 조화로운 융합.  Vietnam.vn",
+      "category": "스포츠 기술",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "스포츠 데이터 분석 사례 한 판의 시작과 종료",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMTdIX0VOLVJfRXV4VzF4Z2hSVjBJbFhOVWpTd3VfWVRpZmtEbG1PLXRXMW1lbU1ES2lJbzBjYURjQkY4V2VnRFlpMlROUnY4STQ0YUVvdVFpQkVqWlVwQWkxZl9rYlBfSnZNZnJHZ1RSbnB3MEYtS0xKSEZ0bkQzeElWZldhU3RVNU10RHh3YXFIekt0RUV3U0dDeExZd25CZ0w3NUcwT0RONG91MWZXeGVkY2tEZ1lDVDhpUEo3OUE1dG1IMlhnUW1GUkR3VVluVjNNbW1jbnBWOXJUWWIxQjN6bTdidnFMU0pB?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "스포츠 데이터 분석 사례 한 판의 시작과 종료  Calgary Roughnecks",
+      "category": "스포츠 데이터",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "스포츠 분석학과 화면 전환 중 입력 안내",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTmVRemRxSGJYYnd0RERaQ1pLdnZnb0ZqaHBIMXM4OWtMVlY5T245cGZ6dGpqZEJJSEVxeXZhSE04dmVkNEZyRnV5c2J2cDFITWtEejhiSEl0WmlwbDBDQzg3OUdBSzg2cXppejAwWHpEUkYtczVIMG8zWEgxbUNKYkMxNTFRaXRYVVluRTVSUGhnOEJaVXNqQUVfR0xUQ3Rscl9ZRG5KY3dEdVI3WlNkN3YxOU4xSk1EbnNfLS1ZVTNCN0lyT2JaWVNlV2xneUt6cnFvWWFUMV9yc3JzWHhZZ0ZvYWF4ZDRibl9DSm1ua0cwYTNlaWNBZA?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "스포츠 분석학과 화면 전환 중 입력 안내  Calgary Roughnecks",
+      "category": "스포츠 데이터",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "용인사이버과학축제 성황…AI·로봇 등 체험 부스 40여개 운영",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TVzJOdmVPanlfXzlUZFlROXFNbFR2R0dlZWlxQ180LUI0MWJkaWl5X3lrRVE2X0xSNXRiZ1FDcHlmM2lXVGRsaVdzS04zcEJrT28zTmhDUW5LdWZSVWt6OVpDRlBTS3lMaHAw?oc=5",
+      "source": "팔당유역신문",
+      "summary": "용인사이버과학축제 성황…AI·로봇 등 체험 부스 40여개 운영  팔당유역신문",
+      "category": "스포츠 VR/AR",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "제26회 용인사이버과학축제 마무리",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nODBpOVRoak9TSF9VajRjN2lTdWpuZEcyREhSc2RQejNKdURqN3FuZ0pmb0FRVlAydXZlS2tTcUNDUkd0TlZIUFkyRDU3cXhrVmdvdXY2cVhRTkJveWs0UWhpVXFodVRUeHdB?oc=5",
+      "source": "미디어모현",
+      "summary": "제26회 용인사이버과학축제 마무리  미디어모현",
+      "category": "스포츠 VR/AR",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "용인시, AI·로봇 체험 ‘제26회 사이버과학축제’ 마무리",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tX0Q2V0M2U2JjQ2xDdWd0Z0wwQ3EtRnlZVmtKNGhaSWg2R2lBb0pPU3VHNFJtbXpxZ1d0ZFhpeTBCUk9FNEFacE5TV0c5RDJqMm5rNkdYdWHSAVhBVV95cUxObV9ENldDNlNiY0NsQ3VndGdMMENxLUZ5WVZrSjRoWkloNkdpQW9KT1N1RzRSbW16cWdXdGRYaXkwQlJPRTRBWnBOU1dHOUQyajJuazZHWHVh?oc=5",
+      "source": "로컬세계",
+      "summary": "용인시, AI·로봇 체험 ‘제26회 사이버과학축제’ 마무리  로컬세계",
+      "category": "스포츠 VR/AR",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "용인특례시, 제26회 용인사이버과학축제 이틀간 성료",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ua2dxdGRSczI1Ql9IRl9ab1ZqZ1E0UXZUUkVmQzlDTEdmS2ExYXhoRDRCd3dYdGRGa2NKS3FRNW1DOXc3VlYtYUtjQ3BDMjZrRGR0U2Jiemg5akt6TXctVGpiLXVWR0FiZUZCRA?oc=5",
+      "source": "경기타임스 e",
+      "summary": "용인특례시, 제26회 용인사이버과학축제 이틀간 성료  경기타임스 e",
+      "category": "스포츠 VR/AR",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "완주율 51%의 레이스…한국타이어의 세번째 녹색지옥 정복기",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lVnR4cnhVNUNHT1ZaN3lfZ3BicThReHBZeHZGWENLSk1lV3JwMUgyRW13X0I3S1hETFdpZnJJSEhkc0FESGlWYm1vVkJ4QzdQVU45OXhB?oc=5",
+      "source": "지디넷코리아",
+      "summary": "완주율 51%의 레이스…한국타이어의 세번째 녹색지옥 정복기  지디넷코리아",
+      "category": "스포츠 기술",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "스포츠도 탄소를 측정하는 시대…최봉혁 ESG칼럼니스트 ‘녹색기술·청색기술 ESG기후기술 완전정복’ 출간",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZZmg1Y0xWc09lR2VfMXVSbzdQQ01mcENjb3lhNTBCVkREU0pPNFZpdVoyUmw3eXNQZkZ5YTVlMHRnV1F6TjVMZnlRRnF6d3FRbXlMaFE5cXFaYjRnNmJ1OXkxLW5oRk9qd0ZFblJPbkZsdW_SAXdBVV95cUxNYVhILVp6cFhhN0R1bU8tMXIzRUtQN3VQTllOQm5Ddld2bWlSWnlrVGg4ZzFBcUN6OHN5N3ZCaWloel82SWhwTHVKUUxXUGZJbDlPNDFuVUVQY3BPLXNQb2tzeUx0RTlndlNYaVRBNGJvRkZic3ptbw?oc=5",
+      "source": "스포츠 피플 타임즈",
+      "summary": "스포츠도 탄소를 측정하는 시대…최봉혁 ESG칼럼니스트 ‘녹색기술·청색기술 ESG기후기술 완전정복’ 출간  스포츠 피플 타임즈",
+      "category": "스포츠 기술",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "프리스핀과 무료 체험은 같은 뜻인가요? 스포츠 데이터 분석가 되는법",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUFN2WjlKY2t6YW5CNWhzWGsyNUV6djlJYTNHU0ZyaHVGODZwYnBGUzBBclZLZ1F6SHg3ZWh1b1c5OHcyNGpPckpmOHREaFJFaUlLV0t2a0NFdXBMSTRXR19aZlQ0N0JiUEpjMF9QNlVsc1NfeU92SHNLTFgtM0p4b3RaSVQyblpkekFmZ3RxWGVEQll3SzB4VWlyQlBmM2k5eWhBMHFYaTJZZ2lkdy1wS1BZWHJZdlZ1eXh2QWdOLWxVdVN2TTN2NDNzY3RCUTRmMzItT1dR?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "프리스핀과 무료 체험은 같은 뜻인가요? 스포츠 데이터 분석가 되는법  Calgary Roughnecks",
+      "category": "스포츠 데이터",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "심벌 수집 표시와 라운드 횟수, 스포츠 데이터 분석가 하는일 화면 구분",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LRUJ4QVdKRzlYRnFBMzlHbDNuNkhRaGhzRHI4ZTBLRF9FRndvNklvRzFsaEtCOTlVaGY3aVowYVU3ZGIycTIydzQyOWF0Vnc4V2RxdTJWOE1HeVJmZ0ZOdU4wWmhEN2o4SHI3U2RNRVU?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "심벌 수집 표시와 라운드 횟수, 스포츠 데이터 분석가 하는일 화면 구분  Calgary Roughnecks",
+      "category": "스포츠 데이터",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "[단독]JTBC, IOC와 올림픽 중계권 재협상 추진…회생·매각에 변수[시그널]",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15R0JtMjZheHZKVHFTZHNOQTJwSVVkdDVKX0d6QVJyMkJOSVFtME1tbWNFeHlPSHhNQzdUcGdoRkVlMnd5bDIyMlVOTXd0NVFxWlHSAVNBVV95cUxQMi0zdkhmN1hsbkk5X2wzV0J0R2hlQlVyQVI1ZVhMSGlCb1Y3MGdkWlVwNmFPZ2JNbDE0U2o1TXN1bTFTMngzbmxvUDR0dC03eGtwQQ?oc=5",
+      "source": "서울경제",
+      "summary": "[단독]JTBC, IOC와 올림픽 중계권 재협상 추진…회생·매각에 변수[시그널]  서울경제",
+      "category": "스포츠 중계권",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "화면에 표시되는 승리 라인을 읽는 롤 토토슬롯보증 결과 안내",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SNmFOaGN6MklrRU5RZ2d4dWJVSWZFb0NncU10RDFoeThfamRpTHpsTEFqYXBQcGVDMzczM1ZrcU5IX2JMcXJXZUFxZTIzLXVhWkVIejdmcDRJQmp2UVFlSk1RaGlfWk5LZ1hOZlVWcw?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "화면에 표시되는 승리 라인을 읽는 롤 토토슬롯보증 결과 안내  Calgary Roughnecks",
+      "category": "스포츠 중계권",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "한국앤컴퍼니그룹, 모터스포츠 다큐 '더 퍼스트 4' 공개",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxOUpMVVFLbkVCWDd2OC1KYmlYcE1keHdtVDB4OGRfWjA4V3JQVGJuQnRqbVlMZlhPcVBBSjBkcjF6eFJNNlE?oc=5",
+      "source": "Daum",
+      "summary": "한국앤컴퍼니그룹, 모터스포츠 다큐 '더 퍼스트 4' 공개  Daum",
+      "category": "스포츠 OTT",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "쿠팡 멤버십 내고 스포츠 또 결제 … 플랫폼 구독료 '비싸다' 59%",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CQXRqSjhwZDA0QzdCbF9jQjlkdzJXckdWMk9ySFhoT1RxN1BDdC14SjRETHFrTkw0RlJ1WU41RnVsRnI2b0Q0Q09zU0VBODlubVJ3UFkyZWI3cEJBT3JCOVVYNTM3MndCM3lnU29xWdIBc0FVX3lxTFBEdEZwNWwxRWNuUmhXM0FLZXBDZVdvaDZtOVliNm9oRi1DT05YTHNNMmx0MDl0Y3FGNWtRc29iUTl0ZDdIcFFiWHVGaXp3VzJyWFRSX3dKZ0ZnYWY5T0dsZVZuYUhpQjRCZHZ0eVJ5R3k1UFE?oc=5",
+      "source": "세이프타임즈",
+      "summary": "쿠팡 멤버십 내고 스포츠 또 결제 … 플랫폼 구독료 '비싸다' 59%  세이프타임즈",
+      "category": "스포츠 OTT",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "한국앤컴퍼니, 모터스포츠 다큐 ‘더 퍼스트 4’ 공개⋯ 뉘르부르크링 24시 3년 연속 완주 담아",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9saS02S1JaMUktd3hKc1RxVGNyQVB5ME5ra3NWSzJDR1FBcE9Xa3BxMzczTDZFaURwWk16bVZVekRRRXlMMEVPQ1luVTZ5YWFvUEx6cGtqdlVJdw?oc=5",
+      "source": "브릿지경제",
+      "summary": "한국앤컴퍼니, 모터스포츠 다큐 ‘더 퍼스트 4’ 공개⋯ 뉘르부르크링 24시 3년 연속 완주 담아  브릿지경제",
+      "category": "스포츠 OTT",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "tvN SPORTS, 프로농구 중계 강화… 김주성·박세운 합류",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sdFBzQk5rRE1QNi12R3hfYXNrVzdOYzhWS0tKRHFWN1hxSXhUY2ViaTk1MHlLOWM4V3k4M1Atc2dkVkR0cDQtOXlJWHVOUEpuWXdsUTBWT1BRbkNPY1ZoaW5FT1ZmSHFwOTctVUdnVGxzMVE?oc=5",
+      "source": "www.bntnews.co.kr",
+      "summary": "tvN SPORTS, 프로농구 중계 강화… 김주성·박세운 합류  www.bntnews.co.kr",
+      "category": "스포츠 OTT",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "게임 설명을 읽기 전에 알아둘 불법 스트리밍 사이트 용어",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTkFDTGtBUEZWQVRaNEtUZl9UaVpUenlvdWhOZUJHUmlUSzJpNl94ZkZBMWJyWnZxN0Q0UWpiRGxJLUp5dl90bm1nbnM4MUVBSHV5eVI0c0dMYWxKSTFnSEJLRXNnMHIwNzRsU1pPTHRWSXh6TkJWNVJzUDRhMGVSNnV2a01KZWFzNFlobnJLSFdXd1VuNFBoNzJ6OXdOSFhXN2l4NWEyMzlPSUlhUjZidlpNbmNYdw?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "게임 설명을 읽기 전에 알아둘 불법 스트리밍 사이트 용어  Calgary Roughnecks",
+      "category": "스포츠 OTT",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "게임 내 설명서를 읽는 스포츠 토토 사장 초보자 코스",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWZJMXM1MnV6MUx3VWFVdzZqdkVRN2FHbHkwM3ZseGRweW1qajREa1o0LTczWm5QTlI1M1dSb21xdGR1VG85bnBfeGo1SzBmUDBEYlpXeDhxVWVmSHZ2bEdZbk1EV25ySkVVTW1kN1JDSmcwb2tRMkxYdEpvQ2EzTzhucko5SXM1d3lNRmtBNFN1aDEydkNUekhDMUhzT0tDZFg5RUcwNEVFbFk4UEdnOVhyb1VlaUs5Y1lv?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "게임 내 설명서를 읽는 스포츠 토토 사장 초보자 코스  Calgary Roughnecks",
+      "category": "스포츠 스타트업",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "푸마, LA에 '니트로 랩' 오픈... 축구화 혁신 기술 첫선",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDcXlZU0Y1RnNnOUZsN25Ud21oZW5KUXFmOERYUjVUSi00anpDVGx6dWtGTmxqZTQ4UnhyNjhXZFdNS256cUtWelBpV1BSVlowenNKc0gtQTJNX2ZWMlBPanFZb3pxRHFncFZJS3MwZw?oc=5",
+      "source": "www.trend-korea.co.kr",
+      "summary": "푸마, LA에 '니트로 랩' 오픈... 축구화 혁신 기술 첫선  www.trend-korea.co.kr",
+      "category": "스포츠 기술",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "메뉴 구성으로 판단하는 스포츠토토 한폴낙 접근 편의",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdHF3Snl3S1lhVnlSdWgxR0RVVUFFLUFwajRDeEtta3NSeTY4U0MyQ2dBNVhyd1FkS0VxU01URmJoQzR1cDZzdDZUT0JPckpGdGFid2wxakxla3BxQXpWTmN5ZkJYUGJPQU5MaC1rR3F1cG5MY2dIbW5raWhjZldreDVSb3cyUHh6R0dRdnJfdkhTZTFPY2hHck1BSWwxa19tRDUyLWlUMElMbmlYdmFBWE9USTR6b2xzR0E?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "메뉴 구성으로 판단하는 스포츠토토 한폴낙 접근 편의  Calgary Roughnecks",
+      "category": "스포츠 기술",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "게임 설명에 나온 배수의 기준을 찾는 스포츠 데이터 분석 기업",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV08zaGphSndKU3RseDhuLVFiY1dqRkZxVlVKX3lOckoyaGpNMmduYmNobnVSLTJBZ1FwaWFJeWRkRzVqWTRxZlRCS1FLRUZhNmFRWVhwZkVpTjluY0JIOWR0NGtLaExXRzBfaGwyb1BtNGh1NGljZFktUmJQU05XTlJFekFzb1VWMzZ2Z3lXbUV1S3cza1lrOF9kNGlHWkVHRGdrM0NZdXBjaUt2THlYSGxRMWFPR1RIU3BZTVExX0VMNlE?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "게임 설명에 나온 배수의 기준을 찾는 스포츠 데이터 분석 기업  Calgary Roughnecks",
+      "category": "스포츠 데이터",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "테마 설명과 기능 설명을 구별하며 읽는 이더리움 카지노 사이트",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaklvS1FJa2g2LXlnR2l2Y0hOeFVoa3poc2trSHo4TlhIY1NRWDFtbHlWS0hBc1V4VmVac1hRUDRyaFpGVklBSG5Xb0NqRWZ2d2dfdlJpYUc1V1laR3ExRFJqSVpwck5OQ25nOEZVU1B1V25HSjlDU1F1aGtPaE9rT0FBVy1SbmRtaXh0R1l4dXRxNmtweUZ6cWY2djdNUzFTZU0taVFSUXNnMWQ4MU1VUHdNR1JUODNaTFhvM2pYckd5d3B3eHhXbUZUS0R4WmJhWGxKdi1YSTUtMlZOX1lsVkpR?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "테마 설명과 기능 설명을 구별하며 읽는 이더리움 카지노 사이트  Calgary Roughnecks",
+      "category": "스포츠 중계권",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "웨이브, 국내 OTT 최초 골프 'AI 시청 에이전트' 도입...리모콘 대신 프롬프트",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBENU04bVQ2NVdZaEl3OGUyck10RENXdVlUR2FhZDFXQ0pIRGk4eVBiSm9MbG1EVGtnYlZmSlRsM2JldkhPRzZpbkk3QW9hZnNfUDBsay10dGFwcjQ2?oc=5",
+      "source": "뉴스핌",
+      "summary": "웨이브, 국내 OTT 최초 골프 'AI 시청 에이전트' 도입...리모콘 대신 프롬프트  뉴스핌",
+      "category": "스포츠 OTT",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "스포츠 토토 배당률 보기 프로토 비타임 파악 시간 관리 종합 평가",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSWhqdXJ6Z0E5dlFjOUVrWkcycURYN1NzSDNxNURNc2JHVEgtOUEtdzZCNVVObVgwTjE1OHZmaDJJVGtSemxaLTVDbW53d1JDNlkzTXdMNlhvRzlCVjBGMV9VZmRRV09KQmxOMUdrQ1FoSmFVQ0FSWE1LOWpVbHNHeF9Yc3NGNUU3SVV2RDBiX1pUUQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "스포츠 토토 배당률 보기 프로토 비타임 파악 시간 관리 종합 평가  Calgary Roughnecks",
+      "category": "스포츠 OTT",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "OTT 인수합병 봇물…소비자 가격 부담·선택권 감소 '이중고'",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56eGxIT2pBZzAwODk4UkhYOVpnNmxwa3RnM3BCWThwaVA3ZFFuV3dxWDRXWGhVaGtXMjFTNlZCVUloUEhvTDBxb0tfVXFCUlU4alJteHBwNDZoZDkyVUhIRnNYM2xHTHczSjlJQVdNQTlBdXc?oc=5",
+      "source": "디지털투데이",
+      "summary": "OTT 인수합병 봇물…소비자 가격 부담·선택권 감소 '이중고'  디지털투데이",
+      "category": "스포츠 OTT",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "2026 경기스포츠산업 공모전",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqdlVNY3dvOTV1bVhpb1loTXYzMkRnTHo4OHZXbUYyMm1EQnFmNkljb2FtSjIzdjBoY2c2elpJajRXbjJucVZVc0ZQUG1xT1BpN0trNXpYYllGMmdTLXMw?oc=5",
+      "source": "벤처스퀘어",
+      "summary": "2026 경기스포츠산업 공모전  벤처스퀘어",
+      "category": "스포츠 스타트업",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "AI와 K콘텐츠의 융합…'2026 콘텐츠미래포럼' 국회서 성료",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SZUVxQlNCcUJZSC1Ud1ZiLVVMVEo4SF95cTVwdGdveXFuRFp1LU54X3UyS1NDc1BvQU1DWmstaUowbTduTlE?oc=5",
+      "source": "Daum",
+      "summary": "AI와 K콘텐츠의 융합…'2026 콘텐츠미래포럼' 국회서 성료  Daum",
+      "category": "스포츠 기술",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "여러 기능이 함께 나올 때 읽는 스카이 스포츠 실시간 벳 피스트 작동 순서",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zSHNidm5keXdHUFY4cEhiZ1ZnSGZPWE42OTJFUjlObElKLUhQM2JCSmZIVHBMWGx0b003N0RfMVZrOEdWbjZYZkQyTXhXVkJBUUQwcWZUV242Rmc5NWpuZDUwVlphXzA0bUYzXzFLVVdGdUV2bVJJ?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "여러 기능이 함께 나올 때 읽는 스카이 스포츠 실시간 벳 피스트 작동 순서  Calgary Roughnecks",
+      "category": "스포츠 기술",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "서울시, 우리 삶과 동행하는 일상 속의 로봇 주제로 개최",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBadXk1d1d3bF9XUGppOWY4eUF0M0d2NGFyUmVYS0ZwZzdNRE1sYTJ0Rml3RXFRZGZxam12UWJBVkxMOVlWSHc3NXotSkV6MVhvNkMyczVsTTBpZnRkeG9mQksyYw?oc=5",
+      "source": "환경포커스",
+      "summary": "서울시, 우리 삶과 동행하는 일상 속의 로봇 주제로 개최  환경포커스",
+      "category": "스포츠 기술",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "정부, 7대 미래성장 프로젝트 중심으로 기술 선점과 R&D 혁신 본격화",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOVkt5d3ZvMzJVTWFNb1VHWVNsdG53bW4wb3BESm1kYVJTSDVRMG1jcktveERtS21EaVU3a1k1SllRdGUzRmZGVmk3bXBORDVmeE1ZbXJaZFhGOEM1ZjlMRWNnVzJWSlE5TkhQLWFySlg1bENfT3Y1RkNaMlZvVlpwXzlHakhqbXgtRm1adGsxT0ZmNndaV0tNY2ZPaHJkb2ZzUkFSWDFOdkl2eUtzdjNpTU9qaklIaEVGc3ZTS19UUlVzaTdPQ052Zm1palhmckxNUW1oVjdlYU8wZlRrSDQ5VzBHZGVxVldhZF9NaTMwUTFFUEMtQ1M3WW9mQmYyNFg4YUY1dGxFczJBOE5BVGpBN0RuZ1NXV0wzWDZkNU82X0h3ZkJ3NUtpNzZRUDdtOTl1QUFFdnhhTjV5UUdibXYxMW5sY0V3cm1ZMGJKN2ZsWTNDYlJPcWpiN0puZG1aa0cxa2JxdmhjekxtZmdvZVBhRjdyclQ4MVFoM281Y2FwRTZLRF9s?oc=5",
+      "source": "데일리뉴스",
+      "summary": "정부, 7대 미래성장 프로젝트 중심으로 기술 선점과 R&D 혁신 본격화  데일리뉴스",
+      "category": "스포츠 기술",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "베트남 학생들의 e스포츠 잠재력을 탐구하고 발전시키는 여정.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX3hoaGdIMzlOMHprZVNwOXJrcENIemkzSms1bnFoOVFPRkpjQUxpbTZzTndsMzBOTmowSEZPYUwta2oxRWw0bDVKam1oVWp4STNCZEoxaUZLcm1qYTUxeG1Fd0pabjE4ajZ2a0kxbF9KLWY2SVpiWTg2akhob0NpS3l5MERDaHhBY0UydWR3SVFiOHdUN0NmTF9taVdlNlk?oc=5",
+      "source": "Vietnam.vn",
+      "summary": "베트남 학생들의 e스포츠 잠재력을 탐구하고 발전시키는 여정.  Vietnam.vn",
+      "category": "스포츠 기술",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "스포츠 데이터 분석 처음 열었을 때 확인할 안내 문구",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0lscXJLX2JnaTUxTHJXVGVRcGVzb2tGMGZYMXhiYXJwQ0NRczhNVkNiVlVhbG96UXh0TnRjcXBkNnhTdmhzRGMtVDZ0RjJJOVpiMUJtbUVOSEMyQmxXQ01NcGtvRGpNM0E2V042R2s4d1d1MEE5em1QX09KUkRKc2dsbWhHWE9JNnV5dXBzZDMtNmdyaHR3WlRB?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "스포츠 데이터 분석 처음 열었을 때 확인할 안내 문구  Calgary Roughnecks",
+      "category": "스포츠 데이터",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "스포츠 데이터 분석가 되는법 게임 내 공지 표시 확인",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ncEMtRGRhS21WRWQxYjZXUFpYeWRWc2V2UVNDVmJZSkUydXJNTXRhQVJlaHMzcm9XM2pwMTRESXcwdGV3QlVIeTNUMnFYV25RMkQ3dmVaTnUwNFZhbGc?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "스포츠 데이터 분석가 되는법 게임 내 공지 표시 확인  Calgary Roughnecks",
+      "category": "스포츠 데이터",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "\"중계권만으로는 한계\"…AI 시대 맞은 스포츠 미디어의 생존법은?[콘텐츠미래포럼]",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5TVU3MDhzUTlWcHJwX0t4TFFNVGt3RDBQWUY4MTc5S0lzTDVxSkh3YlU5YVR1T193V2ZaVVd2d3pKTTNtSzNtcVp0c1gwd3NnWkE?oc=5",
+      "source": "노컷뉴스",
+      "summary": "\"중계권만으로는 한계\"…AI 시대 맞은 스포츠 미디어의 생존법은?[콘텐츠미래포럼]  노컷뉴스",
+      "category": "스포츠 중계권",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "black 토토 설정 메뉴의 토글과 선택 항목",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVDdQbVY4MHY0dnhneS1BVFU4NFUtVTJWVWsxLWRCWnFxSFdyZzJrYXo3akd2WWRneExUeUhCejRaVlIwczdVaUpUSkM1UHNoTHo3U2ZubG5BVkJTaVh5bGMtOWh4WE1icHcwWjgzbndPNmFzcEMtWW9kUDR2ajQtNTFoM3VROWVzMWh2QzdPOC1xREFuNnZtcU5lcjFkWWtVakxLdUlhNmtmTzN2VzBPMG9kbEtlaC1ZWThEb0lTYWZON1VWN3RJN3NuR1NSLWJhZ3lPcEQxckhpaTRSdEpfNnZ0MTdmLUw3Q2tuMF9tdS1tRlMwUTdsMlFoUzkweVJvOTV2aFIyeEM1UWMzd2VnbEFyZjNwLWUyM2Fn?oc=5",
+      "source": "Histoire pour tous",
+      "summary": "black 토토 설정 메뉴의 토글과 선택 항목  Histoire pour tous",
+      "category": "스포츠 중계권",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "“광화문 상공 120m 가른다”…SOOP, 얀 루스 줄타기 단독 중계",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83VjdVVzhjeDJRSnRVUGszaDl4a0lVNDJVM2FmOU5wOFUtRENUeHNVa1drQ1lieUpyZjZTOVRNWWJ2Vk1icHExbGZyUVEwS0tPQTNIWU91REZZaHhvR0tCZ0dxSWE?oc=5",
+      "source": "서울경제TV",
+      "summary": "“광화문 상공 120m 가른다”…SOOP, 얀 루스 줄타기 단독 중계  서울경제TV",
+      "category": "스포츠 중계권",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "영화·TV·스포츠 스트리밍에 최고의 VPN",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hS1pPOHRsc1JsNmZROUtVd3loVHFHVmZKeEhLTkY5MnF0dC0xVVB4c0FGRUo4QlE2blpmUlFRUVVybFhPMnNOTlgzZ244U3Y0LUt4OF9jN0VIdFk?oc=5",
+      "source": "Top10VPN",
+      "summary": "영화·TV·스포츠 스트리밍에 최고의 VPN  Top10VPN",
+      "category": "스포츠 OTT",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "AI·의료·헬스·스타트업·스포츠…'팔방미인' 토종 MBA들",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpR2o1ZmFWMklTS05oNmJlcWdnVUJ4cFptTVlHdnFzaWNvUnU0d3JySGJkX0pDZGVNb0NMaHQ5enJrMllzZEdGWWotbVpTa2ZTUkx2MA?oc=5",
+      "source": "매일경제",
+      "summary": "AI·의료·헬스·스타트업·스포츠…'팔방미인' 토종 MBA들  매일경제",
+      "category": "스포츠 스타트업",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "동국대 경영전문대학원, AI·헬스케어·스포츠산업 특화 과정…직장인도 3학기면 석사 받는다",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WTGtMRXljRDFGYVdxOE5EcE4wbXdUWVFwdmpDV2E3MW5CMGZFcUdEYUdzUkllSDFQdFhIaEYydGpxWm5sa1dGSjhqal91TkV6RzJZUEloNjRMZw?oc=5",
+      "source": "한국경제",
+      "summary": "동국대 경영전문대학원, AI·헬스케어·스포츠산업 특화 과정…직장인도 3학기면 석사 받는다  한국경제",
+      "category": "스포츠 스타트업",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "게임의 분위기를 좌우하는 스포츠 데이터 분석 사례 색상과 음악",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNTS1IVnRKRG1hbzEtWDVkLXV2ZC1jZ2MxR2VTaEg1SHZJT2hBR0VoQ1IybDg4MWZCTTJXb1Nrc0tuWUVDeUZIM2RvRDZSRVBubVpJN0NEdUFiOWttMkNkTGdKNFUtcy04dURobENOcTJLeENQVEdpajk1QldiRWFlUE0wcDdaaHpXbnRPcUVfNEE4SGhRVDBCdUY2dFpaZGl6LUwzeUF0a19nVWZvZXR1algzeV8wM1A0bzkwREhTQ09iNi13MVJhQnNfQW15R21LYmV1ZTJLYzU2c2J1SmJJR1hoOGkwczdCNXY5WXlYaS1JRDRuUldRb003dHpXTWZTamdhVDJsYnh1R3ZnWXcxQlZFek5OemFUYWduWQ?oc=5",
+      "source": "Histoire pour tous",
+      "summary": "게임의 분위기를 좌우하는 스포츠 데이터 분석 사례 색상과 음악  Histoire pour tous",
+      "category": "스포츠 데이터",
+      "date": "2026-09-30"
+    }
+  ]
 }
