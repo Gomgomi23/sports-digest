@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 11:40 (KST)",
+  "updated_at": "2026-10-15 19:39 (KST)",
   "articles": [
     {
       "title": "[쇼츠] 엇갈린 JTBC와 넷플릭스…그놈의 월드컵 중계권",
@@ -18,10 +18,18 @@
       "date": "2026-10-15"
     },
     {
-      "title": "오남석 경기도의원, “창업은 도전으로 시작하지만, 성장은 투자로 완성됩니다!”",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SMkxQZUhwVmJFMTROOV9ONExHTDU4WllaRXRwWWhtNlpUSC02M1oybUEwWTJ3YjVVUjhrV25NU19jQWhJcGFsWTNn?oc=5",
-      "source": "경기평화신문",
-      "summary": "오남석 경기도의원, “창업은 도전으로 시작하지만, 성장은 투자로 완성됩니다!”  경기평화신문",
+      "title": "7% 적립에 OTT 결합하니… '쓱7클럽' 티빙형 가입자 3배로",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wRDNPXzVKUzVHazkybUhxNkJ4cmlUYU91SzVxQ18xR3ktS0h2ZnZ4dFRpVENJZkVfN0t6M0c2QVBOa2d3TE0xUkxlVmVoMFFjM2dxcjB4MlQySGdkQTFGTEdJN1VvSWdUZHQxbEhn0gFzQVVfeXFMUGJ6SjNabTduUkE3OHJid1hTWndhNEdQN0VZTWRVZDJ4OElBRkl1S0otMXFuQWJNYmh1OUZ1SjJUc0RPeTJxc1pHWkFwQ0RINldISjJ1M1ZDNzRFVnlNWXZHaUE4NEJCNzdSaFdmdUF5WElxcw?oc=5",
+      "source": "한국일보",
+      "summary": "7% 적립에 OTT 결합하니… '쓱7클럽' 티빙형 가입자 3배로  한국일보",
+      "category": "스포츠 OTT",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "로봇 스타트업 휴로틱스, 네이버 등에서 250억 원 투자 받아",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBscHo4cy1GbGhwRVRJd2tqWHd1ekRLSGwzRlhYVi1MZjJrVVNFVGYxc2wyYkxrVXJJZGNMVWFBbWZoay10ZXVYRU5kVHhlUlpVaTkzcHNneTI5UjZiZEE3WEFpRnVLS3piaF90WktB0gFzQVVfeXFMT1J5dVJBSEtVUTRiTGRQZXg3RmxjbnRwM3BPQUljeWlpSUU0ZUstVHRQSDN0dEo3M1JNajdTT2kwUHFEc1I0QlJnNVV4N2hNZWY1S3daS2l0OEhPVE9BNFBxMU1RNU5jQ3BET1kxenZ6OEs1RQ?oc=5",
+      "source": "한국일보",
+      "summary": "로봇 스타트업 휴로틱스, 네이버 등에서 250억 원 투자 받아  한국일보",
       "category": "스포츠 스타트업",
       "date": "2026-10-15"
     },
@@ -34,11 +42,51 @@
       "date": "2026-10-15"
     },
     {
+      "title": "전주월드컵경기장서 AI 무인 스포츠 중계 실증",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwa1c1dUF4Y1JLb3l1eWhCLTJWd0hUWkpEcFNMQmZGTVhsV0lCV1p0MzhIN1NCbmZsajV0emx3V2s2V19nY3hHT1h3RWpNNnNIWFNZbktZSzYtaVhZOERPbTU1WWhNSk9oYnNBeVdlT21KNjl2eXlzUUhoN1V5X28?oc=5",
+      "source": "전라매일",
+      "summary": "전주월드컵경기장서 AI 무인 스포츠 중계 실증  전라매일",
+      "category": "스포츠 기술",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "전주월드컵경기장이 실험장…'AI 무인 스포츠 중계' 실증",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSZ2xlMnNsTXlrYXg2RGVWa0ZpY0JISUpFWDZCekdwRkVGZ0JHTzBmdmRCdXE4dEFhMXhfQWtOczVDOU56a1RUWVA0d3FoNlRyeGVQLWdOXzgtOU9iRHRsNEQ5ZUFvWnVMMUZ4VTZsaHVoWWN4SDBFWNIBeEFVX3lxTFBSZ2xlMnNsTXlrYXg2RGVWa0ZpY0JISUpFWDZCekdwRkVGZ0JHTzBmdmRCdXE4dEFhMXhfQWtOczVDOU56a1RUWVA0d3FoNlRyeGVQLWdOXzgtOU9iRHRsNEQ5ZUFvWnVMMUZ4VTZsaHVoWWN4SDBFWA?oc=5",
+      "source": "뉴시스",
+      "summary": "전주월드컵경기장이 실험장…'AI 무인 스포츠 중계' 실증  뉴시스",
+      "category": "스포츠 기술",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "무주군, AI 기반 아웃도어 스포츠 통합 플랫폼 개발사업 추진",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5VaFZUN0tvN1RGbzRkLUcwY184REZRWlVDcHF6QVB0NzZFRVU4SmxwRThOYXprRkExTXVZcW1BdUU?oc=5",
+      "source": "전북금강일보",
+      "summary": "무주군, AI 기반 아웃도어 스포츠 통합 플랫폼 개발사업 추진  전북금강일보",
+      "category": "스포츠 기술",
+      "date": "2026-10-15"
+    },
+    {
       "title": "中 베이징·톈진·허베이, 과학기술혁신벨트 구축…AI·바이오 공동 육성",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02OWpCUmkzMGRMalNPd2lBOUVIOXJxUVF4cm04Y0VnclU5dzhNTnoydl9yLWpyV3RIVXFSbXNFS1RNRkptV0w1bWRPNkd6S2Vxc2RHa1BJdmNyWG91YnFiMG1iRU8tZ1ZhZ2lGZVFjdTZMZ9IBckFVX3lxTE02OWpCUmkzMGRMalNPd2lBOUVIOXJxUVF4cm04Y0VnclU5dzhNTnoydl9yLWpyV3RIVXFSbXNFS1RNRkptV0w1bWRPNkd6S2Vxc2RHa1BJdmNyWG91YnFiMG1iRU8tZ1ZhZ2lGZVFjdTZMZw?oc=5",
       "source": "뉴스아이이에스",
       "summary": "中 베이징·톈진·허베이, 과학기술혁신벨트 구축…AI·바이오 공동 육성  뉴스아이이에스",
       "category": "스포츠 기술",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "“춤추고 달리고 사람도 돕고”, 서울AI로봇쇼, 온 가족이 함께한 로봇 축제",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fa1Y1MTNuY0twVEhXT2QtNmpoTFVlSkVJS3R2eEVhdVhreXU1a0lnM3BGNXBnODI2emxPT25TRk4zMUF0MjZuVlZCdnpINDZhTkdlUzV1WXczQXpPd2NSSDNJZGRWUWNFZHV3R2NHNTZfN2Q00gF0QVVfeXFMTV9rVjUxM25jS3BUSFdPZC02amhMVWVKRUlLdHZ4RWF1WGt5dTVrSWczcEY1cGc4MjZ6bE9PblNGTjMxQXQyNm5WVkJ2ekg0NmFOR2VTNXVZdzNBek93Y1JIM0lkZFZRY0VkdXdHY0c1Nl83ZDQ?oc=5",
+      "source": "이뉴스투데이",
+      "summary": "“춤추고 달리고 사람도 돕고”, 서울AI로봇쇼, 온 가족이 함께한 로봇 축제  이뉴스투데이",
+      "category": "스포츠 기술",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "인공지능이 장면 전환이 불러온 인물 추적 오류 잡았다…UNIST 백승렬 교수팀, 3D 복원 AI 개발",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XU0NDZXZLYjNfWTFoc3gtTW0wRVlRNmZnSjA5Y1RhV2NBNHowbVF3Nnh3OVNTUUlvT0R5Y0RnZ3pZb000YzhLVjExejQxRTlfZGJZbnlKdVlPMnIxVXZVa0FieXZJb1U?oc=5",
+      "source": "인공지능신문",
+      "summary": "인공지능이 장면 전환이 불러온 인물 추적 오류 잡았다…UNIST 백승렬 교수팀, 3D 복원 AI 개발  인공지능신문",
+      "category": "스포츠 VR/AR",
       "date": "2026-10-15"
     },
     {
@@ -58,12 +106,36 @@
       "date": "2026-10-15"
     },
     {
-      "title": "인공지능이 장면 전환이 불러온 인물 추적 오류 잡았다…UNIST 백승렬 교수팀, 3D 복원 AI 개발",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XU0NDZXZLYjNfWTFoc3gtTW0wRVlRNmZnSjA5Y1RhV2NBNHowbVF3Nnh3OVNTUUlvT0R5Y0RnZ3pZb000YzhLVjExejQxRTlfZGJZbnlKdVlPMnIxVXZVa0FieXZJb1U?oc=5",
-      "source": "인공지능신문",
-      "summary": "인공지능이 장면 전환이 불러온 인물 추적 오류 잡았다…UNIST 백승렬 교수팀, 3D 복원 AI 개발  인공지능신문",
+      "title": "UNIST, 카메라 앵글 바뀌어도 같은 사람 놓치지 않는 영상 속 인물 3D 복원 AI 개발",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPUUI0NGN5cXAyQWxlMkRLdnZvU3Y5djZlSmZKaUprLWpJN0o5ODVWYzlBZU94TzBYdkdEV01OWHJlQ3FhSGJJS3doYlh3Z1JFM0JqSjd5Z0llSGVtckVXdXFvSWd5ZmJyZFpVWGxTVklNYWxZSm1zMzFXd2pWR0JxZ203Zkd3YjNBcTFYN3lWU1kyM1lFdzhTUlgxY2xCa3ZuU3FCQmRMdFlRenVFQmVtSVQySVhvd3BDem54YzNUdHRwUmJuR2RERVY4QURwWTlhcktYTlhoT29mYWJNYUxVdmtRRG9yX0VpMDlkc0ROX3hGQjBFZE8zMDlVSW9NbjVObl85LTFyWWZfRVJuYi1VVjJFTWtOaE50M0ZJZndiODlhdjRfWVA5VUlxZTk2Y1U5SGNnTXNUbHlibGRMYmZFZ0ZSM283OUtoVUpVRXl4R19Iejl2MWc?oc=5",
+      "source": "MIT 테크놀로지 리뷰",
+      "summary": "UNIST, 카메라 앵글 바뀌어도 같은 사람 놓치지 않는 영상 속 인물 3D 복원 AI 개발  MIT 테크놀로지 리뷰",
       "category": "스포츠 VR/AR",
       "date": "2026-10-15"
+    },
+    {
+      "title": "UNIST, 화면 전환돼도 사람 움직임 추적하는 3D 복원 AI 개발",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YMG13dEMwZGpyTTIxeElIa3VJNmFMbmlkV09NTjZHZUExTmZTSGNGZkNfTDhTcHpwWnZRcGZKUHBSeVljanBQWW1qVmpZMXJzVzgzc1pydnh5eFFRUG9XZg?oc=5",
+      "source": "아시아경제",
+      "summary": "UNIST, 화면 전환돼도 사람 움직임 추적하는 3D 복원 AI 개발  아시아경제",
+      "category": "스포츠 VR/AR",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "화면 바뀌어도 놓치지 않는다… UNIST, 다중 인물 3D 복원 AI ‘멀티썸즈’ 개발",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bnNOaEV6U3dtcHhBeklvdjdDWGgxclR5UG5mYU9oY25teWM1YWI1MTBQb25EaWVIMW50X093elhqbU5pTmxESl85VTB4WnJxUVHSAVNBVV95cUxQRGx3SUhKUHFfS1laNndWZUtCZ3I5NnR3a2QzY2h1STh4S2VXemdzNVRiTkpxSG5SRHNUaE1wdm1OWWYxRmp6em84ZGloQWIxTFJPRQ?oc=5",
+      "source": "서울경제",
+      "summary": "화면 바뀌어도 놓치지 않는다… UNIST, 다중 인물 3D 복원 AI ‘멀티썸즈’ 개발  서울경제",
+      "category": "스포츠 VR/AR",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "스포츠 중계 업고…치지직 다운로드 ‘1000만’",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qb0VjbzlGWEl1SGo1Uy1FYnpCSnBveUF4Qm1XajdvTnVkbS1TU1BhME42QzJBUHZ1cS1VNVJ2cVdzUmhSVV9vdDlPU0tSWDhsclHSAVNBVV95cUxOU2VyUVRWaUw5cWpIVklWcENaclZKY05DYkJycEUyMmROcXk2QXh4RzJjZGVlU1BZT2p6ZVRnT0RfWW1RZ3R6THNoMnd3NzFyblFYQQ?oc=5",
+      "source": "서울경제",
+      "summary": "스포츠 중계 업고…치지직 다운로드 ‘1000만’  서울경제",
+      "category": "스포츠 중계권",
+      "date": "2026-10-14"
     },
     {
       "title": "넷플릭스, 2030 월드컵 중계권 확보···스페인·안도라서 전 경기 생중계 ‘중계 시장 판도 바꾸나?’",
@@ -74,10 +146,10 @@
       "date": "2026-10-14"
     },
     {
-      "title": "스포츠 중계 업고…치지직 다운로드 ‘1000만’",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qb0VjbzlGWEl1SGo1Uy1FYnpCSnBveUF4Qm1XajdvTnVkbS1TU1BhME42QzJBUHZ1cS1VNVJ2cVdzUmhSVV9vdDlPU0tSWDhsclHSAVNBVV95cUxOU2VyUVRWaUw5cWpIVklWcENaclZKY05DYkJycEUyMmROcXk2QXh4RzJjZGVlU1BZT2p6ZVRnT0RfWW1RZ3R6THNoMnd3NzFyblFYQQ?oc=5",
-      "source": "서울경제",
-      "summary": "스포츠 중계 업고…치지직 다운로드 ‘1000만’  서울경제",
+      "title": "“이젠 월드컵도 본다”…넷플릭스, 2030년 월드컵 스페인내 중계권 확보",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0xblVHM1FVMl9STDRxNi1IS0JSanBCakxHaURRM2RSV1htcXFaTDBwb3JJdzR3U1pqdlJDSFNESGtPTGltd3c?oc=5",
+      "source": "매일경제",
+      "summary": "“이젠 월드컵도 본다”…넷플릭스, 2030년 월드컵 스페인내 중계권 확보  매일경제",
       "category": "스포츠 중계권",
       "date": "2026-10-14"
     },
@@ -90,10 +162,10 @@
       "date": "2026-10-14"
     },
     {
-      "title": "넷플릭스, 2030 월드컵 스페인 중계권 따내…104경기 전부 생중계",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vTi1VM21nTnVGTk5aRy1rbnU2dFpnb3ZGaHJvSjNlZm0wTTJMalhiLVZScWVTeUtUbTZfNDBfaEZ0VEJKUHpLbUJxeGdMMWpxSEJHTlVOWmVWYkZSUC03bnFacmMyd05qdFE?oc=5",
-      "source": "콕스뉴스",
-      "summary": "넷플릭스, 2030 월드컵 스페인 중계권 따내…104경기 전부 생중계  콕스뉴스",
+      "title": "TV에서 OTT로? 넷플릭스, 2030 월드컵 104경기 중계권 확보",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KZmxBREF0YkZ4cjFBX05FNDZRV3VqeFplYThNbWRtRnJQeGN1WTZvQnVOdHhhSTVuaDRpWDdxSnk2UFNkNTFJcVFqWUs4RE5ySTRj?oc=5",
+      "source": "유스연합",
+      "summary": "TV에서 OTT로? 넷플릭스, 2030 월드컵 104경기 중계권 확보  유스연합",
       "category": "스포츠 중계권",
       "date": "2026-10-14"
     },
@@ -102,6 +174,14 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zVmR4U2U2OHVRU1JnUERlWU5fY3lrNm4zZm5mWGpRYzg3T1NVbUlqYlYzalFIWW1FVERDeFFvVUhCQlNWTzBtb0VwU3lvcGNaZlE?oc=5",
       "source": "매일경제",
       "summary": "“이젠 월드컵도 본다”…넷플릭스, 2030년 월드컵 스페인내 중계권 확보  매일경제",
+      "category": "스포츠 중계권",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "넷플릭스, 2030 월드컵 스페인 중계권 따내…104경기 전부 생중계",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vTi1VM21nTnVGTk5aRy1rbnU2dFpnb3ZGaHJvSjNlZm0wTTJMalhiLVZScWVTeUtUbTZfNDBfaEZ0VEJKUHpLbUJxeGdMMWpxSEJHTlVOWmVWYkZSUC03bnFacmMyd05qdFE?oc=5",
+      "source": "콕스뉴스",
+      "summary": "넷플릭스, 2030 월드컵 스페인 중계권 따내…104경기 전부 생중계  콕스뉴스",
       "category": "스포츠 중계권",
       "date": "2026-10-14"
     },
@@ -130,14 +210,6 @@
       "date": "2026-10-14"
     },
     {
-      "title": "“이젠 월드컵도 본다”…넷플릭스, 2030년 월드컵 스페인내 중계권 확보",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0xblVHM1FVMl9STDRxNi1IS0JSanBCakxHaURRM2RSV1htcXFaTDBwb3JJdzR3U1pqdlJDSFNESGtPTGltd3c?oc=5",
-      "source": "매일경제",
-      "summary": "“이젠 월드컵도 본다”…넷플릭스, 2030년 월드컵 스페인내 중계권 확보  매일경제",
-      "category": "스포츠 중계권",
-      "date": "2026-10-14"
-    },
-    {
       "title": "에이클라미디어그룹, 신임 대표이사에 가종현 고문 선임",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03Uy1ndTVxbXNLQWxYMzZkR0haYTdiall4TkcwMWI2akRZUEhtRHZkMTFZVldWUk9UOHljbUhaNmpubEZkTkFrdGpjblI0VmNmc3g5S3AyUE9DM0HSAWBBVV95cUxQdkhpcXZxLUh5YS04NTVfS2NpOVd0dm9FaXRyUVlYeUozWFR4M293dDA0bGZWeTd2LUVvQUJ1d2wySTNCQmNUZEFlQ1BQQl9vZlNGZnBQRFRrWXBkTGNEUHo?oc=5",
       "source": "연합뉴스",
@@ -158,14 +230,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0hlQVJkWFJHNVRHOUpkVkhiVzdVZUllX1BYTTJBaVgtMHBLLUtFQUFKb0dOWHhXZVNDWjhGbUdjRjRzRHBKUjJRb0M5MEpaUUxoVmR3WFJGdGl3QVZxaS1ndEFqd3dRUmFlaWx6V1V5TWxqV2FHdGxZTzVXazJYT1luLWxXZ0FXSjAxalljQQ?oc=5",
       "source": "조선일보",
       "summary": "'더 커뮤니티2', 드라마까지 제쳤다…통합 화제성 1위로 화려한 피날레  조선일보",
-      "category": "스포츠 OTT",
-      "date": "2026-10-14"
-    },
-    {
-      "title": "에이클라미디어그룹, 신임 대표이사로 가종현 고문 선임",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsR0FBZmk5OC14elcxa19md3l5TFZreU5EenQ1VnBtX1pSakhqTmVaWnpoYVVYelpRb0pJR1hJaUk2UDYxdlVINklKeGJhLXZKYXBNWjhmX3FFVDFqZmc?oc=5",
-      "source": "뉴스1",
-      "summary": "에이클라미디어그룹, 신임 대표이사로 가종현 고문 선임  뉴스1",
       "category": "스포츠 OTT",
       "date": "2026-10-14"
     },
@@ -226,14 +290,6 @@
       "date": "2026-10-14"
     },
     {
-      "title": "한국엡손, ‘TexVision’서 프린팅 기술 선보인다",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE12V25uMC1jeEpYMDNneHNVN2tMbG9YU0R3ZWFSQkNCRnk4SFhkNm5GY1ItcGkySnhtUDdoa2RPMUgwcTJvcWc?oc=5",
-      "source": "TIN뉴스",
-      "summary": "한국엡손, ‘TexVision’서 프린팅 기술 선보인다  TIN뉴스",
-      "category": "스포츠 기술",
-      "date": "2026-10-14"
-    },
-    {
       "title": "‘서울올림픽레거시포럼 2026’ 개최",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jUlVPbnhnZnJwN2U5WjhZTmV3UTNUTGhVMnVINXk5a2otQnlUZ0lJRXQ4MWpKVzlOb0dlLW5UX2VnTkRYYTJkWXJHdFJUVkt2UVFXNmFhQ05HQlprVWZZVXhVZk12dw?oc=5",
       "source": "한국미디어뉴스",
@@ -258,10 +314,10 @@
       "date": "2026-10-14"
     },
     {
-      "title": "서울올림픽레거시포럼, 15일까지 올림픽파크텔 개최",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHblFBYlNnSmJ6NTlyQWxsSzZEUUNmV3V6UkRYaWEzbXprT3dmQWxGOS1lc0hmbVhKb2M0c1poRWxKbVZZZERrekp6SGdId1V3QlZVZnJqOUREOXR2NE9tcFRvRS1LNGFDcWNz0gFrQVVfeXFMUEduUUFiU2dKYno1OXJBbGxLNkRRQ2ZXdXpSRFhpYTNtemtPd2ZBbEY5LWVzSGZtWEpvYzRzWmhFbEptVllkRGt6SnpIZ0h3VXdCVlVmcmo5REQ5dHY0T21wVG9FLUs0YUNxY3M?oc=5",
-      "source": "SWTV",
-      "summary": "서울올림픽레거시포럼, 15일까지 올림픽파크텔 개최  SWTV",
+      "title": "\"서울올림픽 레거시, 포용과 미래를 향하다\"… 서울올림픽레거시포럼 2026 개막",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBITWw1TVRoanNJMm9DN1V6WE80R2pqdWZwSXhhREtoTVM3WksxbVBKNWYyY2h1ekN3cFJWNTRBMlIwSi1CYnRyRjQ0UE5yanlHNGV5RXJvc2Y2T0lUcEcxQ1NtbUI?oc=5",
+      "source": "외교저널",
+      "summary": "\"서울올림픽 레거시, 포용과 미래를 향하다\"… 서울올림픽레거시포럼 2026 개막  외교저널",
       "category": "스포츠 기술",
       "date": "2026-10-14"
     },
@@ -282,10 +338,10 @@
       "date": "2026-10-14"
     },
     {
-      "title": "가상 여자친구 온라인 AI 컴패니언 뜻 2026",
-      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxONDgyM29RSmFjS3JDQmNSM016czFXcDNqM2RZUkQwN0p0OHBCMTlOTTlBWi10cVVsX29FY0JNakl3anhhQUQ1dHdINzBLNzVkZVlvcEZiQlViWEpFWUk1X0xBeTYwQUo1dDR3TzhWeGxKZlozdk9MdkEzMFZNZVpsclkzOGdCd3RfY1BnYWFsVmxET09QOFBiZV9LTl9PNDZsXzFFbUpDVEk2WXg5eVpQZjBvNDRQM0paQndGak9BeFhnQjJLbnlyQkg0N0dDaklxRXZqMlN2WjI3MGdLZUQ1NkF2LV9zSExEZ19TUjIzUDlqQ3JTVnBvYmQwajZDZm40azNNcWxKWGMxcTM0bGVFY0pFYlRlUml3NnZ1aVlVS2tZRWhFMFp0ZDJzN0R6RjdpUzF2MWpwZV93U0hZV0JiUExxLUM1WWMxSlhiSHRudmFldHVBUmpLc29qTFFtSlo2Zm5lMUJSOTZwZkVHbHdoY0dzNE1uUHBMOElQS3FMX29LZWxJa0FVS0R5UFUwS1NmTDR5N18tR2JpanhmZVE?oc=5",
+      "title": "AI 여자친구 채팅 무료 AI 여친 이미지 순위",
+      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQSGVFLThiTXAzREc0S2cyVTQ0eUhoMGdRSW9aenJ3UmN0SGVKS1k2eTgwLVZoM21neTlYVy04eHZmNF9GbFBUdG1WN3J4ZUYzb2JjRU9vOUNDaHpXdHI5bmVDVEY3S1NHdVpEUzBqZkZRR3JfUWVkbDgtVWJOVnlRSHpxclBUZTlpZ3ZaRXJaZV9fQkNaVzRudmx4dnZQQU5VTzlyaVIzc3ZOVV91SG5lN2ZGNUl2VEVIaTBSU0lwVF80X0FCUG5WVFJMdlB4QTVvR0ctZkF0TVUzdjFoWElqdHJJSWRnZkdCWjR0bWNkVS1HcmZXNUUwNG1NT2xsaENYOWR6ajBMSHVPbWljcEpXVjBPam9MSmJTRnFzNEJNZmk4cG1uM1ZYMkFKLXlndE5FQkVGa0diTlhvTFNYX2V4ajFHNGZ2MGlMQkJWT0VMZ0pmNEkwVjBNNEJCWGFUb1U0bHh4U2NtTmdDVTRKVjhMTWNwR29lS011b2lxRUE2Y2V4a0NGOUw1cUM3NUZkYlZ6enBSVGpB?oc=5",
       "source": "Universidad de Córdoba (UCO)",
-      "summary": "가상 여자친구 온라인 AI 컴패니언 뜻 2026  Universidad de Córdoba (UCO)",
+      "summary": "AI 여자친구 채팅 무료 AI 여친 이미지 순위  Universidad de Córdoba (UCO)",
       "category": "스포츠 데이터",
       "date": "2026-10-14"
     },
@@ -370,14 +426,6 @@
       "date": "2026-10-13"
     },
     {
-      "title": "화성시청소년수련관, 디지털 기술로 만나는 독도",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lYVE1RjIxRkZjdGZHMXZIZlYxdC1Jb2d0YlpnTzNKZ2FVZTJTVUpqTDV4MHFJbldRYUp0WXZabkRpQ1dlb0I2UWpTOGhKUE9NRnpXamplRUQ5NGpzSURDdHo2QkRYRjQ?oc=5",
-      "source": "경인신문",
-      "summary": "화성시청소년수련관, 디지털 기술로 만나는 독도  경인신문",
-      "category": "스포츠 기술",
-      "date": "2026-10-13"
-    },
-    {
       "title": "[포토] AI 혁신 기술 한자리에… KES 2026 개막",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sSTdkcy1QLTI3X2U1R0xCdkFLYTBHUnpBSHVuR0drS0lqY25BV2R4b2FVdWZvZmdZRGNfUS1sQ1Nic2EtcU1lakloZW1UbGI0RnM1UkxGaENCUUMzYkNuRTk0VjNJTUdacVdPRdIBbEFVX3lxTE5sSTdkcy1QLTI3X2U1R0xCdkFLYTBHUnpBSHVuR0drS0lqY25BV2R4b2FVdWZvZmdZRGNfUS1sQ1Nic2EtcU1lakloZW1UbGI0RnM1UkxGaENCUUMzYkNuRTk0VjNJTUdacVdPRQ?oc=5",
       "source": "국민일보",
@@ -390,6 +438,14 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1adXF3ZlRuYUxqQlBrYm9UMkxuci1mLXZ6b0s3bVhtYlJlS1dEX1JXdmpxenBaVUFoVmQ4eUpLeVZnN3EzUUNFSjQ5MFk0aU5obUtkSnYxWnhUdlRxVXV3QWNYTmFQWFYzVnQyX1Rn0gFzQVVfeXFMUDNua3VHSmNFRDZ0SHFxSzN0S0pUN2MyRTlDQ3hWMlNOcFc1Y2U3cGdYOHU5bzVTakt6eGF1QkU5cVhTWGNqTVVacmVfdjdmVi14c01uN1NLSTNSbGdfNGdVLWR3Z0MzSTN2RHhiRkk0OEk4dw?oc=5",
       "source": "한국일보",
       "summary": "'HBM 아버지' 김정호 카이스트 교수, 대전 과학기술혁신대상  한국일보",
+      "category": "스포츠 기술",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "국민체육진흥공단, ‘서울 선언 2026’ 발표…올림픽 유산의 미래 찾는다",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwbVU3RmxZNUhSMTFSTElKUWhMQVpvS01WS1dzZlVCYm1obW5LSnY3c0ZxSWRydDlWa0tvd3pTa2tDWFhQclVvRmhycUtGWlHSAVRBVV95cUxNNl96UU9HdVROclotTlI2bmdVUm10WHNRdElzeVh4UEI1WG9tZUtBTndOeEF6WENuMkk1WGVreEpzT3RQWW43UDhqdHJ1YTRPbTZOOUs?oc=5",
+      "source": "세계일보",
+      "summary": "국민체육진흥공단, ‘서울 선언 2026’ 발표…올림픽 유산의 미래 찾는다  세계일보",
       "category": "스포츠 기술",
       "date": "2026-10-13"
     },
@@ -434,10 +490,10 @@
       "date": "2026-10-12"
     },
     {
-      "title": "게임 설명에 나온 배수의 기준을 찾는 도박 마 에어 포커",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjhZMXZHS192Y1hjNUVaVEo0V0ZzZnFGdG51SThnRE9LTmtKb3ktZk1rM0psdDdpd3c3MnQyM1RDUUFTaE51UTJpQk5YbVEzOUUtYXdkaFN6RlpEaEh4eWFLUHZaUnVTTHdRaFc0eUE4YWZPMnNTVjZTakk3c3lpQ2w1RkRUekhnSVh4VHlva3N3UEtRUU1kczdDR01iay1hSUVjSHBFR2I0dG56V3VvZzNKLWUwdm5BYjlrLWVjbFBuY2ZlS1RyeA?oc=5",
-      "source": "Calgary Roughnecks",
-      "summary": "게임 설명에 나온 배수의 기준을 찾는 도박 마 에어 포커  Calgary Roughnecks",
+      "title": "EASL, 2026-2027시즌 국내 중계 파트너사 결정...JTBC, MBC스포츠플러스 중계",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LWmxSNWN1a3Nyd2JQTXBOYXI0eDlDRk1YeTFxcHAtX2M0YV9ObDV6b0YwWVdMaXk3M0M5MDUzSU1OQVBxcjhTTUw2Nk56NUZCM2Zfc25tc05IMFpv?oc=5",
+      "source": "뉴스핌",
+      "summary": "EASL, 2026-2027시즌 국내 중계 파트너사 결정...JTBC, MBC스포츠플러스 중계  뉴스핌",
       "category": "스포츠 중계권",
       "date": "2026-10-12"
     },
@@ -446,6 +502,22 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSS29vdThxZTFRRXdxZlo5VnlQd3lhc1ZBS3hkUWRHLVFxYnFZUkdHLTB3cTlmX0JJeEQ3SVZjN1BFSGs1OHphcjR5T3FHMzBxbnVwNHBKRHZZZDNJQVHSAWNBVV95cUxPSzMzNENTMEZ3dmtOOEJqdE55bC1hRGd3TVNtSHlXUmVQTGwtLXlyN0tJRHFWS0dEZ2JqZnV2NUM3OVBvQ1c1akFKQ1Znc2hXT0h6T1AzZ0xsYnRoWjlmemtFZ1E?oc=5",
       "source": "스포츠경향",
       "summary": "이번주 가장 보고 싶은 OTT·TV 화제작은 ‘로또 1등’  스포츠경향",
+      "category": "스포츠 OTT",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "게임 설명에 나온 배수의 기준을 찾는 도박 마 에어 포커",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjhZMXZHS192Y1hjNUVaVEo0V0ZzZnFGdG51SThnRE9LTmtKb3ktZk1rM0psdDdpd3c3MnQyM1RDUUFTaE51UTJpQk5YbVEzOUUtYXdkaFN6RlpEaEh4eWFLUHZaUnVTTHdRaFc0eUE4YWZPMnNTVjZTakk3c3lpQ2w1RkRUekhnSVh4VHlva3N3UEtRUU1kczdDR01iay1hSUVjSHBFR2I0dG56V3VvZzNKLWUwdm5BYjlrLWVjbFBuY2ZlS1RyeA?oc=5",
+      "source": "Calgary Roughnecks",
+      "summary": "게임 설명에 나온 배수의 기준을 찾는 도박 마 에어 포커  Calgary Roughnecks",
+      "category": "스포츠 OTT",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "“시민 1인 1스포츠가 일상인 부산으로”",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUlUWldoX1RMV1BZODJ3ZjZNOGl6VnlvOW1hb1I4TkR0c2JPdkViTkNWUGdGa09sM1l0Y2cyMEV3dFBtTzloVjlmbzZYTnZwcVNZMFNVYmk2ZDNIbnZ0Y1R6R21Wb2FLSFNvclVXd01lelNZYTVaSHN3RkhwZ0tSNHlDMGRSa3QwZ0syaVdn?oc=5",
+      "source": "국제신문",
+      "summary": "“시민 1인 1스포츠가 일상인 부산으로”  국제신문",
       "category": "스포츠 OTT",
       "date": "2026-10-12"
     },
@@ -546,6 +618,14 @@
       "date": "2026-10-11"
     },
     {
+      "title": "베트남이 아시안게임 2020 태권도에서 가상 은메달을 획득한 것은 현대 기술 적용의 첫 번째 성과입니다.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd1NFTTZkS0pVTkpyT0NVcnJjX2p3M1lnT0hlby00T0tBUG5SZmFFdmRPcVZhUUN0a2lrRXJOZnk1OFRNTk9kSEp1cFVqUFZESTd3Q0YtYUpkX0oxSkxiOHhja0VuT2M0WWhMQmtldjRXakF1N2ZpLUpZYmk0U2FYWWwzY3ctMkdTM3p2YTNKVF9ieDRqZDhWOHh2akJUVnUzdlJ6T3RhYm9fMkNSVlhSMFAyUGxqa3A4ajB0SVUxSjRMSVl0V0E?oc=5",
+      "source": "Vietnam.vn",
+      "summary": "베트남이 아시안게임 2020 태권도에서 가상 은메달을 획득한 것은 현대 기술 적용의 첫 번째 성과입니다.  Vietnam.vn",
+      "category": "스포츠 기술",
+      "date": "2026-10-10"
+    },
+    {
       "title": "릴의 움직임과 판정 결과를 나눠 보는 스포츠 데이터 분석가란",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeGc5RHoydzBydVk5cTMyYXJRMFhEc0NRQU1FN1FVWnZ2Y1R3YUh2SnVwVHVYRzQwZHNNa2E5Z0NTRG5jTG5qZzJTaGRLNTVFR2Q4R2hZRGFRWjB1QmJxNTc5TC1wczItMUd3dDdhQzYxRlNYMmpiVnhLdlNCMUlsSW1oQlVhRktOVS1ZaFh3a0VRWW8tcExyMGh6ZW01ZE9NWDYwSldnSXR1VDczcEp6NkhnWVByV1RvMlpPaUhLTzludWh0WWdDSnFmQWNpaC1UZHJpNTluQ0tNb2s?oc=5",
       "source": "Calgary Roughnecks",
@@ -566,14 +646,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wYlpkT013MHpEMDhSTXhuRXNkaHZQaVp2LWc5cEZoUGE5ZmF6ZE1CN1piR1YxTHVvZVJQYXlUMldRc3pmQmNwTFcyRVFVd3lMS1ppdU0zUW9FQUE?oc=5",
       "source": "중앙일보",
       "summary": "넷플릭스 이어 텐센트까지…아시아 스포츠 중계권 절반이 OTT 차지｜Global Money Club  중앙일보",
-      "category": "스포츠 중계권",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "작은 글씨로 적힌 네이버 스포츠 중계권 규칙 주석 해설",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvNEFaNTFZNk5TdTNFblNncWdlelBnSnRyXzF4alYzNzdBOXpkbWN2YjJjaVlPb2xyYTZVU0ZtNV9OLXlwX2dGZVk4YkNJbmpxMXh2cFBqVnRTTkxrLWVJV01xUU5iVjFrVVBJQmhn?oc=5",
-      "source": "Calgary Roughnecks",
-      "summary": "작은 글씨로 적힌 네이버 스포츠 중계권 규칙 주석 해설  Calgary Roughnecks",
       "category": "스포츠 중계권",
       "date": "2026-10-09"
     },
@@ -650,75 +722,11 @@
       "date": "2026-10-09"
     },
     {
-      "title": "디지털 시민의식은 문화, 스포츠, 관광 분야에 새로운 활력을 불어넣습니다.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb1NGeEhPWlR3SkVGREV3M29QUVdMYXZ1TXF5TVRrY3NURnJDbGFlZF9JMjliLXM5aWNla28zS01sYmFGYXpRMHJhUWNtcjRvbkFIb2xxQTFXY19WRU1URFZzMkllbTlWU202QmxuSkgtLXRXTmhndjktVmlJczNXQ3VBaTMzQi1neHRBSmxKQ3I0VGdqQmFF?oc=5",
-      "source": "Vietnam.vn",
-      "summary": "디지털 시민의식은 문화, 스포츠, 관광 분야에 새로운 활력을 불어넣습니다.  Vietnam.vn",
-      "category": "스포츠 VR/AR",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "여자프로배구단 창단 SOOP, 중계 넘어 '구단 운영' 본격화",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pby1QTnFLQ3NlczJtZFZRZjV4M255OHNlLVp1WEJIRi10aVZjanBRcTVzRW9CeklUNjhHN01ZY2pLUnhXUUlJcVI4VnFUTEczY2VFUHZtN3NEakFNMWVEMlRhcGhQSm1WSGs3VjAtZ9IBc0FVX3lxTE50VHFTV1BNS3JsbGtDeGVYMUZvTl9JTHR1Y21xYmpNdV9TVWRJSXh6bEhHRHZkanBuQVRVZFlCLVh5N01wMGtBeGhVYTJ2S1RBaDZkOU85MENMZ0swWng0Sm0wT1dDMFhZbkxJZUNKcDJiRmc?oc=5",
-      "source": "데일리포스트",
-      "summary": "여자프로배구단 창단 SOOP, 중계 넘어 '구단 운영' 본격화  데일리포스트",
-      "category": "스포츠 중계권",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "세계 최대 애니메이션 OTT 크런치롤, 한국 상륙",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFLWJpRjdzdHE1T2ZOZHR4YUNnUlhTSEZKQnhuU09STzBEbkVuN1p1OUUxX2ktdm4tQ0ZlSFo3dUtZN1JHSFo5TDZ5ZEVzQTBJU3Z6N181SldjVFNGdGxPZ1I1ME42QmJXNWd5Yk5n0gFzQVVfeXFMT21nYThHX0ZzWVZvejNNSm9TYzgtN0tOS0VpMW5nNUQ3eVN3Mm9BNDRSVGpwT3pwalNVdXhxQV9UMERENW5PYW1DYU92Z193eVc1UGd5ZllmOGR4UTNUZTNQVlRFYWx1TTg4VGNHa1FadFBEVQ?oc=5",
-      "source": "한국일보",
-      "summary": "세계 최대 애니메이션 OTT 크런치롤, 한국 상륙  한국일보",
-      "category": "스포츠 OTT",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "공간이 좁은 화면에서 읽는 한국 포커 합법 정보 영역",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVzkyOU1wRW9POGQzMzluX3AyWlY1cEc0T0hVemozVE1POGJpREplM2ItNXhsSFdiTUZYNkxBTVVDR1ZweVhjYncxa2lFMkp5SzFPVWtoS04tajR5MDllTlU3SE9qNWNlZDRucjZNcFRxMW84T3FQeEVNdHQ0VWNVVkVqdjFVZ2I4V0NHdmJR?oc=5",
-      "source": "Calgary Roughnecks",
-      "summary": "공간이 좁은 화면에서 읽는 한국 포커 합법 정보 영역  Calgary Roughnecks",
-      "category": "스포츠 OTT",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "강선영 함성스포츠클럽 대표 - 우리의 일상을 바꾸는 디지털 스포츠, 운동의 경계를 허물다",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xLWUyNW5MVm1YMDMzVWFabl9HLVBHMXRvR0ZxQm1iV2d0aXEzenJMNlB3M3IwMlp3RnlRS3lySjlOdkdXX25ic0ZQOWItNDkxSnYtOG0taGlWLWphczBvVENuWlVBNnd4aEI5c3ZRSjAtZ9IBdkFVX3lxTFBBRnhSNG1kS3hVTkd4NmZuWjN0Ri1KdWlPYTBZZVhxOGZTR29XbTB3WmRUVFlFeE9hS3hPcWI5MnduNDQzbmEwNDhKS2s4SmI1Zi1QTVRZUDdFelBWb203N01OQm1hZkdlUVBxaXFtSDRQUnljc3c?oc=5",
-      "source": "월간인물",
-      "summary": "강선영 함성스포츠클럽 대표 - 우리의 일상을 바꾸는 디지털 스포츠, 운동의 경계를 허물다  월간인물",
-      "category": "스포츠 기술",
-      "date": "2026-10-08"
-    },
-    {
       "title": "화면이 잘리는 경우 확인할 e스포츠 토토 사이트 보기 설정",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qSmJQdDUtZkljOUFFSWk2QnRYZG85aENJVjNYOThPOEZyNTlaTEpsdFRvV0Vvd2pxSnZIUU9RMFZEeVdxX2xrZnhjVVlFSFFGUkJvSXhRQnpLbmRQQWdPcU9BQXc3b2c2WnpRSHh5ZE1RYmticW9R?oc=5",
       "source": "Calgary Roughnecks",
       "summary": "화면이 잘리는 경우 확인할 e스포츠 토토 사이트 보기 설정  Calgary Roughnecks",
       "category": "스포츠 기술",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "동국대학교 WISE 스포츠과학전공 김석규 교수 - 공정과 포용의 스포츠산업, 지속가능한 발전 위한 선순환 생태계 구축에 앞장선다",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VUHdseHhQWHNrZkQ3RGVIcG1ocm9kRUFHdGIydEZ3cGpWdXE5LXBWX2xEc29JY01ENDhwSWNWSVRVQ016aDVYbFZhdmJlUU1lTS1EUExGRmxZTmF0bFlFUFB4Q2NiZUJuNEdoZUdtVTkxZ9IBdkFVX3lxTFBrTTA0aFh6M3hCWjI2UVpTQm5XYnZsUWNTZXphRmc2bG51MDRXVFd6Z1B5aUxnRlM0LWVsNXBKYVdsU2p6TE9vU21xSUJLY1FsQXVRV0g5dXRsU21xNkI3UHhxbzJ4Z1FDZXlPSm93NDd2ajZqVHc?oc=5",
-      "source": "월간인물",
-      "summary": "동국대학교 WISE 스포츠과학전공 김석규 교수 - 공정과 포용의 스포츠산업, 지속가능한 발전 위한 선순환 생태계 구축에 앞장선다  월간인물",
-      "category": "스포츠 기술",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "게임의 작동 순서부터 이해하는 스포츠 데이터 분석가란",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LRFk2eGFYMVVPN1N2N2NfaTRTNFRLRWtsck9QcnoyNWpqR0RHcjl1QjZzVzc0aVJEOU9kNlZVcEEyX3M0Ny1KZnhyNDM2RkNlaDYtRXByckd0WnlydTQ0a3NQZzdKckJoTVZjNVl3?oc=5",
-      "source": "Calgary Roughnecks",
-      "summary": "게임의 작동 순서부터 이해하는 스포츠 데이터 분석가란  Calgary Roughnecks",
-      "category": "스포츠 데이터",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "“10월 17일(토)은 온 가족 로봇 축제 가는 날!” 진도서초 ‘AI·로봇 체험 한마당’ 개최",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wQU0wSlkwZkk3VllZRXlCUE1ZWXFpd0VQd1E5aWRtR29iVDh6WDRHNG9WQkYyTnJBWkptSHNhSjRqZFZIMmhRMDNwZ0lFdjVLMDdaLVlmS2dzdkVvSEwxQ0JpVzktQk0zNFJfS0ktRQ?oc=5",
-      "source": "더 타임즈 진도",
-      "summary": "“10월 17일(토)은 온 가족 로봇 축제 가는 날!” 진도서초 ‘AI·로봇 체험 한마당’ 개최  더 타임즈 진도",
-      "category": "스포츠 VR/AR",
       "date": "2026-10-08"
     },
     {
