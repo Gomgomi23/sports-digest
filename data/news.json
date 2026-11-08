@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 11:14 (KST)",
+  "updated_at": "2026-11-08 12:45 (KST)",
   "articles": [
     {
       "title": "드라마 보러 오던 OTT, 이젠 스포츠 보러 온다…달라진 구독 공식 [Ce:포커스]",
@@ -46,6 +46,14 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JTXNIMTZDa1BGWGFWcXoxZmRQY3RXbkJTNEtrSVRLRHJRZ2pVcjBrVVprc2dBcmdoZlJfY0llTFphUVl6UENGUnlLOFFvTlBvTVY3cFAyUE5WNGM?oc=5",
       "source": "경기일보",
       "summary": "어르신 60명이 선보인 스마트폰 실력… 17년 이어진 스마트 경진대회 현장  경기일보",
+      "category": "스포츠 VR/AR",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "시흥시노인종합복지관, 제17회 시흥 시니어 스마트 경진대회 성료",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ud0pSc2djZEZRdGZ5alBDYkNKOTNTWnN1Q2lhWi02UmlNWHZmN3IzRmpPZ2tKaU5idFBzTVVFbjJlUmtod0NRMkF0NENpcmswQ2JkTU9najU3VGV4VEE?oc=5",
+      "source": "시흥타임즈",
+      "summary": "시흥시노인종합복지관, 제17회 시흥 시니어 스마트 경진대회 성료  시흥타임즈",
       "category": "스포츠 VR/AR",
       "date": "2026-11-08"
     },
@@ -119,22 +127,6 @@
       "source": "워크투데이",
       "summary": "[콘텐츠 브리핑] 콘진원, 'AI 콘텐츠 페스티벌 2026' 12일 개막 外  워크투데이",
       "category": "스포츠 스타트업",
-      "date": "2026-11-07"
-    },
-    {
-      "title": "평택시, 스마트 기술·주차 공간 확충으로 주차 혁신 추진",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pSmxLQy1DT1hObkxBdi1qeDUzZXZCRmZ0QWlTSXdEMlJqeDVsU3lGU3h1bDN6NTBqOTBsM1o2MEZGZmhVSEdwYXNVQmg5RmRzbnY4X1JmTmc?oc=5",
-      "source": "경충일보",
-      "summary": "평택시, 스마트 기술·주차 공간 확충으로 주차 혁신 추진  경충일보",
-      "category": "스포츠 기술",
-      "date": "2026-11-07"
-    },
-    {
-      "title": "부르키나파소 스포츠 음료 가격 및 무역 데이터 | 마켓 오버뷰 2026",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xNmVOd3JIZllJM3VodWdKbV84YllOZzE3Y2NPQ0J2MGlkSXdoRDdJa29wTF9PbGdpY1U1b3VRTUVxS09YdVhpQUpMXzNQYkNnNDFzLVY2RUczdHpCQ0dZb1I0cVl5emhf?oc=5",
-      "source": "Tridge",
-      "summary": "부르키나파소 스포츠 음료 가격 및 무역 데이터 | 마켓 오버뷰 2026  Tridge",
-      "category": "스포츠 데이터",
       "date": "2026-11-07"
     },
     {
@@ -242,14 +234,6 @@
       "date": "2026-11-06"
     },
     {
-      "title": "강원SW미래채움, 배움의 경계를 넘어, 모두를 위한 AI·SW 디지털 포용교육 확대",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRb3dESzZsSEo3ZXBLWmpwLTd0c3E4N0tmNGl1X1RZVF82dzlZbml4WW1jclhjeUNFWEdtRWpFSWRndEZ3emlab3BBZF9ZOUZCcnAxTzdjM0tRa2lzWFdLd3JOcVc2Wm9QdlhF0gFvQVVfeXFMTVlYcEtjY0F0b0RWRlJRM2tHSW9BekJSMTY0X2Z5OTJBOTd2N2pzU0hBU1BrRWRRa2lfbTFEMnI2eWFVbks5OVNESlJoZFdSeGpHZ3VQOTlQbzBkZkEwT2FqaVBKcVZDQ09vREcwd0Fz?oc=5",
-      "source": "뉴스로드",
-      "summary": "강원SW미래채움, 배움의 경계를 넘어, 모두를 위한 AI·SW 디지털 포용교육 확대  뉴스로드",
-      "category": "스포츠 VR/AR",
-      "date": "2026-11-06"
-    },
-    {
       "title": "\"AI 로봇부터 e스포츠까지\"…부산교육청, 디지털 체험 페스티벌 개최",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uM3J5bXJLRF9ITFZDNlc0R0JPdEM1Z1pHaGJfUl90TEt4WUgxS3lkZndoUzRzMFFvQUloa04zeV9zMGdtV0xCRWxicFZyVVlTUm1iNmhoZzFpak4ydFNJM3c5RDlwaHd1Y0NMdkZn?oc=5",
       "source": "국제뉴스",
@@ -314,10 +298,18 @@
       "date": "2026-11-05"
     },
     {
-      "title": "글로벌 모빌리티 리더 한국에 모였다…현대차그룹, AI·전동화 미래 비전 제시",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03MEhaend2VnhSY0lsT0RzRE1LclZPNElnSWV4U05HWXRfWUsyeWhzVUZYaDliRkE1eUVraFRTYmEtWkFfR2lCQ0doa05xU2JoWElHQ1N6NXFObVo0aWNpSS1XSUhGdmFRazhGbHp3UF9wbUk?oc=5",
-      "source": "스포츠동아",
-      "summary": "글로벌 모빌리티 리더 한국에 모였다…현대차그룹, AI·전동화 미래 비전 제시  스포츠동아",
+      "title": "e스포츠 IP가 글로벌 콘텐츠 비즈니스로, 2026 스포츠산업 글로벌 콘퍼런스에서 미래 전략 논의",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXN3Bud2pHOTZDZENYcXU4NzlCVGg1SVI0ZnpLOGFaQTIzWjZJRVQzcFJsOHNpRWdxYkpabnlrcGI5Vzc0Ukg4T3l1N0tNZ1JkOU5BYXFrTzh3S1dqVWF6ZWFBdmtGWnJnRUV2Nm5DNm8?oc=5",
+      "source": "SPOTV NEWS",
+      "summary": "e스포츠 IP가 글로벌 콘텐츠 비즈니스로, 2026 스포츠산업 글로벌 콘퍼런스에서 미래 전략 논의  SPOTV NEWS",
+      "category": "스포츠 기술",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "농업 혁신 이끈 신지식농업인 5명 선정…누적 503명 배출",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yQ1NSY3hoNlVpYkdHUXdKYUI4NHhyMzJ2cy1sQ2d0LTRYVmJtUF80eXFQUnRkTzRiSHgtZTIzSkVKMEpkdjhoMzdrTkxLc2xKc0ItQnk0enRrYkdTbmZRdklKc3NhbW51Y0xz?oc=5",
+      "source": "서울뉴스통신",
+      "summary": "농업 혁신 이끈 신지식농업인 5명 선정…누적 503명 배출  서울뉴스통신",
       "category": "스포츠 기술",
       "date": "2026-11-05"
     },
@@ -336,14 +328,6 @@
       "summary": "두바이, 가상 공간으로 옮긴 행정 창구와 관광 체험—메타버스 전략의 현실과 과제  뉴스N연합",
       "category": "스포츠 VR/AR",
       "date": "2026-11-05"
-    },
-    {
-      "title": "경악스런 '대국민 사기극', 20만명 속인 조작 국대 중계... 中 탁구 사랑 악용해 상품 판매 노렸다",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wN250OENCN0tLMGpJaEtES3h5U21CMTZjeS1scktma05KNDBiQmpxNWFpNnk4YjV2dDRuTUJWa0pSSXdobnV5eW5YbV9JN1owbVpOb2VXTEh2ckhreS10U3FYVUdKOE1WOWZ4MXk3dFgwMjJXU1E?oc=5",
-      "source": "스타뉴스",
-      "summary": "경악스런 '대국민 사기극', 20만명 속인 조작 국대 중계... 中 탁구 사랑 악용해 상품 판매 노렸다  스타뉴스",
-      "category": "스포츠 중계권",
-      "date": "2026-11-04"
     },
     {
       "title": "PSG의 다음 경기: 2026년 11월 일정, 경기 시간 및 TV 중계 채널",
@@ -450,10 +434,18 @@
       "date": "2026-11-03"
     },
     {
+      "title": "'LA 다저스만 웃던 세상은 끝났다' 왜 MLB는 끝내 샐러리 캡을 도입하지 않나, OTT 시대에 '56년만' WS 우승이라니... [이종성의 스포츠 문화&산업]",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VeW1MQXJob2ZnN1oyOHFOMEVsM2Vxb0Vka24xM3J3T3dCdFZnSDRLUnlsS0I1QURiSzY0QU5yVDljbUI1WXRoSTNqSFZjRWVXdllFX2FtSGN4N3B2RlZyZW1GQmxubVBDbndDa0tQUnFqc01STWc?oc=5",
+      "source": "스타뉴스",
+      "summary": "'LA 다저스만 웃던 세상은 끝났다' 왜 MLB는 끝내 샐러리 캡을 도입하지 않나, OTT 시대에 '56년만' WS 우승이라니... [이종성의 스포츠 문화&산업]  스타뉴스",
+      "category": "스포츠 중계권",
+      "date": "2026-11-03"
+    },
+    {
       "title": "‘TV 중계 시대 저무나’ 스포츠 중계권 시장의 지각변동…DAZN이 바라보는 OTT의 미래",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTmluamJ5aWhOa2stNmYxNHVUQjlZeHJVX29lLUFqUUFHb29Zd1VQampuMEU0bHhXdWJNLXV5SVJZOUVScFp4WGRkYkU2VDFZZ0lONDNvNTB1TkljN09oZDFLb3RIVF8yeURGdGMxYkZpazRYNjJFTXdoSzJTNGRGWmFuZUdWR2U0WTE4?oc=5",
-      "source": "조선일보",
-      "summary": "‘TV 중계 시대 저무나’ 스포츠 중계권 시장의 지각변동…DAZN이 바라보는 OTT의 미래  조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQmRGRVd2RG9mNDRzWTR6LWRvbk96MHhZWGFRT0Zfb2lTWGlpZlJHRjZITWp2dnhra3g4VWdTS1V2blFHMUZmY3NkSHdWS3hGQ1JObFUtYjhoYmFJNGtvajc3NmVyem9LdFhGY3VKZElUMVpBMThzRnNEX2N4Z01yVXNfUElVQzBfNVhR0gGfAUFVX3lxTFBhV09ZV3RiUmliWUp2ZlJNLVh0NVpIR1c1dmhYUmpfSnh6d21BWDdtakRQb3VxSk8tamNtOF83RVNMSlJvNnhucE1fajZOdVB2aGpvdnlyaFJFbEpVeGdMWlliaTdxVWtlMzNlZ0FDTFQ5cVpESlYxdWZCM2R3aTJObjN1REFWV09GZ1lkdWxMR3JyQ0JvQ2hxVzQ4UXRJRQ?oc=5",
+      "source": "Chosunbiz",
+      "summary": "‘TV 중계 시대 저무나’ 스포츠 중계권 시장의 지각변동…DAZN이 바라보는 OTT의 미래  Chosunbiz",
       "category": "스포츠 중계권",
       "date": "2026-11-03"
     },
@@ -495,14 +487,6 @@
       "source": "Vietnam.vn",
       "summary": "FPT Play는 베트남이 참가하는 U17 월드컵의 방송 중계권을 보유하고 있습니다.  Vietnam.vn",
       "category": "스포츠 중계권",
-      "date": "2026-11-03"
-    },
-    {
-      "title": "'LA 다저스만 웃던 세상은 끝났다' 왜 MLB는 끝내 샐러리 캡을 도입하지 않나, OTT 시대에 '56년만' WS 우승이라니... [이종성의 스포츠 문화&산업]",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VeW1MQXJob2ZnN1oyOHFOMEVsM2Vxb0Vka24xM3J3T3dCdFZnSDRLUnlsS0I1QURiSzY0QU5yVDljbUI1WXRoSTNqSFZjRWVXdllFX2FtSGN4N3B2RlZyZW1GQmxubVBDbndDa0tQUnFqc01STWc?oc=5",
-      "source": "스타뉴스",
-      "summary": "'LA 다저스만 웃던 세상은 끝났다' 왜 MLB는 끝내 샐러리 캡을 도입하지 않나, OTT 시대에 '56년만' WS 우승이라니... [이종성의 스포츠 문화&산업]  스타뉴스",
-      "category": "스포츠 OTT",
       "date": "2026-11-03"
     },
     {
