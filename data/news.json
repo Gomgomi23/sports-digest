@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-12 08:54 (KST)",
+  "updated_at": "2026-11-12 12:42 (KST)",
   "articles": [
+    {
+      "title": "경기 끝나도 콘텐츠는 계속… 농구 스타의 일상을 팔다",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKZE9wTWk0N0hXdlVBbVRYT1BKSVVTend6SGVfV2tsTlhINkJ5akEydnNmQnBSZHV0TGg2WnFHM3psQWJDQk5uNHU1UHJQM01qMmtsNlJqenBnRzBYcnhlWGNEc01zQ2I0MjZuUUlFeGLSAXRBVV95cUxQQVpxd3A5V3RaR1NGUHdHeU9BWGkyWGNLU2lGdkZwZkJILXpwTGJsaDZjT1RSUVpiMU5ncmo4RWtCeVVCbU50YlBaM2ZCbW9wYUs4Rjh6MEhKWi1SX3ZPMVRZVnN5SHhjMUo0Smw4T3NvMUdmcg?oc=5",
+      "source": "IT조선",
+      "summary": "경기 끝나도 콘텐츠는 계속… 농구 스타의 일상을 팔다  IT조선",
+      "category": "스포츠 스타트업",
+      "date": "2026-11-12"
+    },
     {
       "title": "삼성전자·IOC, 다카르서 청소년 기술 혁신 지원",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pV1BDdTM5b3ctdW9FN0kzRy13akFZc1NoWDZhQzEwc2Q5R29za0ViaXJ6clptN3luWGRzbEJrVmNTMmhPNTlwcktIWUgwNmFzcFFjVnNWRTBDVUtzMHFNVWFIeG0?oc=5",
@@ -10,10 +18,42 @@
       "date": "2026-11-12"
     },
     {
-      "title": "포스코그룹, 광양서 테크포럼 열고 ‘트리플 코어’ 기술 경쟁력 강화",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fWk91STBWa2gyeW54MmRzSHZpQU1WSTBSa00xdVU0TGFmbHpzUmVpRHNLUzhkbTdhdVcyNXdaMF93OHd6ZThfWUMxNUtveDRxYnZHQlI4WXNFbHU0YjhVTmE0X2dRMnBZUnNJbUdDSElUQQ?oc=5",
-      "source": "스포츠동아",
-      "summary": "포스코그룹, 광양서 테크포럼 열고 ‘트리플 코어’ 기술 경쟁력 강화  스포츠동아",
+      "title": "광명시 최초 기업박람회 20일 개최… 24개 기업 혁신기술 한자리에",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPRm5xMVBzV0ppWmNXMHNHN1pJa2gtYjJBSHlPNWRZYnFvWnVzTWtOM280U3RtTVlUc2s2Ym1wMlRUcFZZV0cwQ1RmdFFZWldZZU1qaWRZV2pFS080WXI1Z3NfNFFtUkU?oc=5",
+      "source": "경인신문",
+      "summary": "광명시 최초 기업박람회 20일 개최… 24개 기업 혁신기술 한자리에  경인신문",
+      "category": "스포츠 기술",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "삼성전자·IOC, 다카르 청소년올림픽서 혁신가 지원",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUmpSMVllRHRyazZBQ2p5aXdMZ19rQ3dXQVl4bktNRXNIV3d4dHA4WlFjU2FVb0otUi1jMXdzM1Rla1VXNzEzYjgyUlA5Y3pJWi1Cc0JUTm85ZGdp?oc=5",
+      "source": "뉴스핌",
+      "summary": "삼성전자·IOC, 다카르 청소년올림픽서 혁신가 지원  뉴스핌",
+      "category": "스포츠 기술",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "삼성전자·IOC, 다카르 청소년 올림픽서 청소년 기술 혁신 지원",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yUS1RcHFZY2U5ekRKSFpRc0FWNkdfYUJZR2draXB0cDk3Q3gtMlJJemR5MGIyRXg0S2RKMkV5U0x6TkR6NWdFZmJVN3hLRmVnSGh4YzlET0tpSm10V0VqWlluLUo?oc=5",
+      "source": "뉴스1",
+      "summary": "삼성전자·IOC, 다카르 청소년 올림픽서 청소년 기술 혁신 지원  뉴스1",
+      "category": "스포츠 기술",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "삼성전자·IOC, 다카르 청소년올림픽서 청소년 기술 혁신 지원",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WV3cxUXVNNVlmalNoZEtPYk9PY1dlN0JUMkhxVEU5UGVOVWZoY3g5YkZZYWIzamVQYTQ5SlQzeWpRbVh4NG5ZSmpqcU1PZnpRZ2pKMXk2c0hSU1ZLNkpoQlpR?oc=5",
+      "source": "디지털데일리",
+      "summary": "삼성전자·IOC, 다카르 청소년올림픽서 청소년 기술 혁신 지원  디지털데일리",
+      "category": "스포츠 기술",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "“올림픽 무대에 청소년 혁신가도 섰다”…삼성전자·IOC, 다카르서 ‘스포츠×기술’ 지원",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zN3FGQ1hLSlJER2MzYXlDbk10MTlaT0xlbWZtdGxKb0paTkxMbTR0X3BqUEJyMXpJX0xiajNRR1RXNXp6UVByakZ4WFFVMDlaRWJod01uZ00zXzJqZU92WlM5Rm9qS0Ix0gFsQVVfeXFMTVhYNElmMmE0TGN5Rzdic0RueHFTRkJNZUUzdGpfRjJuWlZqdXlFN1VMeDdzX0ZjcXRndHN1dWpKWHg1cnB2bC1aVjV5ZzNaRUVuZ0JYMUdsTlBGeUlKMEJsM3ZZNEVjTGUyTm1Q?oc=5",
+      "source": "더게이트",
+      "summary": "“올림픽 무대에 청소년 혁신가도 섰다”…삼성전자·IOC, 다카르서 ‘스포츠×기술’ 지원  더게이트",
       "category": "스포츠 기술",
       "date": "2026-11-12"
     },
@@ -27,7 +67,7 @@
     },
     {
       "title": "스포츠 중계권 플랫폼 경쟁 시대…한국스포츠과학원, 스포츠산업 콘퍼런스 개최",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Eb0RCTDZLdUd3YWIya1NmOEJlSDA5WS1TM2gtTlBUV25pQ0F5NFhleE9DTjgwU2hfRzFkU3lJWmNtcnFKQTRqTXJuSGd3dFp2Z2F5a1FUMFVnNWlQdUZ4bWVTaEk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16cW9lZ2VicUVoUTNlSFUwSG9kYWRNNWk0YkJURDg0MXNOY09OZ3NpR0xwNkF6eHI1VERnbDRSN2NaT29IcjBNcEw5SU1oTVZ6VVE?oc=5",
       "source": "노컷뉴스",
       "summary": "스포츠 중계권 플랫폼 경쟁 시대…한국스포츠과학원, 스포츠산업 콘퍼런스 개최  노컷뉴스",
       "category": "스포츠 중계권",
@@ -62,6 +102,14 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iMi1aOTdrLTdsSGxuaHBFdUFXdTFvTXZ3NTBPd0Z5dWJ0bUtaZE82d3lFUEZVSUpCU2VrUVZTblE0bmZDU1VIcnBNTklXTTJyalIwOFpmd1VUQ3VmVWF0NQ?oc=5",
       "source": "마이데일리",
       "summary": "한국스포츠과학원, '2026 스포츠산업 글로벌 컨퍼런스' 13일 개최→스포츠 미디어 환경 변화 집중 조명  마이데일리",
+      "category": "스포츠 중계권",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "외면받는 축구대표팀 중계, 최고 스포츠 상품 가치 흔들",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXWXhweDY2OUpOUml5MnBWd2dYWjk3SmhGOHdRNEt1enZLNlNCelFyQTZwbVZRal9sSU5qaHVpQXpFTDZYWjM1bWFJampBOXRUU1VSdEdDV1M0M3dVYzd3T2RmSkxRYUR2Z040bXliVdIBb0FVX3lxTFBXWXhweDY2OUpOUml5MnBWd2dYWjk3SmhGOHdRNEt1enZLNlNCelFyQTZwbVZRal9sSU5qaHVpQXpFTDZYWjM1bWFJampBOXRUU1VSdEdDV1M0M3dVYzd3T2RmSkxRYUR2Z040bXliVQ?oc=5",
+      "source": "한스경제",
+      "summary": "외면받는 축구대표팀 중계, 최고 스포츠 상품 가치 흔들  한스경제",
       "category": "스포츠 중계권",
       "date": "2026-11-11"
     },
@@ -106,10 +154,10 @@
       "date": "2026-11-11"
     },
     {
-      "title": "2026 경기북부 청년창업사관학교 16기 데모데이 개최",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGNk9JUkFORlJMbVpwNHJid05vTnRIeWZfbnpveWg2ZjFqNjVFUkZlbTc2XzNIV0VkRGxyV0J2NDdFeHF4RlFaRjJ5MUdBdw?oc=5",
-      "source": "전자신문",
-      "summary": "2026 경기북부 청년창업사관학교 16기 데모데이 개최  전자신문",
+      "title": "화성산업진흥원, 싱가포르서 스타트업 해외진출 지원 성과",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5fLUxyaXN3X1dkNGdJWGJmb3NmdW1MSEJQMlN6RjlDNUlGbzBod2lKaGlFRnNBY0dqNnI3MjFOWUVqS2RWMkxJcDFB?oc=5",
+      "source": "경기평화신문",
+      "summary": "화성산업진흥원, 싱가포르서 스타트업 해외진출 지원 성과  경기평화신문",
       "category": "스포츠 스타트업",
       "date": "2026-11-11"
     },
@@ -146,14 +194,6 @@
       "date": "2026-11-11"
     },
     {
-      "title": "경기도의회 이영봉.박상현 의원, 지역주도 과학기술혁신 위한 경기도 R&D 통합관리 체계 구축 논의",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ESll0VEk3TWZHd2lINTJodUtwc3lqVXRaTnRQbEZnSEFXMWpwZW9uSGhHdHZaSGpqbF9WRXVZN0w0UXBNWGxsYWNn?oc=5",
-      "source": "경기평화신문",
-      "summary": "경기도의회 이영봉.박상현 의원, 지역주도 과학기술혁신 위한 경기도 R&D 통합관리 체계 구축 논의  경기평화신문",
-      "category": "스포츠 기술",
-      "date": "2026-11-11"
-    },
-    {
       "title": "애터미, CES 2027에서 뷰티테크 혁신상 수상",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3aXVGRUI0T2xLTXo4VkVnSGJ2Nnk3TG50RFFobkFJSmZSU0cyZTFBN0Jmeks0aTR3cGxhNzI4V2FWRFlrZWpmMTA5ekcxRldWZGk0NklxQkZLT0FHQjJEZjQtc3hlYTBlYzlndg?oc=5",
       "source": "뉴스엔톡",
@@ -162,11 +202,11 @@
       "date": "2026-11-11"
     },
     {
-      "title": "스포츠투아이, 고려대·중앙대와 첨단 스포츠 인프라 구축 및 산학협력 MOU 체결",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ucUNjck56c3lCcXpxTzlHZzg2VngwcW00My1uVWlrOGtHQlpzYU1EYzVCSkVHVXcxNDZSY0tHem4zSkFQNlVDZzBqY1JMdXdSRHZCQzZ2WGNRVFU?oc=5",
-      "source": "일간스포츠",
-      "summary": "스포츠투아이, 고려대·중앙대와 첨단 스포츠 인프라 구축 및 산학협력 MOU 체결  일간스포츠",
-      "category": "스포츠 기술",
+      "title": "2026 신한 SOL KBO 포스트시즌 시청 데이터 지표",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzUnRvZ2Z3TE1sV2hKdWJCaHBZanZrNlZub28xbG1EN05mZk9QU1NpR0J4Z2laSWFxNnFIQzFDT2ZDQzBOdlB1ZHRLNklzcUZ3R1ozOXZDRllwaklZVU9Ra20zRE5NdHM?oc=5",
+      "source": "코리아방송",
+      "summary": "2026 신한 SOL KBO 포스트시즌 시청 데이터 지표  코리아방송",
+      "category": "스포츠 데이터",
       "date": "2026-11-11"
     },
     {
@@ -210,18 +250,18 @@
       "date": "2026-11-10"
     },
     {
-      "title": "스포츠 미디어 시장 대변화 진단한다... 한국스포츠과학원, 2026 스포츠산업 글로벌 콘퍼런스 개최",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XeXl5ZktETFVEb1ZXV0dJYnlkdU1WWUlrZmRqQ2lkam1BaHpEV2ZoRTJ0X2pjNzJJc1d0eUN2RmtJOFNlN1ZnRm5ua3dJeWFtS01zck55WURPUllUa3FnZllyV3dRQklsOEE?oc=5",
-      "source": "Queen 이코노미퀸",
-      "summary": "스포츠 미디어 시장 대변화 진단한다... 한국스포츠과학원, 2026 스포츠산업 글로벌 콘퍼런스 개최  Queen 이코노미퀸",
-      "category": "스포츠 중계권",
-      "date": "2026-11-10"
-    },
-    {
       "title": "한국스포츠과학원, 2026 스포츠 산업 글로벌 콘퍼런스 개최",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11VlJfMXlWclZIU0RpbTBvbERCTEl6VzFMYk9CTnRnaFBEZE5JeGFrSnBKdXNIbThJLWRMdmpNdy1EaFNPLXdsbEVrQTlHZmE0WFlEaFFhenVqYllCZFHSAWNBVV95cUxQTExsYzFhc0pjTlp1dmdOS0ptblVlUTdtbkZyWWpNUk0xNzMxdHoyblFiQy1VU0I3X0VtOUNKQkNhdkctMGRLQ1hZN09qR1lDZDIzelNZNWdLNWJzTk4wTFN2aWs?oc=5",
       "source": "스포츠경향",
       "summary": "한국스포츠과학원, 2026 스포츠 산업 글로벌 콘퍼런스 개최  스포츠경향",
+      "category": "스포츠 중계권",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "스포츠 미디어 시장 대변화 진단한다... 한국스포츠과학원, 2026 스포츠산업 글로벌 콘퍼런스 개최",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XeXl5ZktETFVEb1ZXV0dJYnlkdU1WWUlrZmRqQ2lkam1BaHpEV2ZoRTJ0X2pjNzJJc1d0eUN2RmtJOFNlN1ZnRm5ua3dJeWFtS01zck55WURPUllUa3FnZllyV3dRQklsOEE?oc=5",
+      "source": "Queen 이코노미퀸",
+      "summary": "스포츠 미디어 시장 대변화 진단한다... 한국스포츠과학원, 2026 스포츠산업 글로벌 콘퍼런스 개최  Queen 이코노미퀸",
       "category": "스포츠 중계권",
       "date": "2026-11-10"
     },
@@ -258,14 +298,6 @@
       "date": "2026-11-10"
     },
     {
-      "title": "삼성전자, C랩 스타트업 데모데이 개최…30개사 기술·성과 공개",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOaHZka3dYV2d3bUpUSlFpcjlPWFBUajV3MG1pN01wRVlUd010Q194Z3FUWXpXdnFEek9fX2xTb0NxRVo2Z0trSnNyVlZEcHpGUFYtNTFmX0VXZm1mZ0EtYWg2dERSTXp1UExhaHB2ZERwVU4tQzVpSjBQQnk3Z09rTHhCTEswaC1kaWhoTG4yMWFFZzRTQzhGclJRSE5CLXBaY05GT09aZ19RV3B0bmEyVkRGVnRWSVdvV0tfZTBwcENIc0ZHYXhiVUVDQ3lXaDBxMktVLWRlZVNocmlCcnlsRWNheWNlMjNpZVp4STV3YklJbWVpdjZqLWtlQ254dVZVR2MzUl96ajFOSnRDU0Y3YTliQTBXVExYY2ViX0U2ZV9scDJfbksxRnNwVEVKbnVtNUdZT3FlQWptdEo4bkZkdWt4UXllX1pXclJJRkp5UkJUNVozaFREUVdfSm5wV09ic0U4NEQxbzFqNkRXVDJUVHUzTGt6UzB0bHUw?oc=5",
-      "source": "중앙신문",
-      "summary": "삼성전자, C랩 스타트업 데모데이 개최…30개사 기술·성과 공개  중앙신문",
-      "category": "스포츠 스타트업",
-      "date": "2026-11-10"
-    },
-    {
       "title": "스포츠 AI기업 스포츠투아이, 고려대·중앙대와 업무협약",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feUROUUZWeTc4aGM3RW9MN0ZRR2ZYdmNkaUFtS0RVV2RpbVg4Q2hLQ28tSy1RVExxSnI3cVFYb1Ixbkp6bC1SWU9XTncySDF3M2Y1T0kxRDdyUUNkV3VMY9IBYEFVX3lxTE5feUROUUZWeTc4aGM3RW9MN0ZRR2ZYdmNkaUFtS0RVV2RpbVg4Q2hLQ28tSy1RVExxSnI3cVFYb1Ixbkp6bC1SWU9XTncySDF3M2Y1T0kxRDdyUUNkV3VMYw?oc=5",
       "source": "연합뉴스",
@@ -282,26 +314,10 @@
       "date": "2026-11-10"
     },
     {
-      "title": "대학스포츠와 첨단 스포츠 인프라가 만났다...스포츠투아이, 고려대·중앙대에 현장 기반 스포츠테크 랩 조성",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wdms3UzNMY1FnSWtYdFN4c3ZLSWMwdGpVakZNdUVBS1drQ2NYc2Z0WFJ6OElsUWJwUzcweE96Ynp5eHpObm5XZTZwVFJuOHFkV3huNmgyUmphbk96Q0kwQkREWXpkdlRjcmJBYg?oc=5",
-      "source": "서울신문",
-      "summary": "대학스포츠와 첨단 스포츠 인프라가 만났다...스포츠투아이, 고려대·중앙대에 현장 기반 스포츠테크 랩 조성  서울신문",
-      "category": "스포츠 기술",
-      "date": "2026-11-10"
-    },
-    {
       "title": "디즈니, 캐릭터 전용 AI 활용 확대…어도비와 영화·스포츠까지 협력",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYYklCSXBpZ3E1VjJTM3M2aU5hWDFBQkdTSmhwZzRKQjFTeEdEbjVBYUVEcjBfRk5OOTd2LXRXQ2hzWExUZGs3d2UzaGRvVjYxaUFyNF9B?oc=5",
       "source": "지디넷코리아",
       "summary": "디즈니, 캐릭터 전용 AI 활용 확대…어도비와 영화·스포츠까지 협력  지디넷코리아",
-      "category": "스포츠 기술",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "[ICK 혁신 대학을 가다/아주자동차대학교] 모빌리티 특성화 교육으로 미래 모빌리티 인재 키운다",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wQy1Ld1ZmanI4RjFieHBjb2FKaUdCTDltT2tsN0lUMFNXR3VKT0g5MV8taVplWGFpWkJhZDRFUHVCb1dVek1tM09GcDFzWk1pa1VYQ3ZvWDZWeUREZHpES3lyNmxxdw?oc=5",
-      "source": "한국대학신문",
-      "summary": "[ICK 혁신 대학을 가다/아주자동차대학교] 모빌리티 특성화 교육으로 미래 모빌리티 인재 키운다  한국대학신문",
       "category": "스포츠 기술",
       "date": "2026-11-10"
     },
@@ -314,26 +330,10 @@
       "date": "2026-11-10"
     },
     {
-      "title": "우아하면서도 고요한 움직임, 제네시스 GV90 네오룬·GV90 출시 | 영상미디어 | 현대자동차그룹",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sUENlTHpZbkVseTFnYXNpRy1IMVowNmxwUktmX24zb3JLZ0xKZ0NUSlU4Qk5ZaHVTQzlVRHpCNXB2eXZycWtWOHI3VFVDOHFvYlRGQkwzWG40SkFMdHlORUFtS3gtWXZkc3ZjWFkwZDdYNFN5?oc=5",
-      "source": "Hyundai Motor Group",
-      "summary": "우아하면서도 고요한 움직임, 제네시스 GV90 네오룬·GV90 출시 | 영상미디어 | 현대자동차그룹  Hyundai Motor Group",
-      "category": "스포츠 기술",
-      "date": "2026-11-10"
-    },
-    {
       "title": "로봇과의 탁구 대결부터 100g 미만 러닝화까지...CIIE 달군 '스포츠 경제'-Xinhua",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5SnhZS2FaQmRxRjBYZ3NicnJOc2hFZHMwdkxsa2s3VHRMakNWcGdTS0lPbWthcXhoWkVHUVJIQU1paDh3VmFLbU01Z1g3amt3Y05qaDZacVRfWkRjeFdrdTRBTWFIc1o3VHJCZUtFd3I1TTBzMnpzTUFUcGo?oc=5",
       "source": "신화망",
       "summary": "로봇과의 탁구 대결부터 100g 미만 러닝화까지...CIIE 달군 '스포츠 경제'-Xinhua  신화망",
-      "category": "스포츠 기술",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "올레드 TV 5년 연속 최고 혁신상… LG전자 8개 제품 수상",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LbEs4Z3FDR1dnWmpqZVkxM2JqRFllWUlvOF9MSkFJNTZsWTNreUxJVmhoOXcxLUdCbzlYMURZWTFDY2hpaE9SdDFyaHBTZXQyTTFIYkpZSnVoZVBQdDZSc2o1dWlndFVPMFlGTjlIZVVvUFhOOS1RNW03d9IBf0FVX3lxTE9MYXBic2JkNkRqVGdJWkNKRjdxSFdxWmZrMVVzVmNZbjBrUDAxSEFkR1ppZC1VeTJ3aTRJRVkzeFRIUjJEckJmN1hDZ3pzbmdDNElsM2FHSGlnb05ReXZTcjdSWGJoMkVPbnM5ckFZRDJTakQ3NHZjc0t0ZGJhekk?oc=5",
-      "source": "데일리스포츠한국",
-      "summary": "올레드 TV 5년 연속 최고 혁신상… LG전자 8개 제품 수상  데일리스포츠한국",
       "category": "스포츠 기술",
       "date": "2026-11-10"
     },
@@ -354,34 +354,10 @@
       "date": "2026-11-10"
     },
     {
-      "title": "스포츠투아이, 고려대·중앙대와 스포츠테크 LAB 구축 MOU 체결",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTMS1CLW55R2xUdHViNjBTWHhscVU1M1p3TUY2eENVUXV0S0wyeXF5Y0xCX1JtVGNlbjNzVzFCSktkbmtuMnAya0s0M1Y2eFNCUUpJTUh6Q2t3QlhOTGdiOWxYWE1LbVljMEhlZTJGeUstQQ?oc=5",
-      "source": "톱스타뉴스",
-      "summary": "스포츠투아이, 고려대·중앙대와 스포츠테크 LAB 구축 MOU 체결  톱스타뉴스",
-      "category": "스포츠 데이터",
-      "date": "2026-11-10"
-    },
-    {
       "title": "[구축사례] 윈윈스포츠, 매장별 근태부터 급여 아웃소싱까지 데이터가 연결되는 인사 운영 체계 구현",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiMnF3ZlVIa3MzRGNOd05NeWRuMkdmWERWaUlRZEpneS1FNHcxbTkyYWxzcm9UM3dzOGJfZk5Fc29RSy1Nczk0aUlRUzFac2VkZTNiR2dYallZOUJKT2syMmt0MWg1b2M?oc=5",
       "source": "아이티비즈",
       "summary": "[구축사례] 윈윈스포츠, 매장별 근태부터 급여 아웃소싱까지 데이터가 연결되는 인사 운영 체계 구현  아이티비즈",
-      "category": "스포츠 데이터",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "김도영, 스포츠스타 1위…손흥민 2위·김연경 3위",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xeGthMGZZQTc0aElTUU1SOGVhRFpNb1RlWE41RHRZRS1MY3lCMGU5YmNmZ0lJc2NSMzI1U0FweUJXOWFYQU9UZVJ4M2JuN3drOGl5R0pYVllwUS00ZktPbzNjVmQ?oc=5",
-      "source": "BNT뉴스",
-      "summary": "김도영, 스포츠스타 1위…손흥민 2위·김연경 3위  BNT뉴스",
-      "category": "스포츠 데이터",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "국민대, 스포츠산업 창업기업 8곳 사업화 성과 공유…투자유치 지원",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TX1VvdXpjUkprUzc2V19EbmJDakNwSmNGTG8tZk9zMzRJTFlodnJTeGRCSUVYbU0xbkRuMTBIdUJlcmpXRWJLMEo2aG42emJDX1RfekhDVXIzRGxNZURBQWM4Nlk?oc=5",
-      "source": "매일일보",
-      "summary": "국민대, 스포츠산업 창업기업 8곳 사업화 성과 공유…투자유치 지원  매일일보",
       "category": "스포츠 데이터",
       "date": "2026-11-10"
     },
@@ -394,10 +370,26 @@
       "date": "2026-11-10"
     },
     {
-      "title": "국민대 글로벌창업벤처대학원, 스포츠 분야 유망 창업기업 발굴나선다 ‘2026 스포츠산업 창업데모데이’ 개최",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3RS1lMGFuRmlPc1pHSDJPUFNVUnFUeU5GY2xoTXJCMFZfRHlyWDJNNGlQQ2RUVEVMT01uUmFLakxMUm13TGNLU3cxLUlweFBKdUpBOGZneXo3WkVWM25sbEtMSVFIdnZlYVVvZS1B?oc=5",
-      "source": "아시아투데이",
-      "summary": "국민대 글로벌창업벤처대학원, 스포츠 분야 유망 창업기업 발굴나선다 ‘2026 스포츠산업 창업데모데이’ 개최  아시아투데이",
+      "title": "국민대, 스포츠산업 창업기업 8곳 사업화 성과 공유…투자유치 지원",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TX1VvdXpjUkprUzc2V19EbmJDakNwSmNGTG8tZk9zMzRJTFlodnJTeGRCSUVYbU0xbkRuMTBIdUJlcmpXRWJLMEo2aG42emJDX1RfekhDVXIzRGxNZURBQWM4Nlk?oc=5",
+      "source": "매일일보",
+      "summary": "국민대, 스포츠산업 창업기업 8곳 사업화 성과 공유…투자유치 지원  매일일보",
+      "category": "스포츠 데이터",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "김도영, 스포츠스타 1위…손흥민 2위·김연경 3위",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xeGthMGZZQTc0aElTUU1SOGVhRFpNb1RlWE41RHRZRS1MY3lCMGU5YmNmZ0lJc2NSMzI1U0FweUJXOWFYQU9UZVJ4M2JuN3drOGl5R0pYVllwUS00ZktPbzNjVmQ?oc=5",
+      "source": "BNT뉴스",
+      "summary": "김도영, 스포츠스타 1위…손흥민 2위·김연경 3위  BNT뉴스",
+      "category": "스포츠 데이터",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "'반도체 수율 공식'을 야구에··· 삼성 라이온즈, 12년 만의 왕좌 탈환 비결",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPX0thdS1scHJoOHhIR3Y1MnVSZmtISzFsd3RnZTlpTDJuU1QtRUpkNGU4NEtiUlBUNmd5QkhJN1NnbjhLSjZlc3dQVGtzQldDZ0J2Nl82a3Vwd0hDbXVoN3RjWGVrSVBGMXk0bzRyTWhMREt4TXfSAXpBVV95cUxPbF9XcDZ6TmJDbGh4Zy1KejVJZzU3ZTloT3lzMVJNMGcyNHFjZnNlUlNuYUJYNnJrWnFidW5yRkVTRWJOZHdaYl8yU2hBNGVublp5NnFmMFB4NkR3b1RnX1FTU1NvQk13di1MOE1yOHRZU3Fib0VwOEh2UQ?oc=5",
+      "source": "그린포스트코리아",
+      "summary": "'반도체 수율 공식'을 야구에··· 삼성 라이온즈, 12년 만의 왕좌 탈환 비결  그린포스트코리아",
       "category": "스포츠 데이터",
       "date": "2026-11-10"
     },
@@ -443,7 +435,7 @@
     },
     {
       "title": "전북대 창업지원단 스포츠산업 창업기업 대상 '피지컬 AI 컨퍼런스' 개최.. '스포츠산업 접목 가능성 모색'",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LSWhfZ3hjSFBQYndKenlnME9CU2t4RjV0WjgxbTliLXYtaXFWVk1fb2w3ajhXTU1aZ3Yzd2tYeXZYOGF4aVhWYkFBWEEzUlVhMDNUSHdLY0F1MjVNekxDbGE5eWkzYkdURE8wOQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzUUNnck5GX1NJd0FaTjBBR0N4cEJlOFVEVDAxM0x1cUZ3eHVEU0RSRkkyR2VBTVRYdzl0NjZtQnVUUUpzMmhYQndHWWRjRlJWNC1TbXZZWFFGODdQeUd2UjFKZWpvemVIMmZV?oc=5",
       "source": "베리타스알파",
       "summary": "전북대 창업지원단 스포츠산업 창업기업 대상 '피지컬 AI 컨퍼런스' 개최.. '스포츠산업 접목 가능성 모색'  베리타스알파",
       "category": "스포츠 스타트업",
@@ -462,14 +454,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43WmNGd1RrZV8zNGZZa2tDbUZoVG5fOTh0Z2xLNWRlT2xaNGJSUjR3aU9wS2Z6SWNNd2xESDRpZmZfMF9nV3FxdEEtdE83aklTaHo1SmlEY1RKVUlUdDRqbDBsT0t4ajRW?oc=5",
       "source": "투데이안",
       "summary": "전북대, 피지컬 AI로 스포츠 창업기업 성장 방향 모색  투데이안",
-      "category": "스포츠 스타트업",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "피플> 학생 창업팀 ‘볼트론’, ‘로컬 스타트업 챌린지, 의정부 2026’ 최우수상",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HTnFjLUhZUHJudndkX3VIZWFZRGtoeDdVa2o3RndiSDJ6akR1cmtFUXNjbVdSNVFSUWoweTZiSUU5V1RXdWxpd05CTHc2Y2RHMlF1MEkwNHdRODRFT2NPYm1QcEZkMUZ3ck15ekZR?oc=5",
-      "source": "한국항공대학교",
-      "summary": "피플> 학생 창업팀 ‘볼트론’, ‘로컬 스타트업 챌린지, 의정부 2026’ 최우수상  한국항공대학교",
       "category": "스포츠 스타트업",
       "date": "2026-11-09"
     },
@@ -495,6 +479,14 @@
       "source": "뉴스컬처",
       "summary": "AI Content Festival 2026 to Bring Creators, Startups and Investors Together in Seoul  뉴스컬처",
       "category": "스포츠 스타트업",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "‘버추얼 태권도’, 캄보디아에 첫 선...첨단 디지털 기술을 접목",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxM0lWTFlVLWN6d1dwSmNLYjluLWQ0RGhwekV2VlJIeWl5bG9YTlo2eVlQRmhqcTZWRXJ2cTdLUTBiN0k4eHJSaUFwMl9QbHAtVE01T1RSRUpjNW5EWkx1ZmpWU0l6UTBmZ3Rkag?oc=5",
+      "source": "재외동포신문",
+      "summary": "‘버추얼 태권도’, 캄보디아에 첫 선...첨단 디지털 기술을 접목  재외동포신문",
+      "category": "스포츠 기술",
       "date": "2026-11-09"
     },
     {
@@ -538,18 +530,18 @@
       "date": "2026-11-09"
     },
     {
-      "title": "남양주시, 청소년 AI 페스타 ‘AI WORLD’ 성료…미래기술 체험의 장",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YNXZSRFRBY2hScFVxTWlxaG5sMFRLeURkSjRaSnFHaTZkV1BTY2RSTlI5OEFBR0tINXg4V1FNeDhXbjhrZzYwZUllcTluT0o5a2RybFZUY0g0Uk1uQ1poZ0RR?oc=5",
-      "source": "팩트저널",
-      "summary": "남양주시, 청소년 AI 페스타 ‘AI WORLD’ 성료…미래기술 체험의 장  팩트저널",
-      "category": "스포츠 VR/AR",
-      "date": "2026-11-09"
-    },
-    {
       "title": "[포토]터치드, 베스트밴드 수상",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BY2tiRkVBUzRwTkhhRG1ET1JCVm1LZjdYb2JKb29nUlNQRDRFNTZWZEp4VUVDcGYxVFRySzhMSjgwYVZPX2QzdjhMRVNiWk05Q1A4aGdDQ0Fmdkx2cFIyeUZ3?oc=5",
       "source": "일간스포츠",
       "summary": "[포토]터치드, 베스트밴드 수상  일간스포츠",
+      "category": "스포츠 스타트업",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "[포토]아홉, 설레는 수상소감",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tZWxua0t0V2gwVlJMSUxsXzl5dEZBOVZXTUdjQjJVNG1POWRhZlpEblk4UG1SZ3U5Y09TRVc4SXlkbmZQN3ZPbEE4Zmsxa19qck5tSWVuVjFBbU8zb3FFc2tn?oc=5",
+      "source": "일간스포츠",
+      "summary": "[포토]아홉, 설레는 수상소감  일간스포츠",
       "category": "스포츠 스타트업",
       "date": "2026-11-08"
     },
@@ -578,10 +570,10 @@
       "date": "2026-11-08"
     },
     {
-      "title": "드론 개막식에 로봇·VR 체험까지…남양주 청소년 ‘AI WORLD’",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VS3pJNkM5dEwxLXd2c1VlamFYcFVITkFfOXV2UnFSY2JMN1NUSW1RY0FuQzlGU09ISzRTbzFvSE5fWWhfeDdmRQ?oc=5",
-      "source": "미디어이슈",
-      "summary": "드론 개막식에 로봇·VR 체험까지…남양주 청소년 ‘AI WORLD’  미디어이슈",
+      "title": "남양주시, 청소년 AI 페스타 개최…로봇·VR 체험",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YZ3hVYnR2bWVNeUJNZ2cweDJIdmVDdkUwdW5SOFM1cnZSRXdQWjJJWlNEUUdsOGtJZ09JZ09fNV84em0zSG92dmFVR0JQbEtKamxSR1hGTXdueFpxeXp0WmJ3?oc=5",
+      "source": "경인미래신문",
+      "summary": "남양주시, 청소년 AI 페스타 개최…로봇·VR 체험  경인미래신문",
       "category": "스포츠 VR/AR",
       "date": "2026-11-08"
     },
@@ -590,14 +582,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JTXNIMTZDa1BGWGFWcXoxZmRQY3RXbkJTNEtrSVRLRHJRZ2pVcjBrVVprc2dBcmdoZlJfY0llTFphUVl6UENGUnlLOFFvTlBvTVY3cFAyUE5WNGM?oc=5",
       "source": "경기일보",
       "summary": "어르신 60명이 선보인 스마트폰 실력… 17년 이어진 스마트 경진대회 현장  경기일보",
-      "category": "스포츠 VR/AR",
-      "date": "2026-11-08"
-    },
-    {
-      "title": "남양주시, 청소년 AI 페스타 개최…로봇·VR 체험",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YZ3hVYnR2bWVNeUJNZ2cweDJIdmVDdkUwdW5SOFM1cnZSRXdQWjJJWlNEUUdsOGtJZ09JZ09fNV84em0zSG92dmFVR0JQbEtKamxSR1hGTXdueFpxeXp0WmJ3?oc=5",
-      "source": "경인미래신문",
-      "summary": "남양주시, 청소년 AI 페스타 개최…로봇·VR 체험  경인미래신문",
       "category": "스포츠 VR/AR",
       "date": "2026-11-08"
     },
@@ -666,26 +650,10 @@
       "date": "2026-11-06"
     },
     {
-      "title": "MyTV는 2026 FIFA U-17 월드컵 카타르™의 공식 방송권을 보유하고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUwxblltdWlmYVQyZXRkbHRkVzZMMnNFZ21MeE9oU09wbTUyQnE2S1VYYjV4clk2YXV2UVJORGR6a1Z2SlYtdU83V1pQWWFkZVJFNjNVVDNlR1NiaFVUdUQzdGFwUE5JeVVjdUNSNkNtTl9WeHRkYXZTRm54VEd0VmpfOUt0eE12eHh4NFRGcXgzMDNNWVVOVW5CTmRVNm9LMnNv?oc=5",
-      "source": "Vietnam.vn",
-      "summary": "MyTV는 2026 FIFA U-17 월드컵 카타르™의 공식 방송권을 보유하고 있습니다.  Vietnam.vn",
-      "category": "스포츠 중계권",
-      "date": "2026-11-05"
-    },
-    {
       "title": "방미통위, 국제 OTT 포럼 개최…K-콘텐츠 글로벌 진출 모색",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94RG4zVEsyWkp2aXpIMEVjYm1fNl9LOXZ4VTM1ODB6NFFGU1JRVWR5R0FvcFZtc1FSMUV2dE1EZ3dkMzNzbWNaTTBkY2ZOMUJGTzlYNEktUklmamYxcUtlUHVKWHRLSFBVMkNv?oc=5",
       "source": "BBS불교방송",
       "summary": "방미통위, 국제 OTT 포럼 개최…K-콘텐츠 글로벌 진출 모색  BBS불교방송",
-      "category": "스포츠 OTT",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "스트리밍의 미래는? '국제 OTT포럼' 개최",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tamdmNTd0UXN3WjdoNzFQOXhLN1diZDV3aGRvNWtPMkZ1WDZaRlE2MnhfNTMxeFB2elNfcWJ5QXlOOElQWnRhckdZdi05UV9CYzBVbUQ4YTRhMmtKcUlwbTlvdjdydmhob1pwWHo1MA?oc=5",
-      "source": "서프라이즈뉴스",
-      "summary": "스트리밍의 미래는? '국제 OTT포럼' 개최  서프라이즈뉴스",
       "category": "스포츠 OTT",
       "date": "2026-11-05"
     },
