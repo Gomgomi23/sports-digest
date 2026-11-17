@@ -1,19 +1,59 @@
 {
-  "updated_at": "2026-11-16 23:27 (KST)",
+  "updated_at": "2026-11-17 10:23 (KST)",
   "articles": [
     {
-      "title": "유동성 위기 직격탄 맞은 JTBC, 결국 올림픽 중계권 반납",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1WUc1cFBUaHZOc0x0aTBRUVNzbW1meDBHZlExNDFObFJrelFFcUZaU0Q1dnE0cUdEWEJmZ1Axd2U0Y3l2RzQyUGpiaTJiVjByS0lFYTFsRlRwaXoxS3NXeTQ0OHRsUVJlRE42Y2Nn?oc=5",
-      "source": "스포츠동아",
-      "summary": "유동성 위기 직격탄 맞은 JTBC, 결국 올림픽 중계권 반납  스포츠동아",
+      "title": "JTBC, 올림픽 중계권 포기… 향후 3개 대회 중계 못해",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FMVNYTGpqeWF3S2lRQmJkS1Zud1dxM3N3OGxIYUk5aExVWjVlVTNSa01peGVaVTVzNko3QkRKZ2RadkRGSEViY29NWHZQSVZZOUxBekJOdWtNM2M2S2I2Smc2VklXQ1F1TmU2NGUwaHpNS2o2QkHSAWZBVV95cUxPdF82Y3hXdE9BZWtoWjBvVFU4U1JwU25OaExIRUNwc1BoeHM1SDhFUEx5akNRTldHdWNORmE0RHFkOWM2UU10WUNJUklUVjhybHpsYmw3bldqdlZTRjV6aU0ybmdhY3c?oc=5",
+      "source": "동아일보",
+      "summary": "JTBC, 올림픽 중계권 포기… 향후 3개 대회 중계 못해  동아일보",
+      "category": "스포츠 중계권",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "독거노인 구한 K-스마트링…국내 넘어 미국·일본 진격 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zY1FJMWZKX1Nja3pqOFlrR19fbmQ5aTNxQ01BWHJnOE41X0hPNExJMlZuSmRDTVhwVWNhY1hWejkyS05mYTFGc1FURnhzQk9HLTQ4eEctOVlOX2pUb2lZLW1IaXBBU3RBaW1HZVF4Y9IBb0FVX3lxTE5zY1FJMWZKX1Nja3pqOFlrR19fbmQ5aTNxQ01BWHJnOE41X0hPNExJMlZuSmRDTVhwVWNhY1hWejkyS05mYTFGc1FURnhzQk9HLTQ4eEctOVlOX2pUb2lZLW1IaXBBU3RBaW1HZVF4Yw?oc=5",
+      "source": "머니투데이",
+      "summary": "독거노인 구한 K-스마트링…국내 넘어 미국·일본 진격 - 머니투데이  머니투데이",
+      "category": "스포츠 스타트업",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "나이키, 차세대 기술 혁신·신제품 라인업 공개…“선수·과학·솔루션으로 접근”",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81ck5RX1dYb1pDVGY3WkFOTC11NEZGY0dWS2lsVzluOVNSSi0wT0RCVUV1azl2a2ZaVmFaRGpMYjFqWEFOakQxMFJWYU5DOTgx?oc=5",
+      "source": "문화일보",
+      "summary": "나이키, 차세대 기술 혁신·신제품 라인업 공개…“선수·과학·솔루션으로 접근”  문화일보",
+      "category": "스포츠 기술",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "나이키, ‘선수로 시작해 선수로 완성한’ 차세대 기술 혁신과 미래 방향 공개",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YWThyT2xPd1VFLTdFN0tnMWc1UVpqakc3NTNKUktyQnM5T1pXQk5QUndGa2dzQTk4OVVxUVRzMGwzekQzVTV4QXdJcnNud1VfSW9UT29BS21ybVk?oc=5",
+      "source": "ACROFAN",
+      "summary": "나이키, ‘선수로 시작해 선수로 완성한’ 차세대 기술 혁신과 미래 방향 공개  ACROFAN",
+      "category": "스포츠 기술",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "'우승보다 부러운 밀워키의 110명' 데이터 분석과 스카우팅에 투자한 스몰마켓의 성공 방정식 [류선규의 비즈볼]",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0OC1WMmVsY3lJM01ISXVGeF9jWDNUN0ZLY08zOXpzSlFNcVZNWFd3Uy0xdEplTXJOZkowWE1aTkNXT2tDSGxERTRiZWVRVHFxbjlabEo3NV9HMUFPc3JuR3M3RUd2bF9hVGtYaVNqYS1aZzFmNnc?oc=5",
+      "source": "스타뉴스",
+      "summary": "'우승보다 부러운 밀워키의 110명' 데이터 분석과 스카우팅에 투자한 스몰마켓의 성공 방정식 [류선규의 비즈볼]  스타뉴스",
+      "category": "스포츠 데이터",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "JTBC, 올림픽 중계 손뗐다…IOC와 중계권 계약 해지",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wQ3N4aUQ5ekthWlA4OV9DWmFKckIxejhUdFBjZEpRMU5aR3VMclpXb3RuSF9ucnc0MFZURUdfMUhmcGFQRE9tVXJ5WWhGVjViRTExb3VnRFZnM0x2b1RyV25YSUZWQ2dYSFFDOQ?oc=5",
+      "source": "콜뉴스24",
+      "summary": "JTBC, 올림픽 중계 손뗐다…IOC와 중계권 계약 해지  콜뉴스24",
       "category": "스포츠 중계권",
       "date": "2026-11-16"
     },
     {
-      "title": "JTBC, 올림픽 중계권 결국 포기…IOC와 계약 해지",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1cE9UT3F4d1lQVTBuTXBFZzR4bHBtUTZLWEszYTVZZFJ1dldrdElDZV93RGRVUElCNXpZZ1ptaXk0aG95NlRFUXloRlV1RGE2b3FFdGwtWU5yQ3VsV3VvdHV4YnFKYzB5aDVv?oc=5",
-      "source": "애드뉴스인천",
-      "summary": "JTBC, 올림픽 중계권 결국 포기…IOC와 계약 해지  애드뉴스인천",
+      "title": "JTBC, 결국 올림픽 중계 포기…2028년 LA올림픽 중계권 새 주인 찾는다",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9femo1b0NwZktQZTI3bjBwX0FIMkYzVGZ3MklCbzhqNEpPb2RiZVNock1iNTNqdUlmOWNKOS10SFZiUXZablVldA?oc=5",
+      "source": "신문고뉴스",
+      "summary": "JTBC, 결국 올림픽 중계 포기…2028년 LA올림픽 중계권 새 주인 찾는다  신문고뉴스",
       "category": "스포츠 중계권",
       "date": "2026-11-16"
     },
@@ -22,6 +62,14 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55TXprZXdDTjZVb0VNRERhdEZReHdvT2dWd0pHRXNvQ2tUREZ3ajAtVGdRcTBrWXhSbXhFTm9MLUxjUHBIT1FndnY4TFhpMFdfOVNkUEcyR0lDTnVzSlhNWkNESdIBY0FVX3lxTE55TXprZXdDTjZVb0VNRERhdEZReHdvT2dWd0pHRXNvQ2tUREZ3ajAtVGdRcTBrWXhSbXhFTm9MLUxjUHBIT1FndnY4TFhpMFdfOVNkUEcyR0lDTnVzSlhNWkNESQ?oc=5",
       "source": "스포츠경향",
       "summary": "‘기업회생 절차’ JTBC, 2032년까지 사인한 올림픽 중계권 계약 해지  스포츠경향",
+      "category": "스포츠 중계권",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "JTBC, 올림픽 중계권 결국 포기…IOC와 계약 해지",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1cE9UT3F4d1lQVTBuTXBFZzR4bHBtUTZLWEszYTVZZFJ1dldrdElDZV93RGRVUElCNXpZZ1ptaXk0aG95NlRFUXloRlV1RGE2b3FFdGwtWU5yQ3VsV3VvdHV4YnFKYzB5aDVv?oc=5",
+      "source": "애드뉴스인천",
+      "summary": "JTBC, 올림픽 중계권 결국 포기…IOC와 계약 해지  애드뉴스인천",
       "category": "스포츠 중계권",
       "date": "2026-11-16"
     },
@@ -50,54 +98,6 @@
       "date": "2026-11-16"
     },
     {
-      "title": "법정관리 중인 JTBC, IOC와 올림픽 중계권 계약 해지",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2ODhhVmhpWDhxSWRReFBqQ040T0VOMTR2RjhTUXVvdWFnUVd0Yk9tM2d3dG9zNmpRZjVZdEMxcDNaeE5xeFpDUFI0UTVxRHROZkVrVEJZalRzWjhMdjlscFdiQl8?oc=5",
-      "source": "한국기자협회",
-      "summary": "법정관리 중인 JTBC, IOC와 올림픽 중계권 계약 해지  한국기자협회",
-      "category": "스포츠 중계권",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "'회생절차' JTBC, 결국 올림픽 중계 포기…\"재무 불확실성 해소\"(종합)",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ja2g5cnUta2k4ZXBuWVpob1MzMTk1SE9SQm5tbWxieGllX0lreVJJdVZDZ2M4em10N1NPbzRjNjVnWlJ6aHotTS1PcFdrTGZGR0FMLVk1TkttNUJFYjJCbtIBYEFVX3lxTE1Ja2g5cnUta2k4ZXBuWVpob1MzMTk1SE9SQm5tbWxieGllX0lreVJJdVZDZ2M4em10N1NPbzRjNjVnWlJ6aHotTS1PcFdrTGZGR0FMLVk1TkttNUJFYjJCbg?oc=5",
-      "source": "연합뉴스",
-      "summary": "'회생절차' JTBC, 결국 올림픽 중계 포기…\"재무 불확실성 해소\"(종합)  연합뉴스",
-      "category": "스포츠 중계권",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "올림픽 독점 중계권 확보했던 JTBC, IOC와 계약 해지",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmbGcyWGMwUUltekFDbnlwT0pfR3FHV215MlVycEFSbl91TVVIOUh3a0w0YzQxMW1rd2VrblZPaFdkeXpwZUU2VmRMV2I4M1ZRdUYyVTV3UWl0Zw?oc=5",
-      "source": "한국경제",
-      "summary": "올림픽 독점 중계권 확보했던 JTBC, IOC와 계약 해지  한국경제",
-      "category": "스포츠 중계권",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "‘기업회생 절차’ JTBC, 2032년까지 사인한 올림픽 중계권 계약 해지",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tdUVadGlxc0E1Tk1lTk13NUI4NTR4d3lXQVZBSVA0NE5lS2p4a05ETVNYTHF2NFdUWjdjRUNXU1U5Wk5TN3p0TXZSUzRmVjdJejFVNmd0akJpcE96Y3fSAWNBVV95cUxOeU16a2V3Q042VW9FTUREYXRGUXh3b09nVndKR0Vzb0NrVERGd2owLVRnUXEwa1l4Um14RU5vTC1MY1BwSE9RZ3Z2OExYaTBXXzlTZFBHMkdJQ051c0pYTVpDREk?oc=5",
-      "source": "스포츠경향",
-      "summary": "‘기업회생 절차’ JTBC, 2032년까지 사인한 올림픽 중계권 계약 해지  스포츠경향",
-      "category": "스포츠 중계권",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "JTBC, 올림픽 중계권 결국 포기 \"2028 LA올림픽 등 중계권 새 주인 찾아야\"",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13eGR5Z2IyeThWa0Q2aXJpd2hpRmZBNzhOOWt2Q244dnNCYzUzUnBqWFBpNkZCVWVGeTlqM2pOb19hM0NsUS1UQjBHbVpfVzY4ZjVmbXprWkZJSW1sSWxZUlZR?oc=5",
-      "source": "매일신문",
-      "summary": "JTBC, 올림픽 중계권 결국 포기 \"2028 LA올림픽 등 중계권 새 주인 찾아야\"  매일신문",
-      "category": "스포츠 중계권",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "회생절차 밟는 JTBC \"올림픽 중계권 계약 해지\"",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ycDR4WFVJRzA1Z3dhTHlnZTRiVmRrTmRsV1hkQ1RTRnAzbVJDZFpNNzBpTmQ3QmVNaWZtNWRleHJGR2dxbDlOdzdCc0xud2RBSHRSeGlIV1ZFYVdPSnBKNHNndnhaN3Q0OTR3SQ?oc=5",
-      "source": "미디어스",
-      "summary": "회생절차 밟는 JTBC \"올림픽 중계권 계약 해지\"  미디어스",
-      "category": "스포츠 중계권",
-      "date": "2026-11-16"
-    },
-    {
       "title": "단국대 창업지원단, 창업기업 7개사 싱가포르 진출 지원 “글로벌 투자유치‧시장 개척 박차\"",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WUll2ZWJUT3ZHZHNYc2NYbmRseE1YaXZpR0ZuN3dxeWJodl85eUtRbXI2NlJpQmVldzNfdmQ1dHZQcEx4M1dILU1oSmpDT1V0aGM2c20xNFF0eUQ4WkFUaVFCTzllUEdvRFZWbmY3UQ?oc=5",
       "source": "단국대학교",
@@ -114,18 +114,10 @@
       "date": "2026-11-16"
     },
     {
-      "title": "사채 대신 월급 가불, 소문 대신 고급 정보…베트남 사로잡는 스타트업",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByT0JSb3ItT2ZHdjdxRDNUOUxXV3lqNW5qQnFTWlpRNk1KenZDZm4xTWxrQWFZa2NEXy1aaDVXQnVXNGdxZENxMFpKZFdiSUlVTWhOOHJHUElsYS1ZdmlZVDVxRGxJZEZONXJGMzZR0gFzQVVfeXFMTmlVWF9pNEMxUUljVklIWEJzUEJHLWRndm5HRXRlUnlYOEhmOV9ReGdhX01WaGNBVU5qT0R0aURialdPaWowbnZDYUpGaVNZX2xoTDB3VmxZRU9UemlXUVNMNmxSMkM2T1dSZVdlaGFMRDZiYw?oc=5",
-      "source": "한국일보",
-      "summary": "사채 대신 월급 가불, 소문 대신 고급 정보…베트남 사로잡는 스타트업  한국일보",
-      "category": "스포츠 스타트업",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "한화금융, 뉴욕서 'PLUS NY 2026' 개최…월가 인재 꿈꾸는 청년 750명 모여",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WdXJGbHpiYWNJZWN2SWxnaFJ0Y0dWSkZfTlcyTW9ncGlNZVRpb0lLSmkwbGtXclZmQ2xEcjFQVlctNVVjMFh1Y2U0MTlmZw?oc=5",
-      "source": "전자신문",
-      "summary": "한화금융, 뉴욕서 'PLUS NY 2026' 개최…월가 인재 꿈꾸는 청년 750명 모여  전자신문",
+      "title": "문체부·한국관광공사, ‘2030 관광기업 육성 비전’ 선포… 관광벤처 지원 ‘검증·연결’로 대전환(MCST and KTO Proclaim ‘2030 Tourism Enterprise Fostering Vision,’ Shifting Support to ‘Verification and Connection’)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uNFA2ZUh5UmJTeTU1aFBfY1JmT0lPeHhPNjF0WGI5YktvVTNIbXl5Zm5ZZ0I5c3JidHRoMGhGYXhlN3hCSVZIamZxUHowdXdqZEtJQmlqLXJSY0Q5TTZmNzQyc1RBa1I4dVRNeVZ2QUJDUQ?oc=5",
+      "source": "글로벌휴먼타임즈",
+      "summary": "문체부·한국관광공사, ‘2030 관광기업 육성 비전’ 선포… 관광벤처 지원 ‘검증·연결’로 대전환(MCST and KTO Proclaim ‘2030 Tourism Enterprise Fostering Vision,’ Shifting Support to ‘Verification and Connection’)  글로벌휴먼타임즈",
       "category": "스포츠 스타트업",
       "date": "2026-11-16"
     },
@@ -146,18 +138,18 @@
       "date": "2026-11-16"
     },
     {
+      "title": "한화금융, 美월가 이끌 미래 인재 육성한다…뉴욕서 컨퍼런스 개최",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BOVUtYl9UWjZoT1ZBVTU4eHZfVUFSVU03T3lTcUh1cEFkaG5rdlJuU1dSbjVCVDBrLUI0NnVzY05NMm1OcjlqNE41cUhXRjRqcE9TU0xWTTloTmVQZnkzaXRSVm9CNDFocVRIWEVn?oc=5",
+      "source": "아시아투데이",
+      "summary": "한화금융, 美월가 이끌 미래 인재 육성한다…뉴욕서 컨퍼런스 개최  아시아투데이",
+      "category": "스포츠 스타트업",
+      "date": "2026-11-16"
+    },
+    {
       "title": "[송석록의 생각 한편] 1600조 원의 미래, 인간은 무엇을 하며 살 것인가",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lRjliTWNyRXpvWld6REtaSXh2Y3piemprMW9BcWRMbGxLQXpyNGZfcjlZUVN6bWxrV0RncTU1Tk5Da2VyRTlueW96a0NFb2pfaDBQNjc5TEZlbjNhcjJuSllqRdIBY0FVX3lxTE9lRjliTWNyRXpvWld6REtaSXh2Y3piemprMW9BcWRMbGxLQXpyNGZfcjlZUVN6bWxrV0RncTU1Tk5Da2VyRTlueW96a0NFb2pfaDBQNjc5TEZlbjNhcjJuSllqRQ?oc=5",
       "source": "스포츠경향",
       "summary": "[송석록의 생각 한편] 1600조 원의 미래, 인간은 무엇을 하며 살 것인가  스포츠경향",
-      "category": "스포츠 기술",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "거제소방서, 2026년 의소대 기술경연대회 개최",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9JalgzRFdzQV9QNWpvTkxSX1pfeThSUXBKZmgySEFwOWtmb3JReWxaRDBISHNjT0xvSEtKRVEtTFc5QWNR?oc=5",
-      "source": "소방방재신문",
-      "summary": "거제소방서, 2026년 의소대 기술경연대회 개최  소방방재신문",
       "category": "스포츠 기술",
       "date": "2026-11-16"
     },
@@ -186,22 +178,6 @@
       "date": "2026-11-16"
     },
     {
-      "title": "최혜진, LPGA 10번째 준우승에도 \"또 하나의 경험으로 삼겠다\"",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Da3NIVWxpeWdHSm9xcWlydlZpNVNrNWdFZmNnY1NxUHQ0X1otRTZxcnREWkhLeHVnajhHaUZleW9MbmtnU0EtRFVkTE53dlBsRlBxeDE4NFF1M3VTbmROUtIBYEFVX3lxTE1Da3NIVWxpeWdHSm9xcWlydlZpNVNrNWdFZmNnY1NxUHQ0X1otRTZxcnREWkhLeHVnajhHaUZleW9MbmtnU0EtRFVkTE53dlBsRlBxeDE4NFF1M3VTbmROUg?oc=5",
-      "source": "연합뉴스",
-      "summary": "최혜진, LPGA 10번째 준우승에도 \"또 하나의 경험으로 삼겠다\"  연합뉴스",
-      "category": "스포츠 데이터",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "한국e스포츠산업학회 ‘제8회 대한민국 e스포츠 정책포럼’ 20일 부산 벡스코서 개최",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90cndSSGZETDJheEZLVTJaZjJmMGJWeTN2VDlLQnZkTzNnbEJIbjg4WUZsZEZfZmcza3J2V0E4SUtVSldpWFc0dDNqNmlzQ0dEVE1MQzd5cFBPd3pYamfSAWNBVV95cUxOOWNDbnNCZ0FmLWJLT2JmNGlSTFZseW9DTUwyS3hpU3I2dDFlMFowLWJHaU5MWWRqS1VZV0FLMEVWck9KYjM2RHVlajZ2MEJMeHgtWTlrOWloWnlfTU9WS25sNWs?oc=5",
-      "source": "스포츠경향",
-      "summary": "한국e스포츠산업학회 ‘제8회 대한민국 e스포츠 정책포럼’ 20일 부산 벡스코서 개최  스포츠경향",
-      "category": "스포츠 데이터",
-      "date": "2026-11-16"
-    },
-    {
       "title": "체육대, 첨단 스포츠의 메카로",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYaVdHd0Q3YV9ZN29KX1hyU2ZycXhXM1pfSlNJYVRRQnNOWXJ1Sk1FQlcyVDNnbVNuQ2FXekdRSFpLRUtOR08wbDZtQ1UyVFdVMG5HYXJ4NGxTSjhBWU5GQWJ5eENNU1UwOXVr0gFrQVVfeXFMUFhpV0d3RDdhX1k3b0pfWHJTZnJxeFczWl9KU0lhVFFCc05ZcnVKTUVCVzJUM2dtU25DYVd6R1FIWktFS05HTzBsNm1DVTJUV1Uwbkdhcng0bFNKOEFZTkZBYnl4Q01TVTA5dWs?oc=5",
       "source": "중대신문",
@@ -210,24 +186,8 @@
       "date": "2026-11-16"
     },
     {
-      "title": "가상현실 기술로 문화유산을 디지털화하다: '서유기' 프로젝트를 통해 본 젊은이들의 발자취.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbV85MUdvUUxCeVJlRmQ5UWUzSUtYYkR0VHFocldaRnBLUmtXUjhVMjh4eElRNHZYT3RpTHROZDRocVRJbV95THdWR2c4S19KdVlKQXZlT1lvZHVQUTNNYWRSaVlKM3Vzay1HN2lMUHEycGFmNzVPUkFCT1JhYndiVTRZakhxWC1KWk5rcG1SLWlhRnR3UDR1UGczcFMwM01MVDBQMjZ3?oc=5",
-      "source": "Vietnam.vn",
-      "summary": "가상현실 기술로 문화유산을 디지털화하다: '서유기' 프로젝트를 통해 본 젊은이들의 발자취.  Vietnam.vn",
-      "category": "스포츠 VR/AR",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "불산 누출·화학테러도 가상현실에서…첨단 기술 만난 화학안전 교육 [화학규제 혁신③]",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSb05RUVd1Qk1oWUJWbm1YQW5ZbTYzYXNPRkI0U183NVZaU0VCUkVBU3ZudEpwRy1WVzV6R0hmTzNySVFuZVd5SEt6YXNYTE5oUm8taQ?oc=5",
-      "source": "데일리안",
-      "summary": "불산 누출·화학테러도 가상현실에서…첨단 기술 만난 화학안전 교육 [화학규제 혁신③]  데일리안",
-      "category": "스포츠 VR/AR",
-      "date": "2026-11-16"
-    },
-    {
       "title": "스포츠로 몸집 키운 치지직… 네이버 수익성엔 부담",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZRTJSZmo5R2tQbzZqMmhVRzhhR3JlQUxBZkV3U1p2VXZyZWpJa2l0UzFPYVlFWDIyM0hEc1lucGZGLXljajk5Z21ZamkxZlgtSG9VNml5SmNHVU83WmtERThuOGxjaU1uR0VldUJJSDg5b19P0gF0QVVfeXFMT1lFMlJmajlHa1BvNmoyaFVHOGFHcmVBTEFmRXdTWnZVdnJlaklraXRTMU9hWUVYMjIzSERzWW5wZkYteWNqOTlnbVlqaTFmWC1Ib1U2aXlKY0dVTzdaa0RFOG44bGNpTW5HRWV1QklIODlvX08?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBScklkZmJVbGlnem5pTVlkNDZ4N3I2U25fNmxIV1d4MkRVdFVSNWpHLWtHWXBNTi1adFhNejh2eE5QRFRacmxpS09TZjZzRkR6cEJ0YVlOLUJmd3lPMGFtSWtEdmI3NnA4eVdDRUVhNE7SAXRBVV95cUxPWUUyUmZqOUdrUG82ajJoVUc4YUdyZUFMQWZFd1NadlV2cmVqSWtpdFMxT2FZRVgyMjNIRHNZbnBmRi15Y2o5OWdtWWppMWZYLUhvVTZpeUpjR1VPN1prREU4bjhsY2lNbkdFZXVCSUg4OW9fTw?oc=5",
       "source": "IT조선",
       "summary": "스포츠로 몸집 키운 치지직… 네이버 수익성엔 부담  IT조선",
       "category": "스포츠 중계권",
@@ -239,6 +199,14 @@
       "source": "Mezha.net",
       "summary": "ANA, 우주 건설 스타트업 Space Quarters에 지분 투자  Mezha.net",
       "category": "스포츠 스타트업",
+      "date": "2026-11-15"
+    },
+    {
+      "title": "아식스는 왜 지금 가장 잘 달리는 스포츠 브랜드가 됐나",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XNnFCdktLOVRRVy1UNGFuYmlRSnlERGxqa3BYVjhLSDV4MFd5d3JjWFhTVlN5d3VvdUNZX3UtSy05dG9vNGpUbjVmYTltR3NzUlpHaXVsYWdKSkpGeXgyX2NsbEZDZnF5V1BYekZuTTNzRmxrblE?oc=5",
+      "source": "패션포스트",
+      "summary": "아식스는 왜 지금 가장 잘 달리는 스포츠 브랜드가 됐나  패션포스트",
+      "category": "스포츠 기술",
       "date": "2026-11-15"
     },
     {
@@ -266,19 +234,11 @@
       "date": "2026-11-14"
     },
     {
-      "title": "초중고생 컵 쌓기 실력 겨룬다…밀양에서 스포츠스태킹대회",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BTVZaeGp3SUxSS21tZDhXeHF4enoxLXJzeE5aOUZlWUlHejlzQS1waU96aHZnVnRUNmNZaW1KWDVBUERLbFJ4OUViZm5wd2YtRzdVTXpUb1U3OThGb1A2dtIBYEFVX3lxTE5BTVZaeGp3SUxSS21tZDhXeHF4enoxLXJzeE5aOUZlWUlHejlzQS1waU96aHZnVnRUNmNZaW1KWDVBUERLbFJ4OUViZm5wd2YtRzdVTXpUb1U3OThGb1A2dg?oc=5",
-      "source": "연합뉴스",
-      "summary": "초중고생 컵 쌓기 실력 겨룬다…밀양에서 스포츠스태킹대회  연합뉴스",
+      "title": "매출 2배 키운 아이티센클로잇, 적자 탈출 후 AI·스포츠로 확장",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZSV9KOFpYTUVqT2R6d3RoeV92emd0VW1fcG8wajlDaTZvZXFlRmpVVlVKWU9lUmJwMHpIcXExQS14QUQySWdVTFF0cw?oc=5",
+      "source": "Daum",
+      "summary": "매출 2배 키운 아이티센클로잇, 적자 탈출 후 AI·스포츠로 확장  Daum",
       "category": "스포츠 기술",
-      "date": "2026-11-14"
-    },
-    {
-      "title": "미래부, 2016년 기술영향평가 대상 'VR·AR' 선정",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12dlVRTi16YmlGeks3cENPN0YtdjZtMUF1c3BoQVlqUTN4QzFod2REOVIzb0RJcXZFYmpfbHRpeEFWbHk4UGdLekFEMkZ0Qy1lM3FZU3dYYjdMUHpPWlgwN0dHd01FdElJOUxYbXdHS0lDQkx2cGpv?oc=5",
-      "source": "m.thepowernews.co.kr",
-      "summary": "미래부, 2016년 기술영향평가 대상 'VR·AR' 선정  m.thepowernews.co.kr",
-      "category": "스포츠 VR/AR",
       "date": "2026-11-14"
     },
     {
@@ -298,18 +258,10 @@
       "date": "2026-11-13"
     },
     {
-      "title": "[이번주 뭐보지] MMA2026·A매치 축구 등 예능&스포츠 공개",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UYTd0TVB5UEdMR0JJSkpobFB2MGxUcTNlWk9jSFIzMElzZGcySXNIRzc2UEVseFlVTVNJY1ZzTEVzNEgxMWY2Y0J3cVdTcHd2Rm5WV0R5UDAzcWFqUmZ6WnpadTdNYnl0Rnc?oc=5",
-      "source": "천지일보",
-      "summary": "[이번주 뭐보지] MMA2026·A매치 축구 등 예능&스포츠 공개  천지일보",
-      "category": "스포츠 OTT",
-      "date": "2026-11-13"
-    },
-    {
-      "title": "AnAI Targets Global Localization Market with AI Dubbing Engine ‘DynEx’ at Web Summit 2026… “One-Tenth the Cost, 8 Times Faster Delivery”",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzMnNhdm1vVmZZSUF3bkRaRlRRWkRWU0tzVmpzOEFCR0l2bUxiZm1xV25oNHYzT2hQYnh0ano5czd4cFoxQVFSNW5hQ0VrNmZBTVNfRkdYbWNOS1dWZlBwYWN0Zi14dmvSAWtBVV95cUxQM25NM05UbHVLQk5hcDNIRVVLTEFSQk91TC1RQ1FGNkN0emd2OW9BaXlWV3A0N0xnNXhBVjFIcDJJbzhwNzN4NjR6a1ZNOWJMMTVQMEkwYTF4YmphcEVGdWExWUd0ZjhaN3drYw?oc=5",
-      "source": "에이빙",
-      "summary": "AnAI Targets Global Localization Market with AI Dubbing Engine ‘DynEx’ at Web Summit 2026… “One-Tenth the Cost, 8 Times Faster Delivery”  에이빙",
+      "title": "\"보고 싶은 콘텐츠 어딨지?\"...OTT간 통합 검색·추천 필요성↑",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yLUVpcDVQc2hSUU90OUYzOUl6akFBY3VwX21PZTdkdE5kMl9QZHNHVmJGWGxQclEyaEZpckxpb19kWDdqZ1lRTGhLWnZMVFpmb3VSOG1n?oc=5",
+      "source": "지디넷코리아",
+      "summary": "\"보고 싶은 콘텐츠 어딨지?\"...OTT간 통합 검색·추천 필요성↑  지디넷코리아",
       "category": "스포츠 OTT",
       "date": "2026-11-13"
     },
@@ -326,14 +278,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGclh3Z3VSOG40NWptRjNsXzBHT3pVLThJVTd4NGV4eFhtZ0lLUFNzSWV0a2ppR3dQVGNuUHV1SWRKTHZUWXZuQW9MWGZuZlJ0elh2VXJLYzQzN2xuYU1vbmdGUnJOSGtOMC1jQ9IBb0FVX3lxTFBQZW9tOVdQRjhmbDc3eGZ2V2hpSGNBVTdjTUV5cEE4TndKaVpkTU02N2ZWQ2oweXVoR1p0WGR2U0w1d3BfMlVRbVkyVFBXNUJUeWYwSVZ1dzZpbU9GcTNXeEdWVUdJVFlldTJyTzBZQQ?oc=5",
       "source": "한스경제",
       "summary": "장갑에 적은 한마디가 사업으로…골프 스타트업 임팩트업의 도전  한스경제",
-      "category": "스포츠 스타트업",
-      "date": "2026-11-13"
-    },
-    {
-      "title": "글로벌 대기업·해외 VC 판교 집결…’2026 경기스타트업페스타' 개막",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaNzIzS1lkSEhhZnlXSFpPaXB1dWc1SVJJZ2dpVmRLQldwWW1hQ0hUWHRHblR6eF85MGdwWVd3TGFiSlNaU0dBbVEwVmZaZERsRmFsMmdNVUxFeHFQSzEzZmJDOXQ5V0M3X0k4LVBhdw?oc=5",
-      "source": "STN SPORTS",
-      "summary": "글로벌 대기업·해외 VC 판교 집결…’2026 경기스타트업페스타' 개막  STN SPORTS",
       "category": "스포츠 스타트업",
       "date": "2026-11-13"
     },
@@ -370,26 +314,10 @@
       "date": "2026-11-13"
     },
     {
-      "title": "[포토S] 사샤 헤르텔 박사, '데이터 기반 선수 육성과 스포츠 콘텐츠 활용 사례 발표'",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54SmkwVXNmb21YU3NEOVRVSVlqN2FMV3BZZzZsNnA0ZE9Oek50T1ZFMWwtZXFZa2MyNFlYLTJqUmVzY1E0eWt4QUFzNkVYWVdtWXBYZFphQjV6N2pMbHdJdFJsYmo4S1ZsOWxwTU04WHQ?oc=5",
-      "source": "SPOTV NEWS",
-      "summary": "[포토S] 사샤 헤르텔 박사, '데이터 기반 선수 육성과 스포츠 콘텐츠 활용 사례 발표'  SPOTV NEWS",
-      "category": "스포츠 데이터",
-      "date": "2026-11-13"
-    },
-    {
-      "title": "국립목포대, '스포츠 데이터 분석 인재 육성'... 테크플래닛과 산학협력 협약",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tNU14T3p2UHd2NU9OZEpFcUtnbW9lQkd5Tl9LSW9tazcxTmoxSFR1UklBU0RHYWpHZXptMFFYX3RTWmIxRHRoX2pIdmtTZzl4RXpOWGxfUFptd0M5NmVwMUV2dktfU1Z6WDdQOTBneUfSAXRBVV95cUxQVHZrTHp4elBkQ1l3V2ExUDk3eUlScXFQS1pZNXh2VTNaSmlWeklXRzVFVTlpZTN6M0VPbTlybUtOaVVaT1FDSGdMbDVFUWpvd3dZQ1N4eGNLNTNkQTh6S1BvdmwyMGNjdlFNaGRxblN1NGwxZQ?oc=5",
-      "source": "뉴스워커",
-      "summary": "국립목포대, '스포츠 데이터 분석 인재 육성'... 테크플래닛과 산학협력 협약  뉴스워커",
-      "category": "스포츠 데이터",
-      "date": "2026-11-13"
-    },
-    {
-      "title": "[생중계] 사우디아라비아 vs 대한민국 무료 시청 - 11월 13일",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYThFUzFMdFRBRTgyQnBLdFhFelZpSDVXSkFTWTNTOFg4cDhObTJ1LVZRN3hfUWlKZTJ6bkllTkx6cjZQSmE4T1VkWTFlVDh6ZnpYcEZla0xsVTNueGZiQkJ2RW5sWGstckVJaU1zMGJ1WGo0VzVNZWdvRTZTdFRlTjB3Vzl3XzhkTkY1ZUZZenJQZ1A2V0NMZHNmMXNONTVrU1p5aGxjRlBGOFpSRll4MURHTXpIOWVuUFRvMUN3cFZJckdmVW5HUHdjRjJxbzEza21PcHV0b0dXbkZLaVJlbDdlRVMwUUlOQTY3eGs4bVhhYU1Ic0NCcGt5OU9yRERxTFFLM2xpazhMeXJxZHdTSmxuNDNqS0dJeGNIQWU1UzNmY2s?oc=5",
-      "source": "日本取引所グループ",
-      "summary": "[생중계] 사우디아라비아 vs 대한민국 무료 시청 - 11월 13일  日本取引所グループ",
+      "title": "[스포츠, 라이프를 바꾸다上] 러닝화부터 메리제인까지…달라진 스포츠웨어 소비",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EMEJ6aGRQVC1qTFZnVGZBSnh3cTF4akxVem1UN0dGNTBpZi1ySC1zeUxkZ05FVnBUSFJSc1N1YzVhYzROek1yQ0Y0OGxmemlGT2JhUW0tcXdoRDVYM09tZENoR2xpYlEyMVRDN9IBcEFVX3lxTE1VREhtYUktaDh2TWdTbTJscWxpdVV0M0kwUmhUTjMwRXU2UEhlZU5GTWxkeXlSX3dXSW5Wcng5VGpORzBTUXVUamVQRUk3TFRkN0lQWDRIeFdXd1pyRERYWFBISzRTdEc4T2FSQlZsSWo?oc=5",
+      "source": "반론보도닷컴",
+      "summary": "[스포츠, 라이프를 바꾸다上] 러닝화부터 메리제인까지…달라진 스포츠웨어 소비  반론보도닷컴",
       "category": "스포츠 데이터",
       "date": "2026-11-13"
     },
@@ -418,6 +346,14 @@
       "date": "2026-11-12"
     },
     {
+      "title": "와이앤아처, ‘2026 체육인 직업안정 사업’ 체육인 창업 포럼 개최",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSTFA1cTJFVWRLT2doNGtuZHZOZE05bnR2VFR2LXY2VTAwbXpmVExDWk1uaVV6cGNNanF1RThOdWpfZVhFd1dYZnlwbzVpRlVDUG5HUTdDM3VHcWc?oc=5",
+      "source": "일간스포츠",
+      "summary": "와이앤아처, ‘2026 체육인 직업안정 사업’ 체육인 창업 포럼 개최  일간스포츠",
+      "category": "스포츠 스타트업",
+      "date": "2026-11-12"
+    },
+    {
       "title": "경기 끝나도 콘텐츠는 계속… 농구 스타의 일상을 팔다",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKZE9wTWk0N0hXdlVBbVRYT1BKSVVTend6SGVfV2tsTlhINkJ5akEydnNmQnBSZHV0TGg2WnFHM3psQWJDQk5uNHU1UHJQM01qMmtsNlJqenBnRzBYcnhlWGNEc01zQ2I0MjZuUUlFeGLSAXRBVV95cUxQQVpxd3A5V3RaR1NGUHdHeU9BWGkyWGNLU2lGdkZwZkJILXpwTGJsaDZjT1RSUVpiMU5ncmo4RWtCeVVCbU50YlBaM2ZCbW9wYUs4Rjh6MEhKWi1SX3ZPMVRZVnN5SHhjMUo0Smw4T3NvMUdmcg?oc=5",
       "source": "IT조선",
@@ -434,18 +370,18 @@
       "date": "2026-11-12"
     },
     {
-      "title": "와이앤아처, ‘2026 체육인 직업안정 사업’ 체육인 창업 포럼 개최",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSTFA1cTJFVWRLT2doNGtuZHZOZE05bnR2VFR2LXY2VTAwbXpmVExDWk1uaVV6cGNNanF1RThOdWpfZVhFd1dYZnlwbzVpRlVDUG5HUTdDM3VHcWc?oc=5",
-      "source": "일간스포츠",
-      "summary": "와이앤아처, ‘2026 체육인 직업안정 사업’ 체육인 창업 포럼 개최  일간스포츠",
-      "category": "스포츠 스타트업",
-      "date": "2026-11-12"
-    },
-    {
       "title": "동신대 스포츠의학과 전국운동과학기술경진대회 전 부문 수상",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JZy1vNG54Z1plVWZPeGUtUmZfLUo0cU1aRFE1Ymw0SlJ3SG5wRzdUNEZyc3hDMGx1UTB5LTQteGQ3YVEzcFhWX1RaSy1Wem1fUE44UHpWczZvUGpyZjNpZGZMMW1GaXRLVzF3VA?oc=5",
       "source": "베리타스알파",
       "summary": "동신대 스포츠의학과 전국운동과학기술경진대회 전 부문 수상  베리타스알파",
+      "category": "스포츠 기술",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "삼성전자, IOC와 아프리카 첫 청소년올림픽서 혁신가 도전 지원",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pVUJRUmpGSUJkVUVnUm13OG4yQnNMNXUwSk9lTVhRdy1DcE00SWZsOXpXZ3VQVkpzZzhYenVWeFlwOE13V3I4YmZiNGdJR25LaDRPMTJZeEREM3hGUjlxa9IBYEFVX3lxTE5pVUJRUmpGSUJkVUVnUm13OG4yQnNMNXUwSk9lTVhRdy1DcE00SWZsOXpXZ3VQVkpzZzhYenVWeFlwOE13V3I4YmZiNGdJR25LaDRPMTJZeEREM3hGUjlxaw?oc=5",
+      "source": "연합뉴스",
+      "summary": "삼성전자, IOC와 아프리카 첫 청소년올림픽서 혁신가 도전 지원  연합뉴스",
       "category": "스포츠 기술",
       "date": "2026-11-12"
     },
@@ -466,26 +402,10 @@
       "date": "2026-11-12"
     },
     {
-      "title": "삼성전자·IOC, 다카르 청소년올림픽서 청소년 기술 혁신 지원",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WV3cxUXVNNVlmalNoZEtPYk9PY1dlN0JUMkhxVEU5UGVOVWZoY3g5YkZZYWIzamVQYTQ5SlQzeWpRbVh4NG5ZSmpqcU1PZnpRZ2pKMXk2c0hSU1ZLNkpoQlpR?oc=5",
-      "source": "디지털데일리",
-      "summary": "삼성전자·IOC, 다카르 청소년올림픽서 청소년 기술 혁신 지원  디지털데일리",
-      "category": "스포츠 기술",
-      "date": "2026-11-12"
-    },
-    {
       "title": "삼성전자·IOC, 다카르 청소년올림픽서 혁신가 지원",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CUmpSMVllRHRyazZBQ2p5aXdMZ19rQ3dXQVl4bktNRXNIV3d4dHA4WlFjU2FVb0otUi1jMXdzM1Rla1VXNzEzYjgyUlA5Y3pJWi1Cc0JUTm85ZGdp?oc=5",
       "source": "뉴스핌",
       "summary": "삼성전자·IOC, 다카르 청소년올림픽서 혁신가 지원  뉴스핌",
-      "category": "스포츠 기술",
-      "date": "2026-11-12"
-    },
-    {
-      "title": "“올림픽 무대에 청소년 혁신가도 섰다”…삼성전자·IOC, 다카르서 ‘스포츠×기술’ 지원",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YWDRJZjJhNExjeUc3YnNEbnhxU0ZCTWVFM3RqX0YyblpWanV5RTdVTHg3c19GY3F0Z3RzdXVqSlh4NXJwdmwtWlY1eWczWkVFbmdCWDFHbE5QRnlJSjBCbDN2WTRFY0xlMk5tUNIBbEFVX3lxTE1YWDRJZjJhNExjeUc3YnNEbnhxU0ZCTWVFM3RqX0YyblpWanV5RTdVTHg3c19GY3F0Z3RzdXVqSlh4NXJwdmwtWlY1eWczWkVFbmdCWDFHbE5QRnlJSjBCbDN2WTRFY0xlMk5tUA?oc=5",
-      "source": "더게이트",
-      "summary": "“올림픽 무대에 청소년 혁신가도 섰다”…삼성전자·IOC, 다카르서 ‘스포츠×기술’ 지원  더게이트",
       "category": "스포츠 기술",
       "date": "2026-11-12"
     },
@@ -498,11 +418,19 @@
       "date": "2026-11-12"
     },
     {
-      "title": "민주당 \"국힘, 방미통진흥원 신설-올림픽중계 의무화 동참하라\"",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Udk5UMXdHaXFvS3VDNHB4MXk5b0ZWZjRDOVJXREdFTUg1VmxyTnlDTGg4TjlGdVJyUkk1OFRETDctaDBHbEpINURVX0lMMDBmRVJ2OUk3dTdobnUzWThLdmxZWDBVTHZ3RTdLOA?oc=5",
-      "source": "미디어스",
-      "summary": "민주당 \"국힘, 방미통진흥원 신설-올림픽중계 의무화 동참하라\"  미디어스",
-      "category": "스포츠 중계권",
+      "title": "[오피셜] 드디어 '숙명의 한일전 열린다' 2026 APBC 중계 어디서 보나",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLVzRHcV9rRU1rYTN0a2dFUG40REl5elVLc1ZycGtxU21WaV9XQ1FWdzlud1dPSUl0LTBjTnNrUlVaNHlGRVUwOUNqdndSM0JCdEM3bUp3REpORzRDbGFuS0dsVnRmbHN4Z1Z6OGpkNFJNV1BXaFE?oc=5",
+      "source": "스타뉴스",
+      "summary": "[오피셜] 드디어 '숙명의 한일전 열린다' 2026 APBC 중계 어디서 보나  스타뉴스",
+      "category": "스포츠 OTT",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "OTT 업계, ‘맛보기 마케팅’ 경쟁 가속화…“구독자 정체 만회할까”",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SdVdSYUJ5SDVReklKZ0t6TjZfWEhPU1ltM3BHVW5uaUhNcnU1SnRIZHJHbzBHQVBTVzNQZlpWVWlZNEFSQS1idjczMzZjLVZ2NkxtMTJPNVhYRGdQSUxaQ1VTRXZmM1E2bm8w?oc=5",
+      "source": "CEO스코어데일리",
+      "summary": "OTT 업계, ‘맛보기 마케팅’ 경쟁 가속화…“구독자 정체 만회할까”  CEO스코어데일리",
+      "category": "스포츠 OTT",
       "date": "2026-11-11"
     },
     {
@@ -514,14 +442,6 @@
       "date": "2026-11-11"
     },
     {
-      "title": "“입문자도 재미있게” 플로비스타, 실내 서핑 콘텐츠 ‘웨이브심’ 개발 [인천대 x IT동아]",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NcktqNE1mcjE1VHUxZ0hUcGZrZkJXZ3dlY0VoUmNZX3NlZ2VneHJFcFNpeExnM3hUeWZPdDhYX09qYlFFMmt0M0Jrb3d4OXY5dnJxS0J1Z3AwTnZBTGFOdUdBTF8tUdIBZkFVX3lxTE5NcktqNE1mcjE1VHUxZ0hUcGZrZkJXZ3dlY0VoUmNZX3NlZ2VneHJFcFNpeExnM3hUeWZPdDhYX09qYlFFMmt0M0Jrb3d4OXY5dnJxS0J1Z3AwTnZBTGFOdUdBTF8tUQ?oc=5",
-      "source": "동아일보",
-      "summary": "“입문자도 재미있게” 플로비스타, 실내 서핑 콘텐츠 ‘웨이브심’ 개발 [인천대 x IT동아]  동아일보",
-      "category": "스포츠 스타트업",
-      "date": "2026-11-11"
-    },
-    {
       "title": "중기부, '1조원 가치' AI스타트업 20곳 육성…100억원 이상 지원",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GdmRlRzJfNnZ4TFJrQzdnZFl0ZjBpckVxWXA0VGZCLUYtRkNaTVJacXR1eE91Sks2V3hmemU4a3dSeENkUnhIRWg0dDBUUHJXdE11R3BJQWpqcDdjOWlLcDF0VmpuN3k3ZFhqdFRkeEtkNzQ1R1U2bg?oc=5",
       "source": "스포츠조선",
@@ -530,11 +450,11 @@
       "date": "2026-11-11"
     },
     {
-      "title": "대학 야구·농구장에 'ABS·트래킹' 깔린다, 스포츠투아이, 고려대·중앙대에 '스포츠테크 랩' 구축",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMGo0cVRSZ2VOTDh4MEpyNXA1OGtQdnF1TDIySE5Pd01mdE9NbnEtVGRFWF9BQzY4QnJlTV9rem9zQmxRblZQcDN0TVpFelJvZC01RWoyV2Q3T3ozRXgwbDYwYjFoMjhyekNiWDQyLW1KakhhN0NDbzMzME5nZnVVTFplNA?oc=5",
-      "source": "조선일보",
-      "summary": "대학 야구·농구장에 'ABS·트래킹' 깔린다, 스포츠투아이, 고려대·중앙대에 '스포츠테크 랩' 구축  조선일보",
-      "category": "스포츠 기술",
+      "title": "“입문자도 재미있게” 플로비스타, 실내 서핑 콘텐츠 ‘웨이브심’ 개발 [인천대 x IT동아]",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NcktqNE1mcjE1VHUxZ0hUcGZrZkJXZ3dlY0VoUmNZX3NlZ2VneHJFcFNpeExnM3hUeWZPdDhYX09qYlFFMmt0M0Jrb3d4OXY5dnJxS0J1Z3AwTnZBTGFOdUdBTF8tUdIBZkFVX3lxTE5NcktqNE1mcjE1VHUxZ0hUcGZrZkJXZ3dlY0VoUmNZX3NlZ2VneHJFcFNpeExnM3hUeWZPdDhYX09qYlFFMmt0M0Jrb3d4OXY5dnJxS0J1Z3AwTnZBTGFOdUdBTF8tUQ?oc=5",
+      "source": "동아일보",
+      "summary": "“입문자도 재미있게” 플로비스타, 실내 서핑 콘텐츠 ‘웨이브심’ 개발 [인천대 x IT동아]  동아일보",
+      "category": "스포츠 스타트업",
       "date": "2026-11-11"
     },
     {
@@ -546,35 +466,19 @@
       "date": "2026-11-11"
     },
     {
+      "title": "대학 야구·농구장에 'ABS·트래킹' 깔린다, 스포츠투아이, 고려대·중앙대에 '스포츠테크 랩' 구축",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMGo0cVRSZ2VOTDh4MEpyNXA1OGtQdnF1TDIySE5Pd01mdE9NbnEtVGRFWF9BQzY4QnJlTV9rem9zQmxRblZQcDN0TVpFelJvZC01RWoyV2Q3T3ozRXgwbDYwYjFoMjhyekNiWDQyLW1KakhhN0NDbzMzME5nZnVVTFplNA?oc=5",
+      "source": "조선일보",
+      "summary": "대학 야구·농구장에 'ABS·트래킹' 깔린다, 스포츠투아이, 고려대·중앙대에 '스포츠테크 랩' 구축  조선일보",
+      "category": "스포츠 기술",
+      "date": "2026-11-11"
+    },
+    {
       "title": "[Biz-inside,China] 로봇과의 탁구 대결부터 100g 미만 러닝화까지...CIIE 달군 ‘스포츠 경제’",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HdjZLaUlGcUR1VzVNRHFLaHViS2p0SHZqaXdBZFB4LUFYVDAtQVRjWlZNbXRFV0hNNFdiZWtzMElSY3otc0pUTGZqQk1vMlRESWlpRXRwTlpDZDZFY3dJQ3pn?oc=5",
       "source": "미주중앙일보",
       "summary": "[Biz-inside,China] 로봇과의 탁구 대결부터 100g 미만 러닝화까지...CIIE 달군 ‘스포츠 경제’  미주중앙일보",
       "category": "스포츠 기술",
-      "date": "2026-11-11"
-    },
-    {
-      "title": "2026 신한 SOL KBO 포스트시즌 시청 데이터 지표",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzUnRvZ2Z3TE1sV2hKdWJCaHBZanZrNlZub28xbG1EN05mZk9QU1NpR0J4Z2laSWFxNnFIQzFDT2ZDQzBOdlB1ZHRLNklzcUZ3R1ozOXZDRllwaklZVU9Ra20zRE5NdHM?oc=5",
-      "source": "코리아방송",
-      "summary": "2026 신한 SOL KBO 포스트시즌 시청 데이터 지표  코리아방송",
-      "category": "스포츠 데이터",
-      "date": "2026-11-11"
-    },
-    {
-      "title": "인천TP, 영흥도 고교생 대상 가상융합 진로특강 성료",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kRUJPajdNbkVLRXFIMXBrOS11VkFPMUN3TVlhQ2lHeDJzbUVSb2I3OWEwc2RSbV9WVF9rWWZwZXdOZnBnTlM2TnY3a3BGSXNHS3kzbkVRdzF0WWJuNGFN?oc=5",
-      "source": "뉴스다",
-      "summary": "인천TP, 영흥도 고교생 대상 가상융합 진로특강 성료  뉴스다",
-      "category": "스포츠 VR/AR",
-      "date": "2026-11-11"
-    },
-    {
-      "title": "인천TP, 영흥고서 50명 '가상융합 인재 양성' 특강",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PRHJMUUNtblBKQW1JNGE0YUotTVNTVk1nT2ZpZVh2LUpRR1FaMzVQMGVrekVUMGt5YmdFVWJhckFYdm5ka3NTcFBZclpHVTJ6Nk5aMWwzdFlyZ1RKQTZnUzNZblpESTEtODYzZTVn?oc=5",
-      "source": "국제뉴스",
-      "summary": "인천TP, 영흥고서 50명 '가상융합 인재 양성' 특강  국제뉴스",
-      "category": "스포츠 VR/AR",
       "date": "2026-11-11"
     },
     {
@@ -594,14 +498,6 @@
       "date": "2026-11-10"
     },
     {
-      "title": "체육공단, 13일 ‘2026 스포츠산업 글로벌 콘퍼런스’ 개최",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mWTZiWmJweklBVkMxS05JOFczLTFUUmFIQ1ByNTV5a1NDelhiYWdlOFhwXy0xR3NrWG5QMEN0eXhrWVNGNTcxcXBUVmVMM2NWMVM0dUNiY2taNjhqcjQ1b1Y1TG1hd0FuRlh1MXpn?oc=5",
-      "source": "아시아투데이",
-      "summary": "체육공단, 13일 ‘2026 스포츠산업 글로벌 콘퍼런스’ 개최  아시아투데이",
-      "category": "스포츠 중계권",
-      "date": "2026-11-10"
-    },
-    {
       "title": "한국스포츠과학원, 2026 스포츠산업 글로벌 콘퍼런스 개최",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ySWdYWnhUVk1abk9qeWMxcjRGTFhjYmdTbUZkZktxUEp2NDhXRVhsUG9IdnZLcEZjb1F6TUFxUFZVWVlHaFR0cjRiRFE5WTExVDdYc1JIa2NRZmZjM1E?oc=5",
       "source": "뉴스1",
@@ -610,10 +506,10 @@
       "date": "2026-11-10"
     },
     {
-      "title": "한국스포츠과학원, ‘2026 스포츠산업 글로벌 콘퍼런스’ 13일 개최",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxNVh6T01vYUJCejNzM0lDNm05UXR1UWNFdHJSRzQtU2Q0ckJTU3MxMG82dFpMYkhUZWYtWHd0NWxwQ1Bpalg1QTlfQ3VXMTZ1Qk5fMDJid3p0QkVpZ1JSOS1IMTVkbGhGQkVyMVhGNnlibmh5ZzMxc0daenY?oc=5",
-      "source": "글로벌에픽",
-      "summary": "한국스포츠과학원, ‘2026 스포츠산업 글로벌 콘퍼런스’ 13일 개최  글로벌에픽",
+      "title": "체육공단, 13일 ‘2026 스포츠산업 글로벌 콘퍼런스’ 개최",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mWTZiWmJweklBVkMxS05JOFczLTFUUmFIQ1ByNTV5a1NDelhiYWdlOFhwXy0xR3NrWG5QMEN0eXhrWVNGNTcxcXBUVmVMM2NWMVM0dUNiY2taNjhqcjQ1b1Y1TG1hd0FuRlh1MXpn?oc=5",
+      "source": "아시아투데이",
+      "summary": "체육공단, 13일 ‘2026 스포츠산업 글로벌 콘퍼런스’ 개최  아시아투데이",
       "category": "스포츠 OTT",
       "date": "2026-11-10"
     },
@@ -626,18 +522,10 @@
       "date": "2026-11-10"
     },
     {
-      "title": "신민아, 그저 ‘퀸’",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iVUw3aFFZZmJOTGtrdWIwTS1VZVBDWUVpZXVTZmZua0pkWXRYUmRnc2RUVW9IS29iUDBpR1JCdWxzb2dwcFh3WnNDUW5HRTFaSHJPem1Vei1ub1FZNXfSAWNBVV95cUxPV1Uxd3BRTlplNURHODJIM0gxTDAzZDQxOWIzVjByRzFzSmFhZWNJVnNZejN5UHZnY3JNa2ViWGdMMl92ZVBrQU4wLURlSDYxNzItYzdZeXZLVVhaYUVvSzhQNEU?oc=5",
-      "source": "스포츠경향",
-      "summary": "",
-      "category": "스포츠 OTT",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "스포츠 미디어 시장 대변화 진단한다... 한국스포츠과학원, 2026 스포츠산업 글로벌 콘퍼런스 개최",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XeXl5ZktETFVEb1ZXV0dJYnlkdU1WWUlrZmRqQ2lkam1BaHpEV2ZoRTJ0X2pjNzJJc1d0eUN2RmtJOFNlN1ZnRm5ua3dJeWFtS01zck55WURPUllUa3FnZllyV3dRQklsOEE?oc=5",
-      "source": "Queen 이코노미퀸",
-      "summary": "스포츠 미디어 시장 대변화 진단한다... 한국스포츠과학원, 2026 스포츠산업 글로벌 콘퍼런스 개최  Queen 이코노미퀸",
+      "title": "한국스포츠과학원, ‘2026 스포츠산업 글로벌 콘퍼런스’ 13일 개최",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxNVh6T01vYUJCejNzM0lDNm05UXR1UWNFdHJSRzQtU2Q0ckJTU3MxMG82dFpMYkhUZWYtWHd0NWxwQ1Bpalg1QTlfQ3VXMTZ1Qk5fMDJid3p0QkVpZ1JSOS1IMTVkbGhGQkVyMVhGNnlibmh5ZzMxc0daenY?oc=5",
+      "source": "글로벌에픽",
+      "summary": "한국스포츠과학원, ‘2026 스포츠산업 글로벌 콘퍼런스’ 13일 개최  글로벌에픽",
       "category": "스포츠 OTT",
       "date": "2026-11-10"
     },
@@ -650,43 +538,11 @@
       "date": "2026-11-10"
     },
     {
-      "title": "충남대, 글로벌 기업 워터스와 첨단 분석기술 산학협력 확대",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VdkhQTUF3WVdLcXA4NWhydmRXbFRoWmRyNjJkSUxvOGVKeW16N3RyVzBXWjZGUVZBeXRETkhRbjlEYmxaUldKS1BJZVMwclo5NmE4dTNJWGhzTTZEZUQ1S0x4X29rdHZmUkt4aA?oc=5",
-      "source": "충청뉴스",
-      "summary": "충남대, 글로벌 기업 워터스와 첨단 분석기술 산학협력 확대  충청뉴스",
-      "category": "스포츠 기술",
-      "date": "2026-11-10"
-    },
-    {
       "title": "야구 ABS부터 농구 트래킹까지…스포츠투아이, 고려대·중앙대와 손잡았다",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwUDlVNGdHbnI5ZUNRMm9JNFhmelVvRnN5UFJ0cmlOMEpuWE5ZWXYwVUExS0NPSy1yXzZfd1hZQy1qV3ltS2NsVWUxRXZ6Rkp3VFFWU3FDOXY?oc=5",
       "source": "스포츠서울",
       "summary": "야구 ABS부터 농구 트래킹까지…스포츠투아이, 고려대·중앙대와 손잡았다  스포츠서울",
       "category": "스포츠 기술",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "[빅데이터로본다] 스포츠 스타 2026년 11월 브랜드평판... 1위 김도영, 2위 손흥민, 3위 김연경",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxeDBWR0xwLVlJVG93TE12clJtZ2lraGUwWUNjZW95M285WmNuWHZMc3RzbTNxdjdXSm5oMGRra1VYQ0RaclA3NUNtbDk4bS1mazNJY3FxQV9weHJiSm5rRXRJSXVCNGQzYlY0?oc=5",
-      "source": "일간투데이",
-      "summary": "[빅데이터로본다] 스포츠 스타 2026년 11월 브랜드평판... 1위 김도영, 2위 손흥민, 3위 김연경  일간투데이",
-      "category": "스포츠 데이터",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "[구축사례] 윈윈스포츠, 매장별 근태부터 급여 아웃소싱까지 데이터가 연결되는 인사 운영 체계 구현",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiMnF3ZlVIa3MzRGNOd05NeWRuMkdmWERWaUlRZEpneS1FNHcxbTkyYWxzcm9UM3dzOGJfZk5Fc29RSy1Nczk0aUlRUzFac2VkZTNiR2dYallZOUJKT2syMmt0MWg1b2M?oc=5",
-      "source": "아이티비즈",
-      "summary": "[구축사례] 윈윈스포츠, 매장별 근태부터 급여 아웃소싱까지 데이터가 연결되는 인사 운영 체계 구현  아이티비즈",
-      "category": "스포츠 데이터",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "LG 초대형 희소식! → MLB 데이터분석 '오스틴 역수출 회의적'",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15VzdKQzF1QkZ6azNYUER6cmxPUkxpTWtCcnFZdHBEaDk5d0VaMWVfV3FIdnJnaVRRNDl4U3ZHZDkzamZqdExiQzF3WUloSDRhbEFVbHh6RHByNC0ya2J6NkVzZTQxQlp4cDZ4bzhoUldsbjZ5YjBUcFFySmtTQQ?oc=5",
-      "source": "스포츠조선",
-      "summary": "LG 초대형 희소식! → MLB 데이터분석 '오스틴 역수출 회의적'  스포츠조선",
-      "category": "스포츠 데이터",
       "date": "2026-11-10"
     },
     {
@@ -702,22 +558,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uZXJJWnJiTlI5aVExUmFIYlI4d2J5Zl9qaDlnX0kxYlNFY2E0LThHZWo0YV9MVlZJbXo1Q1BHYjZCTjZISXVEZG8zSlBLS1gwSUptQXF3?oc=5",
       "source": "중앙일보",
       "summary": "국민대, ‘스포츠산업 창업데모데이’…8개 기업 참여  중앙일보",
-      "category": "스포츠 데이터",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "김도영, 스포츠스타 1위…손흥민 2위·김연경 3위",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xeGthMGZZQTc0aElTUU1SOGVhRFpNb1RlWE41RHRZRS1MY3lCMGU5YmNmZ0lJc2NSMzI1U0FweUJXOWFYQU9UZVJ4M2JuN3drOGl5R0pYVllwUS00ZktPbzNjVmQ?oc=5",
-      "source": "BNT뉴스",
-      "summary": "김도영, 스포츠스타 1위…손흥민 2위·김연경 3위  BNT뉴스",
-      "category": "스포츠 데이터",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "국민대 글로벌창업벤처대학원, 스포츠 분야 유망 창업기업 발굴나선다 ‘2026 스포츠산업 창업데모데이’ 개최",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3RS1lMGFuRmlPc1pHSDJPUFNVUnFUeU5GY2xoTXJCMFZfRHlyWDJNNGlQQ2RUVEVMT01uUmFLakxMUm13TGNLU3cxLUlweFBKdUpBOGZneXo3WkVWM25sbEtMSVFIdnZlYVVvZS1B?oc=5",
-      "source": "아시아투데이",
-      "summary": "국민대 글로벌창업벤처대학원, 스포츠 분야 유망 창업기업 발굴나선다 ‘2026 스포츠산업 창업데모데이’ 개최  아시아투데이",
       "category": "스포츠 데이터",
       "date": "2026-11-10"
     }
